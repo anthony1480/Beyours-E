@@ -124,6 +124,12 @@
             "sale_badge_basis": "auto"
           }
         },
+        "custom_liquid_CkFyEY": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<b><p>✅ Tested & Approved By pharmacists </p>\n<p>🌟 Remove all kinds of acne</p>\n<p>🕝 Fast & Guarranteed Result</p></b>"
+          }
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -132,10 +138,40 @@
             "show_gift_card_recipient": false
           }
         },
-        "custom_liquid_CkFyEY": {
-          "type": "custom_liquid",
+        "collapsible_tab_imXFLV": {
+          "type": "collapsible_tab",
           "settings": {
-            "custom_liquid": "<b><p>✅ Tested & Approved </p>\n<p>🌟 Enjoy a Healhty & Radiant Skin</p>\n<p>🕝 Notice Results in Few Days Only</p></b>"
+            "icon": "none",
+            "heading": "Ingredients",
+            "content": "<p>🍑<strong>Peach Polish Booty Scrub:</strong> Bubble scented booty scrub to refine and buff your booty, bikini, hips, and thighs. It opens up pores and prepares your skin for shaving.<br/><strong>🪒Peach Polish Shaving Gel:</strong> This rich and clear gel lathers to provide incredible razor glide to help protect your skin from nicks and cuts. It conditions the skin and helps prevent the appearance of razor burns, bumps and ingrown hairs.<br/>🚿<strong>Bye Bye Acne Booty Mask:</strong> This powder mask is a mix of clay, Aloe Vera, Matcha and activated charcoal, formulated to remove dirt, oil, and impurities for deeply cleansed, snatched pores. You're all ready to say goodbye to stubborn acne, cellulites and stretch marks and hello to baby smooth skin.✨<strong>Peach Polish Aftershave Oil:</strong> A silky, lightweight oil that clears pores, soothes irritations, combats ingrown hairs and softens the skin.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_tab_kfQGRX": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "none",
+            "heading": "When to use",
+            "content": "<p>Opt for this bundle when you have both acne + shaving concerns.In Case you don't have acne but you shave: Check out our Shaving KitsIn case you don't shave but you have acne: Check out the Booty Care Routine<br/></p>",
+            "page": ""
+          }
+        },
+        "collapsible_tab_Q76TQi": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "none",
+            "heading": "Let's be honest together",
+            "content": "<p>Your bum is most likely a neglected area of the body!</p><p><br/>Our Best-selling Acne & Shaving Kit is a 4-step routine that will help you achieve a smooth shave and reduce the appearance of acne, bumps and ingrown hairs on your booty, bikini, hips and thighs.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_tab_dPJgza": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "none",
+            "heading": "How to use",
+            "content": "<p><strong>Usage Instructions:</strong></p><p>Follow the acne and shaving routine three times a week for 3-4 weeks. Upon achieving an 80% improvement in skin condition, reduce frequency to twice a week.<strong>Step 1: </strong>Gently apply the scrub to dry skin in circular motions.<br/><strong>Step 2: </strong>When you need to shave, apply the shaving gel over the desired area after using the scrub. Utilize a clean razor and shave against the direction of hair growth<strong>. </strong>On days when shaving is unnecessary, skip this step and proceed directly to step 3.<strong>Step 3: </strong>Apply the mask to dry skin, allowing it to dry for 10-15 minutes before rinsing.<br/><strong>Step 4</strong>: Finish off the routine by applying a few drops of oil.<br/><strong>Notes:</strong>For optimal results, use the oil as part of your daily post-shower routine. To sustain the results, make sure to apply the routine once a week for maintenance. Do not shave more times than necessary.</p>",
+            "page": ""
           }
         },
         "inventory_status": {
@@ -144,15 +180,6 @@
             "inventory_threshold": 10,
             "show_inventory_transfer": true,
             "color_scheme": "accent-3"
-          }
-        },
-        "collapsible_tab_YbPrrg": {
-          "type": "collapsible_tab",
-          "settings": {
-            "icon": "question_mark",
-            "heading": "HOW TO USE",
-            "content": "<p>Three easy steps:</p><ol><li>Clean your skin</li><li>Choose the right mode for your skin</li><li>Start massaging your skin slowly for 10 minutes, 3 to 4 times a week</li></ol><p>Do this everyday and you will start to see results in few days after use</p>",
-            "page": ""
           }
         },
         "read_more_3tAPCy": {
@@ -170,10 +197,13 @@
         "title",
         "rating",
         "price",
-        "buy_buttons",
         "custom_liquid_CkFyEY",
+        "buy_buttons",
+        "collapsible_tab_imXFLV",
+        "collapsible_tab_kfQGRX",
+        "collapsible_tab_Q76TQi",
+        "collapsible_tab_dPJgza",
         "inventory_status",
-        "collapsible_tab_YbPrrg",
         "read_more_3tAPCy",
         "description"
       ],
