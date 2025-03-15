@@ -46,6 +46,12 @@
             "sale_badge_basis": "auto"
           }
         },
+        "custom_liquid_8fkWzA": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<b><p>✔️Deeply nourishing formula&nbsp;for smooth, hydrated and glowing skin</p>\n<p>✔️ Ideal for everyday use or treating yourself to some much-needed self-care</p>\n<p>✔️ Suitable for all skin types, including dry and sensitive skin</p></b>"
+          }
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -54,26 +60,16 @@
             "show_gift_card_recipient": false
           }
         },
-        "custom_liquid_8fkWzA": {
-          "type": "custom_liquid",
-          "settings": {
-            "custom_liquid": "<b><p>✅ Tested & Approved by Pharmacists</p>\n<p>🌟 Results guaranteed </p>\n<p>🕝 See Fast Results</p></b>"
-          }
-        },
-        "collapsible_tab_GPn4gb": {
+        "collapsible_tab_9gQ7ED": {
           "type": "collapsible_tab",
           "settings": {
-            "icon": "question_mark",
-            "heading": "HOW TO USE",
-            "content": "<p>Three easy steps:</p><ol><li>Clean your skin</li><li>Choose the right mode for your skin</li><li>Start massaging your skin slowly for 10 minutes, 3 to 4 times a week</li></ol><p>Do this everyday and you will start to see results in few days after use</p>",
+            "icon": "none",
+            "heading": "What's Inside",
+            "content": "<p>🌴 <strong>Coco Sunset</strong> – A rich coconut and vanilla blend that feels like a tropical getaway for your skin.<br/>🍓 <strong>After Dark</strong> – Juicy red berries for a sweet, playful scent that’s perfect for any occasion.<br/>🌙 <strong>Under the Moonlight</strong> – Luxurious white musk to leave your skin soft and smelling divine.</p>",
             "page": "",
             "custom_liquid": "",
             "keep_open": false
           }
-        },
-        "description": {
-          "type": "description",
-          "settings": {}
         },
         "inventory_status": {
           "type": "inventory_status",
@@ -94,10 +90,9 @@
         "title",
         "fera_product_reviews_summary_GjwhcP",
         "price",
-        "buy_buttons",
         "custom_liquid_8fkWzA",
-        "collapsible_tab_GPn4gb",
-        "description",
+        "buy_buttons",
+        "collapsible_tab_9gQ7ED",
         "inventory_status",
         "sticky_cart"
       ],
