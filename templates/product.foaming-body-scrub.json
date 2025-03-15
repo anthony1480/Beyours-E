@@ -104,33 +104,6 @@
         "padding_bottom": 20
       }
     },
-    "image_banner_jy3yGP": {
-      "type": "image-banner",
-      "custom_css": [
-        "@media screen and (min-width: 768px) {div {display: none; }}"
-      ],
-      "settings": {
-        "image_position": "center center",
-        "text_box_position": "middle-center",
-        "text_alignment": "center",
-        "image_ratio": "650px",
-        "show_text_box": false,
-        "full_width": true,
-        "show_divider": false,
-        "image_behavior": "none",
-        "mobile_text_alignment": "center",
-        "mobile_image_ratio": "adapt",
-        "stack_images_on_mobile": true,
-        "show_text_below": true,
-        "colors_button_label": "#1a1b18",
-        "colors_button_background": "#ffffff",
-        "colors_text": "#ffffff",
-        "colors_overlay": "#000000",
-        "colors_overlay_opacity": 28,
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
     "scrolling-promotion": {
       "type": "scrolling-promotion",
       "blocks": {
@@ -581,7 +554,6 @@
   "order": [
     "empty-space",
     "main",
-    "image_banner_jy3yGP",
     "scrolling-promotion",
     "image_with_text_beiAjz",
     "image_banner_iKrdae",
