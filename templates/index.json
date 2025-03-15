@@ -454,6 +454,56 @@
         "padding_top": 20,
         "padding_bottom": 32
       }
+    },
+    "faq_8dnhCT": {
+      "type": "faq",
+      "blocks": {
+        "question_Xgtj77": {
+          "type": "question",
+          "settings": {
+            "title": "Where are Essentials by Jay Products Made?",
+            "text": "<p>All our products are proudly made in Lebanon with global ingredients.</p>"
+          }
+        },
+        "question_abK3Ap": {
+          "type": "question",
+          "settings": {
+            "title": "Do the products have side effects?",
+            "text": "<p>The products are designed to use against the skin. They are tested and perfectly safe. However, Before you add any new skin care product to your routine, dermatologists recommend doing a patch test to check for potential reactions</p>"
+          }
+        },
+        "question_Wxiyx9": {
+          "type": "question",
+          "settings": {
+            "title": "Is it safe to use fragrances on the intimate area?",
+            "text": "<p>Yes, because the fragrances that we use are alcohol-free, non-irritating and have low sensitization potential</p>"
+          }
+        },
+        "question_bCdkFL": {
+          "type": "question",
+          "settings": {
+            "title": "Are your products vegan & cruelty-free?",
+            "text": "<p>Yes, absolutely! We test on our bodies not on innocent animals.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "question_Xgtj77",
+        "question_abK3Ap",
+        "question_Wxiyx9",
+        "question_bCdkFL"
+      ],
+      "settings": {
+        "narrow": false,
+        "secondary_background": false,
+        "show_divider": false,
+        "heading": "Answer to your questions",
+        "heading_size": "h2",
+        "heading_alignment": "left",
+        "heading_tag": "h2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -464,6 +514,7 @@
     "image_banner_J9Rxpm",
     "scrolling_promotion_k9dVtt",
     "images_with_text_cnmQXW",
-    "guarantees_XCeypM"
+    "guarantees_XCeypM",
+    "faq_8dnhCT"
   ]
 }
