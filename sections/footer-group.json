@@ -1,1 +1,66 @@
-{"name":"t:sections.footer-group.name","type":"footer","sections":{"footer":{"type":"footer","blocks":{"footer-0":{"type":"link_list","settings":{"heading":"Shop","menu":"main-menu"}},"footer-1":{"type":"link_list","settings":{"heading":"Our policies","menu":"footer"}}},"block_order":["footer-0","footer-1"],"custom_css":["a {color: #f7f7f7;}",".h4 {text-align: center !important;}"],"settings":{"show_divider":true,"newsletter_enable":true,"newsletter_heading":"Exclusive benefits","newsletter_text":"<p>Apply for our free membership to receive exclusive deals, news, and events.<\/p>","return_url":"","enable_follow_on_shop":false,"show_social":true,"social_heading":"","enable_country_selector":false,"enable_language_selector":false,"payment_enable":false,"show_policy":false,"copyright_text":"All rights reserved.","colors_text":"#ffffff","colors_heading":"#ffffff","colors_link":"#ffffff","colors_border":"#ffffff","colors_background":"#f4a6a0","gradient_background":""}}},"order":["footer"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "name": "t:sections.footer-group.name",
+  "type": "footer",
+  "sections": {
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "footer-0": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Shop",
+            "menu": "main-menu"
+          }
+        },
+        "footer-1": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Our policies",
+            "menu": "footer"
+          }
+        }
+      },
+      "block_order": [
+        "footer-0",
+        "footer-1"
+      ],
+      "custom_css": [
+        "a {color: #f7f7f7;}",
+        ".h4 {text-align: center !important;}"
+      ],
+      "settings": {
+        "show_divider": true,
+        "newsletter_enable": true,
+        "newsletter_heading": "Exclusive benefits",
+        "newsletter_text": "<p>Get 10% OFF your first order by subscribing to our email newsletter</p>",
+        "return_url": "",
+        "enable_follow_on_shop": false,
+        "show_social": true,
+        "social_heading": "",
+        "enable_country_selector": false,
+        "enable_language_selector": false,
+        "payment_enable": false,
+        "show_policy": false,
+        "copyright_text": "All rights reserved.",
+        "colors_text": "#ffffff",
+        "colors_heading": "#ffffff",
+        "colors_link": "#ffffff",
+        "colors_border": "#ffffff",
+        "colors_background": "#a94759",
+        "gradient_background": ""
+      }
+    }
+  },
+  "order": [
+    "footer"
+  ]
+}
