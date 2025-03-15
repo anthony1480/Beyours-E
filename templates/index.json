@@ -63,18 +63,18 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "The Secret to Radiant Skin",
-            "heading_size": "h1",
+            "heading": "They kept it from you🤫",
+            "heading_size": "h2",
             "heading_tag": "h2"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Our 4 in 1 Wand is made to help you get rid of acne, wrinkles and any skin problem in few days and from the comfort of your home.</p><p>Get it now and enjoy <strong>40% OFF</strong> 👇</p>",
+            "text": "<p>The secret that built unshakable confidence in 5000+ Women</p>",
             "text_size": "typeset3",
             "secondary_color": false,
-            "highlight_phrases": "get rid of acne\n40% OFF",
+            "highlight_phrases": "unshakable\n5000+ Women",
             "highlight_style": "underline"
           }
         }
@@ -85,7 +85,7 @@
       ],
       "settings": {
         "text_alignment": "center",
-        "mobile_text_alignment": "left",
+        "mobile_text_alignment": "center",
         "horizontal_content": false,
         "narrow": true,
         "show_divider": false,
@@ -94,7 +94,7 @@
         "colors_button_background": "#1a1b18",
         "colors_text": "#212326",
         "colors_background": "#ffffff",
-        "colors_highlight": "#f6beba",
+        "colors_highlight": "#a94759",
         "gradient_background": "",
         "padding_top": 20,
         "padding_bottom": 20
