@@ -30,7 +30,7 @@
       "type": "main-collection-subs",
       "disabled": true,
       "settings": {
-        "menu": "sub-collections",
+        "menu": "",
         "per_row": 5,
         "columns_mobile": "1",
         "horizontal_on_mobile": true,
@@ -46,7 +46,7 @@
       "type": "main-collection-product-grid",
       "settings": {
         "products_per_row": 4,
-        "rows_per_page": 3,
+        "rows_per_page": 2,
         "columns_mobile": "2",
         "pagination": "paginated",
         "enable_sticky_facet": true,
@@ -69,6 +69,71 @@
         "enable_countdown": true,
         "padding_top": 0,
         "padding_bottom": 72
+      }
+    },
+    "bundle_products_NgnRt9": {
+      "type": "bundle-products",
+      "blocks": {
+        "product_Q7VrEt": {
+          "type": "product",
+          "settings": {
+            "product": "limited-edition-holiday-body-splash-bundle-buy-2-get-1-free-🎁✨",
+            "image_ratio": "adapt",
+            "show_vendor": false,
+            "show_quick_buy": false,
+            "enable_quick_view": true,
+            "color": "#000000",
+            "horizontal": 30,
+            "vertical": 51
+          }
+        },
+        "product_zeQ6An": {
+          "type": "product",
+          "settings": {
+            "product": "body-butters-limited-edition-holiday-bundle-buy-2-get-1-free-🎁✨",
+            "image_ratio": "adapt",
+            "show_vendor": false,
+            "show_quick_buy": false,
+            "enable_quick_view": true,
+            "color": "#000000",
+            "horizontal": 47,
+            "vertical": 57
+          }
+        },
+        "product_gLzHdy": {
+          "type": "product",
+          "settings": {
+            "product": "hair-perfume-limited-edition-holiday-bundle-buy-2-get-1-free-🎁✨-copy",
+            "image_ratio": "adapt",
+            "show_vendor": false,
+            "show_quick_buy": false,
+            "enable_quick_view": true,
+            "color": "#000000",
+            "horizontal": 82,
+            "vertical": 55
+          }
+        }
+      },
+      "block_order": [
+        "product_Q7VrEt",
+        "product_zeQ6An",
+        "product_gLzHdy"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/80.png",
+        "layout": "image_first",
+        "text_box_position": "top",
+        "text_alignment": "left",
+        "mobile_text_alignment": "left",
+        "full_width": false,
+        "show_divider": false,
+        "subheading": "Why have one?",
+        "subheading_size": "h5",
+        "heading": "When you can have them all for less",
+        "heading_size": "h1",
+        "heading_tag": "h2",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "recently-viewed": {
@@ -94,61 +159,13 @@
         "padding_top": 60,
         "padding_bottom": 36
       }
-    },
-    "multicolumn": {
-      "type": "multicolumn",
-      "blocks": {
-        "column-0": {
-          "type": "column",
-          "settings": {
-            "image": "",
-            "title": "Site-wide promotion",
-            "title_size": "h2",
-            "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.</p>",
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false
-          }
-        },
-        "column-1": {
-          "type": "column",
-          "settings": {
-            "image": "",
-            "title": "Site-wide promotion",
-            "title_size": "h2",
-            "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.</p>",
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "column-0",
-        "column-1"
-      ],
-      "settings": {
-        "image_ratio": "wide",
-        "image_position": "center center",
-        "text_alignment": "center",
-        "show_divider": false,
-        "heading": "More to Discover",
-        "heading_size": "h1",
-        "heading_alignment": "left",
-        "heading_tag": "h2",
-        "mobile_text_alignment": "center",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 72
-      }
     }
   },
   "order": [
     "banner",
     "subs",
     "product-grid",
-    "recently-viewed",
-    "multicolumn"
+    "bundle_products_NgnRt9",
+    "recently-viewed"
   ]
 }
