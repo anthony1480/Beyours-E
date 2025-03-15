@@ -1,1 +1,526 @@
-{"sections":{"slideshow":{"type":"slideshow","blocks":{"slide-0":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/Artboard_1_78465d8d-d4bb-41f7-8d5a-5bed63fdaab0.jpg","image_mobile":"shopify:\/\/shop_images\/M1_31a0f2d2-5089-4001-a4a8-0582089d7af8.jpg","image_position":"center center","text_box_position":"bottom-left","subheading":"Loréka care","subheading_size":"h5","heading":"MAKING YOUR SKIN 10x BETTER","heading_size":"h0","heading_tag":"h2","text":"","text_size":"typeset2","button_label":"Shop Now","button_link":"shopify:\/\/products\/loreka-4-in-1-wand","button_size":"medium","button_style_secondary":false}}},"block_order":["slide-0"],"settings":{"slideshow_type":"legacy","text_alignment":"left","image_ratio":"100vh","autorotate":false,"autorotate_speed":5,"full_width":true,"image_behavior":"none","mobile_text_alignment":"left","mobile_image_ratio":"600px","show_text_below":false,"colors_button_label":"#ffffff","colors_button_background":"#f46257","colors_text":"#26416f","colors_background":"#ffffff","colors_overlay":"#1a1b18","colors_overlay_opacity":16,"colors_navigation_text":"#ffffff","colors_navigation_background":"#1a1b18","padding_top":0,"padding_bottom":20}},"rich-text-0":{"type":"rich-text","blocks":{"heading":{"type":"heading","settings":{"heading":"The Secret to Radiant Skin","heading_size":"h1","heading_tag":"h2"}},"text":{"type":"text","settings":{"text":"<p>Our 4 in 1 Wand is made to help you get rid of acne, wrinkles and any skin problem in few days and from the comfort of your home.<\/p><p>Get it now and enjoy <strong>40% OFF<\/strong> 👇<\/p>","text_size":"typeset3","secondary_color":false,"highlight_phrases":"get rid of acne\n40% OFF","highlight_style":"underline"}}},"block_order":["heading","text"],"settings":{"text_alignment":"center","mobile_text_alignment":"left","horizontal_content":false,"narrow":true,"show_divider":false,"use_custom_colors":true,"colors_button_label":"#ffffff","colors_button_background":"#1a1b18","colors_text":"#212326","colors_background":"#ffffff","colors_highlight":"#f6beba","gradient_background":"","padding_top":20,"padding_bottom":20}},"featured-product":{"type":"featured-product","blocks":{"title":{"type":"title","settings":{"title_size":"h2","title_tag":"h2","show_price":false,"price_size":"medium"}},"rating":{"type":"rating","settings":{}},"price":{"type":"price","settings":{"price_size":"medium","show_badges":true,"sale_badge_basis":"auto"}},"buy_buttons":{"type":"buy_buttons","settings":{"show_quantity_selector":false,"show_dynamic_checkout":true,"show_gift_card_recipient":false}},"custom_liquid_CkFyEY":{"type":"custom_liquid","settings":{"custom_liquid":"<b><p>✅ Tested & Approved by Doctors<\/p>\n<p>🌟 Enjoy a Healhty & Radiant Skin<\/p>\n<p>🕝 Notice Results in Few Days Only<\/p><\/b>"}},"inventory_status":{"type":"inventory_status","settings":{"inventory_threshold":10,"show_inventory_transfer":true,"color_scheme":"accent-3"}},"collapsible_tab_YbPrrg":{"type":"collapsible_tab","settings":{"icon":"question_mark","heading":"HOW TO USE","content":"<p>Three easy steps:<\/p><ol><li>Clean your skin<\/li><li>Choose the right mode for your skin<\/li><li>Start massaging your skin slowly for 10 minutes, 3 to 4 times a week<\/li><\/ol><p>Do this everyday and you will start to see results in few days after use<\/p>","page":""}},"read_more_3tAPCy":{"type":"read_more","settings":{"show_icon":false}},"description":{"type":"description","settings":{}}},"block_order":["title","rating","price","buy_buttons","custom_liquid_CkFyEY","inventory_status","collapsible_tab_YbPrrg","read_more_3tAPCy","description"],"custom_css":[".badge {background-color: #d72c0d; border-color: #d72c0d; color: #ffffff; border-radius: 10px;}"],"settings":{"product":"loreka-4-in-1-wand","layout":"text_first","full_width":false,"show_divider":false,"show_featured_media":false,"hide_variants":false,"enable_image_zoom":true,"enable_video_looping":false,"image_ratio":"adapt_first","image_position":"center center","enable_layered_images":false,"padding_top":20,"padding_bottom":20}},"image_banner_J9Rxpm":{"type":"image-banner","custom_css":["@media screen and (min-width: 768px) {div {display: none; }}"],"settings":{"image":"shopify:\/\/shop_images\/M4_-_all_icons.jpg","image_position":"center center","text_box_position":"middle-center","text_alignment":"center","image_ratio":"adapt","show_text_box":false,"full_width":true,"show_divider":false,"image_behavior":"none","mobile_text_alignment":"center","mobile_image_ratio":"adapt","stack_images_on_mobile":false,"show_text_below":false,"colors_button_label":"#1a1b18","colors_button_background":"#ffffff","colors_text":"#ffffff","colors_overlay":"#000000","colors_overlay_opacity":0,"padding_top":0,"padding_bottom":0}},"scrolling_promotion_k9dVtt":{"type":"scrolling-promotion","blocks":{"announcement_LkzkQ7":{"type":"announcement","settings":{"icon":"none","icon_size":"medium","custom_icon":"","text":"TRUSTED BY 500+ CUSTOMERS","text_size":20,"link":""}}},"block_order":["announcement_LkzkQ7"],"custom_css":[".promotion__text {font-weight: 900;}"],"settings":{"direction":"left","speed":1.6,"show_divider":false,"use_custom_colors":true,"colors_icon":"#ffffff","colors_text":"#ffffff","colors_background":"#f4a6a0","gradient_background":"","padding_top":20,"padding_bottom":20}},"images_with_text_cnmQXW":{"type":"images-with-text","blocks":{"heading_PBHfNc":{"type":"heading","settings":{"heading":"Discover The Technology Behind It","heading_size":"h1","heading_tag":"h2"}},"subheading_R8Eq8N":{"type":"subheading","settings":{"subheading":"","subheading_size":"h5","secondary_color":false}},"text_6GwMQm":{"type":"text","settings":{"text":"<p><strong>The Loréka 4 in 1<\/strong> Wand is your go-to for amazing skin! 💫 RF (Radio Frequency) <strong>gently heats your skin <\/strong>to boost collagen and smooth out wrinkles. EMS (Electrical Muscle Stimulation) <strong>works out your facial muscles,<\/strong> lifting and toning for a firmer look. <\/p><p>Get smoother, tighter skin with every use! 🌟<\/p>","text_size":"typeset2","secondary_color":false}},"button_84eahN":{"type":"button","settings":{"button_label":"TRY IT NOW","button_link":"shopify:\/\/products\/loreka-4-in-1-wand","button_size":"medium","button_style_secondary":false}}},"block_order":["heading_PBHfNc","subheading_R8Eq8N","text_6GwMQm","button_84eahN"],"settings":{"image":"shopify:\/\/shop_images\/IMG_3257.jpg","image_2":"shopify:\/\/shop_images\/LOREKA_0d3dfef4-c8d2-46cc-aa2d-e5cecbbf85da.jpg","image_3":"shopify:\/\/shop_images\/LOREKA-2_31dac2e3-1e4e-4afa-9f0f-a5e2c9fddebf.jpg","image_4":"shopify:\/\/shop_images\/March_27.jpg","image_ratio":"square","image_position":"center center","layout":"text_first","text_box_position":"middle","text_alignment":"left","mobile_text_alignment":"left","full_width":false,"show_divider":false,"padding_top":36,"padding_bottom":36}},"image_banner_jHdRYz":{"type":"image-banner","custom_css":["@media screen and (min-width: 768px) {div {display: none; }}"],"settings":{"image":"shopify:\/\/shop_images\/M3_Mobile.jpg","image_position":"center center","text_box_position":"middle-center","text_alignment":"center","image_ratio":"650px","show_text_box":false,"full_width":true,"show_divider":false,"image_behavior":"none","mobile_text_alignment":"center","mobile_image_ratio":"adapt","stack_images_on_mobile":true,"show_text_below":true,"colors_button_label":"#1a1b18","colors_button_background":"#ffffff","colors_text":"#ffffff","colors_overlay":"#000000","colors_overlay_opacity":28,"padding_top":0,"padding_bottom":20}},"image_banner_eHRaaL":{"type":"image-banner","custom_css":["@media screen and (max-width: 768px) {div {display: none; }}"],"settings":{"image":"shopify:\/\/shop_images\/M3_2.jpg","image_position":"center center","text_box_position":"middle-center","text_alignment":"center","image_ratio":"adapt","show_text_box":false,"full_width":true,"show_divider":false,"image_behavior":"none","mobile_text_alignment":"center","mobile_image_ratio":"adapt","stack_images_on_mobile":true,"show_text_below":true,"colors_button_label":"#1a1b18","colors_button_background":"#ffffff","colors_text":"#ffffff","colors_overlay":"#000000","colors_overlay_opacity":0,"padding_top":0,"padding_bottom":20}},"testimonials_AdmzNW":{"type":"testimonials","blocks":{"testimonial_RgVX3i":{"type":"testimonial","settings":{"icon":"5","text":"<p><strong>My skin feels so much better after using The 4 in 1 Wand<\/strong> for a couple of days only. Very recommended!!<\/p>","author":"Maria K."}},"testimonial_EiqEA8":{"type":"testimonial","settings":{"icon":"5","text":"<p>Acne was driving me crazy. But my friend told me about loreka and <strong>it's really a life saver for me<\/strong><\/p>","author":"Jade H."}},"testimonial_49nD6r":{"type":"testimonial","settings":{"icon":"5","text":"<p>The red and blue light modes are perfect for<strong> making my skin smooth and young<\/strong><\/p>","author":"Carla K."}},"testimonial_npCYLU":{"type":"testimonial","settings":{"icon":"5","text":"<p>Loréka has become an <strong>essential part of my skincare routine.<\/strong> It's gentle, non-invasive, and the best part is <strong>I can use it literally anywhere. <\/strong><\/p>","author":"Omar S."}},"testimonial_REwJMk":{"type":"testimonial","settings":{"icon":"5","text":"<p>I think this is a good product & I have seen improvement in <strong>reduction of inflammation & redness,<\/strong> & consider it a good purchase.\u2028<\/p>","author":"Vanessa H."}}},"block_order":["testimonial_RgVX3i","testimonial_EiqEA8","testimonial_49nD6r","testimonial_npCYLU","testimonial_REwJMk"],"settings":{"autorotate":false,"autorotate_speed":5,"hide_images":true,"show_divider":false,"heading":"What Our Customers Think 👇","heading_size":"h1","heading_alignment":"center","heading_tag":"h2","padding_top":36,"padding_bottom":36}},"guarantees_XCeypM":{"type":"guarantees","blocks":{"guarantee_t49Wpd":{"type":"guarantee","settings":{"icon":"truck","icon_size":"medium","custom_icon":"","title":"Express Delivery in Lebanon","title_size":"h3","text":""}},"guarantee_BBxQbt":{"type":"guarantee","settings":{"icon":"check_mark","icon_size":"medium","custom_icon":"","title":"Tested & Approved by Doctors","title_size":"h3","text":""}},"guarantee_fgXaRj":{"type":"guarantee","settings":{"icon":"phone","icon_size":"medium","custom_icon":"","title":"24\/7 Customer Support","title_size":"h3","text":""}},"guarantee_wyij4U":{"type":"guarantee","settings":{"icon":"heart","icon_size":"medium","custom_icon":"","title":"Made For Everyone","title_size":"h3","text":""}}},"block_order":["guarantee_t49Wpd","guarantee_BBxQbt","guarantee_fgXaRj","guarantee_wyij4U"],"custom_css":["span {color: #ffffff;}","div {background-color: #fafafa;}"],"settings":{"layout":"default","column_alignment":"center","horizontal_content":false,"full_width":false,"show_divider":false,"columns_desktop":4,"heading":"Our Guarantees","heading_size":"h1","heading_tag":"h2","columns_mobile":"2","swipe_on_mobile":false,"use_custom_colors":true,"colors_icon":"#f4a6a0","colors_text":"#1a1b18","colors_background":"#fafafa","gradient_background":"","padding_top":20,"padding_bottom":32}}},"order":["slideshow","rich-text-0","featured-product","image_banner_J9Rxpm","scrolling_promotion_k9dVtt","images_with_text_cnmQXW","image_banner_jHdRYz","image_banner_eHRaaL","testimonials_AdmzNW","guarantees_XCeypM"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "slide-0": {
+          "type": "image",
+          "settings": {
+            "image_position": "center center",
+            "text_box_position": "bottom-left",
+            "subheading": "Loréka care",
+            "subheading_size": "h5",
+            "heading": "MAKING YOUR SKIN 10x BETTER",
+            "heading_size": "h0",
+            "heading_tag": "h2",
+            "text": "",
+            "text_size": "typeset2",
+            "button_label": "Shop Now",
+            "button_link": "shopify://products/loreka-4-in-1-wand",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "slide-0"
+      ],
+      "settings": {
+        "slideshow_type": "legacy",
+        "text_alignment": "left",
+        "image_ratio": "100vh",
+        "autorotate": false,
+        "autorotate_speed": 5,
+        "full_width": true,
+        "image_behavior": "none",
+        "mobile_text_alignment": "left",
+        "mobile_image_ratio": "600px",
+        "show_text_below": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#f46257",
+        "colors_text": "#26416f",
+        "colors_background": "#ffffff",
+        "colors_overlay": "#1a1b18",
+        "colors_overlay_opacity": 16,
+        "colors_navigation_text": "#ffffff",
+        "colors_navigation_background": "#1a1b18",
+        "padding_top": 0,
+        "padding_bottom": 20
+      }
+    },
+    "rich-text-0": {
+      "type": "rich-text",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "The Secret to Radiant Skin",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our 4 in 1 Wand is made to help you get rid of acne, wrinkles and any skin problem in few days and from the comfort of your home.</p><p>Get it now and enjoy <strong>40% OFF</strong> 👇</p>",
+            "text_size": "typeset3",
+            "secondary_color": false,
+            "highlight_phrases": "get rid of acne\n40% OFF",
+            "highlight_style": "underline"
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "left",
+        "horizontal_content": false,
+        "narrow": true,
+        "show_divider": false,
+        "use_custom_colors": true,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "colors_highlight": "#f6beba",
+        "gradient_background": "",
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
+    "featured-product": {
+      "type": "featured-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+            "title_size": "h2",
+            "title_tag": "h2",
+            "show_price": false,
+            "price_size": "medium"
+          }
+        },
+        "rating": {
+          "type": "rating",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "price_size": "medium",
+            "show_badges": true,
+            "sale_badge_basis": "auto"
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_quantity_selector": false,
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": false
+          }
+        },
+        "custom_liquid_CkFyEY": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<b><p>✅ Tested & Approved </p>\n<p>🌟 Enjoy a Healhty & Radiant Skin</p>\n<p>🕝 Notice Results in Few Days Only</p></b>"
+          }
+        },
+        "inventory_status": {
+          "type": "inventory_status",
+          "settings": {
+            "inventory_threshold": 10,
+            "show_inventory_transfer": true,
+            "color_scheme": "accent-3"
+          }
+        },
+        "collapsible_tab_YbPrrg": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "question_mark",
+            "heading": "HOW TO USE",
+            "content": "<p>Three easy steps:</p><ol><li>Clean your skin</li><li>Choose the right mode for your skin</li><li>Start massaging your skin slowly for 10 minutes, 3 to 4 times a week</li></ol><p>Do this everyday and you will start to see results in few days after use</p>",
+            "page": ""
+          }
+        },
+        "read_more_3tAPCy": {
+          "type": "read_more",
+          "settings": {
+            "show_icon": false
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "title",
+        "rating",
+        "price",
+        "buy_buttons",
+        "custom_liquid_CkFyEY",
+        "inventory_status",
+        "collapsible_tab_YbPrrg",
+        "read_more_3tAPCy",
+        "description"
+      ],
+      "custom_css": [
+        ".badge {background-color: #d72c0d; border-color: #d72c0d; color: #ffffff; border-radius: 10px;}"
+      ],
+      "settings": {
+        "product": "booty-acne-shaving-kit",
+        "layout": "text_first",
+        "full_width": false,
+        "show_divider": false,
+        "show_featured_media": false,
+        "hide_variants": false,
+        "enable_image_zoom": true,
+        "enable_video_looping": false,
+        "image_ratio": "adapt_first",
+        "image_position": "center center",
+        "enable_layered_images": false,
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
+    "image_banner_J9Rxpm": {
+      "type": "image-banner",
+      "custom_css": [
+        "@media screen and (min-width: 768px) {div {display: none; }}"
+      ],
+      "settings": {
+        "image_position": "center center",
+        "text_box_position": "middle-center",
+        "text_alignment": "center",
+        "image_ratio": "adapt",
+        "show_text_box": false,
+        "full_width": true,
+        "show_divider": false,
+        "image_behavior": "none",
+        "mobile_text_alignment": "center",
+        "mobile_image_ratio": "adapt",
+        "stack_images_on_mobile": false,
+        "show_text_below": false,
+        "colors_button_label": "#1a1b18",
+        "colors_button_background": "#ffffff",
+        "colors_text": "#ffffff",
+        "colors_overlay": "#000000",
+        "colors_overlay_opacity": 0,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "scrolling_promotion_k9dVtt": {
+      "type": "scrolling-promotion",
+      "blocks": {
+        "announcement_LkzkQ7": {
+          "type": "announcement",
+          "settings": {
+            "icon": "none",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "text": "TRUSTED BY 500+ CUSTOMERS",
+            "text_size": 20,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "announcement_LkzkQ7"
+      ],
+      "custom_css": [
+        ".promotion__text {font-weight: 900;}"
+      ],
+      "settings": {
+        "direction": "left",
+        "speed": 1.6,
+        "show_divider": false,
+        "use_custom_colors": true,
+        "colors_icon": "#ffffff",
+        "colors_text": "#ffffff",
+        "colors_background": "#f4a6a0",
+        "gradient_background": "",
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
+    "images_with_text_cnmQXW": {
+      "type": "images-with-text",
+      "blocks": {
+        "heading_PBHfNc": {
+          "type": "heading",
+          "settings": {
+            "heading": "Discover The Technology Behind It",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "subheading_R8Eq8N": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "",
+            "subheading_size": "h5",
+            "secondary_color": false
+          }
+        },
+        "text_6GwMQm": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>The Loréka 4 in 1</strong> Wand is your go-to for amazing skin! 💫 RF (Radio Frequency) <strong>gently heats your skin </strong>to boost collagen and smooth out wrinkles. EMS (Electrical Muscle Stimulation) <strong>works out your facial muscles,</strong> lifting and toning for a firmer look. </p><p>Get smoother, tighter skin with every use! 🌟</p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "button_84eahN": {
+          "type": "button",
+          "settings": {
+            "button_label": "TRY IT NOW",
+            "button_link": "shopify://products/loreka-4-in-1-wand",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_PBHfNc",
+        "subheading_R8Eq8N",
+        "text_6GwMQm",
+        "button_84eahN"
+      ],
+      "settings": {
+        "image_ratio": "square",
+        "image_position": "center center",
+        "layout": "text_first",
+        "text_box_position": "middle",
+        "text_alignment": "left",
+        "mobile_text_alignment": "left",
+        "full_width": false,
+        "show_divider": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_banner_jHdRYz": {
+      "type": "image-banner",
+      "custom_css": [
+        "@media screen and (min-width: 768px) {div {display: none; }}"
+      ],
+      "settings": {
+        "image_position": "center center",
+        "text_box_position": "middle-center",
+        "text_alignment": "center",
+        "image_ratio": "650px",
+        "show_text_box": false,
+        "full_width": true,
+        "show_divider": false,
+        "image_behavior": "none",
+        "mobile_text_alignment": "center",
+        "mobile_image_ratio": "adapt",
+        "stack_images_on_mobile": true,
+        "show_text_below": true,
+        "colors_button_label": "#1a1b18",
+        "colors_button_background": "#ffffff",
+        "colors_text": "#ffffff",
+        "colors_overlay": "#000000",
+        "colors_overlay_opacity": 28,
+        "padding_top": 0,
+        "padding_bottom": 20
+      }
+    },
+    "image_banner_eHRaaL": {
+      "type": "image-banner",
+      "custom_css": [
+        "@media screen and (max-width: 768px) {div {display: none; }}"
+      ],
+      "settings": {
+        "image_position": "center center",
+        "text_box_position": "middle-center",
+        "text_alignment": "center",
+        "image_ratio": "adapt",
+        "show_text_box": false,
+        "full_width": true,
+        "show_divider": false,
+        "image_behavior": "none",
+        "mobile_text_alignment": "center",
+        "mobile_image_ratio": "adapt",
+        "stack_images_on_mobile": true,
+        "show_text_below": true,
+        "colors_button_label": "#1a1b18",
+        "colors_button_background": "#ffffff",
+        "colors_text": "#ffffff",
+        "colors_overlay": "#000000",
+        "colors_overlay_opacity": 0,
+        "padding_top": 0,
+        "padding_bottom": 20
+      }
+    },
+    "testimonials_AdmzNW": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_RgVX3i": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p><strong>My skin feels so much better after using The 4 in 1 Wand</strong> for a couple of days only. Very recommended!!</p>",
+            "author": "Maria K."
+          }
+        },
+        "testimonial_EiqEA8": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p>Acne was driving me crazy. But my friend told me about loreka and <strong>it's really a life saver for me</strong></p>",
+            "author": "Jade H."
+          }
+        },
+        "testimonial_49nD6r": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p>The red and blue light modes are perfect for<strong> making my skin smooth and young</strong></p>",
+            "author": "Carla K."
+          }
+        },
+        "testimonial_npCYLU": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p>Loréka has become an <strong>essential part of my skincare routine.</strong> It's gentle, non-invasive, and the best part is <strong>I can use it literally anywhere. </strong></p>",
+            "author": "Omar S."
+          }
+        },
+        "testimonial_REwJMk": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p>I think this is a good product & I have seen improvement in <strong>reduction of inflammation & redness,</strong> & consider it a good purchase. </p>",
+            "author": "Vanessa H."
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_RgVX3i",
+        "testimonial_EiqEA8",
+        "testimonial_49nD6r",
+        "testimonial_npCYLU",
+        "testimonial_REwJMk"
+      ],
+      "settings": {
+        "autorotate": false,
+        "autorotate_speed": 5,
+        "hide_images": true,
+        "show_divider": false,
+        "heading": "What Our Customers Think 👇",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "heading_tag": "h2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "guarantees_XCeypM": {
+      "type": "guarantees",
+      "blocks": {
+        "guarantee_t49Wpd": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "truck",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "title": "Express Delivery in Lebanon",
+            "title_size": "h3",
+            "text": ""
+          }
+        },
+        "guarantee_BBxQbt": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "check_mark",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "title": "Tested & Approved by Doctors",
+            "title_size": "h3",
+            "text": ""
+          }
+        },
+        "guarantee_fgXaRj": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "phone",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "title": "24/7 Customer Support",
+            "title_size": "h3",
+            "text": ""
+          }
+        },
+        "guarantee_wyij4U": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "heart",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "title": "Made For Everyone",
+            "title_size": "h3",
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "guarantee_t49Wpd",
+        "guarantee_BBxQbt",
+        "guarantee_fgXaRj",
+        "guarantee_wyij4U"
+      ],
+      "custom_css": [
+        "span {color: #ffffff;}",
+        "div {background-color: #fafafa;}"
+      ],
+      "settings": {
+        "layout": "default",
+        "column_alignment": "center",
+        "horizontal_content": false,
+        "full_width": false,
+        "show_divider": false,
+        "columns_desktop": 4,
+        "heading": "Our Guarantees",
+        "heading_size": "h1",
+        "heading_tag": "h2",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "use_custom_colors": true,
+        "colors_icon": "#f4a6a0",
+        "colors_text": "#1a1b18",
+        "colors_background": "#fafafa",
+        "gradient_background": "",
+        "padding_top": 20,
+        "padding_bottom": 32
+      }
+    }
+  },
+  "order": [
+    "slideshow",
+    "rich-text-0",
+    "featured-product",
+    "image_banner_J9Rxpm",
+    "scrolling_promotion_k9dVtt",
+    "images_with_text_cnmQXW",
+    "image_banner_jHdRYz",
+    "image_banner_eHRaaL",
+    "testimonials_AdmzNW",
+    "guarantees_XCeypM"
+  ]
+}
