@@ -263,7 +263,7 @@
         "text_6GwMQm": {
           "type": "text",
           "settings": {
-            "text": "<p>With our all new essentials <strong>SmoothSkin Duo</strong>, be sure to attack <strong>stretch marks</strong> and erase them all in a <strong>matter of days</strong>, keeping 0 stretch marks with no side effects and a pure, smooth skin.</p>",
+            "text": "<p>Just one small <strong>1.5g scoop</strong> of <strong>Energyze Moringa Powder</strong> daily is packed with essential vitamins, minerals, and antioxidants that <strong>boost immunity, enhance digestion, and fight inflammation</strong>. Rich in iron, calcium, and plant-based protein, it naturally supports <strong>heart health, brain function, and overall well-being</strong>—keeping you energized and strong. Add it to water, juice, or smoothies, and let nature’s most powerful superfood <strong>keep the doctor away</strong>!</p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -271,8 +271,8 @@
         "button_84eahN": {
           "type": "button",
           "settings": {
-            "button_label": "Take my stretchmarks",
-            "button_link": "shopify://products/smoothskin-duo-anti-cellulites-stretchmarks-kit-1",
+            "button_label": "Try it now",
+            "button_link": "shopify://products/energyzed™-all-in-1-moringa-powder",
             "button_size": "medium",
             "button_style_secondary": false
           }
@@ -306,22 +306,22 @@
         "question_Xgtj77": {
           "type": "question",
           "settings": {
-            "title": "Where are Essentials by Jay Products Made?",
-            "text": "<p>All our products are proudly made in Lebanon with global ingredients.</p>"
+            "title": "Will Energyze Powder help with weight loss?",
+            "text": "<p>Yes! Energyze Moringa Powder helps <strong>reduce appetite, boost metabolism, and support digestion</strong>, making it a natural and effective way to manage weight</p>"
           }
         },
         "question_abK3Ap": {
           "type": "question",
           "settings": {
-            "title": "Do the products have side effects?",
-            "text": "<p>The products are designed to use against the skin. They are tested and perfectly safe. However, Before you add any new skin care product to your routine, dermatologists recommend doing a patch test to check for potential reactions</p>"
+            "title": "Does it really provide energy without crashes?",
+            "text": "<p>Absolutely! Unlike coffee, Energyze Moringa Powder delivers <strong>sustained energy without jitters or crashes</strong>, thanks to its rich blend of vitamins, minerals, and electrolytes.</p>"
           }
         },
         "question_Wxiyx9": {
           "type": "question",
           "settings": {
-            "title": "Is it safe to use fragrances on the intimate area?",
-            "text": "<p>Yes, because the fragrances that we use are alcohol-free, non-irritating and have low sensitization potential</p>"
+            "title": "Do you offer free delivery & cash on delivery?",
+            "text": "<p>Yes! We offer <strong>FREE delivery all over Lebanon</strong> and <strong>Cash on Delivery (COD)</strong> for a hassle-free shopping experience</p>"
           }
         },
         "question_bCdkFL": {
