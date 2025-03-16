@@ -46,6 +46,12 @@
             "sale_badge_basis": "auto"
           }
         },
+        "custom_liquid_8fkWzA": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<b><p>✨ Effective treatment against zits, pimples and butt acne</p>\n<p>🌸&nbsp;Suitable for all skin types </p>\n<p>🍑 Visible results in less than 1 month!</p></b>"
+          }
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -54,18 +60,12 @@
             "show_gift_card_recipient": false
           }
         },
-        "custom_liquid_8fkWzA": {
-          "type": "custom_liquid",
-          "settings": {
-            "custom_liquid": "<b><p>✅ Tested & Approved by Pharmacists</p>\n<p>🌟 Results guaranteed </p>\n<p>🕝 See Fast Results</p></b>"
-          }
-        },
         "collapsible_tab_GPn4gb": {
           "type": "collapsible_tab",
           "settings": {
             "icon": "question_mark",
-            "heading": "HOW TO USE",
-            "content": "<p>Three easy steps:</p><ol><li>Clean your skin</li><li>Choose the right mode for your skin</li><li>Start massaging your skin slowly for 10 minutes, 3 to 4 times a week</li></ol><p>Do this everyday and you will start to see results in few days after use</p>",
+            "heading": "Usage Instructions:",
+            "content": "<p>Follow the 3-step skincare routine three times a week for 3-4 weeks. Upon achieving an 80% improvement in skin condition, reduce frequency to twice a week.</p><p><strong>Step 1: </strong>Gently apply the scrub to dry skin in circular motions, then rinse.</p><p><strong>Step 2: </strong>Apply the mask to dry skin, allowing it to dry for 10-15 minutes before rinsing.<br/><strong>Step 3</strong>: Finish off the routine by applying a few drops of oil.<br/></p>",
             "page": "",
             "custom_liquid": "",
             "keep_open": false
@@ -94,8 +94,8 @@
         "title",
         "fera_product_reviews_summary_GjwhcP",
         "price",
-        "buy_buttons",
         "custom_liquid_8fkWzA",
+        "buy_buttons",
         "collapsible_tab_GPn4gb",
         "description",
         "inventory_status",
