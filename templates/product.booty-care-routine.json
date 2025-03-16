@@ -164,7 +164,7 @@
             "icon": "none",
             "icon_size": "medium",
             "custom_icon": "",
-            "text": "#1 SKIN MASSAGER IN LEBANON",
+            "text": "🌿 Vegan, Natural and Cruelty-Free",
             "text_size": 16,
             "link": ""
           }
@@ -181,9 +181,9 @@
         "speed": 1.6,
         "show_divider": false,
         "use_custom_colors": true,
-        "colors_icon": "#f4a6a0",
+        "colors_icon": "#a94759",
         "colors_text": "#ffffff",
-        "colors_background": "#f4a6a0",
+        "colors_background": "#a94759",
         "gradient_background": "",
         "padding_top": 20,
         "padding_bottom": 20
