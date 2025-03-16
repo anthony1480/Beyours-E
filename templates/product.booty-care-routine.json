@@ -60,6 +60,17 @@
             "show_gift_card_recipient": false
           }
         },
+        "collapsible_tab_T3Cxc7": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "none",
+            "heading": "What's included",
+            "content": "<p><strong>1-Peach Polish Booty Scrub:</strong> Ultra finely milled booty scrub made especially for the sensitive booty skin<br/><strong>2-Bye Bye Acne Booty Mask:</strong> A powder mask, rich in activated charcoal and clays that dries out acne and detoxify your butt cheeks.<br/><strong>3-Peach Polish Oil:</strong> A soothing oil that serves as a moisturizer. It soothes redness and irritations and prevents the appearance of ingrown hairs.</p>",
+            "page": "",
+            "custom_liquid": "",
+            "keep_open": false
+          }
+        },
         "collapsible_tab_GPn4gb": {
           "type": "collapsible_tab",
           "settings": {
@@ -70,10 +81,6 @@
             "custom_liquid": "",
             "keep_open": false
           }
-        },
-        "description": {
-          "type": "description",
-          "settings": {}
         },
         "inventory_status": {
           "type": "inventory_status",
@@ -96,8 +103,8 @@
         "price",
         "custom_liquid_8fkWzA",
         "buy_buttons",
+        "collapsible_tab_T3Cxc7",
         "collapsible_tab_GPn4gb",
-        "description",
         "inventory_status",
         "sticky_cart"
       ],
