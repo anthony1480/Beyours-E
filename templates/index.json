@@ -15,13 +15,13 @@
         "slide-0": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/86.png",
-            "image_mobile": "shopify://shop_images/86.png",
+            "image": "shopify://shop_images/IMG_0288.jpg",
+            "image_mobile": "shopify://shop_images/IMG_0288.jpg",
             "image_position": "center center",
             "text_box_position": "bottom-center",
-            "subheading": "",
+            "subheading": "More than 102+ Benefits in 1 Scoop",
             "subheading_size": "h5",
-            "heading": "Booty Care has never felt so good",
+            "heading": "Benefits have never felt so good",
             "heading_size": "h1",
             "heading_tag": "h2",
             "text": "",
@@ -48,7 +48,7 @@
         "mobile_image_ratio": "600px",
         "show_text_below": false,
         "colors_button_label": "#ffffff",
-        "colors_button_background": "#a94759",
+        "colors_button_background": "#20372b",
         "colors_text": "#ffffff",
         "colors_background": "#ffffff",
         "colors_overlay": "#1a1b18",
@@ -65,7 +65,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "They kept it from you🤫",
+            "heading": "Glow with the number 1 powder",
             "heading_size": "h2",
             "heading_tag": "h2"
           }
@@ -73,10 +73,10 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>The secret that built unshakable confidence in 2000+ Women</p>",
+            "text": "<p>More than <strong>2000+ costumers</strong> are benefiting from the most nutritional <strong>Natural powder</strong> with <strong>102+ Benefits</strong></p>",
             "text_size": "typeset3",
             "secondary_color": false,
-            "highlight_phrases": "unshakable\n2000+ Women",
+            "highlight_phrases": "2000+ costumers \n102+ Benefits",
             "highlight_style": "underline"
           }
         }
@@ -100,35 +100,6 @@
         "gradient_background": "",
         "padding_top": 20,
         "padding_bottom": 20
-      }
-    },
-    "featured_collection_TUtUCd": {
-      "type": "featured-collection",
-      "settings": {
-        "collection": "best-sellers",
-        "products_to_show": 4,
-        "horizontal_scroll": true,
-        "show_view_all": true,
-        "show_divider": false,
-        "heading": "Best Sellers",
-        "heading_size": "h1",
-        "heading_alignment": "left",
-        "heading_tag": "h2",
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "image_ratio": "adapt",
-        "image_position": "center center",
-        "enable_image_fill": true,
-        "show_secondary_image": true,
-        "secondary_image_max": 1,
-        "show_vendor": false,
-        "show_rating": false,
-        "show_quick_buy": true,
-        "enable_quick_view": true,
-        "enable_color_swatches": true,
-        "enable_countdown": true,
-        "padding_top": 36,
-        "padding_bottom": 36
       }
     },
     "featured-product": {
@@ -158,7 +129,7 @@
         "custom_liquid_CkFyEY": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<b><p>✅ Tested & Approved By pharmacists </p>\n<p>🌟 Remove all kinds of acne</p>\n<p>🕝 Fast & Guarranteed Result</p></b>"
+            "custom_liquid": "<b><p>✅ Tested & Approved By Doctors </p>\n<p> ✅ Remove all kinds of acne</p>\n<p>🕝 Start seeing results as fast as 7 Days<t/p></b>"
           }
         },
         "buy_buttons": {
@@ -173,8 +144,8 @@
           "type": "collapsible_tab",
           "settings": {
             "icon": "none",
-            "heading": "Ingredients",
-            "content": "<p>🍑<strong>Peach Polish Booty Scrub:</strong> Bubble scented booty scrub to refine and buff your booty, bikini, hips, and thighs. It opens up pores and prepares your skin for shaving.<br/><strong>🪒Peach Polish Shaving Gel:</strong> This rich and clear gel lathers to provide incredible razor glide to help protect your skin from nicks and cuts. It conditions the skin and helps prevent the appearance of razor burns, bumps and ingrown hairs.<br/>🚿<strong>Bye Bye Acne Booty Mask:</strong> This powder mask is a mix of clay, Aloe Vera, Matcha and activated charcoal, formulated to remove dirt, oil, and impurities for deeply cleansed, snatched pores. You're all ready to say goodbye to stubborn acne, cellulites and stretch marks and hello to baby smooth skin.✨<strong>Peach Polish Aftershave Oil:</strong> A silky, lightweight oil that clears pores, soothes irritations, combats ingrown hairs and softens the skin.</p>",
+            "heading": "Benefits",
+            "content": "<p><strong>Energyze Moringa Powder is packed with essential multivitamins to fuel your body daily.</strong> It contains <strong>Vitamin A</strong> for skin and immunity, <strong>B-complex vitamins</strong> (B1, B2, B3, B6, B7, B9, B12) to boost energy, metabolism, and brain function, and <strong>Vitamin C & E</strong> for glowing skin and strong immunity. <strong>Vitamin D & K</strong> support bone health, while <strong>iron, magnesium, and zinc</strong> enhance muscle recovery, reduce stress, and promote clear skin. Plus, <strong>Omega-3 and electrolytes</strong> keep you hydrated, improve focus, and prevent fatigue.</p>",
             "page": ""
           }
         },
@@ -182,26 +153,8 @@
           "type": "collapsible_tab",
           "settings": {
             "icon": "none",
-            "heading": "When to use",
-            "content": "<p>Opt for this bundle when you have both acne + shaving concerns.In Case you don't have acne but you shave: Check out our Shaving KitsIn case you don't shave but you have acne: Check out the Booty Care Routine<br/></p>",
-            "page": ""
-          }
-        },
-        "collapsible_tab_Q76TQi": {
-          "type": "collapsible_tab",
-          "settings": {
-            "icon": "none",
-            "heading": "Let's be honest together",
-            "content": "<p>Your bum is most likely a neglected area of the body!</p><p><br/>Our Best-selling Acne & Shaving Kit is a 4-step routine that will help you achieve a smooth shave and reduce the appearance of acne, bumps and ingrown hairs on your booty, bikini, hips and thighs.</p>",
-            "page": ""
-          }
-        },
-        "collapsible_tab_dPJgza": {
-          "type": "collapsible_tab",
-          "settings": {
-            "icon": "none",
             "heading": "How to use",
-            "content": "<p><strong>Usage Instructions:</strong></p><p>Follow the acne and shaving routine three times a week for 3-4 weeks. Upon achieving an 80% improvement in skin condition, reduce frequency to twice a week.<strong>Step 1: </strong>Gently apply the scrub to dry skin in circular motions.<br/><strong>Step 2: </strong>When you need to shave, apply the shaving gel over the desired area after using the scrub. Utilize a clean razor and shave against the direction of hair growth<strong>. </strong>On days when shaving is unnecessary, skip this step and proceed directly to step 3.<strong>Step 3: </strong>Apply the mask to dry skin, allowing it to dry for 10-15 minutes before rinsing.<br/><strong>Step 4</strong>: Finish off the routine by applying a few drops of oil.<br/><strong>Notes:</strong>For optimal results, use the oil as part of your daily post-shower routine. To sustain the results, make sure to apply the routine once a week for maintenance. Do not shave more times than necessary.</p>",
+            "content": "<p>Simply mix <strong>1.5 grams (1 small scoop)</strong> of Energyze Moringa Powder with <strong>water, juice, or your favorite smoothie</strong> and enjoy! Drink it <strong>once daily</strong> for maximum benefits in energy, digestion, skin health, and overall wellness. ✨🚀</p>",
             "page": ""
           }
         },
@@ -228,8 +181,6 @@
         "buy_buttons",
         "collapsible_tab_imXFLV",
         "collapsible_tab_kfQGRX",
-        "collapsible_tab_Q76TQi",
-        "collapsible_tab_dPJgza",
         "inventory_status",
         "read_more_3tAPCy"
       ],
@@ -237,7 +188,7 @@
         ".badge {background-color: #d72c0d; border-color: #d72c0d; color: #ffffff; border-radius: 10px;}"
       ],
       "settings": {
-        "product": "booty-acne-shaving-kit",
+        "product": "energyzed™-all-in-1-moringa-powder",
         "layout": "text_first",
         "full_width": false,
         "show_divider": false,
@@ -252,33 +203,6 @@
         "padding_bottom": 20
       }
     },
-    "image_banner_J9Rxpm": {
-      "type": "image-banner",
-      "custom_css": [
-        "@media screen and (min-width: 768px) {div {display: none; }}"
-      ],
-      "settings": {
-        "image_position": "center center",
-        "text_box_position": "middle-center",
-        "text_alignment": "center",
-        "image_ratio": "adapt",
-        "show_text_box": false,
-        "full_width": true,
-        "show_divider": false,
-        "image_behavior": "none",
-        "mobile_text_alignment": "center",
-        "mobile_image_ratio": "adapt",
-        "stack_images_on_mobile": false,
-        "show_text_below": false,
-        "colors_button_label": "#1a1b18",
-        "colors_button_background": "#ffffff",
-        "colors_text": "#ffffff",
-        "colors_overlay": "#000000",
-        "colors_overlay_opacity": 0,
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
     "scrolling_promotion_k9dVtt": {
       "type": "scrolling-promotion",
       "blocks": {
@@ -288,7 +212,7 @@
             "icon": "none",
             "icon_size": "medium",
             "custom_icon": "",
-            "text": "Keep that booty nice and clear",
+            "text": "💖 100% Plant-Based &amp; Vegan",
             "text_size": 20,
             "link": ""
           }
@@ -299,7 +223,7 @@
             "icon": "none",
             "icon_size": "medium",
             "custom_icon": "",
-            "text": "Summer time is Near",
+            "text": "🌟 Clear skin &amp; stronger hair",
             "text_size": 20,
             "link": ""
           }
@@ -319,7 +243,7 @@
         "use_custom_colors": true,
         "colors_icon": "#ffffff",
         "colors_text": "#ffffff",
-        "colors_background": "#a94759",
+        "colors_background": "#20372b",
         "gradient_background": "",
         "padding_top": 20,
         "padding_bottom": 20
@@ -331,7 +255,7 @@
         "heading_PBHfNc": {
           "type": "heading",
           "settings": {
-            "heading": "Smooth Skin Duo a day Keeps stretch marks away☺️",
+            "heading": "Energyze a day keeps the doctor away",
             "heading_size": "h2",
             "heading_tag": "h2"
           }
@@ -360,10 +284,10 @@
         "button_84eahN"
       ],
       "settings": {
-        "image": "shopify://shop_images/109.png",
-        "image_2": "shopify://shop_images/110_db1fc7b5-74ec-4568-8f71-e7811f7ca831.png",
-        "image_3": "shopify://shop_images/108.png",
-        "image_4": "shopify://shop_images/103.png",
+        "image": "shopify://shop_images/IMG_6036.heic",
+        "image_2": "shopify://shop_images/IMG_1884.jpg",
+        "image_3": "shopify://shop_images/WhatsApp_Image_2025-02-16_at_19.51.53.jpg",
+        "image_4": "shopify://shop_images/image00149.jpg",
         "image_ratio": "square",
         "image_position": "center center",
         "layout": "text_first",
@@ -509,9 +433,7 @@
   "order": [
     "slideshow",
     "rich-text-0",
-    "featured_collection_TUtUCd",
     "featured-product",
-    "image_banner_J9Rxpm",
     "scrolling_promotion_k9dVtt",
     "images_with_text_cnmQXW",
     "faq_8dnhCT",

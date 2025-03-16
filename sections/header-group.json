@@ -17,16 +17,25 @@
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
-            "text": "Get 10% Off your first order",
+            "text": "Free Delivery All Over Lebanon",
             "text_on_mobile": "",
             "text_size": 14,
+            "link": ""
+          }
+        },
+        "announcement_taefNz": {
+          "type": "announcement",
+          "settings": {
+            "text": "Buy 2 Get 1 Free",
+            "text_on_mobile": "",
+            "text_size": 13,
             "link": ""
           }
         },
         "announcement_hkBhCL": {
           "type": "announcement",
           "settings": {
-            "text": "Free Delivery on Orders above 150$",
+            "text": "Lose more than 3KG in 1 Month",
             "text_on_mobile": "",
             "text_size": 13,
             "link": ""
@@ -35,6 +44,7 @@
       },
       "block_order": [
         "announcement-bar-0",
+        "announcement_taefNz",
         "announcement_hkBhCL"
       ],
       "custom_css": [
@@ -50,7 +60,7 @@
         "direction": "left",
         "speed": 1.6,
         "colors_text": "#ffffff",
-        "colors_background": "#a94759",
+        "colors_background": "#20372b",
         "gradient_background": "",
         "padding_top": 0,
         "padding_bottom": 0
@@ -59,8 +69,8 @@
     "header": {
       "type": "header",
       "settings": {
-        "logo": "shopify://shop_images/Whie_Logo_2025_-_Transparent_BG.png",
-        "mobile_logo": "shopify://shop_images/Whie_Logo_2025_-_Transparent_BG.png",
+        "logo": "shopify://shop_images/Energyze__2_-removebg-preview.png",
+        "mobile_logo": "shopify://shop_images/Energyze__2_-removebg-preview.png",
         "logo_height": 60,
         "mobile_logo_height": 50,
         "logo_position": "top-center",
@@ -75,8 +85,8 @@
         "enable_language_selector": true,
         "enable_sticky_header": true,
         "show_sticky_header_scroll_up": false,
-        "transparent_logo": "shopify://shop_images/Black_Logo_2025_-_Transparent_BG.png",
-        "mobile_transparent_logo": "shopify://shop_images/Black_Logo_2025_-_Transparent_BG.png",
+        "transparent_logo": "shopify://shop_images/Energyze__2_-removebg-preview.png",
+        "mobile_transparent_logo": "shopify://shop_images/Energyze__2_-removebg-preview.png",
         "enable_transparent_header": true,
         "enable_transparent_header_collection": true,
         "enable_transparent_header_custom": "",
