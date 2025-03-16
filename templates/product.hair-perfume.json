@@ -46,6 +46,12 @@
             "sale_badge_basis": "auto"
           }
         },
+        "custom_liquid_8fkWzA": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<b><p>✅ Lightweight, long-lasting formulas that refresh your hair without weighing it down.</p>\n<p> ✅ Perfect for anyone who loves to keep their hair smelling fresh and luxurious</p>\n<p> ✅ Suitable for all hair types, including curly hair</p></b>"
+          }
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -54,26 +60,27 @@
             "show_gift_card_recipient": false
           }
         },
-        "custom_liquid_8fkWzA": {
-          "type": "custom_liquid",
-          "settings": {
-            "custom_liquid": "<b><p>✅ Tested & Approved by Pharmacists</p>\n<p>🌟 Results guaranteed </p>\n<p>🕝 See Fast Results</p></b>"
-          }
-        },
         "collapsible_tab_GPn4gb": {
           "type": "collapsible_tab",
           "settings": {
             "icon": "question_mark",
-            "heading": "HOW TO USE",
-            "content": "<p>Three easy steps:</p><ol><li>Clean your skin</li><li>Choose the right mode for your skin</li><li>Start massaging your skin slowly for 10 minutes, 3 to 4 times a week</li></ol><p>Do this everyday and you will start to see results in few days after use</p>",
+            "heading": "What's our hair perfume?",
+            "content": "<p>Transform your hair care routine with our <strong>Hair Perfume</strong>, designed to keep your locks smelling divine while adding a touch of luxury to your day. This lightweight, non-greasy formula delivers long-lasting fragrance</p>",
             "page": "",
             "custom_liquid": "",
             "keep_open": false
           }
         },
-        "description": {
-          "type": "description",
-          "settings": {}
+        "collapsible_tab_cCWjdX": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "none",
+            "heading": "Signature Scents",
+            "content": "<p>🌴 <strong>Coco Sunset</strong> – A tropical coconut and vanilla blend that buffs away dryness for irresistibly soft skin.<br/>🍓 <strong>After Dark</strong> – Sweet red berries for a playful scent that turns your shower into a spa-like escape.<br/>🌙 <strong>Under the Moonlight</strong> – Luxurious white musk that polishes your skin to perfection.</p>",
+            "page": "",
+            "custom_liquid": "",
+            "keep_open": false
+          }
         },
         "inventory_status": {
           "type": "inventory_status",
@@ -94,10 +101,10 @@
         "title",
         "fera_product_reviews_summary_GjwhcP",
         "price",
-        "buy_buttons",
         "custom_liquid_8fkWzA",
+        "buy_buttons",
         "collapsible_tab_GPn4gb",
-        "description",
+        "collapsible_tab_cCWjdX",
         "inventory_status",
         "sticky_cart"
       ],
@@ -121,33 +128,6 @@
         "padding_bottom": 20
       }
     },
-    "image_banner_jy3yGP": {
-      "type": "image-banner",
-      "custom_css": [
-        "@media screen and (min-width: 768px) {div {display: none; }}"
-      ],
-      "settings": {
-        "image_position": "center center",
-        "text_box_position": "middle-center",
-        "text_alignment": "center",
-        "image_ratio": "650px",
-        "show_text_box": false,
-        "full_width": true,
-        "show_divider": false,
-        "image_behavior": "none",
-        "mobile_text_alignment": "center",
-        "mobile_image_ratio": "adapt",
-        "stack_images_on_mobile": true,
-        "show_text_below": true,
-        "colors_button_label": "#1a1b18",
-        "colors_button_background": "#ffffff",
-        "colors_text": "#ffffff",
-        "colors_overlay": "#000000",
-        "colors_overlay_opacity": 28,
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
     "scrolling-promotion": {
       "type": "scrolling-promotion",
       "blocks": {
@@ -157,7 +137,7 @@
             "icon": "none",
             "icon_size": "medium",
             "custom_icon": "",
-            "text": "#1 SKIN MASSAGER IN LEBANON",
+            "text": "Change the way your hair smells forever",
             "text_size": 16,
             "link": ""
           }
@@ -174,9 +154,9 @@
         "speed": 1.6,
         "show_divider": false,
         "use_custom_colors": true,
-        "colors_icon": "#f4a6a0",
+        "colors_icon": "#a94759",
         "colors_text": "#ffffff",
-        "colors_background": "#f4a6a0",
+        "colors_background": "#a94759",
         "gradient_background": "",
         "padding_top": 20,
         "padding_bottom": 20
@@ -188,15 +168,15 @@
         "heading_dpeidU": {
           "type": "heading",
           "settings": {
-            "heading": "Solves Any Skin Problem",
-            "heading_size": "h1",
+            "heading": "Your hair has never smelled so good",
+            "heading_size": "h2",
             "heading_tag": "h2"
           }
         },
         "subheading_c3XRmH": {
           "type": "subheading",
           "settings": {
-            "subheading": "5 Modes available",
+            "subheading": "3 Signature Scents available",
             "subheading_size": "h5",
             "secondary_color": false
           }
@@ -204,7 +184,7 @@
         "text_4DQrEY": {
           "type": "text",
           "settings": {
-            "text": "<p>Our 4 in 1 Wand features 5 different massaging modes, each one solves a different skin problem. Choose the mode you need and <strong>start treating your skin the right way with Loréka!</strong></p>",
+            "text": "<p>With 0 hair grease and no side effects at all, our signature scents will make anyone go crazy over your hair smell with 3 luxurious hair smells from 🌴 <strong>Coco Sunset, </strong>🍓 <strong>After Dark </strong>Or 🌙 <strong>Under the Moonlight.</strong></p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -216,6 +196,7 @@
         "text_4DQrEY"
       ],
       "settings": {
+        "image": "shopify://shop_images/113.png",
         "image_position": "center center",
         "layout": "text_first",
         "text_box_position": "middle",
@@ -225,6 +206,7 @@
         "full_width": false,
         "show_divider": false,
         "image_behavior": "none",
+        "image_mobile": "shopify://shop_images/113.png",
         "mobile_layout": "image_first",
         "mobile_text_alignment": "left",
         "mobile_image_ratio": "adapt",
@@ -240,67 +222,13 @@
         "padding_bottom": 36
       }
     },
-    "image_banner_iKrdae": {
-      "type": "image-banner",
-      "custom_css": [
-        "@media screen and (min-width: 768px) {div {display: none; }}"
-      ],
-      "settings": {
-        "image_position": "center center",
-        "text_box_position": "middle-center",
-        "text_alignment": "center",
-        "image_ratio": "650px",
-        "show_text_box": false,
-        "full_width": true,
-        "show_divider": false,
-        "image_behavior": "none",
-        "mobile_text_alignment": "center",
-        "mobile_image_ratio": "adapt",
-        "stack_images_on_mobile": true,
-        "show_text_below": true,
-        "colors_button_label": "#1a1b18",
-        "colors_button_background": "#ffffff",
-        "colors_text": "#ffffff",
-        "colors_overlay": "#000000",
-        "colors_overlay_opacity": 28,
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "image_banner_XAz9Uz": {
-      "type": "image-banner",
-      "custom_css": [
-        "@media screen and (max-width: 768px) {div {display: none; }}"
-      ],
-      "settings": {
-        "image_position": "center center",
-        "text_box_position": "middle-center",
-        "text_alignment": "center",
-        "image_ratio": "adapt",
-        "show_text_box": false,
-        "full_width": true,
-        "show_divider": false,
-        "image_behavior": "none",
-        "mobile_text_alignment": "center",
-        "mobile_image_ratio": "adapt",
-        "stack_images_on_mobile": true,
-        "show_text_below": true,
-        "colors_button_label": "#1a1b18",
-        "colors_button_background": "#ffffff",
-        "colors_text": "#ffffff",
-        "colors_overlay": "#000000",
-        "colors_overlay_opacity": 0,
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
     "images_with_text_t3GnhX": {
       "type": "images-with-text",
       "blocks": {
         "heading_gyHQzi": {
           "type": "heading",
           "settings": {
-            "heading": "Discover The Technology Behind It",
+            "heading": "Damn i smell better",
             "heading_size": "h1",
             "heading_tag": "h2"
           }
@@ -308,7 +236,7 @@
         "text_pMEzbX": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>The Loréka 4 in 1</strong> Wand is your go-to for amazing skin! 💫 RF (Radio Frequency) <strong>gently heats your skin </strong>to boost collagen and smooth out wrinkles. EMS (Electrical Muscle Stimulation) <strong>works out your facial muscles,</strong> lifting and toning for a firmer look. </p><p>Get smoother, tighter skin with every use! 🌟</p>",
+            "text": "<p>With more than 900 monthly hair users, we have never gotten a bad feedback because everyone wants to smell good. So if you want to smell good just stop scrolling and try it out, <strong>0 Regret Guarranteed</strong></p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -319,6 +247,10 @@
         "text_pMEzbX"
       ],
       "settings": {
+        "image": "shopify://shop_images/112.png",
+        "image_2": "shopify://shop_images/95.png",
+        "image_3": "shopify://shop_images/94.png",
+        "image_4": "shopify://shop_images/93.png",
         "image_ratio": "portrait",
         "image_position": "center center",
         "layout": "image_first",
@@ -340,7 +272,7 @@
             "icon": "none",
             "icon_size": "medium",
             "custom_icon": "",
-            "text": "OVER 500 HAPPY CUSTOMERS",
+            "text": "Our costumers complain from Over Complement syndrome",
             "text_size": 16,
             "link": ""
           }
@@ -357,9 +289,9 @@
         "speed": 1.6,
         "show_divider": false,
         "use_custom_colors": true,
-        "colors_icon": "#f4a6a0",
+        "colors_icon": "#8b424e",
         "colors_text": "#ffffff",
-        "colors_background": "#f4a6a0",
+        "colors_background": "#8b424e",
         "gradient_background": "",
         "padding_top": 20,
         "padding_bottom": 20
@@ -598,11 +530,8 @@
   "order": [
     "empty-space",
     "main",
-    "image_banner_jy3yGP",
     "scrolling-promotion",
     "image_with_text_beiAjz",
-    "image_banner_iKrdae",
-    "image_banner_XAz9Uz",
     "images_with_text_t3GnhX",
     "scrolling_promotion_UiKVGc",
     "guarantees",
