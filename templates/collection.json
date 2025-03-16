@@ -383,6 +383,57 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "quotes_nYeJfT": {
+      "type": "quotes",
+      "blocks": {
+        "quote_U8nKPb": {
+          "type": "quote",
+          "settings": {
+            "icon": "5",
+            "text": "<p>If you never tried the coconut smell, you are never going to know what a good smell is like, I JUST ADORE IT</p>",
+            "author": "Anthony"
+          }
+        },
+        "quote_YEX3Kz": {
+          "type": "quote",
+          "settings": {
+            "icon": "5",
+            "text": "<p>Add customer reviews and quotes to showcase your store's happy customers.</p>",
+            "author": "Author"
+          }
+        },
+        "quote_44ykKC": {
+          "type": "quote",
+          "settings": {
+            "icon": "5",
+            "text": "<p>ZERO BAD COMMENTS, I LOVE YOU JAY</p>",
+            "author": "Christina . K"
+          }
+        },
+        "quote_hH6kxQ": {
+          "type": "quote",
+          "settings": {
+            "icon": "5",
+            "text": "<p>The service is the best, the products are the best, litterly the best!</p>",
+            "author": "Sarah M"
+          }
+        }
+      },
+      "block_order": [
+        "quote_U8nKPb",
+        "quote_YEX3Kz",
+        "quote_44ykKC",
+        "quote_hH6kxQ"
+      ],
+      "settings": {
+        "show_divider": false,
+        "heading": "Hear from our Costumers",
+        "heading_size": "h1",
+        "heading_tag": "h2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -393,6 +444,7 @@
     "multicolumn",
     "scrolling_promotion_39UjHm",
     "sliding_images_LJAiWi",
-    "reveal_banner_B3renb"
+    "reveal_banner_B3renb",
+    "quotes_nYeJfT"
   ]
 }
