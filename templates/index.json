@@ -370,7 +370,7 @@
             "icon": "check_mark",
             "icon_size": "medium",
             "custom_icon": "",
-            "title": "Tested & Approved by Pharmacists",
+            "title": "Tested & Approved by Doctors",
             "title_size": "h3",
             "text": ""
           }
@@ -421,7 +421,7 @@
         "columns_mobile": "2",
         "swipe_on_mobile": false,
         "use_custom_colors": true,
-        "colors_icon": "#a94759",
+        "colors_icon": "#20372b",
         "colors_text": "#1a1b18",
         "colors_background": "#fafafa",
         "gradient_background": "",
