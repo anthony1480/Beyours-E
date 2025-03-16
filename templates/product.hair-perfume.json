@@ -317,7 +317,7 @@
             "icon": "check_mark",
             "icon_size": "medium",
             "custom_icon": "",
-            "title": "Tested & Approved By Doctors",
+            "title": "Tested & Approved By Pharmacists",
             "title_size": "h4",
             "text": ""
           }
@@ -336,10 +336,10 @@
         "guarantee-3": {
           "type": "guarantee",
           "settings": {
-            "icon": "heart",
+            "icon": "leaf",
             "icon_size": "medium",
             "custom_icon": "",
-            "title": "Made For Everyone",
+            "title": "Cruelty Free",
             "title_size": "h4",
             "text": ""
           }
@@ -367,59 +367,12 @@
         "columns_mobile": "2",
         "swipe_on_mobile": false,
         "use_custom_colors": true,
-        "colors_icon": "#f4a6a0",
+        "colors_icon": "#8b424e",
         "colors_text": "#1a1b18",
         "colors_background": "#fdfdfd",
         "gradient_background": "",
         "padding_top": 36,
         "padding_bottom": 36
-      }
-    },
-    "testimonials_zBJVKg": {
-      "type": "testimonials",
-      "blocks": {
-        "testimonial_TNNYXa": {
-          "type": "testimonial",
-          "settings": {
-            "icon": "5",
-            "text": "<p>My skin feels so much better after using The 4 in 1 Wand for couple of days only. Highly recommended!!</p>",
-            "author": "Maria K."
-          }
-        },
-        "testimonial_3PXdex": {
-          "type": "testimonial",
-          "settings": {
-            "icon": "5",
-            "text": "<p>Acne was driving me crazy. But my friend told me about loreka and it's really a life saver for me</p>",
-            "author": "Jade H."
-          }
-        },
-        "testimonial_bfidJz": {
-          "type": "testimonial",
-          "settings": {
-            "icon": "5",
-            "text": "<p>The red and blue light modes are perfect for making my skin smooth and young</p>",
-            "author": "Carla K."
-          }
-        }
-      },
-      "block_order": [
-        "testimonial_TNNYXa",
-        "testimonial_3PXdex",
-        "testimonial_bfidJz"
-      ],
-      "disabled": true,
-      "settings": {
-        "autorotate": true,
-        "autorotate_speed": 5,
-        "hide_images": true,
-        "show_divider": false,
-        "heading": "What Our Customers Think 👇",
-        "heading_size": "h1",
-        "heading_alignment": "center",
-        "heading_tag": "h2",
-        "padding_top": 20,
-        "padding_bottom": 20
       }
     },
     "1717958248b0b4020b": {
@@ -451,32 +404,32 @@
         "question-0": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
-            "row_content": "<p>Use collapsible tabs for more detailed information that will help customers make a purchasing decision.</p><p>Ex: Shipping and return policies, size guides, and other common questions.</p>",
+            "heading": "What are the hair sprays?",
+            "row_content": "<p>They are the best spray that u can toss on your hair and instantly get a fresh hair smell</p>",
             "page": ""
           }
         },
         "question-1": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
-            "row_content": "<p>Use collapsible tabs for more detailed information that will help customers make a purchasing decision.</p><p>Ex: Shipping and return policies, size guides, and other common questions.</p>",
+            "heading": "How much do they last?",
+            "row_content": "<p>One spray could last up to 5 hours of fresh smell</p>",
             "page": ""
           }
         },
         "question-2": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
-            "row_content": "<p>Use collapsible tabs for more detailed information that will help customers make a purchasing decision.</p><p>Ex: Shipping and return policies, size guides, and other common questions.</p>",
+            "heading": "Are your products organic?",
+            "row_content": "<p>Yes, our products are 100% Organic and cruelty free.</p>",
             "page": ""
           }
         },
         "question-3": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
-            "row_content": "<p>Use collapsible tabs for more detailed information that will help customers make a purchasing decision.</p><p>Ex: Shipping and return policies, size guides, and other common questions.</p>",
+            "heading": "How many days does the delivery need?",
+            "row_content": "<p>Our delivery service needs anywhere from 2-5 Days all around Lebanon</p>",
             "page": ""
           }
         }
@@ -487,7 +440,6 @@
         "question-2",
         "question-3"
       ],
-      "disabled": true,
       "settings": {
         "open_first_collapsible_row": false,
         "narrow": true,
@@ -533,11 +485,10 @@
     "scrolling-promotion",
     "image_with_text_beiAjz",
     "images_with_text_t3GnhX",
+    "collapsible-content",
     "scrolling_promotion_UiKVGc",
     "guarantees",
-    "testimonials_zBJVKg",
     "1717958248b0b4020b",
-    "collapsible-content",
     "product-recommendations"
   ]
 }
