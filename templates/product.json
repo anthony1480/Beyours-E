@@ -157,7 +157,7 @@
             "icon": "none",
             "icon_size": "medium",
             "custom_icon": "",
-            "text": "#1 SKIN MASSAGER IN LEBANON",
+            "text": "The only skin care you need",
             "text_size": 16,
             "link": ""
           }
@@ -174,9 +174,9 @@
         "speed": 1.6,
         "show_divider": false,
         "use_custom_colors": true,
-        "colors_icon": "#f4a6a0",
+        "colors_icon": "#a94759",
         "colors_text": "#ffffff",
-        "colors_background": "#f4a6a0",
+        "colors_background": "#a94759",
         "gradient_background": "",
         "padding_top": 20,
         "padding_bottom": 20
@@ -188,7 +188,7 @@
         "heading_dpeidU": {
           "type": "heading",
           "settings": {
-            "heading": "Solves Any Skin Problem",
+            "heading": "Solve all of your acne problems",
             "heading_size": "h1",
             "heading_tag": "h2"
           }
@@ -196,7 +196,7 @@
         "subheading_c3XRmH": {
           "type": "subheading",
           "settings": {
-            "subheading": "5 Modes available",
+            "subheading": "More than 5 Products curated for you",
             "subheading_size": "h5",
             "secondary_color": false
           }
@@ -204,7 +204,7 @@
         "text_4DQrEY": {
           "type": "text",
           "settings": {
-            "text": "<p>Our 4 in 1 Wand features 5 different massaging modes, each one solves a different skin problem. Choose the mode you need and <strong>start treating your skin the right way with Loréka!</strong></p>",
+            "text": "<p>Our products are made for all skin types to stay hydrated and are <strong>100% Tested and approved</strong>. So love yourself and get yourself  a <strong>Jay Bundle</strong></p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -216,6 +216,7 @@
         "text_4DQrEY"
       ],
       "settings": {
+        "image": "shopify://shop_images/106.png",
         "image_position": "center center",
         "layout": "text_first",
         "text_box_position": "middle",
@@ -225,6 +226,7 @@
         "full_width": false,
         "show_divider": false,
         "image_behavior": "none",
+        "image_mobile": "shopify://shop_images/106.png",
         "mobile_layout": "image_first",
         "mobile_text_alignment": "left",
         "mobile_image_ratio": "adapt",
@@ -300,7 +302,7 @@
         "heading_gyHQzi": {
           "type": "heading",
           "settings": {
-            "heading": "Discover The Technology Behind It",
+            "heading": "The only Skin Care products you need",
             "heading_size": "h1",
             "heading_tag": "h2"
           }
@@ -308,7 +310,7 @@
         "text_pMEzbX": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>The Loréka 4 in 1</strong> Wand is your go-to for amazing skin! 💫 RF (Radio Frequency) <strong>gently heats your skin </strong>to boost collagen and smooth out wrinkles. EMS (Electrical Muscle Stimulation) <strong>works out your facial muscles,</strong> lifting and toning for a firmer look. </p><p>Get smoother, tighter skin with every use! 🌟</p>",
+            "text": "<p>Our Products are 100% Natural and crafted to the needs of your body to stay hydrated and remove all kinds of acne from them</p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -319,6 +321,10 @@
         "text_pMEzbX"
       ],
       "settings": {
+        "image": "shopify://shop_images/ezgif.com-optimize.gif",
+        "image_2": "shopify://shop_images/113.png",
+        "image_3": "shopify://shop_images/611A4167.jpg",
+        "image_4": "shopify://shop_images/111_d65c0771-3117-45a8-9b5a-81932b6d608b.png",
         "image_ratio": "portrait",
         "image_position": "center center",
         "layout": "image_first",
@@ -359,7 +365,7 @@
         "use_custom_colors": true,
         "colors_icon": "#f4a6a0",
         "colors_text": "#ffffff",
-        "colors_background": "#f4a6a0",
+        "colors_background": "#a94759",
         "gradient_background": "",
         "padding_top": 20,
         "padding_bottom": 20
@@ -385,7 +391,7 @@
             "icon": "check_mark",
             "icon_size": "medium",
             "custom_icon": "",
-            "title": "Tested & Approved By Doctors",
+            "title": "Tested & Approved By Pharmacists",
             "title_size": "h4",
             "text": ""
           }
@@ -407,7 +413,7 @@
             "icon": "heart",
             "icon_size": "medium",
             "custom_icon": "",
-            "title": "Made For Everyone",
+            "title": "Made For Skin Lovers",
             "title_size": "h4",
             "text": ""
           }
@@ -435,7 +441,7 @@
         "columns_mobile": "2",
         "swipe_on_mobile": false,
         "use_custom_colors": true,
-        "colors_icon": "#f4a6a0",
+        "colors_icon": "#a94759",
         "colors_text": "#1a1b18",
         "colors_background": "#fdfdfd",
         "gradient_background": "",
