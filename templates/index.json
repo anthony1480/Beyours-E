@@ -65,7 +65,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Glow with the number 1 powder",
+            "heading": "Unleash your inner confidence",
             "heading_size": "h2",
             "heading_tag": "h2"
           }
@@ -73,10 +73,10 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>More than <strong>2000+ costumers</strong> are benefiting from the most nutritional <strong>Natural powder</strong> with <strong>102+ Benefits</strong></p>",
+            "text": "<p>From Acne removing to smelling like a goddess, benefit from the brand that has changed the life of 2000+ Women</p>",
             "text_size": "typeset3",
             "secondary_color": false,
-            "highlight_phrases": "2000+ costumers \n102+ Benefits",
+            "highlight_phrases": "2000+ Women\nAcne removing\nsmelling like a goddess",
             "highlight_style": "underline"
           }
         }
@@ -100,6 +100,35 @@
         "gradient_background": "",
         "padding_top": 20,
         "padding_bottom": 20
+      }
+    },
+    "featured_collection_BeTk79": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "bundle-save",
+        "products_to_show": 4,
+        "horizontal_scroll": false,
+        "show_view_all": true,
+        "show_divider": false,
+        "heading": "Featured collection",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "heading_tag": "h2",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "image_ratio": "adapt",
+        "image_position": "center center",
+        "enable_image_fill": true,
+        "show_secondary_image": false,
+        "secondary_image_max": 1,
+        "show_vendor": false,
+        "show_rating": false,
+        "show_quick_buy": true,
+        "enable_quick_view": true,
+        "enable_color_swatches": true,
+        "enable_countdown": true,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "featured-product": {
@@ -188,7 +217,7 @@
         ".badge {background-color: #d72c0d; border-color: #d72c0d; color: #ffffff; border-radius: 10px;}"
       ],
       "settings": {
-        "product": "energyzed™-all-in-1-moringa-powder",
+        "product": "the-booty-care-routine",
         "layout": "text_first",
         "full_width": false,
         "show_divider": false,
@@ -201,6 +230,68 @@
         "enable_layered_images": false,
         "padding_top": 20,
         "padding_bottom": 20
+      }
+    },
+    "collection_list_XdnJ8d": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_hiCTFX": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "best-sellers",
+            "image_position": "center center"
+          }
+        },
+        "featured_collection_JKcHHE": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "body-personal-care",
+            "image_position": "center center"
+          }
+        },
+        "featured_collection_gRHgXR": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "feminine-hygiene",
+            "image_position": "center center"
+          }
+        },
+        "featured_collection_jir3Fx": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "dry-skin-hydration",
+            "image_position": "center center"
+          }
+        },
+        "featured_collection_BHqeqF": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "glow-scent-essentials",
+            "image_position": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_hiCTFX",
+        "featured_collection_JKcHHE",
+        "featured_collection_gRHgXR",
+        "featured_collection_jir3Fx",
+        "featured_collection_BHqeqF"
+      ],
+      "settings": {
+        "show_view_all": false,
+        "show_divider": false,
+        "columns_desktop": 3,
+        "heading": "Collections",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "heading_tag": "h2",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "image_ratio": "square",
+        "apply_overlay": true,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "scrolling_promotion_k9dVtt": {
@@ -223,7 +314,7 @@
             "icon": "none",
             "icon_size": "medium",
             "custom_icon": "",
-            "text": "🌟 Clear skin &amp; stronger hair",
+            "text": "🌟 Clear skin &amp; No acne",
             "text_size": 20,
             "link": ""
           }
@@ -243,7 +334,7 @@
         "use_custom_colors": true,
         "colors_icon": "#ffffff",
         "colors_text": "#ffffff",
-        "colors_background": "#20372b",
+        "colors_background": "#a94759",
         "gradient_background": "",
         "padding_top": 20,
         "padding_bottom": 20
@@ -255,7 +346,7 @@
         "heading_PBHfNc": {
           "type": "heading",
           "settings": {
-            "heading": "Energyze a day keeps the doctor away",
+            "heading": "Start taking real care of yourself",
             "heading_size": "h2",
             "heading_tag": "h2"
           }
@@ -263,7 +354,7 @@
         "text_6GwMQm": {
           "type": "text",
           "settings": {
-            "text": "<p>Just one small <strong>1.5g scoop</strong> of <strong>Energyze Moringa Powder</strong> daily is packed with essential vitamins, minerals, and antioxidants that <strong>boost immunity, enhance digestion, and fight inflammation</strong>. Rich in iron, calcium, and plant-based protein, it naturally supports <strong>heart health, brain function, and overall well-being</strong>—keeping you energized and strong. Add it to water, juice, or smoothies, and let nature’s most powerful superfood <strong>keep the doctor away</strong>!</p>",
+            "text": "<p>With just this small habit daily, your body will thank you as everyone around you. <strong>Achieve better Skin</strong> and a more <strong>glowy</strong> one with our <strong>Acne solutions</strong>, and achieve a better smell with our set of <strong>dazzling perfumes</strong></p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -272,7 +363,7 @@
           "type": "button",
           "settings": {
             "button_label": "Try it now",
-            "button_link": "shopify://products/energyzed™-all-in-1-moringa-powder",
+            "button_link": "shopify://collections/all",
             "button_size": "medium",
             "button_style_secondary": false
           }
@@ -284,6 +375,10 @@
         "button_84eahN"
       ],
       "settings": {
+        "image": "shopify://shop_images/ezgif.com-optimize.gif",
+        "image_2": "shopify://shop_images/611A4167.jpg",
+        "image_3": "shopify://shop_images/111.png",
+        "image_4": "shopify://shop_images/113.png",
         "image_ratio": "square",
         "image_position": "center center",
         "layout": "text_first",
@@ -302,29 +397,36 @@
         "question_Xgtj77": {
           "type": "question",
           "settings": {
-            "title": "Will Energyze Powder help with weight loss?",
-            "text": "<p>Yes! Energyze Moringa Powder helps <strong>reduce appetite, boost metabolism, and support digestion</strong>, making it a natural and effective way to manage weight</p>"
+            "title": "How many days does it need to remove my butt Acne?",
+            "text": "<p>Our products generally start giving results as soon as 7-14 days after use</p>"
           }
         },
         "question_abK3Ap": {
           "type": "question",
           "settings": {
-            "title": "Does it really provide energy without crashes?",
-            "text": "<p>Absolutely! Unlike coffee, Energyze Moringa Powder delivers <strong>sustained energy without jitters or crashes</strong>, thanks to its rich blend of vitamins, minerals, and electrolytes.</p>"
+            "title": "Where are Essentials by Jay Products Made?",
+            "text": "<p>All our products are proudly made in Lebanon with global ingredients</p>"
           }
         },
         "question_Wxiyx9": {
           "type": "question",
           "settings": {
-            "title": "Do you offer free delivery & cash on delivery?",
-            "text": "<p>Yes! We offer <strong>FREE delivery all over Lebanon</strong> and <strong>Cash on Delivery (COD)</strong> for a hassle-free shopping experience</p>"
+            "title": "Are your products vegan & cruelty-free?",
+            "text": "<p>Yes, absolutely! We test on our bodies not on innocent animals</p>"
+          }
+        },
+        "question_cUwfdF": {
+          "type": "question",
+          "settings": {
+            "title": "Is it safe to use fragrances on the intimate area?",
+            "text": "<p>Yes, because the fragrances that we use are alcohol-free, non-irritating and have low sensitization potential.</p>"
           }
         },
         "question_bCdkFL": {
           "type": "question",
           "settings": {
-            "title": "Are your products vegan & cruelty-free?",
-            "text": "<p>Yes, absolutely! We test on our bodies not on innocent animals.</p>"
+            "title": "Do the products have side effects?",
+            "text": "<p>The products are designed to use against the skin. They are tested and perfectly safe. However, Before you add any new skin care product to your routine, dermatologists recommend doing a patch test to check for potential reactions.</p>"
           }
         }
       },
@@ -332,6 +434,7 @@
         "question_Xgtj77",
         "question_abK3Ap",
         "question_Wxiyx9",
+        "question_cUwfdF",
         "question_bCdkFL"
       ],
       "settings": {
@@ -417,7 +520,7 @@
         "columns_mobile": "2",
         "swipe_on_mobile": false,
         "use_custom_colors": true,
-        "colors_icon": "#20372b",
+        "colors_icon": "#a94759",
         "colors_text": "#1a1b18",
         "colors_background": "#fafafa",
         "gradient_background": "",
@@ -429,7 +532,9 @@
   "order": [
     "slideshow",
     "rich-text-0",
+    "featured_collection_BeTk79",
     "featured-product",
+    "collection_list_XdnJ8d",
     "scrolling_promotion_k9dVtt",
     "images_with_text_cnmQXW",
     "faq_8dnhCT",
