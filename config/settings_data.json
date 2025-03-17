@@ -95,6 +95,11 @@
         "type": "shopify://apps/fera/blocks/embed/2fbfcfa7-8a04-479f-89a8-0621fa099c51",
         "disabled": false,
         "settings": {}
+      },
+      "17932116065945454919": {
+        "type": "shopify://apps/adt-facebook-pixels-ads/blocks/facebook-ads-pixels/4ad3004f-fa0b-4587-a4f1-4d8ce89e9fbb",
+        "disabled": false,
+        "settings": {}
       }
     }
   },
