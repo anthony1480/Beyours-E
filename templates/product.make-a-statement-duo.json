@@ -54,18 +54,29 @@
             "show_gift_card_recipient": false
           }
         },
+        "collapsible_tab_iNRBzU": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "none",
+            "heading": "Choose your vibe",
+            "content": "<p><strong>🥥🌴Coco Sunset: </strong>A warm blend of creamy coconut and rich vanilla, for that \"vacay in a bottle\" feel.</p><p><strong>🍓🍒After Dark: </strong>Sweet red berries with a touch of mystery designed for unforgettable nights.</p><p><strong>🌙💙Under the Moonlight:</strong> A soft, timeless white musk that’s effortlessly elegant.</p>",
+            "page": "",
+            "custom_liquid": "",
+            "keep_open": false
+          }
+        },
         "custom_liquid_8fkWzA": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<b><p>✅ Tested & Approved by Pharmacists</p>\n<p>🌟 Results guaranteed </p>\n<p>🕝 See Fast Results</p></b>"
+            "custom_liquid": "<b><p>✅ Generous sizes for longer-lasting indulgence</p>\n<p>✅ Perfect for treating yourself or someone special</p>\n<p>✅ Three irresistible scents to match all moods and styles.</p></b>"
           }
         },
         "collapsible_tab_GPn4gb": {
           "type": "collapsible_tab",
           "settings": {
             "icon": "question_mark",
-            "heading": "HOW TO USE",
-            "content": "<p>Three easy steps:</p><ol><li>Clean your skin</li><li>Choose the right mode for your skin</li><li>Start massaging your skin slowly for 10 minutes, 3 to 4 times a week</li></ol><p>Do this everyday and you will start to see results in few days after use</p>",
+            "heading": "Say hello to your next obsession",
+            "content": "<p>The <strong>Make a Statement Duo</strong> has everything you need to turn heads this holiday season: a <strong>Body Splash (150ml)</strong> and a <strong>Hair Perfume (50ml)</strong>. Both products come in stunning, <strong>Instagram-worthy packaging!</strong></p>",
             "page": "",
             "custom_liquid": "",
             "keep_open": false
@@ -91,6 +102,7 @@
         "fera_product_reviews_summary_GjwhcP",
         "price",
         "buy_buttons",
+        "collapsible_tab_iNRBzU",
         "custom_liquid_8fkWzA",
         "collapsible_tab_GPn4gb",
         "inventory_status",
