@@ -71,10 +71,6 @@
             "keep_open": false
           }
         },
-        "description": {
-          "type": "description",
-          "settings": {}
-        },
         "inventory_status": {
           "type": "inventory_status",
           "settings": {
@@ -97,7 +93,6 @@
         "buy_buttons",
         "custom_liquid_8fkWzA",
         "collapsible_tab_GPn4gb",
-        "description",
         "inventory_status",
         "sticky_cart"
       ],
