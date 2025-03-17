@@ -278,19 +278,31 @@
     "scrolling_promotion_UiKVGc": {
       "type": "scrolling-promotion",
       "blocks": {
+        "announcement_xtnL9N": {
+          "type": "announcement",
+          "settings": {
+            "icon": "none",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "text": "The statement DUO is here",
+            "text_size": 20,
+            "link": ""
+          }
+        },
         "announcement_UQ6ENY": {
           "type": "announcement",
           "settings": {
             "icon": "none",
             "icon_size": "medium",
             "custom_icon": "",
-            "text": "OVER 500 HAPPY CUSTOMERS",
+            "text": "HAVE NO FEAR",
             "text_size": 16,
             "link": ""
           }
         }
       },
       "block_order": [
+        "announcement_xtnL9N",
         "announcement_UQ6ENY"
       ],
       "custom_css": [
@@ -329,7 +341,7 @@
             "icon": "check_mark",
             "icon_size": "medium",
             "custom_icon": "",
-            "title": "Tested & Approved By Pharmacists",
+            "title": "Tested & Approved By Couples",
             "title_size": "h4",
             "text": ""
           }
@@ -351,7 +363,7 @@
             "icon": "heart",
             "icon_size": "medium",
             "custom_icon": "",
-            "title": "Made For Skin Lovers",
+            "title": "Making better relationships",
             "title_size": "h4",
             "text": ""
           }
