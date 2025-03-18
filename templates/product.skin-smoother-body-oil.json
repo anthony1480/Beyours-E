@@ -57,7 +57,29 @@
         "custom_liquid_8fkWzA": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<b><p>✅ Tested & Approved by Pharmacists</p>\n<p>✅ Guaranteed results </p>\n<p>🕝 See Fast Results</p></b>"
+            "custom_liquid": "<b><p>🌟&nbsp;Rich in Jojoba and avocado oils</p>\n<p>😚&nbsp;Anti Scars, Cellulites & Stretchmarks </p>\n<p>🤰🏻&nbsp;Suitable for pregnant women</p></b>"
+          }
+        },
+        "collapsible_tab_bwCPcR": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "none",
+            "heading": "Skin Smoother Anti Stretch Marks Body Oil:",
+            "content": "<p>This ultra-moisturizing body oil will leave your skin silky smooth. Apply it all over your body & watch it repair and improve the appearance of scars, cellulites and stretch marks. Bonus: It will leave you smelling like a cupcake!</p>",
+            "page": "",
+            "custom_liquid": "",
+            "keep_open": false
+          }
+        },
+        "collapsible_tab_KrCzMe": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "none",
+            "heading": "How to use:",
+            "content": "<p>Simply apply the oil to the affected areas and massage it with a firm circular motion. The oil will smoothly absorb into the skin and will visibly improve the skin's elasticity. Do it twice per day on clean, dry skin</p>",
+            "page": "",
+            "custom_liquid": "",
+            "keep_open": false
           }
         },
         "inventory_status": {
@@ -81,6 +103,8 @@
         "price",
         "buy_buttons",
         "custom_liquid_8fkWzA",
+        "collapsible_tab_bwCPcR",
+        "collapsible_tab_KrCzMe",
         "inventory_status",
         "sticky_cart"
       ],
@@ -104,49 +128,34 @@
         "padding_bottom": 20
       }
     },
-    "image_banner_jy3yGP": {
-      "type": "image-banner",
-      "custom_css": [
-        "@media screen and (min-width: 768px) {div {display: none; }}"
-      ],
-      "settings": {
-        "image_position": "center center",
-        "text_box_position": "middle-center",
-        "text_alignment": "center",
-        "image_ratio": "650px",
-        "show_text_box": false,
-        "full_width": true,
-        "show_divider": false,
-        "image_behavior": "none",
-        "mobile_text_alignment": "center",
-        "mobile_image_ratio": "adapt",
-        "stack_images_on_mobile": true,
-        "show_text_below": true,
-        "colors_button_label": "#1a1b18",
-        "colors_button_background": "#ffffff",
-        "colors_text": "#ffffff",
-        "colors_overlay": "#000000",
-        "colors_overlay_opacity": 28,
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
     "scrolling-promotion": {
       "type": "scrolling-promotion",
       "blocks": {
+        "announcement_z8QCYA": {
+          "type": "announcement",
+          "settings": {
+            "icon": "none",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "text": "💧 Suitable for All Skin Types",
+            "text_size": 20,
+            "link": ""
+          }
+        },
         "announcement-1": {
           "type": "announcement",
           "settings": {
             "icon": "none",
             "icon_size": "medium",
             "custom_icon": "",
-            "text": "The only skin care you need",
+            "text": "🌿 Vegan, Natural and Cruelty-Free",
             "text_size": 16,
             "link": ""
           }
         }
       },
       "block_order": [
+        "announcement_z8QCYA",
         "announcement-1"
       ],
       "custom_css": [
@@ -171,7 +180,7 @@
         "heading_dpeidU": {
           "type": "heading",
           "settings": {
-            "heading": "Solve all of your acne problems",
+            "heading": "Remove all scars & Cellulites",
             "heading_size": "h1",
             "heading_tag": "h2"
           }
@@ -179,7 +188,7 @@
         "subheading_c3XRmH": {
           "type": "subheading",
           "settings": {
-            "subheading": "More than 5 Products curated for you",
+            "subheading": "It will leave you smelling like a cupcake!",
             "subheading_size": "h5",
             "secondary_color": false
           }
@@ -187,7 +196,7 @@
         "text_4DQrEY": {
           "type": "text",
           "settings": {
-            "text": "<p>Our products are made for all skin types to stay hydrated and are <strong>100% Tested and approved</strong>. So love yourself and get yourself  a <strong>Jay Bundle</strong></p>",
+            "text": "<p>Who doesn't hate cellulites and scars all over his body? Now is the best time to remove them all and get filled with <strong>confidence</strong> and love your<strong> smooth skin</strong> for good. And all that comes with a lovely cupcake smell that lasts up to <strong>6 hours</strong></p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -199,7 +208,7 @@
         "text_4DQrEY"
       ],
       "settings": {
-        "image": "shopify://shop_images/106.png",
+        "image": "shopify://shop_images/110_db1fc7b5-74ec-4568-8f71-e7811f7ca831.png",
         "image_position": "center center",
         "layout": "text_first",
         "text_box_position": "middle",
@@ -225,67 +234,13 @@
         "padding_bottom": 36
       }
     },
-    "image_banner_iKrdae": {
-      "type": "image-banner",
-      "custom_css": [
-        "@media screen and (min-width: 768px) {div {display: none; }}"
-      ],
-      "settings": {
-        "image_position": "center center",
-        "text_box_position": "middle-center",
-        "text_alignment": "center",
-        "image_ratio": "650px",
-        "show_text_box": false,
-        "full_width": true,
-        "show_divider": false,
-        "image_behavior": "none",
-        "mobile_text_alignment": "center",
-        "mobile_image_ratio": "adapt",
-        "stack_images_on_mobile": true,
-        "show_text_below": true,
-        "colors_button_label": "#1a1b18",
-        "colors_button_background": "#ffffff",
-        "colors_text": "#ffffff",
-        "colors_overlay": "#000000",
-        "colors_overlay_opacity": 28,
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "image_banner_XAz9Uz": {
-      "type": "image-banner",
-      "custom_css": [
-        "@media screen and (max-width: 768px) {div {display: none; }}"
-      ],
-      "settings": {
-        "image_position": "center center",
-        "text_box_position": "middle-center",
-        "text_alignment": "center",
-        "image_ratio": "adapt",
-        "show_text_box": false,
-        "full_width": true,
-        "show_divider": false,
-        "image_behavior": "none",
-        "mobile_text_alignment": "center",
-        "mobile_image_ratio": "adapt",
-        "stack_images_on_mobile": true,
-        "show_text_below": true,
-        "colors_button_label": "#1a1b18",
-        "colors_button_background": "#ffffff",
-        "colors_text": "#ffffff",
-        "colors_overlay": "#000000",
-        "colors_overlay_opacity": 0,
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
     "images_with_text_t3GnhX": {
       "type": "images-with-text",
       "blocks": {
         "heading_gyHQzi": {
           "type": "heading",
           "settings": {
-            "heading": "The only Skin Care products you need",
+            "heading": "Thinking about it again? Think no more",
             "heading_size": "h1",
             "heading_tag": "h2"
           }
@@ -293,7 +248,7 @@
         "text_pMEzbX": {
           "type": "text",
           "settings": {
-            "text": "<p>Our Products are 100% Natural and crafted to the needs of your body to stay hydrated and remove all kinds of acne from them</p>",
+            "text": "<p>All of our products are 100% natural and tested in laboratories making us the best out there for a reason. While more than <strong>7000+ women</strong> trust us, you can trust us with our <strong>money back guarantee</strong> policy that helps you purchase with<strong> peace of mind</strong></p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -304,10 +259,10 @@
         "text_pMEzbX"
       ],
       "settings": {
-        "image": "shopify://shop_images/ezgif.com-optimize.gif",
-        "image_2": "shopify://shop_images/113.png",
-        "image_3": "shopify://shop_images/611A4167.jpg",
-        "image_4": "shopify://shop_images/111_d65c0771-3117-45a8-9b5a-81932b6d608b.png",
+        "image": "shopify://shop_images/111_d65c0771-3117-45a8-9b5a-81932b6d608b.png",
+        "image_2": "shopify://shop_images/110_db1fc7b5-74ec-4568-8f71-e7811f7ca831.png",
+        "image_3": "shopify://shop_images/109.png",
+        "image_4": "shopify://shop_images/110.png",
         "image_ratio": "portrait",
         "image_position": "center center",
         "layout": "image_first",
@@ -329,7 +284,7 @@
             "icon": "none",
             "icon_size": "medium",
             "custom_icon": "",
-            "text": "OVER 500 HAPPY CUSTOMERS",
+            "text": "OVER 7000 HAPPY CUSTOMERS",
             "text_size": 16,
             "link": ""
           }
@@ -346,7 +301,7 @@
         "speed": 1.6,
         "show_divider": false,
         "use_custom_colors": true,
-        "colors_icon": "#f4a6a0",
+        "colors_icon": "#a94759",
         "colors_text": "#ffffff",
         "colors_background": "#a94759",
         "gradient_background": "",
@@ -587,11 +542,8 @@
   "order": [
     "empty-space",
     "main",
-    "image_banner_jy3yGP",
     "scrolling-promotion",
     "image_with_text_beiAjz",
-    "image_banner_iKrdae",
-    "image_banner_XAz9Uz",
     "images_with_text_t3GnhX",
     "scrolling_promotion_UiKVGc",
     "guarantees",
