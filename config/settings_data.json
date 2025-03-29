@@ -100,6 +100,40 @@
         "type": "shopify://apps/adt-facebook-pixels-ads/blocks/facebook-ads-pixels/4ad3004f-fa0b-4587-a4f1-4d8ce89e9fbb",
         "disabled": false,
         "settings": {}
+      },
+      "6544682535036668446": {
+        "type": "shopify://apps/pumper-bundles-quantity-breaks/blocks/app-embed/0856870d-2aca-4b1e-a662-cf1797f61270",
+        "disabled": false,
+        "settings": {}
+      },
+      "14060646107696862457": {
+        "type": "shopify://apps/judge-me-reviews/blocks/judgeme_core/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+        "disabled": false,
+        "settings": {}
+      },
+      "11667715999621601152": {
+        "type": "shopify://apps/pixelpro-easy-pixel-install/blocks/turbo-tiktok/0f61e244-e2c9-43da-9523-9762c9f7e6bf",
+        "disabled": false,
+        "settings": {}
+      },
+      "855628211100114053": {
+        "type": "shopify://apps/klaviyo-email-marketing-sms/blocks/klaviyo-onsite-embed/2632fe16-c075-4321-a88b-50b567f42507",
+        "disabled": false,
+        "settings": {}
+      },
+      "15683396631634586217": {
+        "type": "shopify://apps/inbox/blocks/chat/841fc607-4181-4ad1-842d-e24d7f8bad6b",
+        "disabled": false,
+        "settings": {
+          "button_color": "#000000",
+          "secondary_color": "#FFFFFF",
+          "ternary_color": "#6A6A6A",
+          "button_icon": "chat_bubble",
+          "button_text": "chat_with_us",
+          "button_horizontal_position": "bottom_right",
+          "button_vertical_position": "lowest",
+          "greeting_message": ""
+        }
       }
     }
   },
