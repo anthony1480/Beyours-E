@@ -52,6 +52,19 @@
             "custom_liquid": "<b><p>🌟 Shea Butter + Vitamin E for Intense Hydration</p>\n<p>🧼&nbsp;Dreamy&nbsp;Foaming&nbsp;Texture </p>\n<p> 🍧 Ice Cream Fragrance</p></b>"
           }
         },
+        "variant_picker_UUBJzi": {
+          "type": "variant_picker",
+          "settings": {
+            "show_variant_labels": true,
+            "picker_type": "button",
+            "enable_color_swatches": true,
+            "swatches_source": "file",
+            "swatch_type": "round",
+            "enable_swatch_cross": true,
+            "enable_swatch_unavailable_click": false,
+            "size_chart": ""
+          }
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -124,6 +137,7 @@
         "fera_product_reviews_summary_GjwhcP",
         "price",
         "custom_liquid_8fkWzA",
+        "variant_picker_UUBJzi",
         "buy_buttons",
         "collapsible_tab_GPn4gb",
         "collapsible_tab_Q7Ba79",
