@@ -46,6 +46,19 @@
             "sale_badge_basis": "auto"
           }
         },
+        "variant_picker_QMm6CD": {
+          "type": "variant_picker",
+          "settings": {
+            "show_variant_labels": true,
+            "picker_type": "dropdown",
+            "enable_color_swatches": true,
+            "swatches_source": "file",
+            "swatch_type": "round",
+            "enable_swatch_cross": true,
+            "enable_swatch_unavailable_click": false,
+            "size_chart": ""
+          }
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -94,6 +107,7 @@
         "title",
         "fera_product_reviews_summary_GjwhcP",
         "price",
+        "variant_picker_QMm6CD",
         "buy_buttons",
         "custom_liquid_8fkWzA",
         "collapsible_tab_GPn4gb",
