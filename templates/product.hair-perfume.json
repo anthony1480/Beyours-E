@@ -52,6 +52,19 @@
             "custom_liquid": "<b><p>✅ Lightweight, long-lasting formulas that refresh your hair without weighing it down.</p>\n<p> ✅ Perfect for anyone who loves to keep their hair smelling fresh and luxurious</p>\n<p> ✅ Suitable for all hair types, including curly hair</p></b>"
           }
         },
+        "variant_picker_MGBWTJ": {
+          "type": "variant_picker",
+          "settings": {
+            "show_variant_labels": true,
+            "picker_type": "dropdown",
+            "enable_color_swatches": true,
+            "swatches_source": "file",
+            "swatch_type": "round",
+            "enable_swatch_cross": true,
+            "enable_swatch_unavailable_click": false,
+            "size_chart": ""
+          }
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -102,6 +115,7 @@
         "fera_product_reviews_summary_GjwhcP",
         "price",
         "custom_liquid_8fkWzA",
+        "variant_picker_MGBWTJ",
         "buy_buttons",
         "collapsible_tab_GPn4gb",
         "collapsible_tab_cCWjdX",
@@ -263,6 +277,60 @@
         "padding_bottom": 36
       }
     },
+    "collapsible-content": {
+      "type": "collapsible-content",
+      "blocks": {
+        "question-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What are the hair sprays?",
+            "row_content": "<p>They are the best spray that u can toss on your hair and instantly get a fresh hair smell</p>",
+            "page": ""
+          }
+        },
+        "question-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How much do they last?",
+            "row_content": "<p>One spray could last up to 5 hours of fresh smell</p>",
+            "page": ""
+          }
+        },
+        "question-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Are your products organic?",
+            "row_content": "<p>Yes, our products are 100% Organic and cruelty free.</p>",
+            "page": ""
+          }
+        },
+        "question-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How many days does the delivery need?",
+            "row_content": "<p>Our delivery service needs anywhere from 2-5 Days all around Lebanon</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "question-0",
+        "question-1",
+        "question-2",
+        "question-3"
+      ],
+      "settings": {
+        "open_first_collapsible_row": false,
+        "narrow": true,
+        "show_divider": false,
+        "heading": "FAQs",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "heading_tag": "h2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "scrolling_promotion_UiKVGc": {
       "type": "scrolling-promotion",
       "blocks": {
@@ -396,60 +464,6 @@
         "show_divider": false,
         "padding_top": 20,
         "padding_bottom": 20
-      }
-    },
-    "collapsible-content": {
-      "type": "collapsible-content",
-      "blocks": {
-        "question-0": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "What are the hair sprays?",
-            "row_content": "<p>They are the best spray that u can toss on your hair and instantly get a fresh hair smell</p>",
-            "page": ""
-          }
-        },
-        "question-1": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "How much do they last?",
-            "row_content": "<p>One spray could last up to 5 hours of fresh smell</p>",
-            "page": ""
-          }
-        },
-        "question-2": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Are your products organic?",
-            "row_content": "<p>Yes, our products are 100% Organic and cruelty free.</p>",
-            "page": ""
-          }
-        },
-        "question-3": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "How many days does the delivery need?",
-            "row_content": "<p>Our delivery service needs anywhere from 2-5 Days all around Lebanon</p>",
-            "page": ""
-          }
-        }
-      },
-      "block_order": [
-        "question-0",
-        "question-1",
-        "question-2",
-        "question-3"
-      ],
-      "settings": {
-        "open_first_collapsible_row": false,
-        "narrow": true,
-        "show_divider": false,
-        "heading": "FAQs",
-        "heading_size": "h1",
-        "heading_alignment": "center",
-        "heading_tag": "h2",
-        "padding_top": 36,
-        "padding_bottom": 36
       }
     },
     "product-recommendations": {
