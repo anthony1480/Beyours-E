@@ -71,9 +71,13 @@
             "keep_open": false
           }
         },
-        "description": {
-          "type": "description",
-          "settings": {}
+        "collapsible_description_B7k8ct": {
+          "type": "collapsible_description",
+          "settings": {
+            "icon": "none",
+            "heading": "Description",
+            "keep_open": false
+          }
         },
         "inventory_status": {
           "type": "inventory_status",
@@ -97,7 +101,7 @@
         "buy_buttons",
         "custom_liquid_8fkWzA",
         "collapsible_tab_GPn4gb",
-        "description",
+        "collapsible_description_B7k8ct",
         "inventory_status",
         "sticky_cart"
       ],
