@@ -119,6 +119,7 @@
         "product_zeQ6An",
         "product_gLzHdy"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/80.png",
         "layout": "image_first",
