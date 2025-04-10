@@ -52,6 +52,19 @@
             "custom_liquid": "<b><p>✅ Generous sizes for longer-lasting indulgence</p>\n<p>✅ Perfect for treating yourself or someone special</p>\n<p>✅ Three irresistible scents to match all moods and styles.</p></b>"
           }
         },
+        "variant_picker_nGMbhe": {
+          "type": "variant_picker",
+          "settings": {
+            "show_variant_labels": true,
+            "picker_type": "button",
+            "enable_color_swatches": true,
+            "swatches_source": "file",
+            "swatch_type": "round",
+            "enable_swatch_cross": true,
+            "enable_swatch_unavailable_click": false,
+            "size_chart": ""
+          }
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -102,6 +115,7 @@
         "fera_product_reviews_summary_GjwhcP",
         "price",
         "custom_liquid_8fkWzA",
+        "variant_picker_nGMbhe",
         "buy_buttons",
         "collapsible_tab_iNRBzU",
         "collapsible_tab_GPn4gb",
