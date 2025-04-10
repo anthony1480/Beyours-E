@@ -46,6 +46,12 @@
             "sale_badge_basis": "auto"
           }
         },
+        "custom_liquid_8fkWzA": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<b><p>✅ Generous sizes for longer-lasting indulgence</p>\n<p>✅ Perfect for treating yourself or someone special</p>\n<p>✅ Three irresistible scents to match all moods and styles.</p></b>"
+          }
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -63,12 +69,6 @@
             "page": "",
             "custom_liquid": "",
             "keep_open": false
-          }
-        },
-        "custom_liquid_8fkWzA": {
-          "type": "custom_liquid",
-          "settings": {
-            "custom_liquid": "<b><p>✅ Generous sizes for longer-lasting indulgence</p>\n<p>✅ Perfect for treating yourself or someone special</p>\n<p>✅ Three irresistible scents to match all moods and styles.</p></b>"
           }
         },
         "collapsible_tab_GPn4gb": {
@@ -101,9 +101,9 @@
         "title",
         "fera_product_reviews_summary_GjwhcP",
         "price",
+        "custom_liquid_8fkWzA",
         "buy_buttons",
         "collapsible_tab_iNRBzU",
-        "custom_liquid_8fkWzA",
         "collapsible_tab_GPn4gb",
         "inventory_status",
         "sticky_cart"
