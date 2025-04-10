@@ -95,55 +95,6 @@
         "padding_bottom": 36
       }
     },
-    "multicolumn": {
-      "type": "multicolumn",
-      "blocks": {
-        "column-0": {
-          "type": "column",
-          "settings": {
-            "title": "Site-wide promotion",
-            "title_size": "h2",
-            "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.</p>",
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false
-          }
-        },
-        "column-1": {
-          "type": "column",
-          "settings": {
-            "title": "Site-wide promotion",
-            "title_size": "h2",
-            "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.</p>",
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "column-0",
-        "column-1"
-      ],
-      "settings": {
-        "image_ratio": "wide",
-        "image_position": "center center",
-        "text_alignment": "center",
-        "show_divider": false,
-        "image_width": "full",
-        "columns_desktop": 3,
-        "open_in_new_tab": false,
-        "heading": "More to Discover",
-        "heading_size": "h1",
-        "heading_alignment": "left",
-        "heading_tag": "h2",
-        "mobile_text_alignment": "center",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 72
-      }
-    },
     "scrolling_promotion_39UjHm": {
       "type": "scrolling-promotion",
       "blocks": {
@@ -432,7 +383,6 @@
     "subs",
     "product-grid",
     "recently-viewed",
-    "multicolumn",
     "scrolling_promotion_39UjHm",
     "sliding_images_LJAiWi",
     "reveal_banner_B3renb",
