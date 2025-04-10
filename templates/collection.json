@@ -348,7 +348,7 @@
             "text_size": "typeset2",
             "secondary_color": false,
             "button_label": "Bundle Up",
-            "button_link": "",
+            "button_link": "shopify://collections/bundle-save",
             "button_size": "medium",
             "button_style_secondary": false,
             "colors_button_label": "#ffffff",
