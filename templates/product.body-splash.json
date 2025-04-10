@@ -50,7 +50,7 @@
           "type": "variant_picker",
           "settings": {
             "show_variant_labels": true,
-            "picker_type": "dropdown",
+            "picker_type": "button",
             "enable_color_swatches": true,
             "swatches_source": "variant",
             "swatch_type": "round",
