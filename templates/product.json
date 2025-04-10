@@ -185,7 +185,7 @@
         "heading_dpeidU": {
           "type": "heading",
           "settings": {
-            "heading": "Solve all of your acne problems",
+            "heading": "Tackle Acne & Shaving Issues in One Simple Routine",
             "heading_size": "h1",
             "heading_tag": "h2"
           }
@@ -193,7 +193,7 @@
         "subheading_c3XRmH": {
           "type": "subheading",
           "settings": {
-            "subheading": "More than 5 Products curated for you",
+            "subheading": "Specifically Curated for Clear, Smooth Skin",
             "subheading_size": "h5",
             "secondary_color": false
           }
@@ -201,7 +201,7 @@
         "text_4DQrEY": {
           "type": "text",
           "settings": {
-            "text": "<p>Our products are made for all skin types to stay hydrated and are <strong>100% Tested and approved</strong>. So love yourself and get yourself  a <strong>Jay Bundle</strong></p>",
+            "text": "<p><br/>Our products are designed for all skin types, providing hydration while targeting acne and shaving-related concerns.<strong> 100% tested and approved for guaranteed results.</strong> Pamper yourself with your kit today.<br/><br/></p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -299,15 +299,15 @@
         "heading_gyHQzi": {
           "type": "heading",
           "settings": {
-            "heading": "The only Skin Care products you need",
-            "heading_size": "h1",
+            "heading": "The Only Skincare Essentials You'll Ever Need",
+            "heading_size": "h2",
             "heading_tag": "h2"
           }
         },
         "text_pMEzbX": {
           "type": "text",
           "settings": {
-            "text": "<p>Our Products are 100% Natural and crafted to the needs of your body to stay hydrated and remove all kinds of acne from them</p>",
+            "text": "<p>100% natural. Specifically designed to hydrate your skin and eliminate acne—no matter what type. Perfected for real results.<br/><br/></p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
