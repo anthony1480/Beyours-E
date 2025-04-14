@@ -73,6 +73,10 @@
             "custom_liquid": "<b><p>✅ Long-lasting fragrances that stay with you all day</p>\n<p>✅ Enjoy multiple signature scents without breaking the bank.</p>\n<p>✅ Long-lasting scents to keep you smelling incredible from morning to night.</p></b>"
           }
         },
+        "description_trDtnB": {
+          "type": "description",
+          "settings": {}
+        },
         "collapsible_tab_pn6cca": {
           "type": "collapsible_tab",
           "settings": {
@@ -117,6 +121,7 @@
         "variant_picker_AwYB6Q",
         "buy_buttons",
         "custom_liquid_8fkWzA",
+        "description_trDtnB",
         "collapsible_tab_pn6cca",
         "collapsible_tab_GPn4gb",
         "inventory_status",
