@@ -422,7 +422,7 @@
           "type": "question",
           "settings": {
             "title": "How many days does it need to remove my butt Acne?",
-            "text": "<p>Our products generally start giving results as soon as 7-14 days after use</p>"
+            "text": "<p>Our products generally start giving results as soon as 14 days after use. Expect visible results in less than a month.</p>"
           }
         },
         "question_abK3Ap": {
@@ -493,7 +493,7 @@
             "icon": "check_mark",
             "icon_size": "medium",
             "custom_icon": "",
-            "title": "Tested & Approved by Doctors",
+            "title": "Tested & Approved by Dermatologists",
             "title_size": "h3",
             "text": ""
           }
