@@ -64,14 +64,6 @@
           "type": "description",
           "settings": {}
         },
-        "collapsible_description_GqJRhB": {
-          "type": "collapsible_description",
-          "settings": {
-            "icon": "none",
-            "heading": "Description",
-            "keep_open": false
-          }
-        },
         "collapsible_tab_jdRpdk": {
           "type": "collapsible_tab",
           "settings": {
@@ -116,7 +108,6 @@
         "custom_liquid_8fkWzA",
         "buy_buttons",
         "description_eUjXGJ",
-        "collapsible_description_GqJRhB",
         "collapsible_tab_jdRpdk",
         "collapsible_tab_bPHikq",
         "inventory_status",
