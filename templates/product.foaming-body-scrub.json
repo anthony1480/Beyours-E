@@ -80,7 +80,7 @@
           "settings": {
             "icon": "none",
             "heading": "Ingrediants",
-            "content": "",
+            "content": "<p>hello world</p>",
             "page": "",
             "custom_liquid": "",
             "keep_open": false
