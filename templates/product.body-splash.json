@@ -59,6 +59,12 @@
             "size_chart": ""
           }
         },
+        "custom_liquid_8fkWzA": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<b><p>✅ Long-lasting fragrances that stay with you all day</p>\n<p>✅ Enjoy multiple signature scents without breaking the bank.</p>\n<p>✅ Long-lasting scents to keep you smelling incredible from morning to night.</p></b>"
+          }
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -67,15 +73,17 @@
             "show_gift_card_recipient": false
           }
         },
-        "custom_liquid_8fkWzA": {
-          "type": "custom_liquid",
-          "settings": {
-            "custom_liquid": "<b><p>✅ Long-lasting fragrances that stay with you all day</p>\n<p>✅ Enjoy multiple signature scents without breaking the bank.</p>\n<p>✅ Long-lasting scents to keep you smelling incredible from morning to night.</p></b>"
-          }
-        },
         "description_trDtnB": {
           "type": "description",
           "settings": {}
+        },
+        "collapsible_description_UWzAE6": {
+          "type": "collapsible_description",
+          "settings": {
+            "icon": "none",
+            "heading": "Description",
+            "keep_open": false
+          }
         },
         "collapsible_tab_pn6cca": {
           "type": "collapsible_tab",
@@ -119,9 +127,10 @@
         "fera_product_reviews_summary_GjwhcP",
         "price",
         "variant_picker_AwYB6Q",
-        "buy_buttons",
         "custom_liquid_8fkWzA",
+        "buy_buttons",
         "description_trDtnB",
+        "collapsible_description_UWzAE6",
         "collapsible_tab_pn6cca",
         "collapsible_tab_GPn4gb",
         "inventory_status",
