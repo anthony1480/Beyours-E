@@ -59,6 +59,12 @@
             "size_chart": ""
           }
         },
+        "custom_liquid_8fkWzA": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<b><p>✅ Tested & Approved by Pharmacists</p>\n<p>🌟 Results guaranteed </p>\n<p>🕝 See Fast Results</p></b>"
+          }
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -67,10 +73,12 @@
             "show_gift_card_recipient": false
           }
         },
-        "custom_liquid_8fkWzA": {
-          "type": "custom_liquid",
+        "collapsible_description_EnLgiM": {
+          "type": "collapsible_description",
           "settings": {
-            "custom_liquid": "<b><p>✅ Tested & Approved by Pharmacists</p>\n<p>🌟 Results guaranteed </p>\n<p>🕝 See Fast Results</p></b>"
+            "icon": "none",
+            "heading": "Description",
+            "keep_open": false
           }
         },
         "collapsible_tab_GPn4gb": {
@@ -81,14 +89,6 @@
             "content": "<p>Three easy steps:</p><ol><li>Clean your skin</li><li>Choose the right mode for your skin</li><li>Start massaging your skin slowly for 10 minutes, 3 to 4 times a week</li></ol><p>Do this everyday and you will start to see results in few days after use</p>",
             "page": "",
             "custom_liquid": "",
-            "keep_open": false
-          }
-        },
-        "collapsible_description_EnLgiM": {
-          "type": "collapsible_description",
-          "settings": {
-            "icon": "none",
-            "heading": "Description",
             "keep_open": false
           }
         },
@@ -112,10 +112,10 @@
         "fera_product_reviews_summary_GjwhcP",
         "price",
         "variant_picker_QMm6CD",
-        "buy_buttons",
         "custom_liquid_8fkWzA",
-        "collapsible_tab_GPn4gb",
+        "buy_buttons",
         "collapsible_description_EnLgiM",
+        "collapsible_tab_GPn4gb",
         "inventory_status",
         "sticky_cart"
       ],
