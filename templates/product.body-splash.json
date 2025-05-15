@@ -77,20 +77,12 @@
           "type": "description",
           "settings": {}
         },
-        "collapsible_description_UWzAE6": {
-          "type": "collapsible_description",
-          "settings": {
-            "icon": "none",
-            "heading": "Description",
-            "keep_open": false
-          }
-        },
         "collapsible_tab_pn6cca": {
           "type": "collapsible_tab",
           "settings": {
             "icon": "none",
-            "heading": "What's Inside",
-            "content": "<p>🌴 <strong>Coco Sunset</strong> – A dreamy blend of coconut and vanilla, perfect for tropical vibes all year long.<br/>🍓 <strong>After Dark</strong> – Juicy red berries for a bold, flirty scent that turns heads.<br/>🌙 <strong>Under the Moonlight</strong> – Soft white musk for an elegant and calming finish.</p>",
+            "heading": "Choose your signature scent:",
+            "content": "<p><br/>🌴 <strong>Coco Sunset</strong> – A tropical coconut and vanilla blend that buffs away dryness for irresistibly soft skin.<br/>🍓 <strong>After Dark</strong> – Sweet red berries for a playful scent that turns your shower into a spa-like escape.<br/>🌙 <strong>Under the Moonlight</strong> – Luxurious white musk that polishes your skin to perfection.<br/><br/></p>",
             "page": "",
             "custom_liquid": "",
             "keep_open": false
@@ -130,7 +122,6 @@
         "custom_liquid_8fkWzA",
         "buy_buttons",
         "description_trDtnB",
-        "collapsible_description_UWzAE6",
         "collapsible_tab_pn6cca",
         "collapsible_tab_GPn4gb",
         "inventory_status",
