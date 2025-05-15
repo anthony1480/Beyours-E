@@ -88,28 +88,6 @@
             "keep_open": false
           }
         },
-        "collapsible_tab_ky7PQf": {
-          "type": "collapsible_tab",
-          "settings": {
-            "icon": "none",
-            "heading": "What is the 🍓 After Dark?",
-            "content": "<p>Sweet red berries for a playful scent that turns your shower into a spa-like escape.</p>",
-            "page": "",
-            "custom_liquid": "",
-            "keep_open": false
-          }
-        },
-        "collapsible_tab_PTmYNY": {
-          "type": "collapsible_tab",
-          "settings": {
-            "icon": "none",
-            "heading": "What is the 🌙 Under the Moonlight?",
-            "content": "<p>Luxurious white musk that polishes your skin to perfection.</p>",
-            "page": "",
-            "custom_liquid": "",
-            "keep_open": false
-          }
-        },
         "inventory_status": {
           "type": "inventory_status",
           "settings": {
@@ -134,8 +112,6 @@
         "buy_buttons",
         "description_iLwTnm",
         "collapsible_tab_Q7Ba79",
-        "collapsible_tab_ky7PQf",
-        "collapsible_tab_PTmYNY",
         "inventory_status",
         "sticky_cart"
       ],
