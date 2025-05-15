@@ -81,8 +81,8 @@
           "type": "collapsible_tab",
           "settings": {
             "icon": "none",
-            "heading": "What is the 🌴 Coco Sunset?",
-            "content": "<p>A tropical coconut and vanilla blend that buffs away dryness for irresistibly soft skin.</p>",
+            "heading": "Choose your signature scent",
+            "content": "<p><br/>🌴 <strong>Coco Sunset</strong> – A tropical coconut and vanilla blend that buffs away dryness for irresistibly soft skin.<br/>🍓 <strong>After Dark</strong> – Sweet red berries for a playful scent that turns your shower into a spa-like escape.<br/>🌙 <strong>Under the Moonlight</strong> – Luxurious white musk that polishes your skin to perfection.<br/></p>",
             "page": "",
             "custom_liquid": "",
             "keep_open": false
