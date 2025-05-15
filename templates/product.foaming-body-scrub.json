@@ -49,7 +49,7 @@
         "custom_liquid_8fkWzA": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<b><p>✔️Gentle exfoliation for silky-smooth skin that feels hydrated and refreshed</p>\n<p>✔️Enjoy 3 full-sized body scrubs in 3 different scents without breaking the bank</p>"
+            "custom_liquid": "<b><p>🌟 Shea Butter + Vitamin E for Intense Hydration</p>\n<p>🦋 Effective against stretch marks, cellulites &amp; skin discoloration\n☕&nbsp;Foaming&nbsp;Texture with fresh ground coffee beans</p>"
           }
         },
         "buy_buttons": {
@@ -58,6 +58,29 @@
             "show_quantity_selector": false,
             "show_dynamic_checkout": true,
             "show_gift_card_recipient": false
+          }
+        },
+        "description_eUjXGJ": {
+          "type": "description",
+          "settings": {}
+        },
+        "collapsible_description_GqJRhB": {
+          "type": "collapsible_description",
+          "settings": {
+            "icon": "none",
+            "heading": "Description",
+            "keep_open": false
+          }
+        },
+        "collapsible_tab_jdRpdk": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "none",
+            "heading": "Usage Instructions",
+            "content": "<p><strong>Pro Tip:</strong> Pair it with our <strong>Skin Smoother Stretch Marks Body Oil</strong> for enhanced results. Use the scrub to exfoliate and prepare your skin, then follow with the body oil to deeply hydrate and lock in moisture for a silky-smooth finish.</p>",
+            "page": "",
+            "custom_liquid": "",
+            "keep_open": false
           }
         },
         "inventory_status": {
@@ -81,6 +104,9 @@
         "price",
         "custom_liquid_8fkWzA",
         "buy_buttons",
+        "description_eUjXGJ",
+        "collapsible_description_GqJRhB",
+        "collapsible_tab_jdRpdk",
         "inventory_status",
         "sticky_cart"
       ],
@@ -101,53 +127,6 @@
         "mobile_image_ratio": "adapt_first",
         "show_mobile_thumbnails": true,
         "padding_top": 0,
-        "padding_bottom": 20
-      }
-    },
-    "testimonials_zBJVKg": {
-      "type": "testimonials",
-      "blocks": {
-        "testimonial_TNNYXa": {
-          "type": "testimonial",
-          "settings": {
-            "icon": "5",
-            "text": "<p>My skin feels so much better after using The 4 in 1 Wand for couple of days only. Highly recommended!!</p>",
-            "author": "Maria K."
-          }
-        },
-        "testimonial_3PXdex": {
-          "type": "testimonial",
-          "settings": {
-            "icon": "5",
-            "text": "<p>Acne was driving me crazy. But my friend told me about loreka and it's really a life saver for me</p>",
-            "author": "Jade H."
-          }
-        },
-        "testimonial_bfidJz": {
-          "type": "testimonial",
-          "settings": {
-            "icon": "5",
-            "text": "<p>The red and blue light modes are perfect for making my skin smooth and young</p>",
-            "author": "Carla K."
-          }
-        }
-      },
-      "block_order": [
-        "testimonial_TNNYXa",
-        "testimonial_3PXdex",
-        "testimonial_bfidJz"
-      ],
-      "disabled": true,
-      "settings": {
-        "autorotate": true,
-        "autorotate_speed": 5,
-        "hide_images": true,
-        "show_divider": false,
-        "heading": "What Our Customers Think 👇",
-        "heading_size": "h1",
-        "heading_alignment": "center",
-        "heading_tag": "h2",
-        "padding_top": 20,
         "padding_bottom": 20
       }
     },
@@ -259,7 +238,6 @@
   "order": [
     "empty-space",
     "main",
-    "testimonials_zBJVKg",
     "1717958248b0b4020b",
     "collapsible-content",
     "product-recommendations"
