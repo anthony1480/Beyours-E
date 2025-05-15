@@ -73,6 +73,10 @@
             "show_gift_card_recipient": false
           }
         },
+        "description_YT8gfF": {
+          "type": "description",
+          "settings": {}
+        },
         "collapsible_tab_fUXbjW": {
           "type": "collapsible_tab",
           "settings": {
@@ -139,6 +143,7 @@
         "variant_picker_RiRatz",
         "custom_liquid_8fkWzA",
         "buy_buttons",
+        "description_YT8gfF",
         "collapsible_tab_fUXbjW",
         "collapsible_tab_Pm9ypV",
         "collapsible_tab_XhtgXU",
