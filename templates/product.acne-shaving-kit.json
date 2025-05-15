@@ -59,18 +59,18 @@
             "size_chart": ""
           }
         },
+        "custom_liquid_8fkWzA": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<b><p>✅ Bye Bye Acne</p>\n<p>✅ Guaranteed results </p>\n<p>🕝 See Fast Results</p></b>"
+          }
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
             "show_quantity_selector": false,
             "show_dynamic_checkout": true,
             "show_gift_card_recipient": false
-          }
-        },
-        "custom_liquid_8fkWzA": {
-          "type": "custom_liquid",
-          "settings": {
-            "custom_liquid": "<b><p>✅ Bye Bye Acne</p>\n<p>✅ Guaranteed results </p>\n<p>🕝 See Fast Results</p></b>"
           }
         },
         "collapsible_tab_fUXbjW": {
@@ -137,8 +137,8 @@
         "fera_product_reviews_summary_GjwhcP",
         "price",
         "variant_picker_RiRatz",
-        "buy_buttons",
         "custom_liquid_8fkWzA",
+        "buy_buttons",
         "collapsible_tab_fUXbjW",
         "collapsible_tab_Pm9ypV",
         "collapsible_tab_XhtgXU",
