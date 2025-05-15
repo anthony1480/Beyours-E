@@ -73,16 +73,9 @@
             "show_gift_card_recipient": false
           }
         },
-        "collapsible_tab_GPn4gb": {
-          "type": "collapsible_tab",
-          "settings": {
-            "icon": "question_mark",
-            "heading": "What is it?",
-            "content": "<p>This foaming sugar scrub is formulated with a nourishing base of shea butter, oils, sugar and glycerin and protective vitamin E to buff and moisturize the skin.</p><p>Our Body Scrubs promote skin elasticity and renewal with a light scent to kick start your shower routine</p>",
-            "page": "",
-            "custom_liquid": "",
-            "keep_open": false
-          }
+        "description_iLwTnm": {
+          "type": "description",
+          "settings": {}
         },
         "collapsible_tab_Q7Ba79": {
           "type": "collapsible_tab",
@@ -139,7 +132,7 @@
         "custom_liquid_8fkWzA",
         "variant_picker_UUBJzi",
         "buy_buttons",
-        "collapsible_tab_GPn4gb",
+        "description_iLwTnm",
         "collapsible_tab_Q7Ba79",
         "collapsible_tab_ky7PQf",
         "collapsible_tab_PTmYNY",
