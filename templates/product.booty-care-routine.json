@@ -60,13 +60,9 @@
             "show_gift_card_recipient": false
           }
         },
-        "collapsible_description_rn4L3G": {
-          "type": "collapsible_description",
-          "settings": {
-            "icon": "none",
-            "heading": "Description",
-            "keep_open": false
-          }
+        "description_3pXtKE": {
+          "type": "description",
+          "settings": {}
         },
         "collapsible_tab_T3Cxc7": {
           "type": "collapsible_tab",
@@ -111,7 +107,7 @@
         "price",
         "custom_liquid_8fkWzA",
         "buy_buttons",
-        "collapsible_description_rn4L3G",
+        "description_3pXtKE",
         "collapsible_tab_T3Cxc7",
         "collapsible_tab_GPn4gb",
         "inventory_status",
