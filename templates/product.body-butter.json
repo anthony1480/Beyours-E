@@ -73,11 +73,18 @@
             "show_gift_card_recipient": false
           }
         },
-        "collapsible_description_6Wakz3": {
-          "type": "collapsible_description",
+        "description_HHQghN": {
+          "type": "description",
+          "settings": {}
+        },
+        "collapsible_tab_E8rKfN": {
+          "type": "collapsible_tab",
           "settings": {
             "icon": "none",
-            "heading": "Description",
+            "heading": "Usage Instructions",
+            "content": "<p>For best results, use it after our matching body scrubs for an indulgent skincare routine. For a lasting fragrance, pair the scrub with our matching Body Splashes<br/></p>",
+            "page": "",
+            "custom_liquid": "",
             "keep_open": false
           }
         },
@@ -108,7 +115,7 @@
           "settings": {
             "icon": "none",
             "heading": "Ingrediants",
-            "content": "",
+            "content": "<p>hello </p>",
             "page": "",
             "custom_liquid": "",
             "keep_open": false
@@ -136,7 +143,8 @@
         "variant_picker_qB3xe4",
         "custom_liquid_8fkWzA",
         "buy_buttons",
-        "collapsible_description_6Wakz3",
+        "description_HHQghN",
+        "collapsible_tab_E8rKfN",
         "collapsible_tab_Grwcfe",
         "collapsible_tab_9gQ7ED",
         "collapsible_tab_UmAcLH",
