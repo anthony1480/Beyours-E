@@ -103,6 +103,17 @@
             "keep_open": false
           }
         },
+        "collapsible_tab_PzUG6M": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "none",
+            "heading": "Ingrediants",
+            "content": "",
+            "page": "",
+            "custom_liquid": "",
+            "keep_open": false
+          }
+        },
         "inventory_status": {
           "type": "inventory_status",
           "settings": {
@@ -128,6 +139,7 @@
         "collapsible_description_DzHKfx",
         "collapsible_tab_pn6cca",
         "collapsible_tab_GPn4gb",
+        "collapsible_tab_PzUG6M",
         "inventory_status",
         "sticky_cart"
       ],
