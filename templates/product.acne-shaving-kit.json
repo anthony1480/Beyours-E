@@ -73,12 +73,12 @@
             "custom_liquid": "<b><p>✅ Bye Bye Acne</p>\n<p>✅ Guaranteed results </p>\n<p>🕝 See Fast Results</p></b>"
           }
         },
-        "collapsible_tab_XhtgXU": {
+        "collapsible_tab_fUXbjW": {
           "type": "collapsible_tab",
           "settings": {
             "icon": "none",
-            "heading": "Usage Instructions:",
-            "content": "<p>Follow the acne and shaving routine three times a week for 3-4 weeks. Upon achieving an 80% improvement in skin condition, reduce frequency to twice a week.</p><p><strong>Step 1: </strong>Gently apply the scrub to dry skin in circular motions.</p><p><br/><strong>Step 2: </strong>When you need to shave, apply the shaving gel over the desired area after using the scrub. Utilize a clean razor and shave against the direction of hair growth<strong>. </strong>On days when shaving is unnecessary, skip this step and proceed directly to step 3.</p><p><strong>Step 3: </strong>Apply the mask to dry skin, allowing it to dry for 10-15 minutes before rinsing.</p><p><br/><strong>Step 4</strong>: Finish off the routine by applying a few drops of oil.</p>",
+            "heading": "When to choose it:",
+            "content": "<p>Opt for this bundle when you have both acne + shaving concerns.<br/>In Case you don't have acne but you shave: Check out our Shaving Kits<br/>In case you don't shave but you have acne: Check out the Booty Care Routine</p>",
             "page": "",
             "custom_liquid": "",
             "keep_open": false
@@ -95,12 +95,12 @@
             "keep_open": false
           }
         },
-        "collapsible_tab_fUXbjW": {
+        "collapsible_tab_XhtgXU": {
           "type": "collapsible_tab",
           "settings": {
             "icon": "none",
-            "heading": "When to choose it:",
-            "content": "<p>Opt for this bundle when you have both acne + shaving concerns.<br/>In Case you don't have acne but you shave: Check out our Shaving Kits<br/>In case you don't shave but you have acne: Check out the Booty Care Routine</p>",
+            "heading": "Usage Instructions:",
+            "content": "<p>Follow the acne and shaving routine three times a week for 3-4 weeks. Upon achieving an 80% improvement in skin condition, reduce frequency to twice a week.</p><p><strong>Step 1: </strong>Gently apply the scrub to dry skin in circular motions.</p><p><br/><strong>Step 2: </strong>When you need to shave, apply the shaving gel over the desired area after using the scrub. Utilize a clean razor and shave against the direction of hair growth<strong>. </strong>On days when shaving is unnecessary, skip this step and proceed directly to step 3.</p><p><strong>Step 3: </strong>Apply the mask to dry skin, allowing it to dry for 10-15 minutes before rinsing.</p><p><br/><strong>Step 4</strong>: Finish off the routine by applying a few drops of oil.</p>",
             "page": "",
             "custom_liquid": "",
             "keep_open": false
@@ -139,9 +139,9 @@
         "variant_picker_RiRatz",
         "buy_buttons",
         "custom_liquid_8fkWzA",
-        "collapsible_tab_XhtgXU",
-        "collapsible_tab_Pm9ypV",
         "collapsible_tab_fUXbjW",
+        "collapsible_tab_Pm9ypV",
+        "collapsible_tab_XhtgXU",
         "collapsible_tab_wt7eyG",
         "inventory_status",
         "sticky_cart"
