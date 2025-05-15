@@ -64,17 +64,6 @@
           "type": "description",
           "settings": {}
         },
-        "collapsible_tab_zxaeEX": {
-          "type": "collapsible_tab",
-          "settings": {
-            "icon": "none",
-            "heading": "Ingrediants",
-            "content": "",
-            "page": "",
-            "custom_liquid": "",
-            "keep_open": false
-          }
-        },
         "collapsible_tab_jdRpdk": {
           "type": "collapsible_tab",
           "settings": {
@@ -86,7 +75,7 @@
             "keep_open": false
           }
         },
-        "collapsible_tab_bPHikq": {
+        "collapsible_tab_zxaeEX": {
           "type": "collapsible_tab",
           "settings": {
             "icon": "none",
@@ -119,9 +108,8 @@
         "custom_liquid_8fkWzA",
         "buy_buttons",
         "description_eUjXGJ",
-        "collapsible_tab_zxaeEX",
         "collapsible_tab_jdRpdk",
-        "collapsible_tab_bPHikq",
+        "collapsible_tab_zxaeEX",
         "inventory_status",
         "sticky_cart"
       ],
