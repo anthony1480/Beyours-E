@@ -62,7 +62,7 @@
         "custom_liquid_8fkWzA": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<b><p>🙌🏼 Removes bad odor</p>\n<p>✨ Maintains vaginal hygiene</p>\n<p>🕝 See Fast Results</p></b>"
+            "custom_liquid": "<b><p>🙌🏼 Removes bad odor</p>\n<p>✨ Maintains vaginal hygiene</p>\n<p>💫 pH-balanced</p></b>"
           }
         },
         "buy_buttons": {
@@ -76,6 +76,28 @@
         "description_DM7CCf": {
           "type": "description",
           "settings": {}
+        },
+        "collapsible_tab_Lde4RM": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "none",
+            "heading": "Usage Instructions",
+            "content": "<p>Use it daily, followed by Peach Polish Intimate Mist for a boost of freshness and good smell all day long.</p>",
+            "page": "",
+            "custom_liquid": "",
+            "keep_open": false
+          }
+        },
+        "collapsible_tab_Y7aNCV": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "none",
+            "heading": "Ingrediants",
+            "content": "<p>The intimate wash removes odor, helps maintain vaginal hygiene and balanced pH levels to prevent unhealthy bacteria and yeast proliferating and causing infection.</p><p>It contains natural soothing and calming ingredients such as glycerin, chamomile and green tea extracts.</p>",
+            "page": "",
+            "custom_liquid": "",
+            "keep_open": false
+          }
         },
         "inventory_status": {
           "type": "inventory_status",
@@ -100,6 +122,8 @@
         "custom_liquid_8fkWzA",
         "buy_buttons",
         "description_DM7CCf",
+        "collapsible_tab_Lde4RM",
+        "collapsible_tab_Y7aNCV",
         "inventory_status",
         "sticky_cart"
       ],
@@ -348,7 +372,7 @@
             "icon": "none",
             "icon_size": "medium",
             "custom_icon": "",
-            "text": "OVER 500 HAPPY CUSTOMERS",
+            "text": "OVER 7000 HAPPY CUSTOMERS",
             "text_size": 16,
             "link": ""
           }
@@ -427,9 +451,6 @@
         "guarantee-2",
         "guarantee-3"
       ],
-      "custom_css": [
-        "span {color: #ffffff;}"
-      ],
       "settings": {
         "layout": "default",
         "column_alignment": "center",
@@ -449,53 +470,6 @@
         "gradient_background": "",
         "padding_top": 36,
         "padding_bottom": 36
-      }
-    },
-    "testimonials_zBJVKg": {
-      "type": "testimonials",
-      "blocks": {
-        "testimonial_TNNYXa": {
-          "type": "testimonial",
-          "settings": {
-            "icon": "5",
-            "text": "<p>My skin feels so much better after using The 4 in 1 Wand for couple of days only. Highly recommended!!</p>",
-            "author": "Maria K."
-          }
-        },
-        "testimonial_3PXdex": {
-          "type": "testimonial",
-          "settings": {
-            "icon": "5",
-            "text": "<p>Acne was driving me crazy. But my friend told me about loreka and it's really a life saver for me</p>",
-            "author": "Jade H."
-          }
-        },
-        "testimonial_bfidJz": {
-          "type": "testimonial",
-          "settings": {
-            "icon": "5",
-            "text": "<p>The red and blue light modes are perfect for making my skin smooth and young</p>",
-            "author": "Carla K."
-          }
-        }
-      },
-      "block_order": [
-        "testimonial_TNNYXa",
-        "testimonial_3PXdex",
-        "testimonial_bfidJz"
-      ],
-      "disabled": true,
-      "settings": {
-        "autorotate": true,
-        "autorotate_speed": 5,
-        "hide_images": true,
-        "show_divider": false,
-        "heading": "What Our Customers Think 👇",
-        "heading_size": "h1",
-        "heading_alignment": "center",
-        "heading_tag": "h2",
-        "padding_top": 20,
-        "padding_bottom": 20
       }
     },
     "1717958248b0b4020b": {
@@ -614,7 +588,6 @@
     "images_with_text_t3GnhX",
     "scrolling_promotion_UiKVGc",
     "guarantees",
-    "testimonials_zBJVKg",
     "1717958248b0b4020b",
     "collapsible-content",
     "product-recommendations"
