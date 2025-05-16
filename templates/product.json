@@ -59,6 +59,12 @@
             "size_chart": ""
           }
         },
+        "custom_liquid_8fkWzA": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<b><p>🙌🏼 Removes bad odor</p>\n<p>🙌🏼 Removes bad odor </p>\n<p>🕝 See Fast Results</p></b>"
+          }
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -67,11 +73,9 @@
             "show_gift_card_recipient": false
           }
         },
-        "custom_liquid_8fkWzA": {
-          "type": "custom_liquid",
-          "settings": {
-            "custom_liquid": "<b><p>✅ Tested & Approved by Pharmacists</p>\n<p>✅ Guaranteed results </p>\n<p>🕝 See Fast Results</p></b>"
-          }
+        "description_DM7CCf": {
+          "type": "description",
+          "settings": {}
         },
         "inventory_status": {
           "type": "inventory_status",
@@ -93,8 +97,9 @@
         "fera_product_reviews_summary_GjwhcP",
         "price",
         "variant_picker_TB8w77",
-        "buy_buttons",
         "custom_liquid_8fkWzA",
+        "buy_buttons",
+        "description_DM7CCf",
         "inventory_status",
         "sticky_cart"
       ],
