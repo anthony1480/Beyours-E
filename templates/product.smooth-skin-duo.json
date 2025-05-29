@@ -46,18 +46,18 @@
             "sale_badge_basis": "auto"
           }
         },
+        "custom_liquid_8fkWzA": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<b><p>🌟&nbsp;Rich in Jojoba and avocado oilss</p>\n<p>😚&nbsp;Anti Scars, Cellulites &amp; Stretchmarks </p>\n<p>🤰🏻&nbsp;Suitable for pregnant women</p></b>"
+          }
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
             "show_quantity_selector": false,
             "show_dynamic_checkout": true,
             "show_gift_card_recipient": false
-          }
-        },
-        "custom_liquid_8fkWzA": {
-          "type": "custom_liquid",
-          "settings": {
-            "custom_liquid": "<b><p>🌟&nbsp;Rich in Jojoba and avocado oilss</p>\n<p>😚&nbsp;Anti Scars, Cellulites &amp; Stretchmarks </p>\n<p>🤰🏻&nbsp;Suitable for pregnant women</p></b>"
           }
         },
         "collapsible_tab_XBBWmE": {
@@ -112,8 +112,8 @@
         "title",
         "fera_product_reviews_summary_GjwhcP",
         "price",
-        "buy_buttons",
         "custom_liquid_8fkWzA",
+        "buy_buttons",
         "collapsible_tab_XBBWmE",
         "collapsible_tab_wRpMVK",
         "collapsible_tab_yPwPdE",
