@@ -73,10 +73,6 @@
             "show_gift_card_recipient": false
           }
         },
-        "description_DM7CCf": {
-          "type": "description",
-          "settings": {}
-        },
         "inventory_status": {
           "type": "inventory_status",
           "settings": {
@@ -99,7 +95,6 @@
         "variant_picker_TB8w77",
         "custom_liquid_8fkWzA",
         "buy_buttons",
-        "description_DM7CCf",
         "inventory_status",
         "sticky_cart"
       ],
