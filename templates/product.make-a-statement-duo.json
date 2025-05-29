@@ -84,6 +84,17 @@
             "keep_open": false
           }
         },
+        "collapsible_tab_mJNkMU": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "none",
+            "heading": "What's Included",
+            "content": "<p>A <strong>Body Splash (150ml)</strong> and a <strong>Hair Perfume (50ml)</strong>. Both products come in stunning, <strong>Instagram-worthy packaging!</strong></p>",
+            "page": "",
+            "custom_liquid": "",
+            "keep_open": false
+          }
+        },
         "collapsible_tab_GPn4gb": {
           "type": "collapsible_tab",
           "settings": {
@@ -118,6 +129,7 @@
         "variant_picker_nGMbhe",
         "buy_buttons",
         "collapsible_tab_iNRBzU",
+        "collapsible_tab_mJNkMU",
         "collapsible_tab_GPn4gb",
         "inventory_status",
         "sticky_cart"
