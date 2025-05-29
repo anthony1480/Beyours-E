@@ -92,6 +92,17 @@
             "keep_open": false
           }
         },
+        "collapsible_tab_g33FPG": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "none",
+            "heading": "Pick your signature Scent",
+            "content": "<p><strong>🥥🌴Coco Sunset: </strong>A warm blend of creamy coconut and rich vanilla, for that \"vacay in a bottle\" feel.</p><p><strong>🍓🍒After Dark: </strong>Sweet red berries with a touch of mystery designed for unforgettable nights.</p><p><strong>🌙💙Under the Moonlight:</strong> A soft, timeless white musk that’s effortlessly elegant</p>",
+            "page": "",
+            "custom_liquid": "",
+            "keep_open": false
+          }
+        },
         "collapsible_description_HNMJB4": {
           "type": "collapsible_description",
           "settings": {
@@ -127,6 +138,7 @@
         "buy_buttons",
         "inventory_status",
         "collapsible_tab_bYb8Dm",
+        "collapsible_tab_g33FPG",
         "collapsible_description_HNMJB4",
         "collapsible_tab_CdRjGG",
         "sticky_cart"
