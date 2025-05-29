@@ -81,6 +81,17 @@
             "keep_open": false
           }
         },
+        "collapsible_tab_fXqxMM": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "none",
+            "heading": "What’s Inside:",
+            "content": "<p><strong>Body Scrub (200g)</strong>: Gently exfoliates to smooth away dead skin, leaving you prepped for hydration and softness.</p><p><strong>Body Oil (100ml)</strong>: Lightweight and nourishing, it adds a silky glow to your skin without feeling greasy.</p><p><strong>Body Butter (150g)</strong>: Deeply hydrating and long-lasting, this rich cream locks in moisture for irresistibly soft skin.</p><p><strong>Body Splash (150ml)</strong>: A refreshing scented perfume that keeps you smelling amazing all day long.</p><p><strong>Hair Perfume (50ml)</strong>: A fragrant touch for your hair, adding shine and keeping it smelling divine for hours.</p>",
+            "page": "",
+            "custom_liquid": "",
+            "keep_open": false
+          }
+        },
         "collapsible_tab_GPn4gb": {
           "type": "collapsible_tab",
           "settings": {
@@ -115,6 +126,7 @@
         "custom_liquid_8fkWzA",
         "buy_buttons",
         "collapsible_description_EnLgiM",
+        "collapsible_tab_fXqxMM",
         "collapsible_tab_GPn4gb",
         "inventory_status",
         "sticky_cart"
