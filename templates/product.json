@@ -89,17 +89,6 @@
             "keep_open": false
           }
         },
-        "collapsible_tab_JiRhY7": {
-          "type": "collapsible_tab",
-          "settings": {
-            "icon": "none",
-            "heading": "Usage Instructions",
-            "content": "<p>Use collapsible tabs for more detailed information that will help customers make a purchasing decision.</p><p>Ex: Shipping and return policies, size guides, and other common questions.</p>",
-            "page": "",
-            "custom_liquid": "",
-            "keep_open": false
-          }
-        },
         "collapsible_tab_CdRjGG": {
           "type": "collapsible_tab",
           "settings": {
@@ -127,7 +116,6 @@
         "buy_buttons",
         "inventory_status",
         "collapsible_description_HNMJB4",
-        "collapsible_tab_JiRhY7",
         "collapsible_tab_CdRjGG",
         "sticky_cart"
       ],
