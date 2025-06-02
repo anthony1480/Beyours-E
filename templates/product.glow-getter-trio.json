@@ -76,7 +76,7 @@
         "collapsible_description_HNMJB4": {
           "type": "collapsible_description",
           "settings": {
-            "icon": "none",
+            "icon": "heart",
             "heading": "Description",
             "keep_open": true
           }
@@ -92,7 +92,7 @@
         "collapsible_tab_bYb8Dm": {
           "type": "collapsible_tab",
           "settings": {
-            "icon": "none",
+            "icon": "box",
             "heading": "What's included",
             "content": "<p><strong>Body Scrub (200g)</strong> <em>(Free Gift)</em>: A gentle exfoliator that buffs away dead skin cells, leaving your skin smooth, prepped, and ready to soak in hydration.</p><p><strong>Body Butter (150g)</strong>: Bigger and better than most, this rich and creamy body butter deeply hydrates while locking in moisture for soft, supple skin that lasts.</p><p><strong>Body Splash (150ml)</strong>: A refreshing mist of your favorite scent to keep you smelling incredible all day.</p>",
             "page": "",
@@ -103,9 +103,9 @@
         "collapsible_tab_g33FPG": {
           "type": "collapsible_tab",
           "settings": {
-            "icon": "none",
-            "heading": "Choose your signature Scent",
-            "content": "<p><strong>🥥🌴Coco Sunset: </strong>A warm blend of creamy coconut and rich vanilla, for that \"vacay in a bottle\" feel.</p><p><strong>🍓🍒After Dark: </strong>Sweet red berries with a touch of mystery designed for unforgettable nights.</p><p><strong>🌙💙Under the Moonlight:</strong> A soft, timeless white musk that’s effortlessly elegant</p>",
+            "icon": "question_mark",
+            "heading": "Usage Instructions:",
+            "content": "<p><strong>Step 1: Exfoliate</strong><br/><br/>Start by rinsing your skin with warm water to open up pores. Scoop a small amount of <em>Foaming Body Scrub</em> into your hand and gently massage it in circular motions using your hand or an exfoliating glove. Rinse thoroughly with warm water.</p><p><strong>Step 2: Moisturize & Glow</strong><br/><br/>While your skin is still slightly damp, apply <em>Whipped Body Butter</em> to lock in hydration.<br/><br/><strong>Pro Tip:</strong> A little goes a long way—just a small amount is enough for silky-smooth skin.</p><p><strong>Step 3: Refresh & Turn Heads</strong><br/><br/>Spritz <em>Body Splash</em> over your body for a burst of freshness that lingers all day.</p>",
             "page": "",
             "custom_liquid": "",
             "keep_open": false
