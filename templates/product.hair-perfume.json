@@ -95,6 +95,28 @@
             "keep_open": false
           }
         },
+        "collapsible_tab_eFbh8K": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "none",
+            "heading": "Ingredients",
+            "content": "<p>Aqua, Parfum, PEG-40 Hydrogenated Castor Oil, Glycerol, Diazolidinyl Urea (and) Iodopropynyl Butylcarbamate (and) Propylene Glycol.</p>",
+            "page": "",
+            "custom_liquid": "",
+            "keep_open": false
+          }
+        },
+        "collapsible_tab_yQmKC4": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "none",
+            "heading": "Signature Scents",
+            "content": "<p>🌴 <strong>Coco Sunset</strong> – A tropical coconut and vanilla blend that buffs away dryness for irresistibly soft skin.<br/>🍓 <strong>After Dark</strong> – Sweet red berries for a playful scent that turns your shower into a spa-like escape.<br/>🌙 <strong>Under the Moonlight</strong> – Luxurious white musk that polishes your skin to perfection.</p>",
+            "page": "",
+            "custom_liquid": "",
+            "keep_open": false
+          }
+        },
         "inventory_status": {
           "type": "inventory_status",
           "settings": {
@@ -119,6 +141,8 @@
         "buy_buttons",
         "collapsible_tab_GPn4gb",
         "collapsible_tab_cCWjdX",
+        "collapsible_tab_eFbh8K",
+        "collapsible_tab_yQmKC4",
         "inventory_status",
         "sticky_cart"
       ],
