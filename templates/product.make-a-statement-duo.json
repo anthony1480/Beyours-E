@@ -73,6 +73,17 @@
             "show_gift_card_recipient": false
           }
         },
+        "collapsible_tab_mJNkMU": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "none",
+            "heading": "Description:",
+            "content": "<p>Say hello to your next obsession. The <strong>Make a Statement Duo</strong> has everything you need to turn heads: a <strong>Body Splash (150ml)</strong> and a <strong>Hair Perfume (50ml)</strong>. Both products come in stunning, <strong>Instagram-worthy packaging!</strong></p>",
+            "page": "",
+            "custom_liquid": "",
+            "keep_open": false
+          }
+        },
         "collapsible_tab_iNRBzU": {
           "type": "collapsible_tab",
           "settings": {
@@ -84,19 +95,9 @@
             "keep_open": false
           }
         },
-        "collapsible_tab_mJNkMU": {
-          "type": "collapsible_tab",
-          "settings": {
-            "icon": "none",
-            "heading": "What's Included",
-            "content": "<p>A <strong>Body Splash (150ml)</strong> and a <strong>Hair Perfume (50ml)</strong>. Both products come in stunning, <strong>Instagram-worthy packaging!</strong></p>",
-            "page": "",
-            "custom_liquid": "",
-            "keep_open": false
-          }
-        },
         "collapsible_tab_GPn4gb": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "icon": "question_mark",
             "heading": "Say hello to your next obsession",
@@ -128,8 +129,8 @@
         "custom_liquid_8fkWzA",
         "variant_picker_nGMbhe",
         "buy_buttons",
-        "collapsible_tab_iNRBzU",
         "collapsible_tab_mJNkMU",
+        "collapsible_tab_iNRBzU",
         "collapsible_tab_GPn4gb",
         "inventory_status",
         "sticky_cart"
