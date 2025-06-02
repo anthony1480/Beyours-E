@@ -102,6 +102,14 @@
             "keep_open": true
           }
         },
+        "collapsible_description_BTC9yk": {
+          "type": "collapsible_description",
+          "settings": {
+            "icon": "none",
+            "heading": "What's Included:",
+            "keep_open": true
+          }
+        },
         "collapsible_tab_LNMEj6": {
           "type": "collapsible_tab",
           "disabled": true,
@@ -131,6 +139,7 @@
         "buy_buttons",
         "collapsible_tab_CdRjGG",
         "collapsible_description_HNMJB4",
+        "collapsible_description_BTC9yk",
         "collapsible_tab_LNMEj6",
         "sticky_cart"
       ],
