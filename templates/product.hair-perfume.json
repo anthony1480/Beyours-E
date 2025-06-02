@@ -76,19 +76,19 @@
         "collapsible_tab_GPn4gb": {
           "type": "collapsible_tab",
           "settings": {
-            "icon": "none",
+            "icon": "question_mark",
             "heading": "Description",
             "content": "<p>Transform your hair care routine with our <strong>Hair Perfume</strong>, designed to keep your locks smelling divine while adding a touch of luxury to your day. This lightweight, non-greasy formula delivers long-lasting fragrance</p>",
             "page": "",
             "custom_liquid": "",
-            "keep_open": false
+            "keep_open": true
           }
         },
         "collapsible_tab_cCWjdX": {
           "type": "collapsible_tab",
           "settings": {
-            "icon": "none",
-            "heading": "Signature Scents",
+            "icon": "heart",
+            "heading": "Choose your Signature Scent:",
             "content": "<p>🌴 <strong>Coco Sunset</strong> – A tropical coconut and vanilla blend that buffs away dryness for irresistibly soft skin.<br/>🍓 <strong>After Dark</strong> – Sweet red berries for a playful scent that turns your shower into a spa-like escape.<br/>🌙 <strong>Under the Moonlight</strong> – Luxurious white musk that polishes your skin to perfection.</p>",
             "page": "",
             "custom_liquid": "",
@@ -98,8 +98,8 @@
         "collapsible_tab_eFbh8K": {
           "type": "collapsible_tab",
           "settings": {
-            "icon": "none",
-            "heading": "Ingredients",
+            "icon": "leaf",
+            "heading": "Ingredients:",
             "content": "<p>Aqua, Parfum, PEG-40 Hydrogenated Castor Oil, Glycerol, Diazolidinyl Urea (and) Iodopropynyl Butylcarbamate (and) Propylene Glycol.</p>",
             "page": "",
             "custom_liquid": "",
