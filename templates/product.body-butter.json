@@ -80,7 +80,7 @@
         "collapsible_tab_E8rKfN": {
           "type": "collapsible_tab",
           "settings": {
-            "icon": "none",
+            "icon": "question_mark",
             "heading": "Usage Instructions",
             "content": "<p>Apply daily on clean skin as your go-to moisturizer. For the ultimate skincare ritual, use it right after exfoliating with our matching body scrub. Want the scent to linger longer? Finish with a few spritzes of our matching Body Splash.<br/></p>",
             "page": "",
@@ -102,7 +102,7 @@
         "collapsible_tab_9gQ7ED": {
           "type": "collapsible_tab",
           "settings": {
-            "icon": "none",
+            "icon": "heart",
             "heading": "Choose your signature scent:",
             "content": "<p>🌴 <strong>Coco Sunset</strong> – A rich coconut and vanilla blend that feels like a tropical getaway for your skin.<br/>🍓 <strong>After Dark</strong> – Juicy red berries for a sweet, playful scent that’s perfect for any occasion.<br/>🌙 <strong>Under the Moonlight</strong> – Luxurious white musk to leave your skin soft and smelling divine.</p>",
             "page": "",
@@ -113,7 +113,7 @@
         "collapsible_tab_UmAcLH": {
           "type": "collapsible_tab",
           "settings": {
-            "icon": "none",
+            "icon": "leaf",
             "heading": "Ingredients",
             "content": "<p>Butyrospermum Parkii (Shea Butter), Euphorbia Cerifera Cera (Candelilla Wax), Cocos Nucifera (Coconut) Oil, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Vitis Vinifera (Grapeseed) Oil, Parfum, Vitamin E.</p>",
             "page": "",
