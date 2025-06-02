@@ -62,7 +62,7 @@
         "custom_liquid_8fkWzA": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<b><p>🙌🏼 Removes bad odor</p>\n<p>✨ Maintains vaginal hygiene</p>\n<p>🕝 See Fast Results</p></b>"
+            "custom_liquid": "<b><p>💪 Gets rid of acne, zits and pimples and hyperpigmentation</p>\n<p>✨ Powder mask, simply mix it with water</p>\n<p>🕝 See Fast Results</p></b>"
           }
         },
         "buy_buttons": {
@@ -86,15 +86,26 @@
           "settings": {
             "icon": "none",
             "heading": "Description",
-            "keep_open": false
+            "keep_open": true
           }
         },
         "collapsible_tab_CdRjGG": {
           "type": "collapsible_tab",
           "settings": {
             "icon": "none",
-            "heading": "Ingrediants",
-            "content": "",
+            "heading": "Usage Instructions",
+            "content": "<p>Gently spread mask evenly all over your booty, bikini and hips, or use as a spot treatment. Keep on for up to 10-15 minutes and gently moisten and remove mask. <br/>Use 2-3 times per week. For optimal results, use after Peach Polish Booty Scrub. <br/></p>",
+            "page": "",
+            "custom_liquid": "",
+            "keep_open": false
+          }
+        },
+        "collapsible_tab_LNMEj6": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "none",
+            "heading": "Ingredients",
+            "content": "<p>Kaolin (Clay), Camellia Sinensis Leaf Extract, , Aloe Barbadensis Leaf Juice Powder, Carbo Activatus (Activated Charcoal).</p>",
             "page": "",
             "custom_liquid": "",
             "keep_open": false
@@ -117,6 +128,7 @@
         "inventory_status",
         "collapsible_description_HNMJB4",
         "collapsible_tab_CdRjGG",
+        "collapsible_tab_LNMEj6",
         "sticky_cart"
       ],
       "custom_css": [
