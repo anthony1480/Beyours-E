@@ -94,20 +94,12 @@
             "keep_open": false
           }
         },
-        "collapsible_description_HNMJB4": {
-          "type": "collapsible_description",
-          "settings": {
-            "icon": "none",
-            "heading": "Product Information & Ingredients",
-            "keep_open": true
-          }
-        },
         "collapsible_description_BTC9yk": {
           "type": "collapsible_description",
           "settings": {
             "icon": "none",
             "heading": "What's Included:",
-            "keep_open": true
+            "keep_open": false
           }
         },
         "collapsible_tab_LNMEj6": {
@@ -138,7 +130,6 @@
         "inventory_status",
         "buy_buttons",
         "collapsible_tab_CdRjGG",
-        "collapsible_description_HNMJB4",
         "collapsible_description_BTC9yk",
         "collapsible_tab_LNMEj6",
         "sticky_cart"
