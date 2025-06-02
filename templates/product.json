@@ -97,9 +97,9 @@
         "collapsible_description_BTC9yk": {
           "type": "collapsible_description",
           "settings": {
-            "icon": "none",
+            "icon": "question_mark",
             "heading": "Description & Information:",
-            "keep_open": false
+            "keep_open": true
           }
         },
         "collapsible_tab_LNMEj6": {
