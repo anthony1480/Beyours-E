@@ -62,7 +62,7 @@
         "custom_liquid_8fkWzA": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<b><p>✅ Bye Bye Acne</p>\n<p>✅ Guaranteed results </p>\n<p>🕝 See Fast Results</p></b>"
+            "custom_liquid": "<b><p>✅ Bye Bye Acne & Skin Irritation </p>\n<p>🌸 Suitable for all skin types</p>\n<p>🕝 See Fast Results</p></b>"
           }
         },
         "description_YT8gfF": {
@@ -104,7 +104,7 @@
           "settings": {
             "icon": "none",
             "heading": "Usage Instructions:",
-            "content": "<p>Follow the acne and shaving routine three times a week for 3-4 weeks. Upon achieving an 80% improvement in skin condition, reduce frequency to twice a week.</p><p><strong>Step 1: </strong>Gently apply the scrub to dry skin in circular motions.</p><p><br/><strong>Step 2: </strong>When you need to shave, apply the shaving gel over the desired area after using the scrub. Utilize a clean razor and shave against the direction of hair growth<strong>. </strong>On days when shaving is unnecessary, skip this step and proceed directly to step 3.</p><p><strong>Step 3: </strong>Apply the mask to dry skin, allowing it to dry for 10-15 minutes before rinsing.</p><p><br/><strong>Step 4</strong>: Finish off the routine by applying a few drops of oil.</p>",
+            "content": "<p><strong>Step 1:</strong> apply the scrub on dry skin, then rinse off and dry. Do this step 3 times per week<br/><br/><strong>Step 2:</strong> mix the powder with a few drops of water and  apply the mask on your skin. Leave it for 10-15 mns  or until dry then you rinse it off and tap dry the skin. Do this step 3 times per week<br/><br/><strong>Step 3:</strong> apply the oil DAILY and leave it on the skin to be absrobed. <br/><br/><strong>On shaving days:</strong><br/>After scrub (step 1), apply a generous amount of the shaving gel and shave using a clean and sharp razor. <br/><br/>Then continue steps.<br/><br/><strong>Phase 2 - Maintenance:</strong></p><p>Do the 3-step routine (Scrub, mask and oil) once per week to maintain a long-term result. You can keep using the scrub 1-3 times per week and the oil as needed to soothe the skin and prevent breakouts.</p>",
             "page": "",
             "custom_liquid": "",
             "keep_open": false
@@ -114,7 +114,7 @@
           "type": "collapsible_tab",
           "settings": {
             "icon": "none",
-            "heading": "Notes",
+            "heading": "Pro-Tips:",
             "content": "<p>For optimal results, use the oil as part of your daily post-shower routine. To sustain the results, make sure to apply the routine once a week for maintenance. Do not shave more times than necessary.</p>",
             "page": "",
             "custom_liquid": "",

@@ -46,6 +46,12 @@
             "sale_badge_basis": "auto"
           }
         },
+        "custom_liquid_8fkWzA": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<b><p>✅ Tested & Approved by Pharmacists</p>\n<p>🕝 24 hours of Freshness </p>\n<p>🌟Suitable for Daily Use</p></b>"
+          }
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -54,10 +60,12 @@
             "show_gift_card_recipient": false
           }
         },
-        "custom_liquid_8fkWzA": {
-          "type": "custom_liquid",
+        "collapsible_description_B7k8ct": {
+          "type": "collapsible_description",
           "settings": {
-            "custom_liquid": "<b><p>✅ Tested & Approved by Pharmacists</p>\n<p>🌟 Results guaranteed </p>\n<p>🕝 See Fast Results</p></b>"
+            "icon": "none",
+            "heading": "Description",
+            "keep_open": true
           }
         },
         "collapsible_tab_xYaMD3": {
@@ -65,7 +73,7 @@
           "settings": {
             "icon": "none",
             "heading": "What's Included",
-            "content": "<p>It contains natural soothing and calming ingredients such as glycerin, chamomile and green tea extracts.</p>",
+            "content": "<p>This bundle includes 2 full-sized products: The Daily Intimate Wash and the Viral Bikini Perfume</p>",
             "page": "",
             "custom_liquid": "",
             "keep_open": false
@@ -75,18 +83,10 @@
           "type": "collapsible_tab",
           "settings": {
             "icon": "question_mark",
-            "heading": "HOW TO USE",
-            "content": "<p>Three easy steps:</p><ol><li>Clean your skin</li><li>Choose the right mode for your skin</li><li>Start massaging your skin slowly for 10 minutes, 3 to 4 times a week</li></ol><p>Do this everyday and you will start to see results in few days after use</p>",
+            "heading": "FAQs",
+            "content": "<p><strong>1-</strong> <strong>Are these products suitable for sensitive skin?</strong></p><p>Yes, the products are formulated to be gentle and suitable for sensitive skin. Hypo-allergenic and pH-Balanced.</p><p><strong>2- What ingredients are used in the Feminine Hygiene Duo?</strong></p><p>The duo is made with vegan, pH-balanced, and hypoallergenic ingredients designed to be gentle on sensitive skin. Our formulas are natural and free from harsh chemicals.</p><p><strong>3- How do I use the wash and mist?</strong></p><p>The wash is used for cleansing, while the mist can be applied for freshness throughout the day.</p><p><strong>4- Can I use these products every day? </strong></p><p>Yes, both the wash and mist are designed for daily use.</p><p><strong>5- Are the fragrances tested to make sure they are safe for the intimate area? </strong></p><p>The fragrances that we use are alcohol-free, non-irritating and have low sensitization potential.</p><p><strong>6- Do I really need an intimate mist? </strong></p><p>Consider adding this mist to your daily routine if you desire extra freshness and a pleasant scent in your intimate area. It's specifically designed for external use. If you prefer not to use the mist, you have the option to purchase the intimate wash separately.</p>",
             "page": "",
             "custom_liquid": "",
-            "keep_open": false
-          }
-        },
-        "collapsible_description_B7k8ct": {
-          "type": "collapsible_description",
-          "settings": {
-            "icon": "none",
-            "heading": "Description",
             "keep_open": false
           }
         },
@@ -109,11 +109,11 @@
         "title",
         "fera_product_reviews_summary_GjwhcP",
         "price",
-        "buy_buttons",
         "custom_liquid_8fkWzA",
+        "buy_buttons",
+        "collapsible_description_B7k8ct",
         "collapsible_tab_xYaMD3",
         "collapsible_tab_GPn4gb",
-        "collapsible_description_B7k8ct",
         "inventory_status",
         "sticky_cart"
       ],
