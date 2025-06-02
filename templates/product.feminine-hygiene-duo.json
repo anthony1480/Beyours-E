@@ -63,7 +63,7 @@
         "collapsible_description_B7k8ct": {
           "type": "collapsible_description",
           "settings": {
-            "icon": "none",
+            "icon": "heart",
             "heading": "Description",
             "keep_open": true
           }
@@ -71,7 +71,7 @@
         "collapsible_tab_xYaMD3": {
           "type": "collapsible_tab",
           "settings": {
-            "icon": "none",
+            "icon": "box",
             "heading": "What's Included",
             "content": "<p>This bundle includes 2 full-sized products: The Daily Intimate Wash and the Viral Bikini Perfume</p>",
             "page": "",
