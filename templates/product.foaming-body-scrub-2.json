@@ -77,23 +77,23 @@
           "type": "description",
           "settings": {}
         },
-        "collapsible_tab_Q7Ba79": {
+        "collapsible_tab_VgTaWj": {
           "type": "collapsible_tab",
           "settings": {
-            "icon": "none",
-            "heading": "Choose your signature scent",
-            "content": "<p><br/>🌴 <strong>Coco Sunset</strong> – A tropical coconut and vanilla blend that buffs away dryness for irresistibly soft skin.<br/>🍓 <strong>After Dark</strong> – Sweet red berries for a playful scent that turns your shower into a spa-like escape.<br/>🌙 <strong>Under the Moonlight</strong> – Luxurious white musk that polishes your skin to perfection.<br/></p>",
+            "icon": "question_mark",
+            "heading": "Usage Instructions:",
+            "content": "<p>Gently massage onto dry to damp skin using upward circular motions. Rinse well. Use 2 to 3 times per week for optimal results. For external use only. Do not use on irritated, lacerated or inflamed skin.</p>",
             "page": "",
             "custom_liquid": "",
             "keep_open": false
           }
         },
-        "collapsible_tab_VgTaWj": {
+        "collapsible_tab_Q7Ba79": {
           "type": "collapsible_tab",
           "settings": {
-            "icon": "none",
-            "heading": "Usage Instructions",
-            "content": "<p>Gently massage onto dry to damp skin using upward circular motions. Rinse well. Use 2 to 3 times per week for optimal results. For external use only. Do not use on irritated, lacerated or inflamed skin.</p>",
+            "icon": "heart",
+            "heading": "Choose your signature scent:",
+            "content": "<p><br/>🌴 <strong>Coco Sunset</strong> – A tropical coconut and vanilla blend that buffs away dryness for irresistibly soft skin.<br/>🍓 <strong>After Dark</strong> – Sweet red berries for a playful scent that turns your shower into a spa-like escape.<br/>🌙 <strong>Under the Moonlight</strong> – Luxurious white musk that polishes your skin to perfection.<br/></p>",
             "page": "",
             "custom_liquid": "",
             "keep_open": false
@@ -102,8 +102,8 @@
         "collapsible_tab_LmKRgF": {
           "type": "collapsible_tab",
           "settings": {
-            "icon": "none",
-            "heading": "Ingredients",
+            "icon": "leaf",
+            "heading": "Ingredients:",
             "content": "<p>Sugar, Aqua, Sodium Chloride, Glycerine,Cocamidopropyl Betaine, Propylene Glycol, Titanium Dioxide, Glyceryl Stearate, Cetyl Alcohol, Stearic Acid, Butyrospermum Parkii, Cocos Nucifera (Coconut) Oil, Vitis Vinifera Seed Oil, Linum Usitatissimum Seed Oil, Phenoxyethanol (and) Caprylyl Glycol, Parfum.</p>",
             "page": "",
             "custom_liquid": "",
@@ -133,8 +133,8 @@
         "variant_picker_UUBJzi",
         "buy_buttons",
         "description_iLwTnm",
-        "collapsible_tab_Q7Ba79",
         "collapsible_tab_VgTaWj",
+        "collapsible_tab_Q7Ba79",
         "collapsible_tab_LmKRgF",
         "inventory_status",
         "sticky_cart"
