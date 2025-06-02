@@ -82,7 +82,7 @@
           "settings": {
             "icon": "none",
             "heading": "Usage Instructions",
-            "content": "<p>For best results, use it after our matching body scrubs for an indulgent skincare routine. For a lasting fragrance, pair the scrub with our matching Body Splashes<br/></p>",
+            "content": "<p>Apply daily on clean skin as your go-to moisturizer. For the ultimate skincare ritual, use it right after exfoliating with our matching body scrub. Want the scent to linger longer? Finish with a few spritzes of our matching Body Splash.<br/></p>",
             "page": "",
             "custom_liquid": "",
             "keep_open": false
@@ -114,8 +114,8 @@
           "type": "collapsible_tab",
           "settings": {
             "icon": "none",
-            "heading": "Ingrediants",
-            "content": "<p>hello </p>",
+            "heading": "Ingredients",
+            "content": "<p>Butyrospermum Parkii (Shea Butter), Euphorbia Cerifera Cera (Candelilla Wax), Cocos Nucifera (Coconut) Oil, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Vitis Vinifera (Grapeseed) Oil, Parfum, Vitamin E.</p>",
             "page": "",
             "custom_liquid": "",
             "keep_open": false
