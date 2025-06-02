@@ -76,16 +76,16 @@
         "collapsible_description_EnLgiM": {
           "type": "collapsible_description",
           "settings": {
-            "icon": "none",
+            "icon": "heart",
             "heading": "Description",
-            "keep_open": false
+            "keep_open": true
           }
         },
         "collapsible_tab_fXqxMM": {
           "type": "collapsible_tab",
           "settings": {
-            "icon": "none",
-            "heading": "What’s Inside:",
+            "icon": "box",
+            "heading": "What’s Included:",
             "content": "<p><strong>Body Scrub (200g)</strong>: Gently exfoliates to smooth away dead skin, leaving you prepped for hydration and softness.</p><p><strong>Body Oil (100ml)</strong>: Lightweight and nourishing, it adds a silky glow to your skin without feeling greasy.</p><p><strong>Body Butter (150g)</strong>: Deeply hydrating and long-lasting, this rich cream locks in moisture for irresistibly soft skin.</p><p><strong>Body Splash (150ml)</strong>: A refreshing scented perfume that keeps you smelling amazing all day long.</p><p><strong>Hair Perfume (50ml)</strong>: A fragrant touch for your hair, adding shine and keeping it smelling divine for hours.</p>",
             "page": "",
             "custom_liquid": "",
@@ -96,8 +96,8 @@
           "type": "collapsible_tab",
           "settings": {
             "icon": "question_mark",
-            "heading": "HOW TO USE",
-            "content": "<p>Three easy steps:</p><ol><li>Clean your skin</li><li>Choose the right mode for your skin</li><li>Start massaging your skin slowly for 10 minutes, 3 to 4 times a week</li></ol><p>Do this everyday and you will start to see results in few days after use</p>",
+            "heading": "Usage Instructions:",
+            "content": "<p><strong>Step 1: Exfoliate</strong><br/><br/>Start by rinsing your skin with warm water to open up pores. Scoop a small amount of <em>Foaming Body Scrub</em> into your hand and gently massage it in circular motions using your hand or an exfoliating glove. Rinse thoroughly with warm water.</p><p><strong>Step 2: Moisturize</strong><br/><br/>While your skin is still slightly damp, apply <em>Whipped Body Butter</em> to lock in hydration.<br/><br/><strong>Pro Tip:</strong> A little goes a long way—just a small amount is enough for silky-smooth skin.</p><p><strong>Step 3: Glow</strong><br/><br/>Massage <em>Body Oil</em> onto your skin for a radiant, dewy finish and long-lasting moisture.</p><p><strong>Step 4: Refresh & Turn Heads</strong><br/><br/>Spritz <em>Body Splash</em> over your body for a burst of freshness that lingers all day.</p><p><strong>Step 5: Pamper Your Hair</strong><br/><br/>Finish with a few sprays of <em>Hair Perfume</em> to leave your hair smelling amazing and feeling protected.</p>",
             "page": "",
             "custom_liquid": "",
             "keep_open": false
