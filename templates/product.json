@@ -98,7 +98,7 @@
           "type": "collapsible_description",
           "settings": {
             "icon": "none",
-            "heading": "What's Included:",
+            "heading": "Description & Information:",
             "keep_open": false
           }
         },
