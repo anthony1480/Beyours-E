@@ -76,8 +76,8 @@
         "collapsible_tab_GPn4gb": {
           "type": "collapsible_tab",
           "settings": {
-            "icon": "question_mark",
-            "heading": "What's our hair perfume?",
+            "icon": "none",
+            "heading": "Description",
             "content": "<p>Transform your hair care routine with our <strong>Hair Perfume</strong>, designed to keep your locks smelling divine while adding a touch of luxury to your day. This lightweight, non-greasy formula delivers long-lasting fragrance</p>",
             "page": "",
             "custom_liquid": "",
