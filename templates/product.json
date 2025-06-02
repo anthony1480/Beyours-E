@@ -61,16 +61,9 @@
         },
         "custom_liquid_E6jUAq": {
           "type": "custom_liquid",
+          "disabled": true,
           "settings": {
             "custom_liquid": "<b><p>🎉 Prevents ingrown hairs</p><p>🍑 Polishes booty, hips, & thighs for a boost of confidence\n<p><p>🌸 Suitable for all skin types<p>\n<p>🌟 Preps your skin for masks & oils, boosting their magic</p></b>"
-          }
-        },
-        "buy_buttons": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_quantity_selector": false,
-            "show_dynamic_checkout": true,
-            "show_gift_card_recipient": false
           }
         },
         "inventory_status": {
@@ -81,16 +74,17 @@
             "color_scheme": "accent-3"
           }
         },
-        "collapsible_description_HNMJB4": {
-          "type": "collapsible_description",
+        "buy_buttons": {
+          "type": "buy_buttons",
           "settings": {
-            "icon": "none",
-            "heading": "Description",
-            "keep_open": true
+            "show_quantity_selector": false,
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": false
           }
         },
         "collapsible_tab_CdRjGG": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "icon": "none",
             "heading": "Usage Instructions",
@@ -100,8 +94,17 @@
             "keep_open": false
           }
         },
+        "collapsible_description_HNMJB4": {
+          "type": "collapsible_description",
+          "settings": {
+            "icon": "none",
+            "heading": "Product Information",
+            "keep_open": true
+          }
+        },
         "collapsible_tab_LNMEj6": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "icon": "none",
             "heading": "Ingredients",
@@ -124,10 +127,10 @@
         "price",
         "variant_picker_TB8w77",
         "custom_liquid_E6jUAq",
-        "buy_buttons",
         "inventory_status",
-        "collapsible_description_HNMJB4",
+        "buy_buttons",
         "collapsible_tab_CdRjGG",
+        "collapsible_description_HNMJB4",
         "collapsible_tab_LNMEj6",
         "sticky_cart"
       ],
