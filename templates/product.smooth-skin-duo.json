@@ -63,7 +63,7 @@
         "collapsible_description_kVFyek": {
           "type": "collapsible_description",
           "settings": {
-            "icon": "none",
+            "icon": "heart",
             "heading": "Description",
             "keep_open": true
           }
@@ -83,7 +83,7 @@
         "collapsible_tab_wRpMVK": {
           "type": "collapsible_tab",
           "settings": {
-            "icon": "none",
+            "icon": "box",
             "heading": "What's included:",
             "content": "<p><strong>✨Skin Smoother Anti Stretch-marks Body Oil: </strong>This ultra-moisturizing body oil will leave your skin silky smooth. Apply it all over your body & watch it repair and improve the appearance of scars, cellulites and stretch marks. Bonus: It will leave you smelling like a cupcake!</p><p><strong>☕ Aroma Coffee Body Scrub:</strong> Promotes skin elasticity and renewal with an energizing coffee scent and a light foaming texture.</p>",
             "page": "",
@@ -94,7 +94,7 @@
         "collapsible_tab_yPwPdE": {
           "type": "collapsible_tab",
           "settings": {
-            "icon": "none",
+            "icon": "question_mark",
             "heading": "Usage Instructions:",
             "content": "<p><em><strong>Weekly:</strong></em> Exfoliate using Aroma Coffee Body Scrub 2-3 times per week. Follow by massaging the body oil onto your skin in firm circular motions directly after exfoliating.</p><p><em><strong>Daily:</strong></em> Apply the oil morning and evening to the affected areas and massage it with a firm circular motion. The oil will smoothly absorb into the skin and will visibly improve the skin's elasticity. <br/><br/>Use the products for a minimum of 3 months.</p>",
             "page": "",
