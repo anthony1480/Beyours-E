@@ -65,11 +65,12 @@
           "settings": {
             "icon": "none",
             "heading": "Description",
-            "keep_open": false
+            "keep_open": true
           }
         },
         "collapsible_tab_XBBWmE": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "icon": "none",
             "heading": "What's this duo?",
@@ -94,8 +95,8 @@
           "type": "collapsible_tab",
           "settings": {
             "icon": "none",
-            "heading": "How to use:",
-            "content": "<p><em>Weekly:</em> Exfoliate using Aroma Coffee Body Scrub 2-3 times per week. Follow by massaging the body oil onto your skin in firm circular motions directly after exfoliating.</p><p><em>Daily:</em> Apply the oil morning and evening to the affected areas and massage it with a firm circular motion. The oil will smoothly absorb into the skin and will visibly improve the skin's elasticity. </p>",
+            "heading": "Usage Instructions:",
+            "content": "<p><em><strong>Weekly:</strong></em> Exfoliate using Aroma Coffee Body Scrub 2-3 times per week. Follow by massaging the body oil onto your skin in firm circular motions directly after exfoliating.</p><p><em><strong>Daily:</strong></em> Apply the oil morning and evening to the affected areas and massage it with a firm circular motion. The oil will smoothly absorb into the skin and will visibly improve the skin's elasticity. <br/><br/>Use the products for a minimum of 3 months.</p>",
             "page": "",
             "custom_liquid": "",
             "keep_open": false
