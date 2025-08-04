@@ -82,7 +82,7 @@
           "settings": {
             "icon": "check_mark",
             "heading": "When to choose it:",
-            "content": "<p>Opt for this bundle when you have both acne + shaving concerns.<br/>In Case you don't have acne but you shave: Check out our Shaving Kits<br/>In case you don't shave but you have acne: Check out the Booty Care Routine</p>",
+            "content": "<p>Got both shaving and acne concerns? <strong>This bundle is made for you.</strong></p><p>If you only shave (without acne): explore our <strong>Shaving Kits</strong>.<br/><br/>If you don’t shave but want to treat booty acne: try the <strong>Booty Care Routine</strong>.</p>",
             "page": "",
             "custom_liquid": "",
             "keep_open": false
@@ -93,7 +93,7 @@
           "settings": {
             "icon": "box",
             "heading": "What's included:",
-            "content": "<p>🍑<strong>Peach Polish Booty Scrub:</strong> Bubble scented booty scrub to refine and buff your booty, bikini, hips, and thighs. It opens up pores and prepares your skin for shaving.<br/><strong>🪒Peach Polish Shaving Gel:</strong> This rich and clear gel lathers to provide incredible razor glide to help protect your skin from nicks and cuts. It conditions the skin and helps prevent the appearance of razor burns, bumps and ingrown hairs.<br/>🚿<strong>Bye Bye Acne Booty Mask:</strong> This powder mask is a mix of clay, Aloe Vera, Matcha and activated charcoal, formulated to remove dirt, oil, and impurities for deeply cleansed, snatched pores. You're all ready to say goodbye to stubborn acne, cellulites and stretch marks and hello to baby smooth skin.✨<strong>Peach Polish Aftershave Oil:</strong> A silky, lightweight oil that clears pores, soothes irritations, combats ingrown hairs and softens the skin.</p>",
+            "content": "<ul><li>Peach Polish Booty Scrub – Gently buffs away dead skin and buildup for a smoother shave and fewer ingrowns</li><li>Skin Smoother Shaving Gel – A rich, clear gel that glides like silk to protect skin from nicks and razor burn</li><li>Skin Smoother Aftershave Oil – Soothes irritation and locks in moisture to prevent dryness and ingrown hairs</li><li>Bye Bye Acne Booty Mask – A detoxifying treatment that clears pores and helps prevent post-shave breakouts</li></ul><p><br/><br/></p><p><br/><br/></p><p><br/></p>",
             "page": "",
             "custom_liquid": "",
             "keep_open": false
@@ -104,7 +104,7 @@
           "settings": {
             "icon": "question_mark",
             "heading": "Usage Instructions:",
-            "content": "<p><strong>Step 1:</strong> apply the scrub on dry skin, then rinse off and dry. Do this step 3 times per week<br/><br/><strong>Step 2:</strong> mix the powder with a few drops of water and  apply the mask on your skin. Leave it for 10-15 mns  or until dry then you rinse it off and tap dry the skin. Do this step 3 times per week<br/><br/><strong>Step 3:</strong> apply the oil DAILY and leave it on the skin to be absrobed. <br/><br/><strong>On shaving days:</strong><br/>After scrub (step 1), apply a generous amount of the shaving gel and shave using a clean and sharp razor. <br/><br/>Then continue steps.<br/><br/><strong>Phase 2 - Maintenance:</strong></p><p>Do the 3-step routine (Scrub, mask and oil) once per week to maintain a long-term result. You can keep using the scrub 1-3 times per week and the oil as needed to soothe the skin and prevent breakouts.</p>",
+            "content": "<h4><strong>Phase 1 – Treatment (First 3 Weeks)</strong></h4><p>For best results, follow this routine 3 times per week:</p><p><strong>Step 1 – Exfoliate</strong><br/><br/>Apply the <strong>Peach Polish Booty Scrub</strong> on dry skin. Gently massage, then rinse off and pat the skin dry.<br/><br/>➡️ <em>Use 3 times per week.</em></p><p><strong>Step 2 – Detox</strong><br/><br/>Mix the <strong>Bye Bye Acne Booty Mask</strong> powder with a few drops of water to form a smooth paste. Apply to clean, dry skin.<br/><br/>Leave on for 10–15 minutes or until fully dry. Rinse off and gently pat dry.<br/><br/>➡️ <em>Use 3 times per week.</em></p><p><strong>Step 3 – Soothe & Treat</strong><br/><br/>Apply the <strong>Skin Smoother Aftershave Oil</strong> daily to clean, dry skin. Let it absorb fully.<br/><br/>➡️ <em>Use daily to soothe irritation and prevent breakouts.</em></p><p><strong>On Shaving Days</strong><br/><br/>After Step 1 (scrub), apply a generous layer of <strong>Skin Smoother Shaving Gel</strong> on damp skin.<br/><br/>Shave using a clean, sharp razor. Rinse and continue with Steps 2 and 3.</p><h4><strong>Phase 2 – Maintenance (After 3 Weeks)</strong></h4><p>Once your skin is clear and smooth, switch to a lighter routine to maintain results:</p><p>Once your skin is clear and smooth, switch to a lighter routine to maintain results:</p><ul><li>Use the <strong>full 3-step routine</strong> (scrub, mask, oil) once per week<br/></li><li>Continue using <strong>scrub</strong> 1–3 times per week depending on your skin’s needs<br/></li><li>Apply the<strong> oil</strong> as needed to calm the skin and prevent irritation or breakouts</li></ul>",
             "page": "",
             "custom_liquid": "",
             "keep_open": false
