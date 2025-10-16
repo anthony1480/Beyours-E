@@ -70,7 +70,7 @@
           "type": "inventory_status",
           "settings": {
             "inventory_threshold": 20,
-            "show_inventory_transfer": true,
+            "show_inventory_transfer": false,
             "color_scheme": "accent-3"
           }
         },
