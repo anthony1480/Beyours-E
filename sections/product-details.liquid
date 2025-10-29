@@ -21,6 +21,7 @@
       <div class="grid__item {% if section.settings.heading != blank %}grid__item--three-quarter{% else %}grid__item--full-width{% endif %}">
         {%- for block in section.blocks -%}
           {%- case block.type -%}
+
           {%- when 'description' -%}
             {%- if product.description != blank -%}
               {%- if block.settings.heading != blank -%}
@@ -43,6 +44,7 @@
                 </div>
               {%- endif -%}
             {%- endif -%}
+
           {%- when 'collapsible_tab' -%}
             <accordion-tab class="accordion" {{ block.shopify_attributes }}>
               <details {% if section.settings.open_first_collapsible_row and forloop.index0 == 0 %}open="open"{% endif %}>
@@ -60,28 +62,28 @@
                 </div>
               </details>
             </accordion-tab>
+
           {%- endcase -%}
         {%- endfor -%}
       </div>
     {%- endif -%}
   </div>
-
-  <!-- TikTok ViewContent Event -->
-  <script>
-    document.addEventListener('DOMContentLoaded', function() {
-      if (typeof ttq !== 'undefined' && {{ product | json }}) {
-        ttq.track('ViewContent', {
-          content_type: 'product',
-          content_id: {{ product.id | json }},
-          content_name: {{ product.title | json }},
-          currency: {{ shop.currency | json }},
-          price: {{ product.price | divided_by: 100 | json }}
-        });
-      }
-    });
-  </script>
-
 </div>
+
+<!-- TikTok Pixel ViewContent Event -->
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    if (typeof ttq !== 'undefined') {
+      ttq.track('ViewContent', {
+        content_type: 'product',
+        content_id: {{ product.id | json }},
+        content_name: {{ product.title | json }},
+        currency: {{ shop.currency | json }},
+        price: {{ product.price | divided_by: 100 | json }}
+      });
+    }
+  });
+</script>
 
 {% schema %}
 {
@@ -98,7 +100,6 @@
           "type": "text",
           "id": "heading",
           "default": "Description",
-          "info": "t:sections.product-details.blocks.description.settings.heading.info",
           "label": "t:sections.product-details.blocks.description.settings.heading.label"
         }
       ]
@@ -111,7 +112,6 @@
           "type": "text",
           "id": "heading",
           "default": "Collapsible row",
-          "info": "t:sections.product-details.blocks.collapsible_tab.settings.heading.info",
           "label": "t:sections.product-details.blocks.collapsible_tab.settings.heading.label"
         },
         {
@@ -136,10 +136,6 @@
       "label": "t:sections.product-details.settings.open_first_collapsible_row.label"
     },
     {
-      "type": "header",
-      "content": "t:sections.all.heading.label"
-    },
-    {
       "type": "text",
       "id": "heading",
       "default": "Product Details",
@@ -149,9 +145,9 @@
       "type": "select",
       "id": "heading_size",
       "options": [
-        { "value": "h2", "label": "t:sections.all.heading_size.options__1.label" },
-        { "value": "h1", "label": "t:sections.all.heading_size.options__2.label" },
-        { "value": "h0", "label": "t:sections.all.heading_size.options__3.label" }
+        {"value": "h2", "label": "t:sections.all.heading_size.options__1.label"},
+        {"value": "h1", "label": "t:sections.all.heading_size.options__2.label"},
+        {"value": "h0", "label": "t:sections.all.heading_size.options__3.label"}
       ],
       "default": "h2",
       "label": "t:sections.all.heading_size.label"
@@ -160,19 +156,12 @@
       "type": "select",
       "id": "heading_tag",
       "options": [
-        { "value": "h1", "label": "t:sections.all.heading_tag.options__1.label" },
-        { "value": "h2", "label": "t:sections.all.heading_tag.options__2.label" },
-        { "value": "h3", "label": "t:sections.all.heading_tag.options__3.label" },
-        { "value": "h4", "label": "t:sections.all.heading_tag.options__4.label" },
-        { "value": "h5", "label": "t:sections.all.heading_tag.options__5.label" },
-        { "value": "h6", "label": "t:sections.all.heading_tag.options__6.label" },
-        { "value": "div", "label": "t:sections.all.heading_tag.options__7.label" },
-        { "value": "span", "label": "t:sections.all.heading_tag.options__8.label" },
-        { "value": "p", "label": "t:sections.all.heading_tag.options__9.label" }
+        {"value": "h1","label":"h1"},{"value":"h2","label":"h2"},{"value":"h3","label":"h3"},
+        {"value":"h4","label":"h4"},{"value":"h5","label":"h5"},{"value":"h6","label":"h6"},
+        {"value":"div","label":"div"},{"value":"span","label":"span"},{"value":"p","label":"p"}
       ],
-      "default": "h2",
-      "label": "t:sections.all.heading_tag.label",
-      "info": "t:sections.all.heading_tag.info"
+      "default":"h2",
+      "label":"t:sections.all.heading_tag.label"
     },
     {
       "type": "range",
@@ -180,7 +169,7 @@
       "min": 0,
       "max": 100,
       "step": 4,
-      "unit": "t:sections.all.padding.padding_top.unit",
+      "unit": "px",
       "label": "t:sections.all.padding.padding_top.label",
       "default": 36
     },
@@ -190,21 +179,13 @@
       "min": 0,
       "max": 100,
       "step": 4,
-      "unit": "t:sections.all.padding.padding_bottom.unit",
+      "unit": "px",
       "label": "t:sections.all.padding.padding_bottom.label",
       "default": 36
     }
   ],
-  "presets": [
-    {
-      "name": "t:sections.product-details.presets.name",
-      "blocks": [
-        { "type": "collapsible_tab" },
-        { "type": "collapsible_tab" },
-        { "type": "collapsible_tab" }
-      ]
-    }
-  ],
+  "presets":[{"name":"t:sections.product-details.presets.name","blocks":[{"type":"collapsible_tab"},{"type":"collapsible_tab"},{"type":"collapsible_tab"}]}],
   "templates": ["product"]
 }
 {% endschema %}
+
