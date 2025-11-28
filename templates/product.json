@@ -82,33 +82,31 @@
             "show_gift_card_recipient": false
           }
         },
+        "collapsible_description_BTC9yk": {
+          "type": "collapsible_description",
+          "settings": {
+            "icon": "check_mark",
+            "heading": "Description & Information:",
+            "keep_open": true
+          }
+        },
         "collapsible_tab_CdRjGG": {
           "type": "collapsible_tab",
-          "disabled": true,
           "settings": {
-            "icon": "none",
-            "heading": "Usage Instructions",
-            "content": "<p>On dry to damp skin, rub on to desired area in circular motions until smooth. Rinse or wipe off. Use 2 to 3 times per week and follow with Bye Bye Acne Booty Mask for best results. For external use only. <br/></p>",
+            "icon": "question_mark",
+            "heading": "HOW TO USE",
+            "content": "<p>From the gym to the office, to the night out—your <strong>Modern Man Intimate Wash</strong> keeps you fresh, balanced, and in control.</p><ol><li>Use in the shower on wet skin instead of your regular shower gel<br/></li><li>Pump a small amount and gently cleanse the intimate area.<br/></li><li>Rinse thoroughly with water.<br/></li><li>Use daily for long-lasting freshness, odor control, and pH balance.<br/></li></ol><p>Simple. Clean. Effective. Perfect for every man’s routine.<br/></p>",
             "page": "",
             "custom_liquid": "",
             "keep_open": false
           }
         },
-        "collapsible_description_BTC9yk": {
-          "type": "collapsible_description",
-          "settings": {
-            "icon": "question_mark",
-            "heading": "Description & Information:",
-            "keep_open": true
-          }
-        },
         "collapsible_tab_LNMEj6": {
           "type": "collapsible_tab",
-          "disabled": true,
           "settings": {
-            "icon": "none",
+            "icon": "leaf",
             "heading": "Ingredients",
-            "content": "<p>Sucrose, Aqua, Sodium Chloride, Glycerine,Cocamidopropyl Betaine, Propylene Glycol, Titanium Dioxide, Glyceryl Stearate, Cetyl Alcohol, Stearic Acid, Butyrospermum Parkii, Cocos Nucifera (Coconut) Oil, Vitis Vinifera Seed Oil, Linum Usitatissimum Seed Oil, Phenoxyethanol (and) Caprylyl Glycol, Parfum.</p>",
+            "content": "<p>Aqua, Rosa Damascena Flower Water, Decyl Glucoside, Cocamidopropyl Betaine, Glycerin, Camellia Sinensis (Green Tea) Leaf Extract, Parfum, Xanthan Gum, Diazolidinyl Urea (and) Iodopropynyl Butylcarbamate (and) Propylene, Citric acid.<br/>Ph 3.8 - 4.5 </p>",
             "page": "",
             "custom_liquid": "",
             "keep_open": false
@@ -129,8 +127,8 @@
         "custom_liquid_E6jUAq",
         "inventory_status",
         "buy_buttons",
-        "collapsible_tab_CdRjGG",
         "collapsible_description_BTC9yk",
+        "collapsible_tab_CdRjGG",
         "collapsible_tab_LNMEj6",
         "sticky_cart"
       ],
