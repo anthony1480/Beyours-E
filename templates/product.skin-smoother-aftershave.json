@@ -62,7 +62,7 @@
         "custom_liquid_8fkWzA": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<b><p>🙌🏼 Removes bad odor</p>\n<p>✨ Prevents infections</p>\n<p>💫 pH-balanced</p></b>"
+            "custom_liquid": "<b><p>🙌🏼 Calms & Soothes Skin</p>\n<p>✨ Moisturizes Deeply</p>\n<p>💫 Prevents Ingrown Hairs</p></b>"
           }
         },
         "buy_buttons": {
@@ -82,7 +82,7 @@
           "settings": {
             "icon": "question_mark",
             "heading": "Usage Instructions",
-            "content": "<p>From the gym to the office, to the night out—your <strong>Modern Man Intimate Wash</strong> keeps you fresh, balanced, and in control.</p><ol><li>Use in the shower on wet skin instead of your regular shower gel.<br/></li><li>Pump a small amount and gently cleanse the intimate area.<br/></li><li>Rinse thoroughly with water.<br/></li><li>Use daily for long-lasting freshness, odor control, and pH balance.<br/></li></ol><p>Simple. Clean. Effective. Perfect for every man’s routine.</p>",
+            "content": "<ul><li>Apply a few drops to freshly shaved or waxed skin.</li><li>Gently massage until absorbed.<br/><br/>✨ Helps <strong>calm irritation</strong>, <strong>prevent ingrown hairs</strong>, and <strong>keep skin soft and hydrated</strong>.<br/><br/>✨ Safe for <strong>all body areas</strong>, including external intimate skin.</li></ul>",
             "page": "",
             "custom_liquid": "",
             "keep_open": false
@@ -93,7 +93,7 @@
           "settings": {
             "icon": "leaf",
             "heading": "Ingredients",
-            "content": "<p>Aqua, Rosa Damascena Flower Water, Decyl Glucoside, Cocamidopropyl Betaine, Glycerin, Camellia Sinensis (Green Tea) Leaf Extract, Parfum, Xanthan Gum, Diazolidinyl Urea (and) Iodopropynyl Butylcarbamate (and) Propylene, Citric acid.<br/>PH 3.8 - 4.5</p>",
+            "content": "<p>Vitis vinifera (Grape) Seed Oil, Helianthus Annuus (Sunflower) Seed Oil, Simmondsia Chinensis (Jojoba) Seed Oil,  Oenothera biennis Oil, Linum Usitatissimum Seed Oil, Rosa Canina Fruit Oil, Melaleuca Alternifolia Leaf Oil (Tea Tree oil), Tocopherol (Vitamin E).<br/></p>",
             "page": "",
             "custom_liquid": "",
             "keep_open": false
