@@ -52,6 +52,7 @@
         "text_nWp8Wn",
         "button_HxgktN"
       ],
+      "disabled": true,
       "name": "t:sections.image-banner.presets.name",
       "settings": {
         "image": "shopify://shop_images/IMG_3137.jpg",
