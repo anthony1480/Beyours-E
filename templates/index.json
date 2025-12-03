@@ -15,7 +15,7 @@
         "heading_6VBxhi": {
           "type": "heading",
           "settings": {
-            "heading": "BLACK FRIDAY SALE",
+            "heading": "CHRISTMAS SALE",
             "heading_size": "h0",
             "heading_tag": "h2"
           }
@@ -23,7 +23,7 @@
         "text_cEQjQK": {
           "type": "text",
           "settings": {
-            "text": "<p>BUY 2 GET 2 FREE </p>",
+            "text": "<p>ON ALL GIFT SETS</p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -31,8 +31,8 @@
         "text_nWp8Wn": {
           "type": "text",
           "settings": {
-            "text": "<p>On selected products and bundle</p>",
-            "text_size": "typeset",
+            "text": "<p><strong>No Code Needed</strong></p>",
+            "text_size": "typeset2",
             "secondary_color": false
           }
         },
@@ -40,7 +40,7 @@
           "type": "button",
           "settings": {
             "button_label": "SHOP THE SALE",
-            "button_link": "https://www.essentialsbyjay.com/collections/black-friday-sale",
+            "button_link": "shopify://collections/christmas-gift-guide-1",
             "button_size": "large",
             "button_style_secondary": false
           }
@@ -51,6 +51,74 @@
         "text_cEQjQK",
         "text_nWp8Wn",
         "button_HxgktN"
+      ],
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/shopify_website_banner_sale_2.png",
+        "image_position": "center center",
+        "text_box_position": "middle-left",
+        "text_alignment": "center",
+        "image_ratio": "100vh",
+        "show_text_box": false,
+        "full_width": true,
+        "show_divider": false,
+        "image_behavior": "none",
+        "mobile_image": "shopify://shop_images/Untitled_design_1.png",
+        "mobile_text_alignment": "center",
+        "mobile_image_ratio": "auto",
+        "stack_images_on_mobile": true,
+        "show_text_below": true,
+        "colors_button_label": "#1a1b18",
+        "colors_button_background": "#ffffff",
+        "colors_text": "#ffffff",
+        "colors_overlay": "#000000",
+        "colors_overlay_opacity": 28,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_banner_L4V4NE": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_pimmY6": {
+          "type": "heading",
+          "settings": {
+            "heading": "BLACK FRIDAY SALE",
+            "heading_size": "h0",
+            "heading_tag": "h2"
+          }
+        },
+        "text_XCTVHb": {
+          "type": "text",
+          "settings": {
+            "text": "<p>BUY 2 GET 2 FREE </p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "text_hgdMa8": {
+          "type": "text",
+          "settings": {
+            "text": "<p>On selected products and bundle</p>",
+            "text_size": "typeset",
+            "secondary_color": false
+          }
+        },
+        "button_Udtwdk": {
+          "type": "button",
+          "settings": {
+            "button_label": "SHOP THE SALE",
+            "button_link": "https://www.essentialsbyjay.com/collections/black-friday-sale",
+            "button_size": "large",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_pimmY6",
+        "text_XCTVHb",
+        "text_hgdMa8",
+        "button_Udtwdk"
       ],
       "disabled": true,
       "name": "t:sections.image-banner.presets.name",
@@ -94,6 +162,7 @@
       "block_order": [
         "button_LQFrpG"
       ],
+      "disabled": true,
       "settings": {
         "video": "shopify://files/videos/shopify website banner sale.mp4",
         "video_url": "",
@@ -672,6 +741,7 @@
   },
   "order": [
     "image_banner_jt8Eeb",
+    "image_banner_L4V4NE",
     "video_hero_Qmexj4",
     "video_hero_LjKpxA",
     "slideshow",
