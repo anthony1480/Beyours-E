@@ -385,6 +385,7 @@
           "type": "featured_collection",
           "settings": {
             "collection": "body-personal-care",
+            "image": "shopify://shop_images/79_5c6f1d52-7c94-4961-afe0-409c56fe4b03.png",
             "image_position": "center center"
           }
         },
