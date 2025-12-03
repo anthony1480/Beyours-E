@@ -366,6 +366,14 @@
     "collection_list_XdnJ8d": {
       "type": "collection-list",
       "blocks": {
+        "featured_collection_Ewm6bf": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "christmas-gift-guide-1",
+            "image": "shopify://shop_images/1_d9f4830f-e3c9-49b5-80df-4096653c0736.png",
+            "image_position": "center center"
+          }
+        },
         "featured_collection_hiCTFX": {
           "type": "featured_collection",
           "settings": {
@@ -403,6 +411,7 @@
         }
       },
       "block_order": [
+        "featured_collection_Ewm6bf",
         "featured_collection_hiCTFX",
         "featured_collection_JKcHHE",
         "featured_collection_gRHgXR",
@@ -410,7 +419,7 @@
         "featured_collection_BHqeqF"
       ],
       "settings": {
-        "show_view_all": false,
+        "show_view_all": true,
         "show_divider": false,
         "columns_desktop": 3,
         "heading": "Collections",
@@ -658,36 +667,6 @@
         "padding_top": 20,
         "padding_bottom": 32
       }
-    },
-    "featured_collection_cA7zHc": {
-      "type": "featured-collection",
-      "name": "t:sections.featured-collection.presets.name",
-      "settings": {
-        "collection": "",
-        "products_to_show": 4,
-        "horizontal_scroll": false,
-        "show_view_all": true,
-        "show_divider": false,
-        "heading": "CHRISTMAS GIFT GUIDE",
-        "heading_size": "h1",
-        "heading_alignment": "left",
-        "heading_tag": "h2",
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "image_ratio": "adapt",
-        "image_position": "center center",
-        "enable_image_fill": true,
-        "show_secondary_image": false,
-        "secondary_image_max": 1,
-        "show_vendor": false,
-        "show_rating": false,
-        "show_quick_buy": true,
-        "enable_quick_view": true,
-        "enable_color_swatches": true,
-        "enable_countdown": true,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
@@ -702,7 +681,6 @@
     "scrolling_promotion_k9dVtt",
     "images_with_text_cnmQXW",
     "faq_8dnhCT",
-    "guarantees_XCeypM",
-    "featured_collection_cA7zHc"
+    "guarantees_XCeypM"
   ]
 }
