@@ -52,6 +52,19 @@
             "custom_liquid": "<b><p>✅ Tested & Approved by Pharmacists</p>\n<p>✨ Feel Fresh & Confident </p>\n<p>🌸 Alcohol-Free. Non-Drying. Zero Irritation </p>\n<p>🌟Suitable for Daily Use</p></b>"
           }
         },
+        "variant_picker_TKpDn6": {
+          "type": "variant_picker",
+          "settings": {
+            "show_variant_labels": true,
+            "picker_type": "button",
+            "enable_color_swatches": true,
+            "swatches_source": "file",
+            "swatch_type": "round",
+            "enable_swatch_cross": true,
+            "enable_swatch_unavailable_click": false,
+            "size_chart": ""
+          }
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -71,12 +84,23 @@
         "collapsible_tab_xYaMD3": {
           "type": "collapsible_tab",
           "settings": {
-            "icon": "box",
-            "heading": "What's Included",
-            "content": "<p>This bundle includes 2 full-sized products: </p><p><strong>Daily Intimate Wash (200ml)</strong>: Deeply hydrating and long-lasting, this rich cream locks in moisture for irresistibly soft skin.</p><p><strong>Peach Polish Bikini Perfume (50ml)</strong>: A refreshing strawberry scented perfume that keeps you smelling amazing all day long.</p>",
+            "icon": "question_mark",
+            "heading": "Usage Instructions",
+            "content": "<p>Hold the bottle 10-15 centimeters from the intimate area and spray lightly. Shake and spray onto skin, panty-liners and lingerie.</p><p></p>",
             "page": "",
             "custom_liquid": "",
-            "keep_open": false
+            "keep_open": true
+          }
+        },
+        "collapsible_tab_AWgMnK": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "none",
+            "heading": "Ingredients",
+            "content": "<p>Aqua, Parfum, PEG-40 Hydrogenated Castor Oil, Chamomilla Recutita (Matricaria) Flower Extract, Diazolidinyl Urea (and) Iodopropynyl Butylcarbamate (and) Propylene Glycol, Citric acid.<br/></p>",
+            "page": "",
+            "custom_liquid": "",
+            "keep_open": true
           }
         },
         "collapsible_tab_GPn4gb": {
@@ -84,10 +108,10 @@
           "settings": {
             "icon": "question_mark",
             "heading": "FAQs",
-            "content": "<p><strong>1-</strong> <strong>Are these products suitable for sensitive skin?</strong></p><p>Yes, the products are formulated to be gentle and suitable for sensitive skin. Hypo-allergenic and pH-Balanced.</p><p><strong>2- What ingredients are used in the Feminine Hygiene Duo?</strong></p><p>The duo is made with vegan, pH-balanced, and hypoallergenic ingredients designed to be gentle on sensitive skin. Our formulas are natural and free from harsh chemicals.</p><p><strong>3- How do I use the wash and mist?</strong></p><p>The wash is used for cleansing, while the mist can be applied for freshness throughout the day.</p><p><strong>4- Can I use these products every day? </strong></p><p>Yes, both the wash and mist are designed for daily use.</p><p><strong>5- Are the fragrances tested to make sure they are safe for the intimate area? </strong></p><p>The fragrances that we use are alcohol-free, non-irritating and have low sensitization potential.</p><p><strong>6- Do I really need an intimate mist? </strong></p><p>Consider adding this mist to your daily routine if you desire extra freshness and a pleasant scent in your intimate area. It's specifically designed for external use. If you prefer not to use the mist, you have the option to purchase the intimate wash separately.</p>",
+            "content": "<p><strong>1. Is the Intimate Mist suitable for sensitive skin?</strong><br/><br/>Yes. Our Intimate Mist is gentle, hypoallergenic, and pH-balanced — making it safe for even the most sensitive skin.</p><p><strong>2. Does the Intimate Mist cause dryness, itchiness, or irritation?</strong><br/><br/>No. The mist is formulated to be extra gentle and non-irritating. It won’t cause dryness, itchiness, or discomfort when used as directed.</p><p><strong>3. Can I use the Intimate Mist every day?</strong><br/><br/>Absolutely. It’s designed for daily use and is gentle enough for repeated application.</p><p><strong>4. Are the fragrances safe for the intimate area?</strong><br/><br/>Yes. Our fragrance blends are alcohol-free, non-irritating, and have low sensitization potential — safe for the delicate intimate zone.</p><p><strong>5. Do I really need an intimate mist?</strong><br/><br/>If you want extra freshness, confidence, and a pleasant scent throughout the day, the Intimate Mist is a great addition to your routine. It’s made for external use only. If you prefer not to use a mist, you can always use the Intimate Wash on its own.</p>",
             "page": "",
             "custom_liquid": "",
-            "keep_open": false
+            "keep_open": true
           }
         },
         "inventory_status": {
@@ -110,9 +134,11 @@
         "fera_product_reviews_summary_GjwhcP",
         "price",
         "custom_liquid_8fkWzA",
+        "variant_picker_TKpDn6",
         "buy_buttons",
         "collapsible_description_B7k8ct",
         "collapsible_tab_xYaMD3",
+        "collapsible_tab_AWgMnK",
         "collapsible_tab_GPn4gb",
         "inventory_status",
         "sticky_cart"
