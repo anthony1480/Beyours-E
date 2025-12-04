@@ -52,6 +52,19 @@
             "custom_liquid": "<b><p>🌸Prevents bumps, irritation, and ingrown hair</p>\n<p>🍑Leaves the bikini area soothed, hydrated, and comfortable </p>\n<p>🧑🏼‍🎄Comes with a FREE GIFT + Christmas wrapping</p></b>"
           }
         },
+        "variant_picker_HPbGGV": {
+          "type": "variant_picker",
+          "settings": {
+            "show_variant_labels": true,
+            "picker_type": "button",
+            "enable_color_swatches": true,
+            "swatches_source": "file",
+            "swatch_type": "round",
+            "enable_swatch_cross": true,
+            "enable_swatch_unavailable_click": false,
+            "size_chart": ""
+          }
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -106,6 +119,7 @@
         "fera_product_reviews_summary_GjwhcP",
         "price",
         "custom_liquid_8fkWzA",
+        "variant_picker_HPbGGV",
         "buy_buttons",
         "description_3pXtKE",
         "collapsible_tab_T3Cxc7",
