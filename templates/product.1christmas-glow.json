@@ -52,6 +52,19 @@
             "custom_liquid": "<b><p>🌸Gives the skin a long-lasting glow and softness</p>\n<p>✅Leaves you smelling fresh, sweet, and clean all day</p>\n<p>🧑🏼‍🎄Comes with 2 FREE GIFTS + Christmas wrapping</p></b>"
           }
         },
+        "variant_picker_9hzL68": {
+          "type": "variant_picker",
+          "settings": {
+            "show_variant_labels": true,
+            "picker_type": "button",
+            "enable_color_swatches": true,
+            "swatches_source": "file",
+            "swatch_type": "round",
+            "enable_swatch_cross": true,
+            "enable_swatch_unavailable_click": false,
+            "size_chart": ""
+          }
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -106,6 +119,7 @@
         "fera_product_reviews_summary_GjwhcP",
         "price",
         "custom_liquid_8fkWzA",
+        "variant_picker_9hzL68",
         "buy_buttons",
         "description_3pXtKE",
         "collapsible_tab_T3Cxc7",
