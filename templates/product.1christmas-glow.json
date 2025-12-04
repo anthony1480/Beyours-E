@@ -82,7 +82,7 @@
           "settings": {
             "icon": "box",
             "heading": "What's included",
-            "content": "<p><strong>1-Foaming Body Scrub</strong><br/><strong>2-Fluffy Whipped Body Butter</strong><br/><strong>3-Body Splash - Long Lasting Scent</strong><br/></p><p><strong>4- FREE Body Oil - Nourishing & Fast-absorbing </strong></p><p><strong>5- FREE Hair Perfume - Safe for all hair types<br/><br/></strong></p>",
+            "content": "<ol><li><strong>Foaming Body Scrub</strong><br/></li><li><strong>Fluffy Whipped Body Butter</strong></li><li><strong>Body Splash - Long Lasting Scent<br/></strong></li><li><strong>FREE Body Oil - Nourishing & Fast-absorbing </strong></li><li><strong>FREE Hair Perfume - Safe for all hair types<br/></strong></li></ol>",
             "page": "",
             "custom_liquid": "",
             "keep_open": true
