@@ -82,7 +82,7 @@
     "share_telegram": false,
     "share_email": false,
     "social_instagram_link": "https://www.instagram.com/essentials_byjay?igsh=M2kxN3U4bWh5MHd3",
-    "favicon": "shopify://shop_images/Logo_White_PNG.png",
+    "favicon": "shopify://shop_images/Untitled_design_2.png",
     "gift_card_logo_height": 70,
     "sections": {
       "main-password-header": {
@@ -106,11 +106,6 @@
         "disabled": false,
         "settings": {}
       },
-      "17932116065945454919": {
-        "type": "shopify://apps/adt-facebook-pixels-ads/blocks/facebook-ads-pixels/4ad3004f-fa0b-4587-a4f1-4d8ce89e9fbb",
-        "disabled": false,
-        "settings": {}
-      },
       "6544682535036668446": {
         "type": "shopify://apps/pumper-bundles-quantity-breaks/blocks/app-embed/0856870d-2aca-4b1e-a662-cf1797f61270",
         "disabled": false,
@@ -118,11 +113,6 @@
       },
       "14060646107696862457": {
         "type": "shopify://apps/judge-me-reviews/blocks/judgeme_core/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-        "disabled": false,
-        "settings": {}
-      },
-      "11667715999621601152": {
-        "type": "shopify://apps/pixelpro-easy-pixel-install/blocks/turbo-tiktok/0f61e244-e2c9-43da-9523-9762c9f7e6bf",
         "disabled": false,
         "settings": {}
       },
