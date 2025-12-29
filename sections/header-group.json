@@ -14,6 +14,15 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
+        "announcement_m9HtYV": {
+          "type": "announcement",
+          "settings": {
+            "text": "HOLIDAY EXCLUSIVE: 15% OFF WITH CODE: GIFT15",
+            "text_on_mobile": "HOLIDAY EXCLUSIVE: 15% OFF WITH CODE: GIFT15",
+            "text_size": 13,
+            "link": "shopify://collections/all"
+          }
+        },
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
@@ -29,11 +38,12 @@
             "text": "CASH ON DELIVERY",
             "text_on_mobile": "CASH ON DELIVERY",
             "text_size": 13,
-            "link": "https://www.essentialsbyjay.com/collections/buy-2-get-1-free"
+            "link": "shopify://collections/all"
           }
         }
       },
       "block_order": [
+        "announcement_m9HtYV",
         "announcement-bar-0",
         "announcement_taefNz"
       ],
