@@ -52,6 +52,7 @@
         "text_nWp8Wn",
         "button_HxgktN"
       ],
+      "disabled": true,
       "name": "t:sections.image-banner.presets.name",
       "settings": {
         "image": "shopify://shop_images/shopify_website_banner_sale_2.png",
@@ -186,7 +187,6 @@
     },
     "video_hero_LjKpxA": {
       "type": "video-hero",
-      "disabled": true,
       "settings": {
         "video": "shopify://files/videos/12 intimate spray.mp4",
         "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
@@ -214,8 +214,6 @@
         "slide-0": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/109.png",
-            "image_mobile": "shopify://shop_images/109.png",
             "image_position": "center center",
             "text_box_position": "bottom-center",
             "subheading": "Become Exceptional",
@@ -439,7 +437,6 @@
           "type": "featured_collection",
           "settings": {
             "collection": "christmas-gift-guide-1",
-            "image": "shopify://shop_images/1_d9f4830f-e3c9-49b5-80df-4096653c0736.png",
             "image_position": "center center"
           }
         },
@@ -454,7 +451,6 @@
           "type": "featured_collection",
           "settings": {
             "collection": "body-personal-care",
-            "image": "shopify://shop_images/79_5c6f1d52-7c94-4961-afe0-409c56fe4b03.png",
             "image_position": "center center"
           }
         },
@@ -587,8 +583,6 @@
       "settings": {
         "image": "shopify://shop_images/ezgif.com-optimize.gif",
         "image_2": "shopify://shop_images/611A4167.jpg",
-        "image_3": "shopify://shop_images/111.png",
-        "image_4": "shopify://shop_images/113.png",
         "image_ratio": "square",
         "image_position": "center center",
         "layout": "text_first",
