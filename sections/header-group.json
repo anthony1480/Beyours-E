@@ -18,16 +18,16 @@
           "type": "announcement",
           "settings": {
             "text": "FREE DELIVERY ON ORDERS $89+",
-            "text_on_mobile": "",
+            "text_on_mobile": "FREE DELIVERY ON ORDERS $89+",
             "text_size": 14,
-            "link": "shopify://collections/christmas-gift-guide-1"
+            "link": "shopify://collections/all"
           }
         },
         "announcement_taefNz": {
           "type": "announcement",
           "settings": {
             "text": "CASH ON DELIVERY",
-            "text_on_mobile": "",
+            "text_on_mobile": "CASH ON DELIVERY",
             "text_size": 13,
             "link": "https://www.essentialsbyjay.com/collections/buy-2-get-1-free"
           }
