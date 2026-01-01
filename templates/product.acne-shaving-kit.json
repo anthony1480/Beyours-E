@@ -239,7 +239,7 @@
         "text_4DQrEY"
       ],
       "settings": {
-        "image": "shopify://shop_images/38_24a9ce6c-f522-43bf-b0c1-cb2d07c17f8a.png",
+        "image": "shopify://shop_images/silky-smooth-shaving-kit-for-all-body-parts-legs-arms-back-and-underarms-3114029.png",
         "image_position": "center center",
         "layout": "text_first",
         "text_box_position": "middle",
@@ -249,7 +249,6 @@
         "full_width": false,
         "show_divider": false,
         "image_behavior": "none",
-        "image_mobile": "shopify://shop_images/106.png",
         "mobile_layout": "image_first",
         "mobile_text_alignment": "left",
         "mobile_image_ratio": "adapt",
@@ -290,10 +289,10 @@
         "text_pMEzbX"
       ],
       "settings": {
-        "image": "shopify://shop_images/56_ef44cc7f-bb19-40ad-a0dc-4270b3790ce7.png",
-        "image_2": "shopify://shop_images/18_3c850e66-580f-4e88-99bf-77d57a049417.png",
-        "image_3": "shopify://shop_images/35_515f7aad-13ed-4b00-8603-54929c5f5d34.png",
-        "image_4": "shopify://shop_images/Shopify.gif",
+        "image": "shopify://shop_images/foaming-body-scrub-200g-6550934.png",
+        "image_2": "shopify://shop_images/silky-smooth-shaving-kit-for-all-body-parts-legs-arms-back-and-underarms-1265411.jpg",
+        "image_3": "shopify://shop_images/silky-smooth-shaving-kit-for-all-body-parts-legs-arms-back-and-underarms-3114029.png",
+        "image_4": "shopify://shop_images/the-essentials-kit-booty-bump-free-shaves-and-all-day-freshness-down-there-7150264.png",
         "image_ratio": "portrait",
         "image_position": "center center",
         "layout": "image_first",
