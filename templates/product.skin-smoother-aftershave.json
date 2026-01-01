@@ -214,7 +214,7 @@
         "heading_dpeidU": {
           "type": "heading",
           "settings": {
-            "heading": "Tackle Acne & Shaving Issues in One Simple Routine",
+            "heading": "Tackle Ingrown Hairs & Shaving Issues in One Simple Routine",
             "heading_size": "h1",
             "heading_tag": "h2"
           }
@@ -230,7 +230,7 @@
         "text_4DQrEY": {
           "type": "text",
           "settings": {
-            "text": "<p><br/>Our products are designed for all skin types, providing hydration while targeting acne and shaving-related concerns.<strong> 100% tested and approved for guaranteed results.</strong> Pamper yourself with your kit today.<br/><br/></p>",
+            "text": "<p><br/>Our products are designed for all skin types, providing hydration while targeting ingrown hairs and shaving-related concerns.<strong> 100% tested and approved for guaranteed results.</strong> Pamper yourself with your kit today.<br/><br/></p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -242,7 +242,7 @@
         "text_4DQrEY"
       ],
       "settings": {
-        "image": "shopify://shop_images/106.png",
+        "image": "shopify://shop_images/silky-smooth-shaving-kit-for-all-body-parts-legs-arms-back-and-underarms-9368208.png",
         "image_position": "center center",
         "layout": "text_first",
         "text_box_position": "middle",
@@ -252,7 +252,6 @@
         "full_width": false,
         "show_divider": false,
         "image_behavior": "none",
-        "image_mobile": "shopify://shop_images/106.png",
         "mobile_layout": "image_first",
         "mobile_text_alignment": "left",
         "mobile_image_ratio": "adapt",
@@ -348,9 +347,7 @@
       ],
       "settings": {
         "image": "shopify://shop_images/ezgif.com-optimize.gif",
-        "image_2": "shopify://shop_images/113.png",
         "image_3": "shopify://shop_images/611A4167.jpg",
-        "image_4": "shopify://shop_images/111_d65c0771-3117-45a8-9b5a-81932b6d608b.png",
         "image_ratio": "portrait",
         "image_position": "center center",
         "layout": "image_first",
