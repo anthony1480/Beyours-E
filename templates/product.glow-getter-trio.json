@@ -230,7 +230,7 @@
         "heading_dpeidU": {
           "type": "heading",
           "settings": {
-            "heading": "Tackle Acne & Shaving Issues in One Simple Routine",
+            "heading": "Smell like heaven",
             "heading_size": "h1",
             "heading_tag": "h2"
           }
@@ -238,7 +238,7 @@
         "subheading_c3XRmH": {
           "type": "subheading",
           "settings": {
-            "subheading": "Specifically Curated for Clear, Smooth Skin",
+            "subheading": "Specifically Curated for Smooth, Yummy Skin",
             "subheading_size": "h5",
             "secondary_color": false
           }
@@ -246,7 +246,7 @@
         "text_4DQrEY": {
           "type": "text",
           "settings": {
-            "text": "<p><br/>Our products are designed for all skin types, providing hydration while targeting acne and shaving-related concerns.<strong> 100% tested and approved for guaranteed results.</strong> Pamper yourself with your kit today.<br/><br/></p>",
+            "text": "<p>First impressions are everything, and your scent says it all. Our Glow Getter Trio—body scrub, body butter, and body splash—turns you into the Cinderella of every room, leaving everyone turning heads to find out who’s behind that irresistible glow.</p><p></p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -258,7 +258,7 @@
         "text_4DQrEY"
       ],
       "settings": {
-        "image": "shopify://shop_images/106.png",
+        "image": "shopify://shop_images/ezgif.com-optimize.gif",
         "image_position": "center center",
         "layout": "text_first",
         "text_box_position": "middle",
@@ -268,7 +268,6 @@
         "full_width": false,
         "show_divider": false,
         "image_behavior": "none",
-        "image_mobile": "shopify://shop_images/106.png",
         "mobile_layout": "image_first",
         "mobile_text_alignment": "left",
         "mobile_image_ratio": "adapt",
@@ -344,7 +343,7 @@
         "heading_gyHQzi": {
           "type": "heading",
           "settings": {
-            "heading": "The Only Skincare Essentials You'll Ever Need",
+            "heading": "Body Care for Yummy Skin",
             "heading_size": "h2",
             "heading_tag": "h2"
           }
@@ -352,7 +351,7 @@
         "text_pMEzbX": {
           "type": "text",
           "settings": {
-            "text": "<p>100% natural. Specifically designed to hydrate your skin and eliminate acne—no matter what type. Perfected for real results.<br/><br/></p>",
+            "text": "<p>Glow, scent, slay—turn heads everywhere you go with our Glow Getter Trio.<br/><br/></p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -364,9 +363,9 @@
       ],
       "settings": {
         "image": "shopify://shop_images/ezgif.com-optimize.gif",
-        "image_2": "shopify://shop_images/113.png",
-        "image_3": "shopify://shop_images/611A4167.jpg",
-        "image_4": "shopify://shop_images/111_d65c0771-3117-45a8-9b5a-81932b6d608b.png",
+        "image_2": "shopify://shop_images/glow-getter-trio-4905863.png",
+        "image_3": "shopify://shop_images/body-butter-whipped-scented-moisturizer-200ml-4847053.jpg",
+        "image_4": "shopify://shop_images/glow-getter-trio-7478898.png",
         "image_ratio": "portrait",
         "image_position": "center center",
         "layout": "image_first",
