@@ -560,7 +560,7 @@
         "text_6GwMQm": {
           "type": "text",
           "settings": {
-            "text": "<p>A small daily habit can make all the <strong>difference</strong>. Reveal your <strong>smoothest</strong>, <strong>glowiest</strong> skin with our expert-formulated <strong>acne solutions</strong>, and turn heads with the captivating scents of our<strong> signature</strong> perfumes. <br/><strong>Confidence starts here.</strong></p>",
+            "text": "<p>A small daily habit can make all the difference. Reveal your smoothest, most radiant skin with our expert-formulated body care, and leave a lasting impression with the irresistible scents of our signature perfumes.<br/><strong>Confidence starts here.</strong></p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -582,7 +582,9 @@
       ],
       "settings": {
         "image": "shopify://shop_images/ezgif.com-optimize.gif",
-        "image_2": "shopify://shop_images/611A4167.jpg",
+        "image_2": "shopify://shop_images/hair-perfume-50ml-4980167.png",
+        "image_3": "shopify://shop_images/glow-getter-trio-4940635.png",
+        "image_4": "shopify://shop_images/intimate-shaving-kit-for-sensitive-areas-bikini-underarms-and-booty-8784264.png",
         "image_ratio": "square",
         "image_position": "center center",
         "layout": "text_first",
