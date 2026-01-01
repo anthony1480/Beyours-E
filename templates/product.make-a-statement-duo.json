@@ -235,7 +235,7 @@
         "text_4DQrEY"
       ],
       "settings": {
-        "image": "shopify://shop_images/Shopify_35fa4513-67d5-437d-903f-52ee8c62c889.png",
+        "image": "shopify://shop_images/body-butter-whipped-scented-moisturizer-200ml-4847053.jpg",
         "image_position": "center center",
         "layout": "text_first",
         "text_box_position": "middle",
@@ -245,7 +245,6 @@
         "full_width": false,
         "show_divider": false,
         "image_behavior": "none",
-        "image_mobile": "shopify://shop_images/106.png",
         "mobile_layout": "image_first",
         "mobile_text_alignment": "left",
         "mobile_image_ratio": "adapt",
@@ -275,7 +274,7 @@
         "text_pMEzbX": {
           "type": "text",
           "settings": {
-            "text": "<p>Ever been in a \"<strong>It's Valentines day every day</strong>\" Kind of relationship? Well it's time for that now because <strong>90% of our costumers</strong> have reported having a better relationship after getting this <strong>Duo</strong></p>",
+            "text": "<p>Ever wish every day felt like Valentine’s Day? Our Duo might just make that happen—90% of our customers say it’s brought a little extra spark to their relationships<br/></p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -286,10 +285,10 @@
         "text_pMEzbX"
       ],
       "settings": {
-        "image": "shopify://shop_images/87.png",
-        "image_2": "shopify://shop_images/85.png",
-        "image_3": "shopify://shop_images/86.png",
-        "image_4": "shopify://shop_images/93.png",
+        "image": "shopify://shop_images/make-a-statement-duo-body-splash-hair-perfume-5298953.png",
+        "image_2": "shopify://shop_images/make-a-statement-duo-body-splash-hair-perfume-2602240.png",
+        "image_3": "shopify://shop_images/make-a-statement-duo-body-splash-hair-perfume-1415372.png",
+        "image_4": "shopify://shop_images/hair-perfume-50ml-7588082.png",
         "image_ratio": "portrait",
         "image_position": "center center",
         "layout": "image_first",
