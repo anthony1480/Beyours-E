@@ -237,7 +237,7 @@
         "text_4DQrEY": {
           "type": "text",
           "settings": {
-            "text": "<p><br/>Our products are designed for all skin types, providing hydration while targeting acne and shaving-related concerns.<strong> 100% tested and approved for guaranteed results.</strong> Pamper yourself with your kit today.<br/><br/></p>",
+            "text": "<p><br/>Our Essentials Kit delivers complete, targeted care for your most sensitive areas. Combining the Booty Care Routine, feminine hygiene essentials, and an intimate shaving kit, it helps prevent body acne, ingrown hairs, irritation, and dryness while keeping skin smooth, comfortable, and balanced. Thoughtfully formulated for all skin types and tested for visible, reliable results.<br/><br/></p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -249,7 +249,7 @@
         "text_4DQrEY"
       ],
       "settings": {
-        "image": "shopify://shop_images/106.png",
+        "image": "shopify://shop_images/the-essentials-kit-booty-bump-free-shaves-and-all-day-freshness-down-there-3394702.png",
         "image_position": "center center",
         "layout": "text_first",
         "text_box_position": "middle",
@@ -259,7 +259,6 @@
         "full_width": false,
         "show_divider": false,
         "image_behavior": "none",
-        "image_mobile": "shopify://shop_images/106.png",
         "mobile_layout": "image_first",
         "mobile_text_alignment": "left",
         "mobile_image_ratio": "adapt",
@@ -335,7 +334,7 @@
         "heading_gyHQzi": {
           "type": "heading",
           "settings": {
-            "heading": "The Only Skincare Essentials You'll Ever Need",
+            "heading": "All your Skincare Essentials in one bundle",
             "heading_size": "h2",
             "heading_tag": "h2"
           }
@@ -343,7 +342,7 @@
         "text_pMEzbX": {
           "type": "text",
           "settings": {
-            "text": "<p>100% natural. Specifically designed to hydrate your skin and eliminate acne—no matter what type. Perfected for real results.<br/><br/></p>",
+            "text": "<p>Our Essentials Kit combines the Booty Care Routine, feminine hygiene products, and an intimate shaving kit for complete body care. Designed for all skin types, it targets body acne, ingrown hairs, irritation, and dryness while supporting daily hygiene and skin comfort. Dermatologically tested for effective, reliable results.<br/><br/></p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -354,10 +353,10 @@
         "text_pMEzbX"
       ],
       "settings": {
-        "image": "shopify://shop_images/ezgif.com-optimize.gif",
-        "image_2": "shopify://shop_images/113.png",
+        "image": "shopify://shop_images/the-essentials-kit-booty-bump-free-shaves-and-all-day-freshness-down-there-3394702.png",
+        "image_2": "shopify://shop_images/feminine-hygiene-duo-daily-intimate-wash-bikini-perfume-new-packaging-1039160.jpg",
         "image_3": "shopify://shop_images/611A4167.jpg",
-        "image_4": "shopify://shop_images/111_d65c0771-3117-45a8-9b5a-81932b6d608b.png",
+        "image_4": "shopify://shop_images/intimate-shaving-kit-for-sensitive-areas-bikini-underarms-and-booty-8784264.png",
         "image_ratio": "portrait",
         "image_position": "center center",
         "layout": "image_first",
