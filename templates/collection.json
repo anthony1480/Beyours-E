@@ -168,31 +168,36 @@
         "image_aXPmxQ": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/booty-care-routine-acne-hyperpigmentation-treatment-5261004.png",
             "url": "shopify://products/the-booty-care-routine"
           }
         },
         "image_YFdphU": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/IMG-2580_a60ec5ea-d39a-4f7b-9f37-0ee1f37d4b91.jpg",
             "url": "shopify://products/feminine-hygiene-dup"
           }
         },
         "image_VK43AU": {
           "type": "image",
           "settings": {
-            "url": ""
+            "image": "shopify://shop_images/peach-polish-skin-perfecting-serum-body-acne-strawberry-skin-whitening-6412185.png",
+            "url": "shopify://products/peach-polish-skin-perfecting-serum-glycolic-salicylic-acids"
           }
         },
         "image_m9ghFa": {
           "type": "image",
           "settings": {
-            "url": ""
+            "image": "shopify://shop_images/make-a-statement-duo-body-splash-hair-perfume-2602240.png",
+            "url": "shopify://products/make-a-statement-duo"
           }
         },
         "image_9N6J4W": {
           "type": "image",
           "settings": {
-            "url": ""
+            "image": "shopify://shop_images/smoothskin-duo-the-ultimate-anti-cellulites-stretch-marks-kit-7453659.png",
+            "url": "shopify://products/smoothskin-duo-anti-cellulites-stretchmarks-kit-1"
           }
         }
       },
