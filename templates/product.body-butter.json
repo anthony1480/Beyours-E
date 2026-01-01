@@ -374,6 +374,7 @@
         "text_4DQrEY"
       ],
       "settings": {
+        "image": "shopify://shop_images/body-butter-whipped-scented-moisturizer-200ml-7392057.png",
         "image_position": "center center",
         "layout": "text_first",
         "text_box_position": "middle",
@@ -424,6 +425,9 @@
       ],
       "settings": {
         "image": "shopify://shop_images/96_3a0dc1cd-777c-48af-b6cf-66fd616f352d.png",
+        "image_2": "shopify://shop_images/silky-smooth-shaving-kit-for-all-body-parts-legs-arms-back-and-underarms-2756168.png",
+        "image_3": "shopify://shop_images/body-butter-whipped-scented-moisturizer-200ml-4605520.png",
+        "image_4": "shopify://shop_images/body-butter-whipped-scented-moisturizer-200ml-7400788.png",
         "image_ratio": "portrait",
         "image_position": "center center",
         "layout": "image_first",
