@@ -76,15 +76,15 @@
         "collapsible_description_DzHKfx": {
           "type": "collapsible_description",
           "settings": {
-            "icon": "question_mark",
-            "heading": "Description:",
+            "icon": "none",
+            "heading": "Description",
             "keep_open": false
           }
         },
         "collapsible_tab_pn6cca": {
           "type": "collapsible_tab",
           "settings": {
-            "icon": "heart",
+            "icon": "none",
             "heading": "Choose your signature scent:",
             "content": "<p><br/>🌴 <strong>Coco Sunset</strong> – A tropical coconut and vanilla blend that buffs away dryness for irresistibly soft skin.<br/>🍓 <strong>After Dark</strong> – Sweet red berries for a playful scent that turns your shower into a spa-like escape.<br/>🌙 <strong>Under the Moonlight</strong> – Luxurious white musk that polishes your skin to perfection.<br/><br/></p>",
             "page": "",
@@ -95,8 +95,8 @@
         "collapsible_tab_GPn4gb": {
           "type": "collapsible_tab",
           "settings": {
-            "icon": "leaf",
-            "heading": "Ingredients:",
+            "icon": "question_mark",
+            "heading": "Ingredients",
             "content": "<p>Aqua, Parfum, Ethyl Alcohol, Peg-40 Hydrogenated Castor Oil, Glycerine Propylene Glycol (and) Diazolidinyl Urea (and) Iodopropynyl Butylcarbamate.</p>",
             "page": "",
             "custom_liquid": "",
@@ -243,7 +243,7 @@
         "text_4DQrEY"
       ],
       "settings": {
-        "image": "shopify://shop_images/Shopify_35fa4513-67d5-437d-903f-52ee8c62c889.png",
+        "image": "shopify://shop_images/91.png",
         "image_position": "center center",
         "layout": "text_first",
         "text_box_position": "middle",
@@ -253,7 +253,6 @@
         "full_width": false,
         "show_divider": false,
         "image_behavior": "none",
-        "image_mobile": "shopify://shop_images/106.png",
         "mobile_layout": "image_first",
         "mobile_text_alignment": "left",
         "mobile_image_ratio": "adapt",
@@ -322,9 +321,9 @@
       ],
       "settings": {
         "image": "shopify://shop_images/91.png",
-        "image_2": "shopify://shop_images/89.png",
-        "image_3": "shopify://shop_images/90.png",
-        "image_4": "shopify://shop_images/88.png",
+        "image_2": "shopify://shop_images/body-splash-150ml-6863444.png",
+        "image_3": "shopify://shop_images/body-splash-150ml-4349030.png",
+        "image_4": "shopify://shop_images/body-splash-150ml-9736227.png",
         "image_ratio": "portrait",
         "image_position": "center center",
         "layout": "image_first",
