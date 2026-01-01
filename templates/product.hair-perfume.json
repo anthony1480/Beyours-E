@@ -194,7 +194,7 @@
         "heading_dpeidU": {
           "type": "heading",
           "settings": {
-            "heading": "Your hair has never smelled so good",
+            "heading": "Your hair never smelled so good",
             "heading_size": "h2",
             "heading_tag": "h2"
           }
@@ -210,7 +210,7 @@
         "text_4DQrEY": {
           "type": "text",
           "settings": {
-            "text": "<p>With 0 hair grease and no side effects at all, our signature scents will make anyone go crazy over your hair smell with 3 luxurious hair smells from 🌴 <strong>Coco Sunset, </strong>🍓 <strong>After Dark </strong>Or 🌙 <strong>Under the Moonlight.</strong></p>",
+            "text": "<p>Our signature hair perfumes leave no grease or residue—just three luxurious scents—🌴 Coco Sunset, 🍓 After Dark, and 🌙 Under the Moonlight—that make your hair unforgettable.</p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -222,7 +222,7 @@
         "text_4DQrEY"
       ],
       "settings": {
-        "image": "shopify://shop_images/113.png",
+        "image": "shopify://shop_images/hair-perfume-50ml-1123751.png",
         "image_position": "center center",
         "layout": "text_first",
         "text_box_position": "middle",
@@ -232,7 +232,6 @@
         "full_width": false,
         "show_divider": false,
         "image_behavior": "none",
-        "image_mobile": "shopify://shop_images/113.png",
         "mobile_layout": "image_first",
         "mobile_text_alignment": "left",
         "mobile_image_ratio": "adapt",
@@ -262,7 +261,7 @@
         "text_pMEzbX": {
           "type": "text",
           "settings": {
-            "text": "<p>With more than 900 monthly hair users, we have never gotten a bad feedback because everyone wants to smell good. So if you want to smell good just stop scrolling and try it out, <strong>0 Regret Guarranteed</strong></p>",
+            "text": "<p>With over 250 users every month, our hair perfumes have never received negative feedback—everyone just wants their hair to smell amazing. Stop scrolling and try it—you won’t regret it.</p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -273,10 +272,10 @@
         "text_pMEzbX"
       ],
       "settings": {
-        "image": "shopify://shop_images/112.png",
-        "image_2": "shopify://shop_images/95.png",
-        "image_3": "shopify://shop_images/94.png",
-        "image_4": "shopify://shop_images/93.png",
+        "image": "shopify://shop_images/hair-perfume-50ml-8647653.png",
+        "image_2": "shopify://shop_images/hair-perfume-50ml-7588082.png",
+        "image_3": "shopify://shop_images/hair-perfume-50ml-2502813.png",
+        "image_4": "shopify://shop_images/hair-perfume-50ml-9871890.png",
         "image_ratio": "portrait",
         "image_position": "center center",
         "layout": "image_first",
