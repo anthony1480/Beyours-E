@@ -227,7 +227,7 @@
         "text_4DQrEY": {
           "type": "text",
           "settings": {
-            "text": "<p>While they look like something yummy, but these body scrubs are actually not for eating, they are the best body scrubs to keep your body <strong>clean</strong>, <strong>nourished</strong> and with <strong>zero dead skin</strong>.</p>",
+            "text": "<p>They may look good enough to eat, but these body scrubs are made for your skin—not your taste buds. Exfoliate, nourish, and reveal smooth, glowing skin with zero dead cells.<br/><br/></p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -278,7 +278,7 @@
         "text_pMEzbX": {
           "type": "text",
           "settings": {
-            "text": "<p>These 3 signature scented body scrubs are guaranteed to keep you <strong>fresh </strong>all the time with a <strong>heavenly</strong> feeling of a <strong>nourished body</strong> and a signature scent that will keep everyone aware of your presence a mile away</p>",
+            "text": "<p>Our 3 signature-scented body scrubs keep your skin nourished, fresh, and glowing, leaving a long-lasting scent that turns heads wherever you go.<br/><br/></p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -289,10 +289,10 @@
         "text_pMEzbX"
       ],
       "settings": {
-        "image": "shopify://shop_images/106.png",
-        "image_2": "shopify://shop_images/101.png",
-        "image_3": "shopify://shop_images/102.png",
-        "image_4": "shopify://shop_images/103.png",
+        "image": "shopify://shop_images/foaming-body-scrub-200g-6550934.png",
+        "image_2": "shopify://shop_images/foaming-body-scrub-200g-6080439.png",
+        "image_3": "shopify://shop_images/foaming-body-scrub-200g-8606413.png",
+        "image_4": "shopify://shop_images/silky-smooth-shaving-kit-for-all-body-parts-legs-arms-back-and-underarms-6118128.png",
         "image_ratio": "portrait",
         "image_position": "center center",
         "layout": "image_first",
