@@ -327,7 +327,7 @@
         "heading_gyHQzi": {
           "type": "heading",
           "settings": {
-            "heading": "The Only Skincare Essentials You'll Ever Need",
+            "heading": "The Only Body Shaving Routine you will ever need",
             "heading_size": "h2",
             "heading_tag": "h2"
           }
@@ -347,7 +347,9 @@
       ],
       "settings": {
         "image": "shopify://shop_images/ezgif.com-optimize.gif",
-        "image_3": "shopify://shop_images/611A4167.jpg",
+        "image_2": "shopify://shop_images/silky-smooth-shaving-kit-for-all-body-parts-legs-arms-back-and-underarms-3114029.png",
+        "image_3": "shopify://shop_images/silky-smooth-shaving-kit-for-all-body-parts-legs-arms-back-and-underarms-9368208.png",
+        "image_4": "shopify://shop_images/silky-smooth-shaving-kit-for-all-body-parts-legs-arms-back-and-underarms-1827472.png",
         "image_ratio": "portrait",
         "image_position": "center center",
         "layout": "image_first",
