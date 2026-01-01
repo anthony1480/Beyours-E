@@ -168,35 +168,30 @@
         "image_aXPmxQ": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/109.png",
-            "url": ""
+            "url": "shopify://products/the-booty-care-routine"
           }
         },
         "image_YFdphU": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/83.png",
-            "url": ""
+            "url": "shopify://products/feminine-hygiene-dup"
           }
         },
         "image_VK43AU": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/82.png",
             "url": ""
           }
         },
         "image_m9ghFa": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/84.png",
             "url": ""
           }
         },
         "image_9N6J4W": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/81.png",
             "url": ""
           }
         }
@@ -317,14 +312,12 @@
         "slide_Wr4BzK"
       ],
       "settings": {
-        "image": "shopify://shop_images/79_5c6f1d52-7c94-4961-afe0-409c56fe4b03.png",
         "image_position": "center center",
         "text_box_position": "middle",
         "text_alignment": "left",
         "image_ratio": "650px",
         "full_width": true,
         "show_divider": false,
-        "image_mobile": "shopify://shop_images/79_5c6f1d52-7c94-4961-afe0-409c56fe4b03.png",
         "mobile_text_alignment": "center",
         "mobile_image_ratio": "auto",
         "show_text_below": false,
