@@ -210,7 +210,7 @@
         "subheading_c3XRmH": {
           "type": "subheading",
           "settings": {
-            "subheading": "Skin Smoother + Body Scrub",
+            "subheading": "Skin Smoother Oil + Body Scrub",
             "subheading_size": "h5",
             "secondary_color": false
           }
@@ -218,7 +218,7 @@
         "text_4DQrEY": {
           "type": "text",
           "settings": {
-            "text": "<p>Get a smooth skin in days of usage with <strong>0 stretch marks</strong> and side effects and enjoy the smell of a <strong>cupcake</strong> with a long lasting smell of up to <strong>6 hours!</strong></p>",
+            "text": "<p>A clinically formulated duo designed to improve skin texture and the appearance of stretch marks with consistent use, while supporting hydration and skin comfort.<br/><br/></p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -230,7 +230,7 @@
         "text_4DQrEY"
       ],
       "settings": {
-        "image": "shopify://shop_images/111_d65c0771-3117-45a8-9b5a-81932b6d608b.png",
+        "image": "shopify://shop_images/stretch_marks.png",
         "image_position": "center center",
         "layout": "text_first",
         "text_box_position": "middle",
@@ -240,7 +240,6 @@
         "full_width": false,
         "show_divider": false,
         "image_behavior": "none",
-        "image_mobile": "shopify://shop_images/106.png",
         "mobile_layout": "image_first",
         "mobile_text_alignment": "left",
         "mobile_image_ratio": "adapt",
@@ -270,7 +269,7 @@
         "text_pMEzbX": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>\"I'm sick of hearing compliments\"</strong> is what 2000 of our costumers keep on telling us, too bad</p>",
+            "text": "<p><strong>\"I’m sick of hearing compliments.”</strong><br/>— 7,000+ customers and counting. Too bad <br/><br/></p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -281,10 +280,10 @@
         "text_pMEzbX"
       ],
       "settings": {
-        "image": "shopify://shop_images/109.png",
-        "image_2": "shopify://shop_images/108.png",
-        "image_3": "shopify://shop_images/107.png",
-        "image_4": "shopify://shop_images/110_db1fc7b5-74ec-4568-8f71-e7811f7ca831.png",
+        "image": "shopify://shop_images/smoothskin-duo-the-ultimate-anti-cellulites-stretch-marks-kit-7281116.png",
+        "image_2": "shopify://shop_images/smoothskin-duo-the-ultimate-anti-cellulites-stretch-marks-kit-1270414.png",
+        "image_3": "shopify://shop_images/smoothskin-duo-the-ultimate-anti-cellulites-stretch-marks-kit-7453659.png",
+        "image_4": "shopify://shop_images/skin-smoother-body-oil-anti-scars-stretch-marks-100ml-4465355.png",
         "image_ratio": "portrait",
         "image_position": "center center",
         "layout": "image_first",
