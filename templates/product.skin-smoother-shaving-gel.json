@@ -242,6 +242,7 @@
         "text_4DQrEY"
       ],
       "settings": {
+        "image": "shopify://shop_images/intimate-shaving-kit-for-sensitive-areas-bikini-underarms-and-booty-8784264.png",
         "image_position": "center center",
         "layout": "text_first",
         "text_box_position": "middle",
@@ -326,7 +327,7 @@
         "heading_gyHQzi": {
           "type": "heading",
           "settings": {
-            "heading": "The Only Skincare Essentials You'll Ever Need",
+            "heading": "Start Shaving Right!",
             "heading_size": "h2",
             "heading_tag": "h2"
           }
@@ -334,7 +335,7 @@
         "text_pMEzbX": {
           "type": "text",
           "settings": {
-            "text": "<p>100% natural. Specifically designed to hydrate your skin and eliminate acne—no matter what type. Perfected for real results.<br/><br/></p>",
+            "text": "<p>100% natural. The Intimate Shaving Kit is specifically designed to  minimize ingrown hairs, irritation, and other shaving-related concerns while supporting skin comfort and recovery. <br/><br/><br/></p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -345,8 +346,10 @@
         "text_pMEzbX"
       ],
       "settings": {
-        "image": "shopify://shop_images/ezgif.com-optimize.gif",
-        "image_3": "shopify://shop_images/611A4167.jpg",
+        "image": "shopify://shop_images/intimate-shaving-kit-for-sensitive-areas-bikini-underarms-and-booty-8784264.png",
+        "image_2": "shopify://shop_images/intimate-shaving-kit-for-sensitive-areas-bikini-underarms-and-booty-5138909.png",
+        "image_3": "shopify://shop_images/silky-smooth-shaving-kit-for-all-body-parts-legs-arms-back-and-underarms-3114029.png",
+        "image_4": "shopify://shop_images/silky-smooth-shaving-kit-for-all-body-parts-legs-arms-back-and-underarms-1265411.jpg",
         "image_ratio": "portrait",
         "image_position": "center center",
         "layout": "image_first",
