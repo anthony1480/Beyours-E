@@ -179,7 +179,7 @@
           "settings": {
             "video": "shopify://files/videos/12 intimate spray.mp4",
             "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-            "title": "Lolipop",
+            "title": "Smells so good!",
             "stars_count": 5
           }
         },
@@ -188,7 +188,7 @@
           "settings": {
             "video": "shopify://files/videos/2.2 intimate wash and spray.mp4",
             "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-            "title": "Intimate",
+            "title": "The Best Intimate Hygiene Products...",
             "stars_count": 5
           }
         },
@@ -197,7 +197,7 @@
           "settings": {
             "video": "shopify://files/videos/6 intimate wash and spray bubbles.mp4",
             "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-            "title": "Bubble Bath",
+            "title": "Wow! Best-purchase of 2026",
             "stars_count": 5
           }
         },
@@ -206,7 +206,7 @@
           "settings": {
             "video": "shopify://files/videos/7 after dark scrub.mp4",
             "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-            "title": "Too bad it's not edible",
+            "title": "YUMM! What else can I say?",
             "stars_count": 5
           }
         }
@@ -374,7 +374,6 @@
         "text_4DQrEY"
       ],
       "settings": {
-        "image": "shopify://shop_images/98.png",
         "image_position": "center center",
         "layout": "text_first",
         "text_box_position": "middle",
@@ -425,9 +424,6 @@
       ],
       "settings": {
         "image": "shopify://shop_images/96_3a0dc1cd-777c-48af-b6cf-66fd616f352d.png",
-        "image_2": "shopify://shop_images/102.png",
-        "image_3": "shopify://shop_images/101.png",
-        "image_4": "shopify://shop_images/103.png",
         "image_ratio": "portrait",
         "image_position": "center center",
         "layout": "image_first",
