@@ -274,6 +274,83 @@
         "padding_bottom": 36
       }
     },
+    "image_with_text_Vq4ebP": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_MVhBdy": {
+          "type": "heading",
+          "settings": {
+            "heading": "Shaving isn’t the problem — shaving without protection is.",
+            "heading_size": "h2",
+            "heading_tag": "h2"
+          }
+        },
+        "text_7kNMbR": {
+          "type": "text",
+          "settings": {
+            "text": "<p>That’s why we created a proven 3-step shaving routine designed for the most delicate areas: bikini, booty, underarms — and safe for the entire body.<br/></p>",
+            "text_size": "typeset",
+            "secondary_color": false
+          }
+        },
+        "heading_PQYhQK": {
+          "type": "heading",
+          "settings": {
+            "heading": "How it works:",
+            "heading_size": "h2",
+            "heading_tag": "h2"
+          }
+        },
+        "subheading_HcGeGt": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "This routine doesn’t just improve shaving — it changes it.",
+            "subheading_size": "h5",
+            "secondary_color": false
+          }
+        },
+        "text_bLHQf9": {
+          "type": "text",
+          "settings": {
+            "text": "<p><br/>Exfoliate first to clear buildup, smooth rough skin, and release trapped hairs.<br/><br/>Shave with our protective gel that creates a barrier between your skin and the razor, minimizing irritation, nicks, and cuts.<br/><br/>Finish with the aftershave oil to soothe, deeply moisturize, and help prevent ingrown hairs, itching, and bumps.<br/><br/></p>",
+            "text_size": "typeset",
+            "secondary_color": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_MVhBdy",
+        "text_7kNMbR",
+        "heading_PQYhQK",
+        "subheading_HcGeGt",
+        "text_bLHQf9"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/bikini_line_ingrown_hairs.png",
+        "image_position": "center center",
+        "layout": "text_first",
+        "text_box_position": "middle",
+        "text_alignment": "left",
+        "image_ratio": "adapt",
+        "enlarge_content": false,
+        "full_width": false,
+        "show_divider": false,
+        "image_behavior": "none",
+        "mobile_layout": "image_first",
+        "mobile_text_alignment": "left",
+        "mobile_image_ratio": "adapt",
+        "enable_video_looping": false,
+        "video_url": "",
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "image_banner_iKrdae": {
       "type": "image-banner",
       "custom_css": [
@@ -638,6 +715,7 @@
     "main",
     "image_banner_jy3yGP",
     "scrolling-promotion",
+    "image_with_text_Vq4ebP",
     "image_with_text_beiAjz",
     "image_banner_iKrdae",
     "image_banner_XAz9Uz",
