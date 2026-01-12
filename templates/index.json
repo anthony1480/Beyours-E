@@ -271,7 +271,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>From Acne removing to smelling like a goddess, benefit from the brand that has changed the life of 7000+ People</p>",
+            "text": "<p>From Acne removing to smelling like a goddess, benefit from the brand that has changed the life of 10,000+ People</p>",
             "text_size": "typeset3",
             "secondary_color": false,
             "highlight_phrases": "7000+ People\nAcne removing",
@@ -540,7 +540,7 @@
         "use_custom_colors": true,
         "colors_icon": "#ffffff",
         "colors_text": "#ffffff",
-        "colors_background": "#a94759",
+        "colors_background": "#9fded2",
         "gradient_background": "",
         "padding_top": 20,
         "padding_bottom": 20
@@ -726,7 +726,7 @@
         "columns_mobile": "2",
         "swipe_on_mobile": false,
         "use_custom_colors": true,
-        "colors_icon": "#a94759",
+        "colors_icon": "#9fe6d9",
         "colors_text": "#1a1b18",
         "colors_background": "#fafafa",
         "gradient_background": "",
