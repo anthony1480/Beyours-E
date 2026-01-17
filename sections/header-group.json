@@ -18,7 +18,7 @@
           "type": "announcement",
           "settings": {
             "text": "FREE DELIVERY ON ORDERS $65+",
-            "text_on_mobile": "FREE DELIVERY ON ORDERS $69+",
+            "text_on_mobile": "FREE DELIVERY ON ORDERS $65+",
             "text_size": 14,
             "link": "shopify://collections/all"
           }
