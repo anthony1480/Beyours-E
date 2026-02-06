@@ -194,6 +194,96 @@
         "padding_bottom": 20
       }
     },
+    "testimonials_zBJVKg": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_TNNYXa": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p>My skin feels so much better after using The Booty Care Routinefor couple of weeks only. Highly recommended!!</p>",
+            "author": "Joanna A."
+          }
+        },
+        "testimonial_3PXdex": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p>Acne was driving me crazy. But my friend told me about this product and it's really a life saver for me</p>",
+            "author": "Lama H."
+          }
+        },
+        "testimonial_bfidJz": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p>At first I thought okay I will try it but it might not work... 3 weeks later all my bumps were gone!! I Definitely recommend it!</p>",
+            "author": "Fatima S."
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_TNNYXa",
+        "testimonial_3PXdex",
+        "testimonial_bfidJz"
+      ],
+      "settings": {
+        "autorotate": true,
+        "autorotate_speed": 5,
+        "hide_images": true,
+        "show_divider": false,
+        "heading": "What Our Customers Think 👇",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "heading_tag": "h2",
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
+    "177039642276c25681": {
+      "type": "_blocks",
+      "blocks": {
+        "ai_gen_block_80d8a1d_btLttg": {
+          "type": "ai_gen_block_80d8a1d",
+          "settings": {
+            "before_image": "shopify://shop_images/Untitled_design_5.png",
+            "after_image": "shopify://shop_images/Untitled_design_6.png",
+            "show_labels": true,
+            "before_label": "Before the Booty Care Routine",
+            "after_label": "After 2 weeks",
+            "label_font_size": 14,
+            "label_font_weight": "600",
+            "label_padding": 8,
+            "label_border_radius": 4,
+            "label_position_top": 20,
+            "label_position_side": 20,
+            "label_bg_color": "#ffffff",
+            "label_text_color": "#212326",
+            "slider_width": 50,
+            "line_thickness": 3,
+            "button_size": 50,
+            "button_border": 3,
+            "arrow_size": 18,
+            "slider_color": "#ffffff",
+            "button_border_color": "#62baab",
+            "arrow_color": "#62baab",
+            "desktop_width_percent": 100,
+            "image_max_width": 600,
+            "section_padding": 20,
+            "border_radius": 8,
+            "border_thickness": 1,
+            "border_color": "#d2d5d9",
+            "placeholder_bg_color": "#f3f3f3",
+            "text_color": "#212326"
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "ai_gen_block_80d8a1d_btLttg"
+      ],
+      "settings": {}
+    },
     "image_with_text_beiAjz": {
       "type": "image-with-text",
       "blocks": {
@@ -407,53 +497,6 @@
         "padding_bottom": 36
       }
     },
-    "testimonials_zBJVKg": {
-      "type": "testimonials",
-      "blocks": {
-        "testimonial_TNNYXa": {
-          "type": "testimonial",
-          "settings": {
-            "icon": "5",
-            "text": "<p>My skin feels so much better after using The 4 in 1 Wand for couple of days only. Highly recommended!!</p>",
-            "author": "Maria K."
-          }
-        },
-        "testimonial_3PXdex": {
-          "type": "testimonial",
-          "settings": {
-            "icon": "5",
-            "text": "<p>Acne was driving me crazy. But my friend told me about loreka and it's really a life saver for me</p>",
-            "author": "Jade H."
-          }
-        },
-        "testimonial_bfidJz": {
-          "type": "testimonial",
-          "settings": {
-            "icon": "5",
-            "text": "<p>The red and blue light modes are perfect for making my skin smooth and young</p>",
-            "author": "Carla K."
-          }
-        }
-      },
-      "block_order": [
-        "testimonial_TNNYXa",
-        "testimonial_3PXdex",
-        "testimonial_bfidJz"
-      ],
-      "disabled": true,
-      "settings": {
-        "autorotate": true,
-        "autorotate_speed": 5,
-        "hide_images": true,
-        "show_divider": false,
-        "heading": "What Our Customers Think 👇",
-        "heading_size": "h1",
-        "heading_alignment": "center",
-        "heading_tag": "h2",
-        "padding_top": 20,
-        "padding_bottom": 20
-      }
-    },
     "1717958248b0b4020b": {
       "type": "apps",
       "blocks": {
@@ -557,6 +600,38 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "image_comparison_fwGAjt": {
+      "type": "image-comparison",
+      "blocks": {
+        "look_meWcyV": {
+          "type": "look",
+          "settings": {
+            "title": "",
+            "title_size": "small",
+            "title_position": "start"
+          }
+        }
+      },
+      "block_order": [
+        "look_meWcyV"
+      ],
+      "disabled": true,
+      "name": "t:sections.image-comparison.presets.name",
+      "settings": {
+        "layout": "horizontal",
+        "image_ratio": "650px",
+        "mobile_image_ratio": "auto",
+        "full_width": false,
+        "show_divider": false,
+        "heading": "Image comparison",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "heading_tag": "h2",
+        "colors_line": "#FFFFFF",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -564,13 +639,15 @@
     "main",
     "image_banner_jy3yGP",
     "scrolling-promotion",
+    "testimonials_zBJVKg",
+    "177039642276c25681",
     "image_with_text_beiAjz",
     "images_with_text_t3GnhX",
     "scrolling_promotion_UiKVGc",
     "guarantees",
-    "testimonials_zBJVKg",
     "1717958248b0b4020b",
     "collapsible-content",
-    "product-recommendations"
+    "product-recommendations",
+    "image_comparison_fwGAjt"
   ]
 }
