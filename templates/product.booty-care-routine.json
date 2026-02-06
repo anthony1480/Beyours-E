@@ -135,10 +135,13 @@
     },
     "image_banner_jy3yGP": {
       "type": "image-banner",
+      "disabled": true,
       "custom_css": [
         "@media screen and (min-width: 768px) {div {display: none; }}"
       ],
       "settings": {
+        "image": "shopify://shop_images/image.png",
+        "image_2": "shopify://shop_images/Untitled_design_5.png",
         "image_position": "center center",
         "text_box_position": "middle-center",
         "text_alignment": "center",
@@ -245,6 +248,43 @@
       "blocks": {
         "ai_gen_block_80d8a1d_btLttg": {
           "type": "ai_gen_block_80d8a1d",
+          "disabled": true,
+          "settings": {
+            "before_image": "shopify://shop_images/Untitled_design_5.png",
+            "after_image": "shopify://shop_images/Untitled_design_6.png",
+            "show_labels": true,
+            "before_label": "Before the Booty Care Routine",
+            "after_label": "After 2 weeks",
+            "label_font_size": 14,
+            "label_font_weight": "600",
+            "label_padding": 8,
+            "label_border_radius": 4,
+            "label_position_top": 20,
+            "label_position_side": 20,
+            "label_bg_color": "#ffffff",
+            "label_text_color": "#212326",
+            "slider_width": 50,
+            "line_thickness": 3,
+            "button_size": 50,
+            "button_border": 3,
+            "arrow_size": 18,
+            "slider_color": "#ffffff",
+            "button_border_color": "#62baab",
+            "arrow_color": "#62baab",
+            "desktop_width_percent": 100,
+            "image_max_width": 600,
+            "section_padding": 20,
+            "border_radius": 8,
+            "border_thickness": 1,
+            "border_color": "#d2d5d9",
+            "placeholder_bg_color": "#f3f3f3",
+            "text_color": "#212326"
+          },
+          "blocks": {}
+        },
+        "ai_gen_block_80d8a1d_NBDhhz": {
+          "type": "ai_gen_block_80d8a1d",
+          "disabled": true,
           "settings": {
             "before_image": "shopify://shop_images/Untitled_design_5.png",
             "after_image": "shopify://shop_images/Untitled_design_6.png",
@@ -280,7 +320,8 @@
         }
       },
       "block_order": [
-        "ai_gen_block_80d8a1d_btLttg"
+        "ai_gen_block_80d8a1d_btLttg",
+        "ai_gen_block_80d8a1d_NBDhhz"
       ],
       "settings": {}
     },
