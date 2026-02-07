@@ -62,7 +62,7 @@
         "custom_liquid_8fkWzA": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<b><p>✔️ Get the Body Scrub FREE with your purchase.</p>\n<p>✔️ Full Routine, Perfect for daily self-care or as a thoughtful gift</p>\n<p>✔️ Generous sizes for long-lasting self-care.</p></b>"
+            "custom_liquid": "<b><p>✔️ Soft Skin. Instant Glow. Scent that lasts +16 hours.</p>\n<p>✔️ Full Routine, Perfect for daily self-care or as a thoughtful gift</p>\n<p>✔️ Generous sizes for long-lasting self-care.</p></b>"
           }
         },
         "buy_buttons": {
@@ -94,7 +94,7 @@
           "settings": {
             "icon": "box",
             "heading": "What's included",
-            "content": "<p><strong>Body Scrub (200g)</strong> <em>(Free Gift)</em>: A gentle exfoliator that buffs away dead skin cells, leaving your skin smooth, prepped, and ready to soak in hydration.</p><p><strong>Body Butter (150g)</strong>: Bigger and better than most, this rich and creamy body butter deeply hydrates while locking in moisture for soft, supple skin that lasts.</p><p><strong>Body Splash (150ml)</strong>: A refreshing mist of your favorite scent to keep you smelling incredible all day.</p>",
+            "content": "<p><strong>Body Scrub (200g)</strong>: A gentle exfoliator that buffs away dead skin cells, leaving your skin smooth, prepped, and ready to soak in hydration.</p><p><strong>Body Butter (150g)</strong>: Bigger and better than most, this rich and creamy body butter deeply hydrates while locking in moisture for soft, supple skin that lasts.</p><p><strong>Body Splash (150ml)</strong>: A refreshing mist of your favorite scent to keep you smelling incredible all day.</p>",
             "page": "",
             "custom_liquid": "",
             "keep_open": false
