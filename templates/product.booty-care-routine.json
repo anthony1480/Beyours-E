@@ -589,7 +589,7 @@
             "icon": "truck",
             "icon_size": "medium",
             "custom_icon": "",
-            "title": "Guaranteed Results",
+            "title": "Free Delivery Today",
             "title_size": "h4",
             "text": ""
           }
@@ -600,7 +600,7 @@
             "icon": "check_mark",
             "icon_size": "medium",
             "custom_icon": "",
-            "title": "Tested & Approved",
+            "title": "Results in 28 days",
             "title_size": "h4",
             "text": ""
           }
@@ -611,7 +611,7 @@
             "icon": "phone",
             "icon_size": "medium",
             "custom_icon": "",
-            "title": "24/7 Customer Support",
+            "title": "Support to Help your Results",
             "title_size": "h4",
             "text": ""
           }
