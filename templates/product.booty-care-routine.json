@@ -27,15 +27,32 @@
             "price_size": "medium"
           }
         },
+        "text_MDCThh": {
+          "type": "text",
+          "settings": {
+            "icon": "none",
+            "text": "Booty Acne, Bumps & Rough Texture? 👉 Get Smooth, Clear Skin in 28 Days",
+            "text_style": "subtitle"
+          }
+        },
         "fera_product_reviews_summary_GjwhcP": {
           "type": "shopify://apps/fera/blocks/product_reviews_summary/2fbfcfa7-8a04-479f-89a8-0621fa099c51",
           "settings": {
             "star_color": "#ffb503",
-            "size": 16,
+            "size": 24,
             "show_count": true,
             "show_avg_rating": false,
             "alignment": "left",
             "hide_when_no_reviews": true
+          }
+        },
+        "fera_product_reviews_A7PDMi": {
+          "type": "shopify://apps/fera/blocks/product_reviews/2fbfcfa7-8a04-479f-89a8-0621fa099c51",
+          "settings": {
+            "heading": "Product Reviews",
+            "layout": "masonry",
+            "star_color": "#000000",
+            "when_no_reviews": "show_from_related"
           }
         },
         "price": {
@@ -49,7 +66,7 @@
         "custom_liquid_8fkWzA": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<b><p>✨ Effective treatment against zits, pimples and butt acne</p>\n<p>🌸&nbsp;Suitable for all skin types </p>\n<p>🍑 Visible results in less than 1 month!</p></b>"
+            "custom_liquid": "<b><p>🔥Targets painful bumps & butt acne</p>\n<p>🔥&nbsp;Unclogs pores that cause irritation </p>\n<p>🔥Smooth, soft skin in less than a month</p></b>"
           }
         },
         "buy_buttons": {
@@ -103,7 +120,9 @@
       },
       "block_order": [
         "title",
+        "text_MDCThh",
         "fera_product_reviews_summary_GjwhcP",
+        "fera_product_reviews_A7PDMi",
         "price",
         "custom_liquid_8fkWzA",
         "buy_buttons",
@@ -130,6 +149,52 @@
         "mobile_image_ratio": "adapt_first",
         "show_mobile_thumbnails": true,
         "padding_top": 0,
+        "padding_bottom": 20
+      }
+    },
+    "testimonials_zBJVKg": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_TNNYXa": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p>My skin feels so much better after using The Booty Care Routinefor couple of weeks only. Highly recommended!!</p>",
+            "author": "Joanna A."
+          }
+        },
+        "testimonial_3PXdex": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p>Acne was driving me crazy. But my friend told me about this product and it's really a life saver for me</p>",
+            "author": "Lama H."
+          }
+        },
+        "testimonial_bfidJz": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p>At first I thought okay I will try it but it might not work... 3 weeks later all my bumps were gone!! I Definitely recommend it!</p>",
+            "author": "Fatima S."
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_TNNYXa",
+        "testimonial_3PXdex",
+        "testimonial_bfidJz"
+      ],
+      "settings": {
+        "autorotate": true,
+        "autorotate_speed": 5,
+        "hide_images": true,
+        "show_divider": false,
+        "heading": "What Our Customers Think 👇",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "heading_tag": "h2",
+        "padding_top": 20,
         "padding_bottom": 20
       }
     },
@@ -193,52 +258,6 @@
         "colors_text": "#ffffff",
         "colors_background": "#a94759",
         "gradient_background": "",
-        "padding_top": 20,
-        "padding_bottom": 20
-      }
-    },
-    "testimonials_zBJVKg": {
-      "type": "testimonials",
-      "blocks": {
-        "testimonial_TNNYXa": {
-          "type": "testimonial",
-          "settings": {
-            "icon": "5",
-            "text": "<p>My skin feels so much better after using The Booty Care Routinefor couple of weeks only. Highly recommended!!</p>",
-            "author": "Joanna A."
-          }
-        },
-        "testimonial_3PXdex": {
-          "type": "testimonial",
-          "settings": {
-            "icon": "5",
-            "text": "<p>Acne was driving me crazy. But my friend told me about this product and it's really a life saver for me</p>",
-            "author": "Lama H."
-          }
-        },
-        "testimonial_bfidJz": {
-          "type": "testimonial",
-          "settings": {
-            "icon": "5",
-            "text": "<p>At first I thought okay I will try it but it might not work... 3 weeks later all my bumps were gone!! I Definitely recommend it!</p>",
-            "author": "Fatima S."
-          }
-        }
-      },
-      "block_order": [
-        "testimonial_TNNYXa",
-        "testimonial_3PXdex",
-        "testimonial_bfidJz"
-      ],
-      "settings": {
-        "autorotate": true,
-        "autorotate_speed": 5,
-        "hide_images": true,
-        "show_divider": false,
-        "heading": "What Our Customers Think 👇",
-        "heading_size": "h1",
-        "heading_alignment": "center",
-        "heading_tag": "h2",
         "padding_top": 20,
         "padding_bottom": 20
       }
@@ -669,7 +688,7 @@
         "heading_size": "h1",
         "heading_alignment": "center",
         "heading_tag": "h2",
-        "colors_line": "#FFFFFF",
+        "colors_line": "#ffffff",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -678,9 +697,9 @@
   "order": [
     "empty-space",
     "main",
+    "testimonials_zBJVKg",
     "image_banner_jy3yGP",
     "scrolling-promotion",
-    "testimonials_zBJVKg",
     "177039642276c25681",
     "image_with_text_beiAjz",
     "images_with_text_t3GnhX",
