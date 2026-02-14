@@ -71,7 +71,7 @@
             "max_width": 1100,
             "corner_styling": "soft",
             "quote_marks_style": "serif",
-            "card_color": "#F9F9F9",
+            "card_color": "#f9f9f9",
             "stars_and_quote_marks_color": "#ffb503",
             "text_color": "#000000",
             "arrows_color": "#000000",
@@ -191,40 +191,6 @@
       },
       "block_order": [
         "announcement_UQ6ENY"
-      ],
-      "custom_css": [
-        ".promotion__text {font-weight: 900;}"
-      ],
-      "settings": {
-        "direction": "left",
-        "speed": 1.6,
-        "show_divider": false,
-        "use_custom_colors": true,
-        "colors_icon": "#a94759",
-        "colors_text": "#ffffff",
-        "colors_background": "#a94759",
-        "gradient_background": "",
-        "padding_top": 20,
-        "padding_bottom": 20
-      }
-    },
-    "scrolling-promotion": {
-      "type": "scrolling-promotion",
-      "blocks": {
-        "announcement-1": {
-          "type": "announcement",
-          "settings": {
-            "icon": "none",
-            "icon_size": "medium",
-            "custom_icon": "",
-            "text": "🌿 Vegan, Natural and Cruelty-Free",
-            "text_size": 16,
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "announcement-1"
       ],
       "custom_css": [
         ".promotion__text {font-weight: 900;}"
@@ -511,6 +477,40 @@
         "ai_gen_block_80d8a1d_NBDhhz"
       ],
       "settings": {}
+    },
+    "scrolling-promotion": {
+      "type": "scrolling-promotion",
+      "blocks": {
+        "announcement-1": {
+          "type": "announcement",
+          "settings": {
+            "icon": "none",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "text": "Get Smooth Skin Now",
+            "text_size": 16,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "announcement-1"
+      ],
+      "custom_css": [
+        ".promotion__text {font-weight: 900;}"
+      ],
+      "settings": {
+        "direction": "left",
+        "speed": 1.6,
+        "show_divider": false,
+        "use_custom_colors": true,
+        "colors_icon": "#a94759",
+        "colors_text": "#ffffff",
+        "colors_background": "#a94759",
+        "gradient_background": "",
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
     },
     "guarantees": {
       "type": "guarantees",
