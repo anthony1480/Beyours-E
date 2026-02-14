@@ -20,39 +20,6 @@
     "scrolling_promotion_4f37UP": {
       "type": "scrolling-promotion",
       "blocks": {
-        "announcement_6xwADG": {
-          "type": "announcement",
-          "settings": {
-            "icon": "none",
-            "icon_size": "medium",
-            "custom_icon": "",
-            "text": "Boooty Acne, Bumps &amp; Rough Texture?",
-            "text_size": 20,
-            "link": ""
-          }
-        },
-        "announcement_KkGKcx": {
-          "type": "announcement",
-          "settings": {
-            "icon": "none",
-            "icon_size": "medium",
-            "custom_icon": "",
-            "text": "Get Smooth, Clear Skin in 28 Days",
-            "text_size": 20,
-            "link": ""
-          }
-        },
-        "announcement_zFcCtk": {
-          "type": "announcement",
-          "settings": {
-            "icon": "none",
-            "icon_size": "medium",
-            "custom_icon": "",
-            "text": "Smooth Skin Starts Here",
-            "text_size": 20,
-            "link": ""
-          }
-        },
         "announcement_d4KWDU": {
           "type": "announcement",
           "settings": {
@@ -66,9 +33,6 @@
         }
       },
       "block_order": [
-        "announcement_6xwADG",
-        "announcement_KkGKcx",
-        "announcement_zFcCtk",
         "announcement_d4KWDU"
       ],
       "name": "t:sections.scrolling-promotion.presets.name",
@@ -118,7 +82,7 @@
         "custom_liquid_8fkWzA": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<b><p>🔥Targets painful bumps & butt acne</p>\n<p>🔥&nbsp;Unclogs pores that cause irritation </p>\n<p>🔥Smooth, soft skin in less than a month</p></b>"
+            "custom_liquid": "<b><p>✔ Targets painful bumps & butt acne</p>\n<p>✔&nbsp;Unclogs pores that cause irritation </p>\n<p>✔ Smooth, soft skin in less than a month</p></b>"
           }
         },
         "judge_me_reviews_testimonials_carousel_AhqYez": {
@@ -157,6 +121,14 @@
             "price_size": "medium",
             "show_badges": true,
             "sale_badge_basis": "auto"
+          }
+        },
+        "text_yq6dDj": {
+          "type": "text",
+          "settings": {
+            "icon": "none",
+            "text": "Get Smooth Skin Now – FREE Delivery",
+            "text_style": "body"
           }
         },
         "buy_buttons": {
@@ -215,6 +187,7 @@
         "custom_liquid_8fkWzA",
         "judge_me_reviews_testimonials_carousel_AhqYez",
         "price",
+        "text_yq6dDj",
         "buy_buttons",
         "description_3pXtKE",
         "collapsible_tab_T3Cxc7",
