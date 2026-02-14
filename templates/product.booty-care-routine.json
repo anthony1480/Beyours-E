@@ -207,6 +207,7 @@
         "testimonial_3PXdex",
         "testimonial_bfidJz"
       ],
+      "disabled": true,
       "settings": {
         "autorotate": true,
         "autorotate_speed": 5,
