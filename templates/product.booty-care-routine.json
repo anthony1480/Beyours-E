@@ -249,6 +249,36 @@
         "padding_bottom": 20
       }
     },
+    "1771081364ad78bc64": {
+      "type": "_blocks",
+      "blocks": {
+        "ai_gen_block_acc883f_KCF4hk": {
+          "type": "ai_gen_block_acc883f",
+          "settings": {
+            "before_image": "shopify://shop_images/Shopify_-_9.jpg",
+            "after_image": "shopify://shop_images/Shopify_-_8.jpg",
+            "desktop_width_percent": 100,
+            "border_radius": 0,
+            "background_color": "#f3f3f3",
+            "show_labels": true,
+            "before_label": "Before",
+            "after_label": "After 2 weeks",
+            "label_font_size": 14,
+            "label_border_radius": 4,
+            "label_background": "#000000",
+            "label_text_color": "#ffffff",
+            "slider_color": "#ffffff",
+            "handle_size": 50,
+            "handle_icon_color": "#000000"
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "ai_gen_block_acc883f_KCF4hk"
+      ],
+      "settings": {}
+    },
     "image_with_text_beiAjz": {
       "type": "image-with-text",
       "blocks": {
@@ -307,6 +337,40 @@
         "gradient_background": "",
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "scrolling-promotion": {
+      "type": "scrolling-promotion",
+      "blocks": {
+        "announcement-1": {
+          "type": "announcement",
+          "settings": {
+            "icon": "none",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "text": "Get Smooth Skin Now",
+            "text_size": 16,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "announcement-1"
+      ],
+      "custom_css": [
+        ".promotion__text {font-weight: 900;}"
+      ],
+      "settings": {
+        "direction": "left",
+        "speed": 1.6,
+        "show_divider": false,
+        "use_custom_colors": true,
+        "colors_icon": "#a94759",
+        "colors_text": "#ffffff",
+        "colors_background": "#a94759",
+        "gradient_background": "",
+        "padding_top": 20,
+        "padding_bottom": 20
       }
     },
     "images_with_text_t3GnhX": {
@@ -519,40 +583,6 @@
       ],
       "settings": {}
     },
-    "scrolling-promotion": {
-      "type": "scrolling-promotion",
-      "blocks": {
-        "announcement-1": {
-          "type": "announcement",
-          "settings": {
-            "icon": "none",
-            "icon_size": "medium",
-            "custom_icon": "",
-            "text": "Get Smooth Skin Now",
-            "text_size": 16,
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "announcement-1"
-      ],
-      "custom_css": [
-        ".promotion__text {font-weight: 900;}"
-      ],
-      "settings": {
-        "direction": "left",
-        "speed": 1.6,
-        "show_divider": false,
-        "use_custom_colors": true,
-        "colors_icon": "#a94759",
-        "colors_text": "#ffffff",
-        "colors_background": "#a94759",
-        "gradient_background": "",
-        "padding_top": 20,
-        "padding_bottom": 20
-      }
-    },
     "guarantees": {
       "type": "guarantees",
       "blocks": {
@@ -562,7 +592,7 @@
             "icon": "truck",
             "icon_size": "medium",
             "custom_icon": "",
-            "title": "Free Delivery Today",
+            "title": "Free Delivery in Lebanon",
             "title_size": "h4",
             "text": ""
           }
@@ -734,36 +764,6 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "1771081364ad78bc64": {
-      "type": "_blocks",
-      "blocks": {
-        "ai_gen_block_acc883f_KCF4hk": {
-          "type": "ai_gen_block_acc883f",
-          "settings": {
-            "before_image": "shopify://shop_images/Shopify_-_9.jpg",
-            "after_image": "shopify://shop_images/Shopify_-_8.jpg",
-            "desktop_width_percent": 100,
-            "border_radius": 0,
-            "background_color": "#f3f3f3",
-            "show_labels": true,
-            "before_label": "Before",
-            "after_label": "After 2 weeks",
-            "label_font_size": 14,
-            "label_border_radius": 4,
-            "label_background": "#000000",
-            "label_text_color": "#ffffff",
-            "slider_color": "#ffffff",
-            "handle_size": 50,
-            "handle_icon_color": "#000000"
-          },
-          "blocks": {}
-        }
-      },
-      "block_order": [
-        "ai_gen_block_acc883f_KCF4hk"
-      ],
-      "settings": {}
     }
   },
   "order": [
@@ -773,12 +773,12 @@
     "scrolling_promotion_UiKVGc",
     "1771081364ad78bc64",
     "image_with_text_beiAjz",
+    "scrolling-promotion",
     "images_with_text_t3GnhX",
     "testimonials_zBJVKg",
     "image_banner_jy3yGP",
     "17710767436310ad0e",
     "177039642276c25681",
-    "scrolling-promotion",
     "guarantees",
     "1717958248b0b4020b",
     "collapsible-content",
