@@ -251,6 +251,16 @@
         "padding_bottom": 0
       }
     },
+    "17710767436310ad0e": {
+      "type": "apps",
+      "disabled": true,
+      "settings": {
+        "include_margins": true,
+        "show_divider": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "scrolling-promotion": {
       "type": "scrolling-promotion",
       "blocks": {
@@ -721,6 +731,7 @@
     "main",
     "testimonials_zBJVKg",
     "image_banner_jy3yGP",
+    "17710767436310ad0e",
     "scrolling-promotion",
     "177039642276c25681",
     "image_with_text_beiAjz",
