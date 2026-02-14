@@ -215,6 +215,38 @@
         "padding_bottom": 20
       }
     },
+    "scrolling_promotion_dFUpib": {
+      "type": "scrolling-promotion",
+      "blocks": {
+        "announcement_qVWtaL": {
+          "type": "announcement",
+          "settings": {
+            "icon": "none",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "text": "Visible improvement in 14–28 days",
+            "text_size": 20,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "announcement_qVWtaL"
+      ],
+      "name": "t:sections.scrolling-promotion.presets.name",
+      "settings": {
+        "direction": "left",
+        "speed": 1.6,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_icon": "#ffffff",
+        "colors_text": "#1a1b18",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "1771081364ad78bc64": {
       "type": "_blocks",
       "blocks": {
@@ -770,6 +802,7 @@
     "empty-space",
     "scrolling_promotion_4f37UP",
     "main",
+    "scrolling_promotion_dFUpib",
     "1771081364ad78bc64",
     "scrolling_promotion_UiKVGc",
     "image_with_text_beiAjz",
