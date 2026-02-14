@@ -52,15 +52,6 @@
             "custom_liquid": "<b><p>🔥Targets painful bumps & butt acne</p>\n<p>🔥&nbsp;Unclogs pores that cause irritation </p>\n<p>🔥Smooth, soft skin in less than a month</p></b>"
           }
         },
-        "fera_product_reviews_A7PDMi": {
-          "type": "shopify://apps/fera/blocks/product_reviews/2fbfcfa7-8a04-479f-89a8-0621fa099c51",
-          "settings": {
-            "heading": "Product Reviews",
-            "layout": "masonry",
-            "star_color": "#000000",
-            "when_no_reviews": "show_from_related"
-          }
-        },
         "price": {
           "type": "price",
           "settings": {
@@ -123,7 +114,6 @@
         "text_MDCThh",
         "fera_product_reviews_summary_GjwhcP",
         "custom_liquid_8fkWzA",
-        "fera_product_reviews_A7PDMi",
         "price",
         "buy_buttons",
         "description_3pXtKE",
