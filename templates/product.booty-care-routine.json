@@ -17,6 +17,74 @@
         "mobile_height": 16
       }
     },
+    "scrolling_promotion_4f37UP": {
+      "type": "scrolling-promotion",
+      "blocks": {
+        "announcement_6xwADG": {
+          "type": "announcement",
+          "settings": {
+            "icon": "none",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "text": "Boooty Acne, Bumps &amp; Rough Texture?",
+            "text_size": 20,
+            "link": ""
+          }
+        },
+        "announcement_KkGKcx": {
+          "type": "announcement",
+          "settings": {
+            "icon": "none",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "text": "Get Smooth, Clear Skin in 28 Days",
+            "text_size": 20,
+            "link": ""
+          }
+        },
+        "announcement_zFcCtk": {
+          "type": "announcement",
+          "settings": {
+            "icon": "none",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "text": "Smooth Skin Starts Here",
+            "text_size": 20,
+            "link": ""
+          }
+        },
+        "announcement_d4KWDU": {
+          "type": "announcement",
+          "settings": {
+            "icon": "none",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "text": "#1 Booty Acne Solution in Lebanon",
+            "text_size": 20,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "announcement_6xwADG",
+        "announcement_KkGKcx",
+        "announcement_zFcCtk",
+        "announcement_d4KWDU"
+      ],
+      "name": "t:sections.scrolling-promotion.presets.name",
+      "settings": {
+        "direction": "left",
+        "speed": 1.6,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_icon": "#ffffff",
+        "colors_text": "#1a1b18",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "main": {
       "type": "main-product",
       "blocks": {
@@ -729,6 +797,7 @@
   },
   "order": [
     "empty-space",
+    "scrolling_promotion_4f37UP",
     "main",
     "scrolling_promotion_UiKVGc",
     "image_with_text_beiAjz",
