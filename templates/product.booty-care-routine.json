@@ -215,6 +215,36 @@
         "padding_bottom": 20
       }
     },
+    "1771081364ad78bc64": {
+      "type": "_blocks",
+      "blocks": {
+        "ai_gen_block_acc883f_KCF4hk": {
+          "type": "ai_gen_block_acc883f",
+          "settings": {
+            "before_image": "shopify://shop_images/Shopify_-_9.jpg",
+            "after_image": "shopify://shop_images/Shopify_-_8.jpg",
+            "desktop_width_percent": 100,
+            "border_radius": 0,
+            "background_color": "#f3f3f3",
+            "show_labels": true,
+            "before_label": "Before",
+            "after_label": "After 2 weeks",
+            "label_font_size": 14,
+            "label_border_radius": 4,
+            "label_background": "#000000",
+            "label_text_color": "#ffffff",
+            "slider_color": "#ffffff",
+            "handle_size": 50,
+            "handle_icon_color": "#000000"
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "ai_gen_block_acc883f_KCF4hk"
+      ],
+      "settings": {}
+    },
     "scrolling_promotion_UiKVGc": {
       "type": "scrolling-promotion",
       "blocks": {
@@ -248,36 +278,6 @@
         "padding_top": 20,
         "padding_bottom": 20
       }
-    },
-    "1771081364ad78bc64": {
-      "type": "_blocks",
-      "blocks": {
-        "ai_gen_block_acc883f_KCF4hk": {
-          "type": "ai_gen_block_acc883f",
-          "settings": {
-            "before_image": "shopify://shop_images/Shopify_-_9.jpg",
-            "after_image": "shopify://shop_images/Shopify_-_8.jpg",
-            "desktop_width_percent": 100,
-            "border_radius": 0,
-            "background_color": "#f3f3f3",
-            "show_labels": true,
-            "before_label": "Before",
-            "after_label": "After 2 weeks",
-            "label_font_size": 14,
-            "label_border_radius": 4,
-            "label_background": "#000000",
-            "label_text_color": "#ffffff",
-            "slider_color": "#ffffff",
-            "handle_size": 50,
-            "handle_icon_color": "#000000"
-          },
-          "blocks": {}
-        }
-      },
-      "block_order": [
-        "ai_gen_block_acc883f_KCF4hk"
-      ],
-      "settings": {}
     },
     "image_with_text_beiAjz": {
       "type": "image-with-text",
@@ -323,7 +323,7 @@
         "full_width": false,
         "show_divider": false,
         "image_behavior": "none",
-        "image_mobile": "shopify://shop_images/10.png",
+        "image_mobile": "shopify://shop_images/booty-care-routine-acne-hyperpigmentation-treatment-5141869.png",
         "mobile_layout": "image_first",
         "mobile_text_alignment": "left",
         "mobile_image_ratio": "adapt",
@@ -770,8 +770,8 @@
     "empty-space",
     "scrolling_promotion_4f37UP",
     "main",
-    "scrolling_promotion_UiKVGc",
     "1771081364ad78bc64",
+    "scrolling_promotion_UiKVGc",
     "image_with_text_beiAjz",
     "scrolling-promotion",
     "images_with_text_t3GnhX",
