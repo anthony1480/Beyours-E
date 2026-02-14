@@ -1,6 +1,413 @@
+{% doc %}
+  @prompt
+    create a square image comparison section 
+{% enddoc %}
+{% assign ai_gen_id = block.id | replace: '_', '' | downcase %}
+
+{% style %}
+  .ai-image-comparison-{{ ai_gen_id }} {
+    position: relative;
+    width: {{ block.settings.desktop_width_percent }}%;
+    max-width: 100%;
+    margin: 0 auto;
+    display: block;
+  }
+
+  .ai-image-comparison__container-{{ ai_gen_id }} {
+    position: relative;
+    width: 100%;
+    aspect-ratio: 1 / 1;
+    overflow: hidden;
+    border-radius: {{ block.settings.border_radius }}px;
+    background-color: {{ block.settings.background_color }};
+  }
+
+  .ai-image-comparison__image-wrapper-{{ ai_gen_id }} {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+
+  .ai-image-comparison__image-{{ ai_gen_id }} {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+  }
+
+  .ai-image-comparison__placeholder-{{ ai_gen_id }} {
+    width: 100%;
+    height: 100%;
+    background-color: #f4f4f4;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+  }
+
+  .ai-image-comparison__placeholder-{{ ai_gen_id }} svg {
+    width: 100%;
+    height: 100%;
+    max-width: 300px;
+    max-height: 300px;
+  }
+
+  .ai-image-comparison__empty-state-{{ ai_gen_id }} {
+    position: absolute;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    padding: 12px 20px;
+    font-size: 14px;
+    color: #666;
+    text-align: center;
+    pointer-events: none;
+  }
+
+  .ai-image-comparison__after-{{ ai_gen_id }} {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    clip-path: inset(0 0 0 50%);
+  }
+
+  .ai-image-comparison__slider-{{ ai_gen_id }} {
+    position: absolute;
+    top: 0;
+    left: 50%;
+    width: 4px;
+    height: 100%;
+    background-color: {{ block.settings.slider_color }};
+    cursor: ew-resize;
+    transform: translateX(-50%);
+    z-index: 10;
+  }
+
+  .ai-image-comparison__handle-{{ ai_gen_id }} {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: {{ block.settings.handle_size }}px;
+    height: {{ block.settings.handle_size }}px;
+    background-color: {{ block.settings.slider_color }};
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+  }
+
+  .ai-image-comparison__handle-{{ ai_gen_id }} svg {
+    width: calc({{ block.settings.handle_size }}px * 0.6);
+    height: calc({{ block.settings.handle_size }}px * 0.6);
+    fill: {{ block.settings.handle_icon_color }};
+  }
+
+  .ai-image-comparison__label-{{ ai_gen_id }} {
+    position: absolute;
+    padding: 8px 16px;
+    background-color: {{ block.settings.label_background }};
+    color: {{ block.settings.label_text_color }};
+    font-size: {{ block.settings.label_font_size }}px;
+    border-radius: {{ block.settings.label_border_radius }}px;
+    pointer-events: none;
+    z-index: 5;
+  }
+
+  .ai-image-comparison__label--before-{{ ai_gen_id }} {
+    top: 20px;
+    left: 20px;
+  }
+
+  .ai-image-comparison__label--after-{{ ai_gen_id }} {
+    top: 20px;
+    right: 20px;
+  }
+
+  @media screen and (max-width: 749px) {
+    .ai-image-comparison__label-{{ ai_gen_id }} {
+      font-size: calc({{ block.settings.label_font_size }}px * 0.9);
+      padding: 6px 12px;
+    }
+
+    .ai-image-comparison__handle-{{ ai_gen_id }} {
+      width: calc({{ block.settings.handle_size }}px * 0.8);
+      height: calc({{ block.settings.handle_size }}px * 0.8);
+    }
+  }
+{% endstyle %}
+
+<image-comparison-{{ ai_gen_id }}
+  class="ai-image-comparison-{{ ai_gen_id }}"
+  {{ block.shopify_attributes }}
+>
+  <div class="ai-image-comparison__container-{{ ai_gen_id }}">
+    <div class="ai-image-comparison__image-wrapper-{{ ai_gen_id }}">
+      {% if block.settings.before_image %}
+        <img
+          src="{{ block.settings.before_image | image_url: width: 1200 }}"
+          alt="{{ block.settings.before_image.alt | escape }}"
+          loading="lazy"
+          width="{{ block.settings.before_image.width }}"
+          height="{{ block.settings.before_image.height }}"
+          class="ai-image-comparison__image-{{ ai_gen_id }}"
+        >
+      {% else %}
+        <div class="ai-image-comparison__placeholder-{{ ai_gen_id }}">
+          {{ 'image' | placeholder_svg_tag }}
+          <div class="ai-image-comparison__empty-state-{{ ai_gen_id }}">
+            Add a before image
+          </div>
+        </div>
+      {% endif %}
+    </div>
+
+    <div
+      class="ai-image-comparison__after-{{ ai_gen_id }}"
+      data-after-container
+    >
+      <div class="ai-image-comparison__image-wrapper-{{ ai_gen_id }}">
+        {% if block.settings.after_image %}
+          <img
+            src="{{ block.settings.after_image | image_url: width: 1200 }}"
+            alt="{{ block.settings.after_image.alt | escape }}"
+            loading="lazy"
+            width="{{ block.settings.after_image.width }}"
+            height="{{ block.settings.after_image.height }}"
+            class="ai-image-comparison__image-{{ ai_gen_id }}"
+          >
+        {% else %}
+          <div class="ai-image-comparison__placeholder-{{ ai_gen_id }}">
+            {{ 'image' | placeholder_svg_tag }}
+            <div class="ai-image-comparison__empty-state-{{ ai_gen_id }}">
+              Add an after image
+            </div>
+          </div>
+        {% endif %}
+      </div>
+    </div>
+
+    <div
+      class="ai-image-comparison__slider-{{ ai_gen_id }}"
+      data-slider
+    >
+      <div class="ai-image-comparison__handle-{{ ai_gen_id }}">
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          viewBox="0 0 24 24"
+        >
+          <path d="M15.5 5l-7 7 7 7" />
+          <path d="M8.5 5l7 7-7 7" />
+        </svg>
+      </div>
+    </div>
+
+    {% if block.settings.show_labels %}
+      {% if block.settings.before_label != blank %}
+        <div class="ai-image-comparison__label-{{ ai_gen_id }} ai-image-comparison__label--before-{{ ai_gen_id }}">
+          {{ block.settings.before_label }}
+        </div>
+      {% endif %}
+
+      {% if block.settings.after_label != blank %}
+        <div class="ai-image-comparison__label-{{ ai_gen_id }} ai-image-comparison__label--after-{{ ai_gen_id }}">
+          {{ block.settings.after_label }}
+        </div>
+      {% endif %}
+    {% endif %}
+  </div>
+</image-comparison-{{ ai_gen_id }}>
+
+<script>
+  (function() {
+    class ImageComparison{{ ai_gen_id }} extends HTMLElement {
+      constructor() {
+        super();
+        this.container = this.querySelector('[data-after-container]');
+        this.slider = this.querySelector('[data-slider]');
+        this.isDragging = false;
+      }
+
+      connectedCallback() {
+        this.setupEventListeners();
+      }
+
+      setupEventListeners() {
+        this.slider.addEventListener('mousedown', this.startDrag.bind(this));
+        this.slider.addEventListener('touchstart', this.startDrag.bind(this), { passive: true });
+        
+        document.addEventListener('mousemove', this.onDrag.bind(this));
+        document.addEventListener('touchmove', this.onDrag.bind(this), { passive: false });
+        
+        document.addEventListener('mouseup', this.stopDrag.bind(this));
+        document.addEventListener('touchend', this.stopDrag.bind(this));
+      }
+
+      startDrag(e) {
+        this.isDragging = true;
+        e.preventDefault();
+      }
+
+      stopDrag() {
+        this.isDragging = false;
+      }
+
+      onDrag(e) {
+        if (!this.isDragging) return;
+
+        const containerRect = this.getBoundingClientRect();
+        const clientX = e.type.includes('touch') ? e.touches[0].clientX : e.clientX;
+        
+        let offsetX = clientX - containerRect.left;
+        offsetX = Math.max(0, Math.min(offsetX, containerRect.width));
+        
+        const percentage = (offsetX / containerRect.width) * 100;
+        
+        this.slider.style.left = percentage + '%';
+        this.container.style.clipPath = `inset(0 0 0 ${percentage}%)`;
+      }
+    }
+
+    customElements.define('image-comparison-{{ ai_gen_id }}', ImageComparison{{ ai_gen_id }});
+  })();
+</script>
+
 {% schema %}
- {
-   "name": "AI_Block",
-   "tag": "shopify-ai-generated-block"
- }
+{
+  "name": "Image comparison",
+  "tag": null,
+  "settings": [
+    {
+      "type": "header",
+      "content": "Images"
+    },
+    {
+      "type": "image_picker",
+      "id": "before_image",
+      "label": "Before image"
+    },
+    {
+      "type": "image_picker",
+      "id": "after_image",
+      "label": "After image"
+    },
+    {
+      "type": "range",
+      "id": "desktop_width_percent",
+      "label": "Desktop width",
+      "min": 50,
+      "max": 100,
+      "step": 5,
+      "unit": "%",
+      "default": 100
+    },
+    {
+      "type": "range",
+      "id": "border_radius",
+      "label": "Border radius",
+      "min": 0,
+      "max": 40,
+      "step": 2,
+      "unit": "px",
+      "default": 0
+    },
+    {
+      "type": "color",
+      "id": "background_color",
+      "label": "Background color",
+      "default": "#f3f3f3"
+    },
+    {
+      "type": "header",
+      "content": "Labels"
+    },
+    {
+      "type": "checkbox",
+      "id": "show_labels",
+      "label": "Show labels",
+      "default": true
+    },
+    {
+      "type": "text",
+      "id": "before_label",
+      "label": "Before label",
+      "default": "Before"
+    },
+    {
+      "type": "text",
+      "id": "after_label",
+      "label": "After label",
+      "default": "After"
+    },
+    {
+      "type": "range",
+      "id": "label_font_size",
+      "label": "Label font size",
+      "min": 10,
+      "max": 24,
+      "step": 1,
+      "unit": "px",
+      "default": 14
+    },
+    {
+      "type": "range",
+      "id": "label_border_radius",
+      "label": "Label border radius",
+      "min": 0,
+      "max": 20,
+      "step": 2,
+      "unit": "px",
+      "default": 4
+    },
+    {
+      "type": "color",
+      "id": "label_background",
+      "label": "Label background",
+      "default": "#000000"
+    },
+    {
+      "type": "color",
+      "id": "label_text_color",
+      "label": "Label text color",
+      "default": "#ffffff"
+    },
+    {
+      "type": "header",
+      "content": "Slider"
+    },
+    {
+      "type": "color",
+      "id": "slider_color",
+      "label": "Slider color",
+      "default": "#ffffff"
+    },
+    {
+      "type": "range",
+      "id": "handle_size",
+      "label": "Handle size",
+      "min": 30,
+      "max": 60,
+      "step": 5,
+      "unit": "px",
+      "default": 50
+    },
+    {
+      "type": "color",
+      "id": "handle_icon_color",
+      "label": "Handle icon color",
+      "default": "#000000"
+    }
+  ],
+  "presets": [
+    {
+      "name": "Image comparison"
+    }
+  ]
+}
 {% endschema %}
