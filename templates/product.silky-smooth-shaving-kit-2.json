@@ -146,9 +146,9 @@
         "collapsible_tab_T3Cxc7": {
           "type": "collapsible_tab",
           "settings": {
-            "icon": "box",
-            "heading": "What's included",
-            "content": "<p><strong>1-Peach Polish Booty Scrub:</strong> Ultra finely milled booty scrub made especially for the sensitive booty skin<br/><strong>2-Bye Bye Acne Booty Mask:</strong> A powder mask, rich in activated charcoal and clays that dries out acne and detoxify your butt cheeks.<br/><strong>3-Peach Polish Skin Perfecting Serum: </strong><br/>A lightweight serum, packed with <strong>Glycolic & Salicylic acids, Niacinamide, Hyaluronic Acid, and Chamomile</strong>, that targets <strong>stubborn acne, acne scars, strawberry skin, and hyperpigmentation</strong> for a smooth, bright, bump-free booty.<br/><br/></p>",
+            "icon": "heart",
+            "heading": "Why You'll love it",
+            "content": "<ul><li>Smooth, bump-free skin every shave<br/></li><li>Soothes, hydrates, and locks in glow<br/></li><li>All-in-one kit for effortless, flawless results<br/><br/></li></ul>",
             "page": "",
             "custom_liquid": "",
             "keep_open": false
@@ -159,7 +159,7 @@
           "settings": {
             "icon": "question_mark",
             "heading": "Usage Instructions:",
-            "content": "<p>Follow the 3-step skincare routine three times a week at least 1 month:</p><p><strong>Step 1 – Exfoliate (3x per week): </strong><br/>In the shower, massage <strong>Peach Polish Booty Scrub</strong> onto dry or damp skin in circular motions. Rinse well.<br/><br/><strong>Step 2:</strong> <strong>Treat (3x per week, right after Step 1): </strong><br/>Mix 1 part <strong>Bye Bye Acne</strong> powder mask with 2 parts water or rose water. Apply to clean, dry skin. Leave on for 10–15 minutes, then rinse off.<br/><strong><br/>Step 3 - (Daily on non-scrub days):</strong><br/>Apply <strong>Peach Polish Skin Perfecting Serum</strong> to clean, dry skin. Let it absorb fully.<br/><br/><strong>Pro Tips:</strong><br/><strong>Hydrate: </strong>After the serum, apply our <strong>Skin Smoother Aftershave Oil</strong> to soothe and lock in moisture — or use any light, non-scented moisturizer you have.<br/><br/><strong>Sun Protection: </strong>If the treated skin will be exposed to the sun, <strong>apply SPF</strong> after the serum to protect your results.<br/></p>",
+            "content": "<p><strong>Step 1: Exfoliate</strong><br/><br/>Use the body scrub on wet skin to remove dead skin and prep for shaving.<br/><br/><em>Tip:</em> You can use the scrub 2–3 times a week, even when not shaving.</p><p><strong>Step 2: Apply Skin Smoother Shaving Gel</strong><br/><br/>Spread the shaving gel on wet skin. Use a clean, new razor to shave. The gel protects your skin and helps the razor glide smoothly.</p><p><strong>Step 3: Soothe with Aftershave Oil</strong><br/><br/>After shaving, pat your skin dry and massage the aftershave oil into your skin. Wait 1–2 minutes for it to absorb.</p><p><strong>Step 4: Lock in Moisture with Body Butter</strong><br/><br/>Apply the body butter on top of the oil to lock in hydration and give your skin an extra glow.<br/><br/><em>Tip:</em> The body butter can also be used as your daily moisturizer.<br/></p>",
             "page": "",
             "custom_liquid": "",
             "keep_open": false
