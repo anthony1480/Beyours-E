@@ -349,7 +349,7 @@
             "icon": "none",
             "icon_size": "medium",
             "custom_icon": "",
-            "text": "Get Smooth Skin Now",
+            "text": "Say Yes to Pain-Free Shaving",
             "text_size": 16,
             "link": ""
           }
@@ -480,6 +480,7 @@
       "block_order": [
         "announcement_qVWtaL"
       ],
+      "disabled": true,
       "name": "t:sections.scrolling-promotion.presets.name",
       "settings": {
         "direction": "left",
@@ -824,11 +825,11 @@
     "1771081364ad78bc64",
     "scrolling_promotion_UiKVGc",
     "image_with_text_beiAjz",
+    "video_KmrVXc",
     "scrolling-promotion",
     "images_with_text_t3GnhX",
     "testimonials_zBJVKg",
     "scrolling_promotion_dFUpib",
-    "video_KmrVXc",
     "image_banner_jy3yGP",
     "17710767436310ad0e",
     "177039642276c25681",
