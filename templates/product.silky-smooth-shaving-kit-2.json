@@ -215,38 +215,6 @@
         "padding_bottom": 20
       }
     },
-    "scrolling_promotion_dFUpib": {
-      "type": "scrolling-promotion",
-      "blocks": {
-        "announcement_qVWtaL": {
-          "type": "announcement",
-          "settings": {
-            "icon": "none",
-            "icon_size": "medium",
-            "custom_icon": "",
-            "text": "Say Yes to Pain-Free Shaving",
-            "text_size": 20,
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "announcement_qVWtaL"
-      ],
-      "name": "t:sections.scrolling-promotion.presets.name",
-      "settings": {
-        "direction": "left",
-        "speed": 1.6,
-        "show_divider": false,
-        "use_custom_colors": false,
-        "colors_icon": "#ffffff",
-        "colors_text": "#1a1b18",
-        "colors_background": "#ffffff",
-        "gradient_background": "",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "1771081364ad78bc64": {
       "type": "_blocks",
       "blocks": {
@@ -522,6 +490,38 @@
         "colors_overlay_opacity": 28,
         "padding_top": 0,
         "padding_bottom": 0
+      }
+    },
+    "scrolling_promotion_dFUpib": {
+      "type": "scrolling-promotion",
+      "blocks": {
+        "announcement_qVWtaL": {
+          "type": "announcement",
+          "settings": {
+            "icon": "none",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "text": "Say Yes to Pain-Free Shaving",
+            "text_size": 20,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "announcement_qVWtaL"
+      ],
+      "name": "t:sections.scrolling-promotion.presets.name",
+      "settings": {
+        "direction": "left",
+        "speed": 1.6,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_icon": "#ffffff",
+        "colors_text": "#1a1b18",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "video_KmrVXc": {
@@ -821,15 +821,15 @@
     "empty-space",
     "scrolling_promotion_4f37UP",
     "main",
-    "scrolling_promotion_dFUpib",
     "1771081364ad78bc64",
     "scrolling_promotion_UiKVGc",
     "image_with_text_beiAjz",
     "scrolling-promotion",
     "images_with_text_t3GnhX",
     "testimonials_zBJVKg",
-    "image_banner_jy3yGP",
+    "scrolling_promotion_dFUpib",
     "video_KmrVXc",
+    "image_banner_jy3yGP",
     "17710767436310ad0e",
     "177039642276c25681",
     "guarantees",
