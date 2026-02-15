@@ -1,0 +1,820 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "empty-space": {
+      "type": "empty-space",
+      "custom_css": [],
+      "settings": {
+        "desktop_height": 36,
+        "mobile_height": 16
+      }
+    },
+    "scrolling_promotion_4f37UP": {
+      "type": "scrolling-promotion",
+      "blocks": {
+        "announcement_d4KWDU": {
+          "type": "announcement",
+          "settings": {
+            "icon": "none",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "text": "#1 Booty Acne Solution in Lebanon",
+            "text_size": 20,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "announcement_d4KWDU"
+      ],
+      "name": "t:sections.scrolling-promotion.presets.name",
+      "settings": {
+        "direction": "left",
+        "speed": 1.6,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_icon": "#ffffff",
+        "colors_text": "#1a1b18",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+            "title_size": "h2",
+            "show_price": false,
+            "price_size": "medium"
+          }
+        },
+        "text_MDCThh": {
+          "type": "text",
+          "settings": {
+            "icon": "none",
+            "text": "Booty Acne, Bumps & Rough Texture? 👉 Get Smooth, Clear Skin in 28 Days",
+            "text_style": "subtitle"
+          }
+        },
+        "fera_product_reviews_summary_GjwhcP": {
+          "type": "shopify://apps/fera/blocks/product_reviews_summary/2fbfcfa7-8a04-479f-89a8-0621fa099c51",
+          "settings": {
+            "star_color": "#ffb503",
+            "size": 24,
+            "show_count": true,
+            "show_avg_rating": false,
+            "alignment": "left",
+            "hide_when_no_reviews": true
+          }
+        },
+        "custom_liquid_8fkWzA": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<b><p>✔ Targets painful bumps & butt acne</p>\n<p>✔&nbsp;Unclogs pores that cause irritation </p>\n<p>✔ Smooth, soft skin in less than a month</p>\n<p>✔ Safe for Sensitive Skin</p>\n</b>"
+          }
+        },
+        "judge_me_reviews_testimonials_carousel_AhqYez": {
+          "type": "shopify://apps/judge-me-reviews/blocks/testimonials_carousel/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "show_sample_reviews": true,
+            "reviews_selection": "all",
+            "products": [],
+            "star_rating": "all",
+            "max_reviews": 20,
+            "quote_marks_size": "small",
+            "product_name_text_size": "small",
+            "verified_badge_style": "icon",
+            "card_height": "medium",
+            "text_size": "small",
+            "stars_size": "medium",
+            "arrows_position": "bottom",
+            "max_width": 1100,
+            "corner_styling": "soft",
+            "quote_marks_style": "serif",
+            "card_color": "#f9f9f9",
+            "stars_and_quote_marks_color": "#ffb503",
+            "text_color": "#000000",
+            "arrows_color": "#000000",
+            "show_border": true,
+            "border_color": "#108474",
+            "show_drop_shadow": false,
+            "transition_speed": 5,
+            "header_text": "What Our Customers Think 👇",
+            "show_average_rating": true
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "price_size": "medium",
+            "show_badges": true,
+            "sale_badge_basis": "auto"
+          }
+        },
+        "text_yq6dDj": {
+          "type": "text",
+          "settings": {
+            "icon": "none",
+            "text": "Get Smooth Skin Now – FREE Delivery",
+            "text_style": "body"
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_quantity_selector": false,
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": false
+          }
+        },
+        "description_3pXtKE": {
+          "type": "description",
+          "settings": {}
+        },
+        "collapsible_tab_T3Cxc7": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "box",
+            "heading": "What's included",
+            "content": "<p><strong>1-Peach Polish Booty Scrub:</strong> Ultra finely milled booty scrub made especially for the sensitive booty skin<br/><strong>2-Bye Bye Acne Booty Mask:</strong> A powder mask, rich in activated charcoal and clays that dries out acne and detoxify your butt cheeks.<br/><strong>3-Peach Polish Skin Perfecting Serum: </strong><br/>A lightweight serum, packed with <strong>Glycolic & Salicylic acids, Niacinamide, Hyaluronic Acid, and Chamomile</strong>, that targets <strong>stubborn acne, acne scars, strawberry skin, and hyperpigmentation</strong> for a smooth, bright, bump-free booty.<br/><br/></p>",
+            "page": "",
+            "custom_liquid": "",
+            "keep_open": false
+          }
+        },
+        "collapsible_tab_GPn4gb": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "question_mark",
+            "heading": "Usage Instructions:",
+            "content": "<p>Follow the 3-step skincare routine three times a week at least 1 month:</p><p><strong>Step 1 – Exfoliate (3x per week): </strong><br/>In the shower, massage <strong>Peach Polish Booty Scrub</strong> onto dry or damp skin in circular motions. Rinse well.<br/><br/><strong>Step 2:</strong> <strong>Treat (3x per week, right after Step 1): </strong><br/>Mix 1 part <strong>Bye Bye Acne</strong> powder mask with 2 parts water or rose water. Apply to clean, dry skin. Leave on for 10–15 minutes, then rinse off.<br/><strong><br/>Step 3 - (Daily on non-scrub days):</strong><br/>Apply <strong>Peach Polish Skin Perfecting Serum</strong> to clean, dry skin. Let it absorb fully.<br/><br/><strong>Pro Tips:</strong><br/><strong>Hydrate: </strong>After the serum, apply our <strong>Skin Smoother Aftershave Oil</strong> to soothe and lock in moisture — or use any light, non-scented moisturizer you have.<br/><br/><strong>Sun Protection: </strong>If the treated skin will be exposed to the sun, <strong>apply SPF</strong> after the serum to protect your results.<br/></p>",
+            "page": "",
+            "custom_liquid": "",
+            "keep_open": false
+          }
+        },
+        "inventory_status": {
+          "type": "inventory_status",
+          "settings": {
+            "inventory_threshold": 20,
+            "show_inventory_transfer": true,
+            "color_scheme": "accent-3"
+          }
+        },
+        "sticky_cart": {
+          "type": "sticky_cart",
+          "settings": {
+            "show_quantity_selector": true
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "text_MDCThh",
+        "fera_product_reviews_summary_GjwhcP",
+        "custom_liquid_8fkWzA",
+        "judge_me_reviews_testimonials_carousel_AhqYez",
+        "price",
+        "text_yq6dDj",
+        "buy_buttons",
+        "description_3pXtKE",
+        "collapsible_tab_T3Cxc7",
+        "collapsible_tab_GPn4gb",
+        "inventory_status",
+        "sticky_cart"
+      ],
+      "custom_css": [
+        ".badge {background-color: #d72c0d; border-color: #d72c0d; color: #ffffff; border-radius: 10px;}"
+      ],
+      "settings": {
+        "enable_sticky_info": true,
+        "media_position": "left",
+        "media_size": "small",
+        "gallery_layout": "stacked",
+        "image_ratio": "adapt",
+        "show_featured_media": false,
+        "show_thumbnails": true,
+        "hide_variants": false,
+        "enable_image_zoom": false,
+        "enable_video_looping": false,
+        "mobile_image_ratio": "adapt_first",
+        "show_mobile_thumbnails": true,
+        "padding_top": 0,
+        "padding_bottom": 20
+      }
+    },
+    "scrolling_promotion_dFUpib": {
+      "type": "scrolling-promotion",
+      "blocks": {
+        "announcement_qVWtaL": {
+          "type": "announcement",
+          "settings": {
+            "icon": "none",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "text": "Visible improvement in 14–28 days",
+            "text_size": 20,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "announcement_qVWtaL"
+      ],
+      "name": "t:sections.scrolling-promotion.presets.name",
+      "settings": {
+        "direction": "left",
+        "speed": 1.6,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_icon": "#ffffff",
+        "colors_text": "#1a1b18",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1771081364ad78bc64": {
+      "type": "_blocks",
+      "blocks": {
+        "ai_gen_block_acc883f_KCF4hk": {
+          "type": "ai_gen_block_acc883f",
+          "settings": {
+            "before_image": "shopify://shop_images/Shopify_-_9.jpg",
+            "after_image": "shopify://shop_images/Shopify_-_8.jpg",
+            "desktop_width_percent": 100,
+            "border_radius": 0,
+            "background_color": "#f3f3f3",
+            "show_labels": true,
+            "before_label": "Before",
+            "after_label": "After 2 weeks",
+            "label_font_size": 14,
+            "label_border_radius": 4,
+            "label_background": "#000000",
+            "label_text_color": "#ffffff",
+            "slider_color": "#ffffff",
+            "handle_size": 50,
+            "handle_icon_color": "#000000"
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "ai_gen_block_acc883f_KCF4hk"
+      ],
+      "settings": {}
+    },
+    "scrolling_promotion_UiKVGc": {
+      "type": "scrolling-promotion",
+      "blocks": {
+        "announcement_UQ6ENY": {
+          "type": "announcement",
+          "settings": {
+            "icon": "none",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "text": "OVER 7000 HAPPY CUSTOMERS",
+            "text_size": 16,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "announcement_UQ6ENY"
+      ],
+      "custom_css": [
+        ".promotion__text {font-weight: 900;}"
+      ],
+      "settings": {
+        "direction": "left",
+        "speed": 1.6,
+        "show_divider": false,
+        "use_custom_colors": true,
+        "colors_icon": "#a94759",
+        "colors_text": "#ffffff",
+        "colors_background": "#a94759",
+        "gradient_background": "",
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
+    "image_with_text_beiAjz": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_dpeidU": {
+          "type": "heading",
+          "settings": {
+            "heading": "Acne Who?",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "subheading_c3XRmH": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "Acne & Hyperpigmentation Treatment",
+            "subheading_size": "h5",
+            "secondary_color": false
+          }
+        },
+        "text_4DQrEY": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our Booty Care Routine is made with<strong> 100% natural</strong>, cruelty-free ingredients — and yes, results are <strong>guaranteed.</strong><br/><br/></p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_dpeidU",
+        "subheading_c3XRmH",
+        "text_4DQrEY"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/booty-care-routine-acne-hyperpigmentation-treatment-5141869.png",
+        "image_position": "center center",
+        "layout": "text_first",
+        "text_box_position": "middle",
+        "text_alignment": "left",
+        "image_ratio": "adapt",
+        "enlarge_content": false,
+        "full_width": false,
+        "show_divider": false,
+        "image_behavior": "none",
+        "image_mobile": "shopify://shop_images/booty-care-routine-acne-hyperpigmentation-treatment-5141869.png",
+        "mobile_layout": "image_first",
+        "mobile_text_alignment": "left",
+        "mobile_image_ratio": "adapt",
+        "enable_video_looping": false,
+        "video_url": "",
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "scrolling-promotion": {
+      "type": "scrolling-promotion",
+      "blocks": {
+        "announcement-1": {
+          "type": "announcement",
+          "settings": {
+            "icon": "none",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "text": "Get Smooth Skin Now",
+            "text_size": 16,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "announcement-1"
+      ],
+      "custom_css": [
+        ".promotion__text {font-weight: 900;}"
+      ],
+      "settings": {
+        "direction": "left",
+        "speed": 1.6,
+        "show_divider": false,
+        "use_custom_colors": true,
+        "colors_icon": "#a94759",
+        "colors_text": "#ffffff",
+        "colors_background": "#a94759",
+        "gradient_background": "",
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
+    "images_with_text_t3GnhX": {
+      "type": "images-with-text",
+      "blocks": {
+        "heading_gyHQzi": {
+          "type": "heading",
+          "settings": {
+            "heading": "Forget the Fakes—This Is the Real Deal for Acne & Hyperpigmentation!",
+            "heading_size": "h2",
+            "heading_tag": "h2"
+          }
+        },
+        "text_pMEzbX": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our advanced hyperpigmentation products target acne and discoloration fast, helps preserve youthful skin, and delivers guaranteed results.<br/><br/></p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_gyHQzi",
+        "text_pMEzbX"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/booty-care-routine-acne-hyperpigmentation-treatment-5261004.png",
+        "image_2": "shopify://shop_images/the-essentials-kit-booty-bump-free-shaves-and-all-day-freshness-down-there-6672505.png",
+        "image_3": "shopify://shop_images/peach-polish-skin-perfecting-serum-body-acne-strawberry-skin-whitening-6412185.png",
+        "image_4": "shopify://shop_images/the-essentials-kit-booty-bump-free-shaves-and-all-day-freshness-down-there-7150264.png",
+        "image_ratio": "portrait",
+        "image_position": "center center",
+        "layout": "image_first",
+        "text_box_position": "middle",
+        "text_alignment": "left",
+        "mobile_text_alignment": "left",
+        "full_width": false,
+        "show_divider": false,
+        "padding_top": 32,
+        "padding_bottom": 36
+      }
+    },
+    "testimonials_zBJVKg": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_TNNYXa": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p>My skin feels so much better after using The Booty Care Routinefor couple of weeks only. Highly recommended!!</p>",
+            "author": "Joanna A."
+          }
+        },
+        "testimonial_3PXdex": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p>Acne was driving me crazy. But my friend told me about this product and it's really a life saver for me</p>",
+            "author": "Lama H."
+          }
+        },
+        "testimonial_bfidJz": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p>At first I thought okay I will try it but it might not work... 3 weeks later all my bumps were gone!! I Definitely recommend it!</p>",
+            "author": "Fatima S."
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_TNNYXa",
+        "testimonial_3PXdex",
+        "testimonial_bfidJz"
+      ],
+      "disabled": true,
+      "settings": {
+        "autorotate": true,
+        "autorotate_speed": 5,
+        "hide_images": true,
+        "show_divider": false,
+        "heading": "What Our Customers Think 👇",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "heading_tag": "h2",
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
+    "image_banner_jy3yGP": {
+      "type": "image-banner",
+      "disabled": true,
+      "custom_css": [
+        "@media screen and (min-width: 768px) {div {display: none; }}"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/image.png",
+        "image_2": "shopify://shop_images/Untitled_design_5.png",
+        "image_position": "center center",
+        "text_box_position": "middle-center",
+        "text_alignment": "center",
+        "image_ratio": "650px",
+        "show_text_box": false,
+        "full_width": true,
+        "show_divider": false,
+        "image_behavior": "none",
+        "mobile_text_alignment": "center",
+        "mobile_image_ratio": "adapt",
+        "stack_images_on_mobile": true,
+        "show_text_below": true,
+        "colors_button_label": "#1a1b18",
+        "colors_button_background": "#ffffff",
+        "colors_text": "#ffffff",
+        "colors_overlay": "#000000",
+        "colors_overlay_opacity": 28,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "17710767436310ad0e": {
+      "type": "apps",
+      "disabled": true,
+      "settings": {
+        "include_margins": true,
+        "show_divider": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "177039642276c25681": {
+      "type": "_blocks",
+      "blocks": {
+        "ai_gen_block_80d8a1d_btLttg": {
+          "type": "ai_gen_block_80d8a1d",
+          "disabled": true,
+          "settings": {
+            "before_image": "shopify://shop_images/Untitled_design_5.png",
+            "after_image": "shopify://shop_images/Untitled_design_6.png",
+            "show_labels": true,
+            "before_label": "Before the Booty Care Routine",
+            "after_label": "After 2 weeks",
+            "label_font_size": 14,
+            "label_font_weight": "600",
+            "label_padding": 8,
+            "label_border_radius": 4,
+            "label_position_top": 20,
+            "label_position_side": 20,
+            "label_bg_color": "#ffffff",
+            "label_text_color": "#212326",
+            "slider_width": 50,
+            "line_thickness": 3,
+            "button_size": 50,
+            "button_border": 3,
+            "arrow_size": 18,
+            "slider_color": "#ffffff",
+            "button_border_color": "#62baab",
+            "arrow_color": "#62baab",
+            "desktop_width_percent": 100,
+            "image_max_width": 600,
+            "section_padding": 20,
+            "border_radius": 8,
+            "border_thickness": 1,
+            "border_color": "#d2d5d9",
+            "placeholder_bg_color": "#f3f3f3",
+            "text_color": "#212326"
+          },
+          "blocks": {}
+        },
+        "ai_gen_block_80d8a1d_NBDhhz": {
+          "type": "ai_gen_block_80d8a1d",
+          "disabled": true,
+          "settings": {
+            "before_image": "shopify://shop_images/Untitled_design_5.png",
+            "after_image": "shopify://shop_images/Untitled_design_6.png",
+            "show_labels": true,
+            "before_label": "Before the Booty Care Routine",
+            "after_label": "After 2 weeks",
+            "label_font_size": 14,
+            "label_font_weight": "600",
+            "label_padding": 8,
+            "label_border_radius": 4,
+            "label_position_top": 20,
+            "label_position_side": 20,
+            "label_bg_color": "#ffffff",
+            "label_text_color": "#212326",
+            "slider_width": 50,
+            "line_thickness": 3,
+            "button_size": 50,
+            "button_border": 3,
+            "arrow_size": 18,
+            "slider_color": "#ffffff",
+            "button_border_color": "#62baab",
+            "arrow_color": "#62baab",
+            "desktop_width_percent": 100,
+            "image_max_width": 600,
+            "section_padding": 20,
+            "border_radius": 8,
+            "border_thickness": 1,
+            "border_color": "#d2d5d9",
+            "placeholder_bg_color": "#f3f3f3",
+            "text_color": "#212326"
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "ai_gen_block_80d8a1d_btLttg",
+        "ai_gen_block_80d8a1d_NBDhhz"
+      ],
+      "settings": {}
+    },
+    "guarantees": {
+      "type": "guarantees",
+      "blocks": {
+        "guarantee-0": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "truck",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "title": "Free Delivery in Lebanon",
+            "title_size": "h4",
+            "text": ""
+          }
+        },
+        "guarantee-1": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "check_mark",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "title": "Results in 28 days",
+            "title_size": "h4",
+            "text": ""
+          }
+        },
+        "guarantee-2": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "phone",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "title": "Support to Help your Results",
+            "title_size": "h4",
+            "text": ""
+          }
+        },
+        "guarantee-3": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "heart",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "title": "Made For Everyone",
+            "title_size": "h4",
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "guarantee-0",
+        "guarantee-1",
+        "guarantee-2",
+        "guarantee-3"
+      ],
+      "custom_css": [
+        "span {color: #ffffff;}"
+      ],
+      "settings": {
+        "layout": "default",
+        "column_alignment": "center",
+        "horizontal_content": false,
+        "full_width": true,
+        "show_divider": false,
+        "columns_desktop": 4,
+        "heading": "Our Guarantees",
+        "heading_size": "h1",
+        "heading_tag": "h2",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "use_custom_colors": true,
+        "colors_icon": "#a94759",
+        "colors_text": "#1a1b18",
+        "colors_background": "#fdfdfd",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1717958248b0b4020b": {
+      "type": "apps",
+      "blocks": {
+        "fera_product_reviews_kMn8BG": {
+          "type": "shopify://apps/fera/blocks/product_reviews/2fbfcfa7-8a04-479f-89a8-0621fa099c51",
+          "disabled": true,
+          "settings": {
+            "heading": "Product Reviews",
+            "layout": "masonry",
+            "star_color": "#ffb503",
+            "when_no_reviews": "show_from_related"
+          }
+        }
+      },
+      "block_order": [
+        "fera_product_reviews_kMn8BG"
+      ],
+      "settings": {
+        "include_margins": true,
+        "show_divider": false,
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
+    "collapsible-content": {
+      "type": "collapsible-content",
+      "blocks": {
+        "question-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "row_content": "<p>Use collapsible tabs for more detailed information that will help customers make a purchasing decision.</p><p>Ex: Shipping and return policies, size guides, and other common questions.</p>",
+            "page": ""
+          }
+        },
+        "question-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "row_content": "<p>Use collapsible tabs for more detailed information that will help customers make a purchasing decision.</p><p>Ex: Shipping and return policies, size guides, and other common questions.</p>",
+            "page": ""
+          }
+        },
+        "question-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "row_content": "<p>Use collapsible tabs for more detailed information that will help customers make a purchasing decision.</p><p>Ex: Shipping and return policies, size guides, and other common questions.</p>",
+            "page": ""
+          }
+        },
+        "question-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "row_content": "<p>Use collapsible tabs for more detailed information that will help customers make a purchasing decision.</p><p>Ex: Shipping and return policies, size guides, and other common questions.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "question-0",
+        "question-1",
+        "question-2",
+        "question-3"
+      ],
+      "disabled": true,
+      "settings": {
+        "open_first_collapsible_row": false,
+        "narrow": true,
+        "show_divider": false,
+        "heading": "FAQs",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "heading_tag": "h2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "product_list_limit": 4,
+        "show_divider": false,
+        "heading": "You May Also Like",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "heading_tag": "h2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "image_ratio": "portrait",
+        "image_position": "center center",
+        "enable_image_fill": true,
+        "show_secondary_image": true,
+        "show_vendor": true,
+        "show_rating": true,
+        "show_quick_buy": true,
+        "enable_quick_view": true,
+        "enable_color_swatches": true,
+        "enable_countdown": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "empty-space",
+    "scrolling_promotion_4f37UP",
+    "main",
+    "scrolling_promotion_dFUpib",
+    "1771081364ad78bc64",
+    "scrolling_promotion_UiKVGc",
+    "image_with_text_beiAjz",
+    "scrolling-promotion",
+    "images_with_text_t3GnhX",
+    "testimonials_zBJVKg",
+    "image_banner_jy3yGP",
+    "17710767436310ad0e",
+    "177039642276c25681",
+    "guarantees",
+    "1717958248b0b4020b",
+    "collapsible-content",
+    "product-recommendations"
+  ]
+}
