@@ -26,7 +26,7 @@
             "icon": "none",
             "icon_size": "medium",
             "custom_icon": "",
-            "text": "#1 Booty Acne Solution in Lebanon",
+            "text": "No More Irritation or Strawberry Skin",
             "text_size": 20,
             "link": ""
           }
@@ -64,7 +64,7 @@
           "type": "text",
           "settings": {
             "icon": "none",
-            "text": "Booty Acne, Bumps & Rough Texture? 👉 Get Smooth, Clear Skin in 28 Days",
+            "text": "4-step routine that replaces waxing and prevents bumps",
             "text_style": "subtitle"
           }
         },
@@ -82,7 +82,7 @@
         "custom_liquid_8fkWzA": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<b><p>✔ Targets painful bumps & butt acne</p>\n<p>✔&nbsp;Unclogs pores that cause irritation </p>\n<p>✔ Smooth, soft skin in less than a month</p>\n<p>✔ Safe for Sensitive Skin</p>\n</b>"
+            "custom_liquid": "<b><p> ✔ No More Razor Burns</p>\n<p>✔&nbsp; Prevents bumps & Shaving Irritation </p>\n<p> ✔ Targets Strawberry Skin </p>\n<p>✔ Smooth, soft skin after eacg use </p>\n<p>✔ Safe for Sensitive Skin</p>\n</b>"
           }
         },
         "judge_me_reviews_testimonials_carousel_AhqYez": {
@@ -127,7 +127,7 @@
           "type": "text",
           "settings": {
             "icon": "none",
-            "text": "Get Smooth Skin Now – FREE Delivery",
+            "text": "START SHAVING RIGHT - FREE DELIVERY",
             "text_style": "body"
           }
         },
@@ -224,7 +224,7 @@
             "icon": "none",
             "icon_size": "medium",
             "custom_icon": "",
-            "text": "Visible improvement in 14–28 days",
+            "text": "Say Yes to Pain-Free Shaving",
             "text_size": 20,
             "link": ""
           }
@@ -252,6 +252,7 @@
       "blocks": {
         "ai_gen_block_acc883f_KCF4hk": {
           "type": "ai_gen_block_acc883f",
+          "disabled": true,
           "settings": {
             "before_image": "shopify://shop_images/Shopify_-_9.jpg",
             "after_image": "shopify://shop_images/Shopify_-_8.jpg",
@@ -317,7 +318,7 @@
         "heading_dpeidU": {
           "type": "heading",
           "settings": {
-            "heading": "Acne Who?",
+            "heading": "Shaving in a rush and skipping protection?",
             "heading_size": "h1",
             "heading_tag": "h2"
           }
@@ -325,7 +326,7 @@
         "subheading_c3XRmH": {
           "type": "subheading",
           "settings": {
-            "subheading": "Acne & Hyperpigmentation Treatment",
+            "subheading": "UPGRADE YOUR SHAVING ROUTINE",
             "subheading_size": "h5",
             "secondary_color": false
           }
@@ -333,7 +334,7 @@
         "text_4DQrEY": {
           "type": "text",
           "settings": {
-            "text": "<p>Our Booty Care Routine is made with<strong> 100% natural</strong>, cruelty-free ingredients — and yes, results are <strong>guaranteed.</strong><br/><br/></p>",
+            "text": "<p><br/>The Silky Smooth Shaving Kit preps, protects, and repairs your skin — so you get a smooth, irritation-free shave that feels good for days.<br/><br/></p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -345,7 +346,7 @@
         "text_4DQrEY"
       ],
       "settings": {
-        "image": "shopify://shop_images/booty-care-routine-acne-hyperpigmentation-treatment-5141869.png",
+        "image": "shopify://shop_images/silky-smooth-shaving-kit-for-all-body-parts-legs-arms-back-and-underarms-3114029.png",
         "image_position": "center center",
         "layout": "text_first",
         "text_box_position": "middle",
@@ -411,7 +412,7 @@
         "heading_gyHQzi": {
           "type": "heading",
           "settings": {
-            "heading": "Forget the Fakes—This Is the Real Deal for Acne & Hyperpigmentation!",
+            "heading": "You shave for smooth skin — not for strawberry skin.",
             "heading_size": "h2",
             "heading_tag": "h2"
           }
@@ -419,7 +420,7 @@
         "text_pMEzbX": {
           "type": "text",
           "settings": {
-            "text": "<p>Our advanced hyperpigmentation products target acne and discoloration fast, helps preserve youthful skin, and delivers guaranteed results.<br/><br/></p>",
+            "text": "<p>If you’re seeing dark dots and bumps after every shave, your routine is working against you.</p><p><strong>The Silky Smooth Shaving Kit works with your skin.</strong><br/><br/>Prep. Protect. Repair.<br/><br/>So you can finally enjoy a close shave without the rough texture and visible bumps.</p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -430,10 +431,10 @@
         "text_pMEzbX"
       ],
       "settings": {
-        "image": "shopify://shop_images/booty-care-routine-acne-hyperpigmentation-treatment-5261004.png",
-        "image_2": "shopify://shop_images/the-essentials-kit-booty-bump-free-shaves-and-all-day-freshness-down-there-6672505.png",
-        "image_3": "shopify://shop_images/peach-polish-skin-perfecting-serum-body-acne-strawberry-skin-whitening-6412185.png",
-        "image_4": "shopify://shop_images/the-essentials-kit-booty-bump-free-shaves-and-all-day-freshness-down-there-7150264.png",
+        "image": "shopify://shop_images/silky-smooth-shaving-kit-for-all-body-parts-legs-arms-back-and-underarms-9368208.png",
+        "image_2": "shopify://shop_images/foaming-body-scrub-200g-6550934.png",
+        "image_3": "shopify://shop_images/silky-smooth-shaving-kit-for-all-body-parts-legs-arms-back-and-underarms-1265411.jpg",
+        "image_4": "shopify://shop_images/intimate-shaving-kit-for-sensitive-areas-bikini-underarms-and-booty-1616162.png",
         "image_ratio": "portrait",
         "image_position": "center center",
         "layout": "image_first",
@@ -521,6 +522,24 @@
         "colors_overlay_opacity": 28,
         "padding_top": 0,
         "padding_bottom": 0
+      }
+    },
+    "video_KmrVXc": {
+      "type": "video",
+      "name": "t:sections.video.presets.name",
+      "settings": {
+        "enable_video_looping": false,
+        "video": "shopify://files/videos/IMG_5084.MOV",
+        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "description": "Shaving routine",
+        "full_width": false,
+        "show_divider": false,
+        "heading": "No More Razor Bumps & Ingrown Hairs",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "heading_tag": "h2",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "17710767436310ad0e": {
@@ -635,7 +654,7 @@
             "icon": "check_mark",
             "icon_size": "medium",
             "custom_icon": "",
-            "title": "Results in 28 days",
+            "title": "Smooth Shave, Everytime",
             "title_size": "h4",
             "text": ""
           }
@@ -657,7 +676,7 @@
             "icon": "heart",
             "icon_size": "medium",
             "custom_icon": "",
-            "title": "Made For Everyone",
+            "title": "Suitable for Sensitive Skin",
             "title_size": "h4",
             "text": ""
           }
@@ -810,6 +829,7 @@
     "images_with_text_t3GnhX",
     "testimonials_zBJVKg",
     "image_banner_jy3yGP",
+    "video_KmrVXc",
     "17710767436310ad0e",
     "177039642276c25681",
     "guarantees",
