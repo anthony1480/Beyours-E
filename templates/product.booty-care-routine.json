@@ -89,8 +89,10 @@
           "type": "shopify://apps/judge-me-reviews/blocks/testimonials_carousel/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
           "settings": {
             "show_sample_reviews": true,
-            "reviews_selection": "all",
-            "products": [],
+            "reviews_selection": "current_product",
+            "products": [
+              "the-booty-care-routine"
+            ],
             "star_rating": "5_star",
             "max_reviews": 30,
             "quote_marks_size": "small",
@@ -100,7 +102,7 @@
             "text_size": "small",
             "stars_size": "medium",
             "arrows_position": "bottom",
-            "max_width": 1100,
+            "max_width": 900,
             "corner_styling": "soft",
             "quote_marks_style": "serif",
             "card_color": "#f9f9f9",
