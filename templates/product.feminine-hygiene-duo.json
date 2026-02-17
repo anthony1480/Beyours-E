@@ -307,6 +307,108 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
+        "image": "shopify://shop_images/Intimate_Hygiene_Ad_7.png",
+        "image_position": "center center",
+        "layout": "image_first",
+        "text_box_position": "middle",
+        "text_alignment": "left",
+        "image_ratio": "650px",
+        "enlarge_content": false,
+        "full_width": false,
+        "show_divider": false,
+        "image_behavior": "none",
+        "image_mobile": "shopify://shop_images/Intimate_Hygiene_Ad_7.png",
+        "mobile_layout": "image_first",
+        "mobile_text_alignment": "left",
+        "mobile_image_ratio": "auto",
+        "enable_video_looping": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_zaWGhV": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_FpC6fd": {
+          "type": "heading",
+          "settings": {
+            "heading": "Answering your frequently asked questions...",
+            "heading_size": "h2",
+            "heading_tag": "h2"
+          }
+        },
+        "text_THKjL4": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Is the fragrance safe for intimate use?</strong><br/>Yes. It’s alcohol-free, non-irritating, and formulated with low sensitization potential.</p><p><strong>Do I need an intimate mist?</strong><br/>If you want all-day freshness and a light scent made specifically for the external intimate area, yes. Prefer simple? You can use the wash on its own.</p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_FpC6fd",
+        "text_THKjL4"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/Intimate_Hygiene_Ad_6.png",
+        "image_position": "center center",
+        "layout": "text_first",
+        "text_box_position": "middle",
+        "text_alignment": "left",
+        "image_ratio": "650px",
+        "enlarge_content": false,
+        "full_width": false,
+        "show_divider": false,
+        "image_behavior": "none",
+        "image_mobile": "shopify://shop_images/Intimate_Hygiene_Ad_6.png",
+        "mobile_layout": "image_first",
+        "mobile_text_alignment": "left",
+        "mobile_image_ratio": "auto",
+        "enable_video_looping": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_GFA3jk": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_6xBajc": {
+          "type": "heading",
+          "settings": {
+            "heading": "Because Feeling Comfortable Changes Everything",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "text_LgHzUH": {
+          "type": "text",
+          "settings": {
+            "text": "<p>You shouldn’t have to question how you feel throughout the day.</p><p>No discomfort. No worrying about freshness.</p><p>Just clean, pH-balanced care that works with your body — not against it.</p><p>The Feminine Hygiene Duo gently cleanses and refreshes, so you feel confident from morning to night.</p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_6xBajc",
+        "text_LgHzUH"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
         "image": "shopify://shop_images/Intimate_Hygiene_Ad_3.png",
         "image_position": "center center",
         "layout": "image_first",
@@ -332,29 +434,76 @@
         "padding_bottom": 36
       }
     },
-    "image_banner_QREwmN": {
-      "type": "image-banner",
-      "name": "t:sections.image-banner.presets.name",
+    "testimonials_txwjJ3": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_RR7Gic": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p>YUMMY THE SMELL IS AMAING!</p>",
+            "author": "Rana A."
+          }
+        },
+        "testimonial_8mMkHi": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p>I started using them 2 years ago and I will never change.</p>",
+            "author": "Christelle J."
+          }
+        },
+        "testimonial_6WYUMV": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p>I was worried that I won't like them, but I LOVED THEM. 100% Exceeded my expectations</p>",
+            "author": "Linda K."
+          }
+        },
+        "testimonial_B8TBQz": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p>I feel fresh and clean all day and the mist makes me smell so nice!</p>",
+            "author": "Zeinab D."
+          }
+        },
+        "testimonial_6qEFNc": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p>I rate it 100/10, the freshness and cleanliness feel amazing. Thanks Jay for restoring my confidence.</p>",
+            "author": "Layal B."
+          }
+        },
+        "testimonial_9XAeW9": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p>My go-to brand for intimate hygiene because you have the best quality</p>",
+            "author": "Jana L."
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_RR7Gic",
+        "testimonial_8mMkHi",
+        "testimonial_6WYUMV",
+        "testimonial_B8TBQz",
+        "testimonial_6qEFNc",
+        "testimonial_9XAeW9"
+      ],
+      "name": "t:sections.testimonials.presets.name",
       "settings": {
-        "image": "shopify://shop_images/Intimate_Hygiene_Ad_2.png",
-        "image_2": "shopify://shop_images/Intimate_Hygiene_Ad.png",
-        "image_position": "center center",
-        "text_box_position": "middle-center",
-        "text_alignment": "center",
-        "image_ratio": "650px",
-        "show_text_box": false,
-        "full_width": true,
+        "autorotate": false,
+        "autorotate_speed": 5,
+        "hide_images": false,
         "show_divider": false,
-        "image_behavior": "none",
-        "mobile_text_alignment": "center",
-        "mobile_image_ratio": "auto",
-        "stack_images_on_mobile": true,
-        "show_text_below": true,
-        "colors_button_label": "#1a1b18",
-        "colors_button_background": "#ffffff",
-        "colors_text": "#ffffff",
-        "colors_overlay": "#000000",
-        "colors_overlay_opacity": 28,
+        "heading": "Testimonials",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "heading_tag": "h2",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -547,7 +696,9 @@
     "main",
     "scrolling_promotion_erpzW6",
     "image_with_text_jah6fq",
-    "image_banner_QREwmN",
+    "image_with_text_zaWGhV",
+    "image_with_text_GFA3jk",
+    "testimonials_txwjJ3",
     "guarantees",
     "1717958248b0b4020b",
     "collapsible-content",
