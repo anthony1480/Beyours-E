@@ -285,7 +285,7 @@
         "text_KUFYWe": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Is it safe for sensitive skin?</strong><br/>Yes. Our formulas are pH-balanced, hypoallergenic, and made to be gentle on sensitive skin.</p><p><strong>How do I use it?</strong><br/>Use the wash to cleanse externally in the shower. Apply the mist anytime during the day for extra freshness.</p><p><strong>Can I use it daily?</strong><br/>Yes. Both products are designed for everyday use.</p>",
+            "text": "<p><strong>Is it safe for sensitive skin?</strong><br/>Yes. The formulas are pH-balanced, hypoallergenic, and made to be gentle on delicate, sensitive skin.<br/><strong><br/>How do I use it?</strong><br/>Use the wash to cleanse externally in the shower. Apply the mist anytime during the day for extra freshness.</p><p><strong>Can I use it daily?</strong><br/>Yes. Both products are designed for everyday use.</p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
