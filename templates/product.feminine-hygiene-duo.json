@@ -332,6 +332,86 @@
         "padding_bottom": 36
       }
     },
+    "testimonials_txwjJ3": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_RR7Gic": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p>YUMMY THE SMELL IS AMAING!</p>",
+            "image": "shopify://shop_images/Intimate_Hygiene_Ad_8.png",
+            "author": "Rana A."
+          }
+        },
+        "testimonial_8mMkHi": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p>I started using them 2 years ago and I will never change.</p>",
+            "image": "shopify://shop_images/Intimate_Hygiene_Ad_8.png",
+            "author": "Christelle J."
+          }
+        },
+        "testimonial_6WYUMV": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p>I was worried that I won't like them, but I LOVED THEM. 100% Exceeded my expectations</p>",
+            "image": "shopify://shop_images/Intimate_Hygiene_Ad_8.png",
+            "author": "Linda K."
+          }
+        },
+        "testimonial_B8TBQz": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p>I feel fresh and clean all day and the mist makes me smell so nice!</p>",
+            "image": "shopify://shop_images/Intimate_Hygiene_Ad_8.png",
+            "author": "Zeinab D."
+          }
+        },
+        "testimonial_6qEFNc": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p>I rate it 100/10, the freshness and cleanliness feel amazing. Thanks Jay for restoring my confidence.</p>",
+            "image": "shopify://shop_images/Intimate_Hygiene_Ad_8.png",
+            "author": "Layal B."
+          }
+        },
+        "testimonial_9XAeW9": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p>My go-to brand for intimate hygiene because you have the best quality</p>",
+            "image": "shopify://shop_images/Intimate_Hygiene_Ad_8.png",
+            "author": "Jana L."
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_RR7Gic",
+        "testimonial_8mMkHi",
+        "testimonial_6WYUMV",
+        "testimonial_B8TBQz",
+        "testimonial_6qEFNc",
+        "testimonial_9XAeW9"
+      ],
+      "name": "t:sections.testimonials.presets.name",
+      "settings": {
+        "autorotate": false,
+        "autorotate_speed": 5,
+        "hide_images": false,
+        "show_divider": false,
+        "heading": "Testimonials",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "heading_tag": "h2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "image_with_text_zaWGhV": {
       "type": "image-with-text",
       "blocks": {
@@ -462,86 +542,6 @@
         "colors_text": "#212326",
         "colors_background": "#ffffff",
         "gradient_background": "",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "testimonials_txwjJ3": {
-      "type": "testimonials",
-      "blocks": {
-        "testimonial_RR7Gic": {
-          "type": "testimonial",
-          "settings": {
-            "icon": "5",
-            "text": "<p>YUMMY THE SMELL IS AMAING!</p>",
-            "image": "shopify://shop_images/Intimate_Hygiene_Ad_8.png",
-            "author": "Rana A."
-          }
-        },
-        "testimonial_8mMkHi": {
-          "type": "testimonial",
-          "settings": {
-            "icon": "5",
-            "text": "<p>I started using them 2 years ago and I will never change.</p>",
-            "image": "shopify://shop_images/Intimate_Hygiene_Ad_8.png",
-            "author": "Christelle J."
-          }
-        },
-        "testimonial_6WYUMV": {
-          "type": "testimonial",
-          "settings": {
-            "icon": "5",
-            "text": "<p>I was worried that I won't like them, but I LOVED THEM. 100% Exceeded my expectations</p>",
-            "image": "shopify://shop_images/Intimate_Hygiene_Ad_8.png",
-            "author": "Linda K."
-          }
-        },
-        "testimonial_B8TBQz": {
-          "type": "testimonial",
-          "settings": {
-            "icon": "5",
-            "text": "<p>I feel fresh and clean all day and the mist makes me smell so nice!</p>",
-            "image": "shopify://shop_images/Intimate_Hygiene_Ad_8.png",
-            "author": "Zeinab D."
-          }
-        },
-        "testimonial_6qEFNc": {
-          "type": "testimonial",
-          "settings": {
-            "icon": "5",
-            "text": "<p>I rate it 100/10, the freshness and cleanliness feel amazing. Thanks Jay for restoring my confidence.</p>",
-            "image": "shopify://shop_images/Intimate_Hygiene_Ad_8.png",
-            "author": "Layal B."
-          }
-        },
-        "testimonial_9XAeW9": {
-          "type": "testimonial",
-          "settings": {
-            "icon": "5",
-            "text": "<p>My go-to brand for intimate hygiene because you have the best quality</p>",
-            "image": "shopify://shop_images/Intimate_Hygiene_Ad_8.png",
-            "author": "Jana L."
-          }
-        }
-      },
-      "block_order": [
-        "testimonial_RR7Gic",
-        "testimonial_8mMkHi",
-        "testimonial_6WYUMV",
-        "testimonial_B8TBQz",
-        "testimonial_6qEFNc",
-        "testimonial_9XAeW9"
-      ],
-      "name": "t:sections.testimonials.presets.name",
-      "settings": {
-        "autorotate": false,
-        "autorotate_speed": 5,
-        "hide_images": false,
-        "show_divider": false,
-        "heading": "Testimonials",
-        "heading_size": "h1",
-        "heading_alignment": "center",
-        "heading_tag": "h2",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -734,10 +734,10 @@
     "main",
     "scrolling_promotion_Kceyqp",
     "image_with_text_jah6fq",
+    "testimonials_txwjJ3",
     "image_with_text_zaWGhV",
     "scrolling_promotion_erpzW6",
     "image_with_text_GFA3jk",
-    "testimonials_txwjJ3",
     "guarantees",
     "1717958248b0b4020b",
     "collapsible-content",
