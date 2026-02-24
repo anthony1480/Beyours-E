@@ -11,6 +11,31 @@
   "name": "t:sections.header-group.name",
   "type": "header",
   "sections": {
+    "17719499310ee48a45": {
+      "type": "_blocks",
+      "blocks": {
+        "ai_gen_block_3f8b1ec_z3wRW8": {
+          "type": "ai_gen_block_3f8b1ec",
+          "settings": {
+            "heading_text": "Essentials by Jay",
+            "heading_tag": "h2",
+            "text_alignment": "center",
+            "font_size": 60,
+            "font_weight": "700",
+            "text_color": "#ffffff",
+            "desktop_width_percent": 100,
+            "glow_color": "#62baab",
+            "glow_intensity": 15,
+            "animation_speed": 2
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "ai_gen_block_3f8b1ec_z3wRW8"
+      ],
+      "settings": {}
+    },
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
@@ -54,6 +79,52 @@
         "gradient_background": "",
         "padding_top": 0,
         "padding_bottom": 0
+      }
+    },
+    "scrolling_logos_XYpEKB": {
+      "type": "Scrolling-logos",
+      "blocks": {
+        "slide_QjfrtH": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/Black_Logo_2025_-_Transparent_BG.png",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "slide_QjfrtH"
+      ],
+      "disabled": true,
+      "name": "SS - Scrolling Logo Cloud",
+      "settings": {
+        "ss-title": "",
+        "heading_custom": false,
+        "heading_font": "assistant_n4",
+        "header_size": 30,
+        "header_align": "center",
+        "scrolling_velocity": 100,
+        "pause_hover": true,
+        "shadow": false,
+        "sliders_mt": 16,
+        "logo_padding_top": 0,
+        "logo_padding_bottom": 0,
+        "slider_gap": 30,
+        "slider_gap_mobile": 30,
+        "slider_direction": "left",
+        "icon_width": 200,
+        "header_color": "#121212",
+        "border_color": "#ffffff",
+        "background-color": "#ffffff",
+        "slider-background-color": "#ffffff",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "full_width": true,
+        "content_width": 120,
+        "border_thickness": 0,
+        "lazy": true
       }
     },
     "header": {
@@ -105,7 +176,9 @@
     }
   },
   "order": [
+    "17719499310ee48a45",
     "announcement-bar",
+    "scrolling_logos_XYpEKB",
     "header",
     "empty_space_A8gtgR"
   ]
