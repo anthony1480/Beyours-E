@@ -242,7 +242,7 @@
         "text_4DQrEY"
       ],
       "settings": {
-        "image": "shopify://shop_images/IMG-2572.jpg",
+        "image": "shopify://shop_images/Intimate_Hygiene_Ad_11.png",
         "image_position": "center center",
         "layout": "text_first",
         "text_box_position": "middle",
@@ -252,6 +252,7 @@
         "full_width": false,
         "show_divider": false,
         "image_behavior": "none",
+        "image_mobile": "shopify://shop_images/Intimate_Hygiene_Ad_11.png",
         "mobile_layout": "image_first",
         "mobile_text_alignment": "left",
         "mobile_image_ratio": "adapt",
