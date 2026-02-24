@@ -618,6 +618,69 @@
         "padding_bottom": 20
       }
     },
+    "shop_the_look_Fd8hze": {
+      "type": "shop-the-look",
+      "blocks": {
+        "product_yrXUzf": {
+          "type": "product",
+          "settings": {
+            "product": "peach-polish-shaving-gel-booty-body",
+            "color": "#62baab",
+            "horizontal": 30,
+            "vertical": 40
+          }
+        },
+        "product_6KmnGy": {
+          "type": "product",
+          "settings": {
+            "product": "peach-polish-aftershave-oil",
+            "color": "#62baab",
+            "horizontal": 78,
+            "vertical": 27
+          }
+        },
+        "product_t83DUT": {
+          "type": "product",
+          "settings": {
+            "product": "peach-polish-booty-scrub",
+            "color": "#62baab",
+            "horizontal": 58,
+            "vertical": 55
+          }
+        }
+      },
+      "block_order": [
+        "product_yrXUzf",
+        "product_6KmnGy",
+        "product_t83DUT"
+      ],
+      "name": "t:sections.shop-the-look.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/intimate-shaving-kit-for-sensitive-areas-bikini-underarms-and-booty-8784264.png",
+        "layout": "image_first",
+        "text_box_position": "top",
+        "text_alignment": "left",
+        "mobile_text_alignment": "left",
+        "full_width": false,
+        "show_divider": false,
+        "heading": "Ingrown Hairs & Shaving Irritations? The Intimate Shaving Kit is a Game-Changer!",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "heading_tag": "h2",
+        "image_ratio": "adapt",
+        "image_position": "center center",
+        "enable_image_fill": true,
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": true,
+        "show_quick_buy": true,
+        "enable_quick_view": true,
+        "enable_color_swatches": true,
+        "enable_countdown": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "featured_collection_BeTk79": {
       "type": "featured-collection",
       "settings": {
@@ -966,6 +1029,7 @@
     "17719503537217fcc8",
     "scrolling_promotion_dRQJEk",
     "featured-product",
+    "shop_the_look_Fd8hze",
     "featured_collection_BeTk79",
     "collection_list_XdnJ8d",
     "scrolling_promotion_k9dVtt",
