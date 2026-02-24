@@ -207,7 +207,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Intimate Hygiene, Acne Solutions, Shaving Kits and Body Care that leaves you feeling  confident and smelling like a goddess. </p><p>Meet the brand that has changed the life of 15,000+ People</p>",
+            "text": "<p>Intimate Hygiene, Acne Solutions, Shaving Kits and Body Care that leaves you feeling  confident and smelling like a goddess. </p>",
             "text_size": "typeset3",
             "secondary_color": false,
             "highlight_phrases": "Intimate Hygiene\nAcne Solutions\nShaving Kits\nBody Care\n15,000+ People",
@@ -257,6 +257,49 @@
         "colors_overlay_opacity": 28,
         "padding_top": 0,
         "padding_bottom": 0
+      }
+    },
+    "rich_text_9UhUaw": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_QHY7Pc": {
+          "type": "heading",
+          "settings": {
+            "heading": "Essentials by Jay",
+            "heading_size": "h2",
+            "heading_tag": "h2"
+          }
+        },
+        "text_c7miKr": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Meet the brand that has changed the life of 15,000+ People</p>",
+            "text_size": "typeset3",
+            "secondary_color": false,
+            "highlight_phrases": "brand\n15,000+ People",
+            "highlight_style": "underline"
+          }
+        }
+      },
+      "block_order": [
+        "heading_QHY7Pc",
+        "text_c7miKr"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": true,
+        "show_divider": false,
+        "use_custom_colors": true,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "colors_highlight": "#a94759",
+        "gradient_background": "",
+        "padding_top": 20,
+        "padding_bottom": 20
       }
     },
     "slideshow": {
@@ -805,6 +848,7 @@
     "empty_space_FRKhAM",
     "rich-text-0",
     "video_hero_LjKpxA",
+    "rich_text_9UhUaw",
     "slideshow",
     "image_with_text_overlay_dCjCxA",
     "featured_collection_BeTk79",
