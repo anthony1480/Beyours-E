@@ -511,7 +511,7 @@
         "use_custom_colors": true,
         "colors_icon": "#ffffff",
         "colors_text": "#ffffff",
-        "colors_background": "#62baab",
+        "colors_background": "#7dcfc0",
         "gradient_background": "",
         "padding_top": 20,
         "padding_bottom": 20
@@ -833,7 +833,7 @@
         "use_custom_colors": true,
         "colors_icon": "#ffffff",
         "colors_text": "#ffffff",
-        "colors_background": "#9fded2",
+        "colors_background": "#7dcfc0",
         "gradient_background": "",
         "padding_top": 20,
         "padding_bottom": 20
@@ -1064,8 +1064,8 @@
     "scrolling_promotion_Ph6KNL",
     "shop_the_look_Fd8hze",
     "images_with_text_cnmQXW",
-    "scrolling_promotion_k9dVtt",
     "featured_collection_BeTk79",
+    "scrolling_promotion_k9dVtt",
     "faq_8dnhCT",
     "guarantees_XCeypM",
     "collection_list_XdnJ8d"
