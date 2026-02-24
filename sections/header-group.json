@@ -28,7 +28,7 @@
           "settings": {
             "text": "CASH ON DELIVERY",
             "text_on_mobile": "CASH ON DELIVERY",
-            "text_size": 13,
+            "text_size": 16,
             "link": "shopify://collections/all"
           }
         }
@@ -98,7 +98,7 @@
         "icon_weight": "1.7",
         "enable_country_selector": true,
         "enable_language_selector": true,
-        "enable_sticky_header": true,
+        "enable_sticky_header": false,
         "show_sticky_header_scroll_up": false,
         "transparent_logo": "shopify://shop_images/Whie_Logo_2025_-_Transparent_BG_1.png",
         "mobile_transparent_logo": "shopify://shop_images/Whie_Logo_2025_-_Transparent_BG_1.png",
