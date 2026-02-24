@@ -511,7 +511,7 @@
         "use_custom_colors": true,
         "colors_icon": "#ffffff",
         "colors_text": "#ffffff",
-        "colors_background": "#a94759",
+        "colors_background": "#62baab",
         "gradient_background": "",
         "padding_top": 20,
         "padding_bottom": 20
@@ -618,6 +618,38 @@
         "padding_bottom": 20
       }
     },
+    "scrolling_promotion_Ph6KNL": {
+      "type": "scrolling-promotion",
+      "blocks": {
+        "announcement_ihqTE9": {
+          "type": "announcement",
+          "settings": {
+            "icon": "heart",
+            "icon_size": "small",
+            "custom_icon": "",
+            "text": "Shaving Kits Designed for Smooth Skin and Zero Ingrown Hairs",
+            "text_size": 20,
+            "link": "shopify://collections/shaving-101"
+          }
+        }
+      },
+      "block_order": [
+        "announcement_ihqTE9"
+      ],
+      "name": "t:sections.scrolling-promotion.presets.name",
+      "settings": {
+        "direction": "left",
+        "speed": 0.5,
+        "show_divider": false,
+        "use_custom_colors": true,
+        "colors_icon": "#ffffff",
+        "colors_text": "#ffffff",
+        "colors_background": "#a94759",
+        "gradient_background": "",
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
     "shop_the_look_Fd8hze": {
       "type": "shop-the-look",
       "blocks": {
@@ -677,6 +709,57 @@
         "enable_quick_view": true,
         "enable_color_swatches": true,
         "enable_countdown": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "images_with_text_cnmQXW": {
+      "type": "images-with-text",
+      "blocks": {
+        "heading_PBHfNc": {
+          "type": "heading",
+          "settings": {
+            "heading": "Start taking real care of yourself",
+            "heading_size": "h2",
+            "heading_tag": "h2"
+          }
+        },
+        "text_6GwMQm": {
+          "type": "text",
+          "settings": {
+            "text": "<p>A small daily habit can make all the difference. Reveal your smoothest, most radiant skin with our expert-formulated body care, and leave a lasting impression with the irresistible scents of our signature perfumes.<br/><strong>Confidence starts here.</strong></p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "button_84eahN": {
+          "type": "button",
+          "settings": {
+            "button_label": "Try it now",
+            "button_link": "shopify://collections/all",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_PBHfNc",
+        "text_6GwMQm",
+        "button_84eahN"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/ezgif.com-optimize.gif",
+        "image_2": "shopify://shop_images/hair-perfume-50ml-1291839.png",
+        "image_3": "shopify://shop_images/glow-getter-trio-4940635.png",
+        "image_4": "shopify://shop_images/body-butter-whipped-scented-moisturizer-200ml-4847053.jpg",
+        "image_ratio": "square",
+        "image_position": "center center",
+        "layout": "text_first",
+        "text_box_position": "middle",
+        "text_alignment": "left",
+        "mobile_text_alignment": "left",
+        "full_width": false,
+        "show_divider": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -824,57 +907,6 @@
         "gradient_background": "",
         "padding_top": 20,
         "padding_bottom": 20
-      }
-    },
-    "images_with_text_cnmQXW": {
-      "type": "images-with-text",
-      "blocks": {
-        "heading_PBHfNc": {
-          "type": "heading",
-          "settings": {
-            "heading": "Start taking real care of yourself",
-            "heading_size": "h2",
-            "heading_tag": "h2"
-          }
-        },
-        "text_6GwMQm": {
-          "type": "text",
-          "settings": {
-            "text": "<p>A small daily habit can make all the difference. Reveal your smoothest, most radiant skin with our expert-formulated body care, and leave a lasting impression with the irresistible scents of our signature perfumes.<br/><strong>Confidence starts here.</strong></p>",
-            "text_size": "typeset2",
-            "secondary_color": false
-          }
-        },
-        "button_84eahN": {
-          "type": "button",
-          "settings": {
-            "button_label": "Try it now",
-            "button_link": "shopify://collections/all",
-            "button_size": "medium",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_PBHfNc",
-        "text_6GwMQm",
-        "button_84eahN"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/ezgif.com-optimize.gif",
-        "image_2": "shopify://shop_images/hair-perfume-50ml-1291839.png",
-        "image_3": "shopify://shop_images/glow-getter-trio-4940635.png",
-        "image_4": "shopify://shop_images/body-butter-whipped-scented-moisturizer-200ml-4847053.jpg",
-        "image_ratio": "square",
-        "image_position": "center center",
-        "layout": "text_first",
-        "text_box_position": "middle",
-        "text_alignment": "left",
-        "mobile_text_alignment": "left",
-        "full_width": false,
-        "show_divider": false,
-        "padding_top": 36,
-        "padding_bottom": 36
       }
     },
     "faq_8dnhCT": {
@@ -1029,11 +1061,12 @@
     "17719503537217fcc8",
     "scrolling_promotion_dRQJEk",
     "featured-product",
+    "scrolling_promotion_Ph6KNL",
     "shop_the_look_Fd8hze",
+    "images_with_text_cnmQXW",
     "featured_collection_BeTk79",
     "collection_list_XdnJ8d",
     "scrolling_promotion_k9dVtt",
-    "images_with_text_cnmQXW",
     "faq_8dnhCT",
     "guarantees_XCeypM"
   ]
