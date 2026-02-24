@@ -624,7 +624,7 @@
         "announcement_ihqTE9": {
           "type": "announcement",
           "settings": {
-            "icon": "heart",
+            "icon": "none",
             "icon_size": "small",
             "custom_icon": "",
             "text": "Shaving Kits Designed for Smooth Skin and Zero Ingrown Hairs",
