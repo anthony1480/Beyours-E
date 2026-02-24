@@ -419,7 +419,7 @@
             "products": [],
             "star_rating": "all",
             "show_review_media": true,
-            "display_order": "media_first",
+            "display_order": "most_recent",
             "no_image_fallback": "review_text_only",
             "max_reviews": 20,
             "review_length": "medium",
@@ -433,12 +433,12 @@
             "max_width": 1100,
             "corner_styling": "soft",
             "header_text_color": "#000000",
-            "text_color": "#000000",
+            "text_color": "#158772",
             "card_color": "#F9F9F9",
-            "stars_color": "",
+            "stars_color": "#ffb503",
             "arrows_color": "#000000",
             "transition_speed": 5,
-            "header_text": "Customers are saying",
+            "header_text": "Real Skin, Real Talk",
             "show_average_rating": true
           }
         }
