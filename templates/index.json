@@ -357,7 +357,7 @@
         "heading_bEEPtH": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text overlay",
+            "heading": "Gentle Care for Your Intimate Area",
             "heading_size": "h1",
             "heading_tag": "h2"
           }
@@ -365,7 +365,7 @@
         "text_fyFWeT": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text": "<p>If you're still using regular soap down there... Stop. Your intimate area needs pH-Balanced care and regular soap can throw off your pH. That’s why the smell keeps coming back.</p><p>5,000+ women switched to our Intimate Hygiene Products.<br/><br/><br/><br/><br/><br/></p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -387,13 +387,15 @@
       ],
       "name": "t:sections.image-with-text-overlay.presets.name",
       "settings": {
+        "image": "shopify://shop_images/Gentle_moment_using_the_intimate_wash.png",
         "image_position": "center center",
         "text_box_position": "flex-start",
         "text_alignment": "left",
         "image_ratio": "650px",
         "full_width": true,
         "show_divider": false,
-        "image_behavior": "none",
+        "image_behavior": "ambient",
+        "image_mobile": "shopify://shop_images/Gentle_moment_using_the_intimate_wash.png",
         "mobile_text_box_position": "image_first",
         "mobile_text_alignment": "center",
         "mobile_image_ratio": "auto",
