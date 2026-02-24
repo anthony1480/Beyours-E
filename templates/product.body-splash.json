@@ -309,7 +309,7 @@
         "text_pMEzbX": {
           "type": "text",
           "settings": {
-            "text": "<p>More than <strong>500</strong> of our costumers have <strong>complained</strong> of hearing this phrase too much, that's why they<strong> love us</strong>.</p>",
+            "text": "<p>More than <strong>700 </strong>costumers have \"<strong>complained\"</strong> of hearing this phrase too much, that's why they<strong> love us</strong>.</p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
