@@ -322,6 +322,24 @@
         "padding_bottom": 0
       }
     },
+    "video_m3Pmjx": {
+      "type": "video",
+      "name": "t:sections.video.presets.name",
+      "settings": {
+        "enable_video_looping": true,
+        "video": "shopify://files/videos/Intimate wash usage.MOV",
+        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "description": "Women using the daily intimate wash for cleanliness and freshness",
+        "full_width": false,
+        "show_divider": false,
+        "heading": "From morning to night: 99% felt more secure and at ease.",
+        "heading_size": "h2",
+        "heading_alignment": "center",
+        "heading_tag": "h2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "images_with_text_t3GnhX": {
       "type": "images-with-text",
       "blocks": {
@@ -336,18 +354,28 @@
         "text_pMEzbX": {
           "type": "text",
           "settings": {
-            "text": "<p><br/>Our Feminine Hygiene Duo combines a pH-balanced intimate wash with a refreshing mist that keeps you clean and leaves a subtle, fresh scent—gentle care that regular washes can’t provide.<br/><br/></p>",
+            "text": "<p><br/>Our Feminine Hygiene Duo combines a pH-balanced intimate wash with a refreshing intimate mist that keeps you clean and leaves a subtle, fresh scent—gentle care that regular washes can’t provide.<br/><br/></p>",
             "text_size": "typeset2",
             "secondary_color": false
+          }
+        },
+        "button_MHXKam": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop The Duo",
+            "button_link": "shopify://products/feminine-hygiene-dup",
+            "button_size": "medium",
+            "button_style_secondary": false
           }
         }
       },
       "block_order": [
         "heading_gyHQzi",
-        "text_pMEzbX"
+        "text_pMEzbX",
+        "button_MHXKam"
       ],
       "settings": {
-        "image": "shopify://shop_images/feminine-hygiene-duo-daily-intimate-wash-bikini-perfume-new-packaging-1039160.jpg",
+        "image": "shopify://shop_images/C0D7ED98-2610-450D-A12F-D1C66342EEDE.jpg",
         "image_2": "shopify://shop_images/feminine-hygiene-duo-daily-intimate-wash-bikini-perfume-new-packaging-9279244.png",
         "image_3": "shopify://shop_images/peach-polish-intimate-mist-bikini-perfume-3682209.jpg",
         "image_4": "shopify://shop_images/peach-polish-intimate-mist-bikini-perfume-9546892.png",
@@ -530,6 +558,7 @@
     "image_with_text_beiAjz",
     "image_banner_iKrdae",
     "image_banner_XAz9Uz",
+    "video_m3Pmjx",
     "images_with_text_t3GnhX",
     "scrolling_promotion_UiKVGc",
     "guarantees",
