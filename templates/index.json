@@ -207,10 +207,10 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Intimate Hygiene, Acne Solutions, Shaving Kits and Body Care that leaves you feeling  confident and smelling like a goddess. </p>",
+            "text": "<p>Meet the brand that has changed the life of 15,000+ People</p>",
             "text_size": "typeset3",
             "secondary_color": false,
-            "highlight_phrases": "Intimate Hygiene\nAcne Solutions\nShaving Kits\nBody Care\n15,000+ People",
+            "highlight_phrases": "brand\n15,000+ People",
             "highlight_style": "underline"
           }
         }
@@ -265,18 +265,18 @@
         "heading_QHY7Pc": {
           "type": "heading",
           "settings": {
-            "heading": "Essentials by Jay",
+            "heading": "Our Products are Designed to Make You Feel Fresh, Confident, and Beautiful.",
             "heading_size": "h2",
-            "heading_tag": "h2"
+            "heading_tag": "div"
           }
         },
         "text_c7miKr": {
           "type": "text",
           "settings": {
-            "text": "<p>Meet the brand that has changed the life of 15,000+ People</p>",
+            "text": "<p><br/></p>",
             "text_size": "typeset3",
             "secondary_color": false,
-            "highlight_phrases": "brand\n15,000+ People",
+            "highlight_phrases": "Intimate Hygiene\nAcne Solutions\nShaving Kits\nBody Care",
             "highlight_style": "underline"
           }
         }
