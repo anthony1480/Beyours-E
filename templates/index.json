@@ -544,7 +544,7 @@
         "custom_liquid_CkFyEY": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<b><p>✨ Effective treatment against zits, pimples and butt acne </p>\n<p> 🌿 Vegan, Natural and Cruelty-Free&nbsp;</p>\n<p>🌸&nbsp;Suitable for all skin type<t/p></b>"
+            "custom_liquid": "<b><p>✔ Targets painful bumps & butt acne</p>\n<p>✔&nbsp;Unclogs pores that cause irritation </p>\n<p>✔ Smooth, soft skin in less than a month</p>\n<p>✔ Safe for Sensitive Skin</p>"
           }
         },
         "buy_buttons": {
@@ -613,33 +613,33 @@
         "enable_video_looping": false,
         "image_ratio": "adapt_first",
         "image_position": "center center",
-        "enable_layered_images": false,
+        "enable_layered_images": true,
         "padding_top": 20,
         "padding_bottom": 20
       }
     },
-    "scrolling_promotion_Ph6KNL": {
+    "scrolling_promotion_VxUAFL": {
       "type": "scrolling-promotion",
       "blocks": {
-        "announcement_ihqTE9": {
+        "announcement_bdPRnd": {
           "type": "announcement",
           "settings": {
             "icon": "none",
             "icon_size": "small",
             "custom_icon": "",
-            "text": "Shaving Kits Designed for Smooth Skin and Zero Ingrown Hairs",
+            "text": "Shaving Essentials, for Smooth Skin and Zero Ingrown Hairs",
             "text_size": 20,
             "link": "shopify://collections/shaving-101"
           }
         }
       },
       "block_order": [
-        "announcement_ihqTE9"
+        "announcement_bdPRnd"
       ],
       "name": "t:sections.scrolling-promotion.presets.name",
       "settings": {
         "direction": "left",
-        "speed": 0.5,
+        "speed": 1.6,
         "show_divider": false,
         "use_custom_colors": true,
         "colors_icon": "#ffffff",
@@ -1061,7 +1061,7 @@
     "17719503537217fcc8",
     "scrolling_promotion_dRQJEk",
     "featured-product",
-    "scrolling_promotion_Ph6KNL",
+    "scrolling_promotion_VxUAFL",
     "shop_the_look_Fd8hze",
     "images_with_text_cnmQXW",
     "featured_collection_BeTk79",
