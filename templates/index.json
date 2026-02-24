@@ -271,10 +271,10 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>From Acne removing to smelling like a goddess, benefit from the brand that has changed the life of 10,000+ People</p>",
+            "text": "<p>Intimate Hygiene, Acne Solutions, Shaving Kits and Body Care that leaves you feeling and smelling like a goddess. </p><p>Meet the brand that has changed the life of 15,000+ People</p>",
             "text_size": "typeset3",
             "secondary_color": false,
-            "highlight_phrases": "7000+ People\nAcne removing",
+            "highlight_phrases": "Intimate Hygiene\nAcne Solutions\nShaving Kits\nBody Care\n15,000+ People",
             "highlight_style": "underline"
           }
         }
