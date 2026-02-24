@@ -185,6 +185,57 @@
         "padding_bottom": 0
       }
     },
+    "empty_space_FRKhAM": {
+      "type": "empty-space",
+      "name": "t:sections.empty-space.presets.name",
+      "settings": {
+        "desktop_height": 112,
+        "mobile_height": 28
+      }
+    },
+    "rich-text-0": {
+      "type": "rich-text",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Unleash your inner confidence",
+            "heading_size": "h2",
+            "heading_tag": "h2"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Intimate Hygiene, Acne Solutions, Shaving Kits and Body Care that leaves you feeling  confident and smelling like a goddess. </p><p>Meet the brand that has changed the life of 15,000+ People</p>",
+            "text_size": "typeset3",
+            "secondary_color": false,
+            "highlight_phrases": "Intimate Hygiene\nAcne Solutions\nShaving Kits\nBody Care\n15,000+ People",
+            "highlight_style": "underline"
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": true,
+        "show_divider": false,
+        "use_custom_colors": true,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "colors_highlight": "#a94759",
+        "gradient_background": "",
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
     "video_hero_LjKpxA": {
       "type": "video-hero",
       "settings": {
@@ -257,47 +308,59 @@
         "padding_bottom": 20
       }
     },
-    "rich-text-0": {
-      "type": "rich-text",
+    "image_with_text_overlay_dCjCxA": {
+      "type": "image-with-text-overlay",
       "blocks": {
-        "heading": {
+        "heading_bEEPtH": {
           "type": "heading",
           "settings": {
-            "heading": "Unleash your inner confidence",
-            "heading_size": "h2",
+            "heading": "Image with text overlay",
+            "heading_size": "h1",
             "heading_tag": "h2"
           }
         },
-        "text": {
+        "text_fyFWeT": {
           "type": "text",
           "settings": {
-            "text": "<p>Intimate Hygiene, Acne Solutions, Shaving Kits and Body Care that leaves you feeling  confident and smelling like a goddess. </p><p>Meet the brand that has changed the life of 15,000+ People</p>",
-            "text_size": "typeset3",
-            "secondary_color": false,
-            "highlight_phrases": "Intimate Hygiene\nAcne Solutions\nShaving Kits\nBody Care\n15,000+ People",
-            "highlight_style": "underline"
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "button_mqidHd": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
           }
         }
       },
       "block_order": [
-        "heading",
-        "text"
+        "heading_bEEPtH",
+        "text_fyFWeT",
+        "button_mqidHd"
       ],
+      "name": "t:sections.image-with-text-overlay.presets.name",
       "settings": {
-        "text_alignment": "center",
-        "mobile_text_alignment": "center",
-        "horizontal_content": false,
-        "narrow": true,
+        "image_position": "center center",
+        "text_box_position": "flex-start",
+        "text_alignment": "left",
+        "image_ratio": "650px",
+        "full_width": true,
         "show_divider": false,
-        "use_custom_colors": true,
+        "image_behavior": "none",
+        "mobile_text_box_position": "image_first",
+        "mobile_text_alignment": "center",
+        "mobile_image_ratio": "auto",
         "colors_button_label": "#ffffff",
         "colors_button_background": "#1a1b18",
         "colors_text": "#212326",
-        "colors_background": "#ffffff",
-        "colors_highlight": "#a94759",
-        "gradient_background": "",
-        "padding_top": 20,
-        "padding_bottom": 20
+        "colors_overlay": "#f3f3f3",
+        "colors_overlay_opacity": 92,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "featured_collection_BeTk79": {
@@ -739,9 +802,11 @@
     "image_banner_jt8Eeb",
     "image_banner_L4V4NE",
     "video_hero_Qmexj4",
+    "empty_space_FRKhAM",
+    "rich-text-0",
     "video_hero_LjKpxA",
     "slideshow",
-    "rich-text-0",
+    "image_with_text_overlay_dCjCxA",
     "featured_collection_BeTk79",
     "featured-product",
     "collection_list_XdnJ8d",
