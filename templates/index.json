@@ -351,6 +351,38 @@
         "padding_bottom": 20
       }
     },
+    "scrolling_promotion_VN6K3k": {
+      "type": "scrolling-promotion",
+      "blocks": {
+        "announcement_RXYEVh": {
+          "type": "announcement",
+          "settings": {
+            "icon": "none",
+            "icon_size": "small",
+            "custom_icon": "",
+            "text": "Gentle Care for Your Intimate Needs",
+            "text_size": 20,
+            "link": "shopify://collections/feminine-hygiene"
+          }
+        }
+      },
+      "block_order": [
+        "announcement_RXYEVh"
+      ],
+      "name": "t:sections.scrolling-promotion.presets.name",
+      "settings": {
+        "direction": "left",
+        "speed": 1.6,
+        "show_divider": false,
+        "use_custom_colors": true,
+        "colors_icon": "#ffffff",
+        "colors_text": "#ffffff",
+        "colors_background": "#a94759",
+        "gradient_background": "",
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
     "image_with_text_overlay_dCjCxA": {
       "type": "image-with-text-overlay",
       "blocks": {
@@ -453,33 +485,36 @@
         "padding_bottom": 36
       }
     },
-    "featured_collection_BeTk79": {
-      "type": "featured-collection",
+    "scrolling_promotion_dRQJEk": {
+      "type": "scrolling-promotion",
+      "blocks": {
+        "announcement_F49Dnt": {
+          "type": "announcement",
+          "settings": {
+            "icon": "none",
+            "icon_size": "small",
+            "custom_icon": "",
+            "text": "Meet the #1 Booty Acne Solution",
+            "text_size": 20,
+            "link": "shopify://products/the-booty-care-routine"
+          }
+        }
+      },
+      "block_order": [
+        "announcement_F49Dnt"
+      ],
+      "name": "t:sections.scrolling-promotion.presets.name",
       "settings": {
-        "collection": "bundle-save",
-        "products_to_show": 4,
-        "horizontal_scroll": false,
-        "show_view_all": true,
+        "direction": "left",
+        "speed": 1.6,
         "show_divider": false,
-        "heading": "Featured collection",
-        "heading_size": "h1",
-        "heading_alignment": "left",
-        "heading_tag": "h2",
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "image_ratio": "adapt",
-        "image_position": "center center",
-        "enable_image_fill": true,
-        "show_secondary_image": false,
-        "secondary_image_max": 1,
-        "show_vendor": false,
-        "show_rating": false,
-        "show_quick_buy": true,
-        "enable_quick_view": true,
-        "enable_color_swatches": true,
-        "enable_countdown": true,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "use_custom_colors": true,
+        "colors_icon": "#ffffff",
+        "colors_text": "#ffffff",
+        "colors_background": "#a94759",
+        "gradient_background": "",
+        "padding_top": 20,
+        "padding_bottom": 20
       }
     },
     "featured-product": {
@@ -581,6 +616,35 @@
         "enable_layered_images": false,
         "padding_top": 20,
         "padding_bottom": 20
+      }
+    },
+    "featured_collection_BeTk79": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "bundle-save",
+        "products_to_show": 4,
+        "horizontal_scroll": false,
+        "show_view_all": true,
+        "show_divider": false,
+        "heading": "Featured collection",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "heading_tag": "h2",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "image_ratio": "adapt",
+        "image_position": "center center",
+        "enable_image_fill": true,
+        "show_secondary_image": false,
+        "secondary_image_max": 1,
+        "show_vendor": false,
+        "show_rating": false,
+        "show_quick_buy": true,
+        "enable_quick_view": true,
+        "enable_color_swatches": true,
+        "enable_countdown": true,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "collection_list_XdnJ8d": {
@@ -897,10 +961,12 @@
     "video_hero_LjKpxA",
     "rich_text_9UhUaw",
     "slideshow",
+    "scrolling_promotion_VN6K3k",
     "image_with_text_overlay_dCjCxA",
     "17719503537217fcc8",
-    "featured_collection_BeTk79",
+    "scrolling_promotion_dRQJEk",
     "featured-product",
+    "featured_collection_BeTk79",
     "collection_list_XdnJ8d",
     "scrolling_promotion_k9dVtt",
     "images_with_text_cnmQXW",
