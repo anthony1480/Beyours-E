@@ -371,7 +371,7 @@
             "icon": "none",
             "icon_size": "medium",
             "custom_icon": "",
-            "text": "OVER 7000 HAPPY CUSTOMERS",
+            "text": "7000+ HAPPY CUSTOMERS",
             "text_size": 16,
             "link": ""
           }
@@ -390,7 +390,7 @@
         "use_custom_colors": true,
         "colors_icon": "#f4a6a0",
         "colors_text": "#ffffff",
-        "colors_background": "#a94759",
+        "colors_background": "#7dcfc0",
         "gradient_background": "",
         "padding_top": 20,
         "padding_bottom": 20
