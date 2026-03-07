@@ -183,7 +183,7 @@
             "icon": "none",
             "icon_size": "medium",
             "custom_icon": "",
-            "text": "The only skin care you need",
+            "text": "Your 1st Step to a Smooth Booty",
             "text_size": 16,
             "link": ""
           }
@@ -202,7 +202,7 @@
         "use_custom_colors": true,
         "colors_icon": "#a94759",
         "colors_text": "#ffffff",
-        "colors_background": "#a94759",
+        "colors_background": "#7dcfc0",
         "gradient_background": "",
         "padding_top": 20,
         "padding_bottom": 20
