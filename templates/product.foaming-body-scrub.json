@@ -133,11 +133,53 @@
         "padding_bottom": 20
       }
     },
+    "scrolling_promotion_h3K8Fw": {
+      "type": "scrolling-promotion",
+      "blocks": {
+        "announcement_eQYyXN": {
+          "type": "announcement",
+          "settings": {
+            "icon": "none",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "text": "Transform your skin",
+            "text_size": 20,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "announcement_eQYyXN"
+      ],
+      "name": "t:sections.scrolling-promotion.presets.name",
+      "settings": {
+        "direction": "left",
+        "speed": 1.6,
+        "show_divider": false,
+        "use_custom_colors": true,
+        "colors_icon": "#ffffff",
+        "colors_text": "#ffffff",
+        "colors_background": "#a94759",
+        "gradient_background": "",
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
     "1717958248b0b4020b": {
       "type": "apps",
       "blocks": {
+        "judge_me_reviews_review_widget_Gza3gM": {
+          "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "review_data": "sample_data",
+            "max_width": 1200,
+            "show_shop_reviews": false,
+            "empty_state": "other_products_reviews"
+          }
+        },
         "fera_product_reviews_kMn8BG": {
           "type": "shopify://apps/fera/blocks/product_reviews/2fbfcfa7-8a04-479f-89a8-0621fa099c51",
+          "disabled": true,
           "settings": {
             "heading": "Product Reviews",
             "layout": "masonry",
@@ -147,6 +189,7 @@
         }
       },
       "block_order": [
+        "judge_me_reviews_review_widget_Gza3gM",
         "fera_product_reviews_kMn8BG"
       ],
       "settings": {
@@ -213,7 +256,6 @@
     },
     "product-recommendations": {
       "type": "product-recommendations",
-      "disabled": true,
       "settings": {
         "product_list_limit": 4,
         "show_divider": false,
@@ -235,62 +277,6 @@
         "enable_countdown": true,
         "padding_top": 36,
         "padding_bottom": 36
-      }
-    },
-    "scrolling_promotion_h3K8Fw": {
-      "type": "scrolling-promotion",
-      "blocks": {
-        "announcement_rJXagE": {
-          "type": "announcement",
-          "settings": {
-            "icon": "none",
-            "icon_size": "medium",
-            "custom_icon": "",
-            "text": "Who doesn't love coffee",
-            "text_size": 20,
-            "link": ""
-          }
-        },
-        "announcement_eQYyXN": {
-          "type": "announcement",
-          "settings": {
-            "icon": "none",
-            "icon_size": "medium",
-            "custom_icon": "",
-            "text": "Better scent",
-            "text_size": 20,
-            "link": ""
-          }
-        },
-        "announcement_kxHank": {
-          "type": "announcement",
-          "settings": {
-            "icon": "none",
-            "icon_size": "medium",
-            "custom_icon": "",
-            "text": "Transform your skin",
-            "text_size": 20,
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "announcement_rJXagE",
-        "announcement_eQYyXN",
-        "announcement_kxHank"
-      ],
-      "name": "t:sections.scrolling-promotion.presets.name",
-      "settings": {
-        "direction": "left",
-        "speed": 1.6,
-        "show_divider": false,
-        "use_custom_colors": true,
-        "colors_icon": "#ffffff",
-        "colors_text": "#1a1b18",
-        "colors_background": "#a94759",
-        "gradient_background": "",
-        "padding_top": 20,
-        "padding_bottom": 20
       }
     },
     "recently_viewed_products_w36ff6": {
@@ -322,10 +308,10 @@
   "order": [
     "empty-space",
     "main",
+    "scrolling_promotion_h3K8Fw",
     "1717958248b0b4020b",
     "collapsible-content",
     "product-recommendations",
-    "scrolling_promotion_h3K8Fw",
     "recently_viewed_products_w36ff6"
   ]
 }
