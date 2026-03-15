@@ -163,6 +163,94 @@
         "padding_bottom": 20
       }
     },
+    "scrolling_promotion_FgCQQN": {
+      "type": "scrolling-promotion",
+      "blocks": {
+        "announcement_MUGMQc": {
+          "type": "announcement",
+          "settings": {
+            "icon": "none",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "text": "No Discoloration",
+            "text_size": 20,
+            "link": ""
+          }
+        },
+        "announcement_W8BL4K": {
+          "type": "announcement",
+          "settings": {
+            "icon": "none",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "text": "No Irritation",
+            "text_size": 20,
+            "link": ""
+          }
+        },
+        "announcement_88AKBz": {
+          "type": "announcement",
+          "settings": {
+            "icon": "none",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "text": "Safe for Daily Use",
+            "text_size": 20,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "announcement_MUGMQc",
+        "announcement_W8BL4K",
+        "announcement_88AKBz"
+      ],
+      "name": "t:sections.scrolling-promotion.presets.name",
+      "settings": {
+        "direction": "left",
+        "speed": 1.6,
+        "show_divider": false,
+        "use_custom_colors": true,
+        "colors_icon": "#a94759",
+        "colors_text": "#ffffff",
+        "colors_background": "#a94759",
+        "gradient_background": "",
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
+    "scrolling_promotion_DfjbDm": {
+      "type": "scrolling-promotion",
+      "blocks": {
+        "announcement_bzRa6c": {
+          "type": "announcement",
+          "settings": {
+            "icon": "none",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "text": "Trusted by +7,000 Women",
+            "text_size": 20,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "announcement_bzRa6c"
+      ],
+      "name": "t:sections.scrolling-promotion.presets.name",
+      "settings": {
+        "direction": "left",
+        "speed": 1.6,
+        "show_divider": false,
+        "use_custom_colors": true,
+        "colors_icon": "#a94759",
+        "colors_text": "#ffffff",
+        "colors_background": "#a94759",
+        "gradient_background": "",
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
     "image_with_text_zhXFNE": {
       "type": "image-with-text",
       "blocks": {
@@ -421,8 +509,10 @@
   "order": [
     "empty-space",
     "main",
+    "scrolling_promotion_FgCQQN",
     "image_with_text_zhXFNE",
     "guarantees",
+    "scrolling_promotion_DfjbDm",
     "1717958248b0b4020b",
     "collapsible-content",
     "product-recommendations"
