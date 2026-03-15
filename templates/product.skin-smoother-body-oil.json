@@ -222,7 +222,7 @@
         "text_4DQrEY"
       ],
       "settings": {
-        "image": "shopify://shop_images/110_db1fc7b5-74ec-4568-8f71-e7811f7ca831.png",
+        "image": "shopify://shop_images/smoothskin-duo-the-ultimate-anti-cellulites-stretch-marks-kit-9185598.png",
         "image_position": "center center",
         "layout": "text_first",
         "text_box_position": "middle",
@@ -232,7 +232,6 @@
         "full_width": false,
         "show_divider": false,
         "image_behavior": "none",
-        "image_mobile": "shopify://shop_images/106.png",
         "mobile_layout": "image_first",
         "mobile_text_alignment": "left",
         "mobile_image_ratio": "adapt",
@@ -272,11 +271,8 @@
         "heading_gyHQzi",
         "text_pMEzbX"
       ],
+      "disabled": true,
       "settings": {
-        "image": "shopify://shop_images/111_d65c0771-3117-45a8-9b5a-81932b6d608b.png",
-        "image_2": "shopify://shop_images/110_db1fc7b5-74ec-4568-8f71-e7811f7ca831.png",
-        "image_3": "shopify://shop_images/109.png",
-        "image_4": "shopify://shop_images/110.png",
         "image_ratio": "portrait",
         "image_position": "center center",
         "layout": "image_first",
@@ -451,8 +447,18 @@
     "1717958248b0b4020b": {
       "type": "apps",
       "blocks": {
+        "judge_me_reviews_review_widget_LiWftn": {
+          "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "review_data": "sample_data",
+            "max_width": 1200,
+            "show_shop_reviews": false,
+            "empty_state": "empty_widget"
+          }
+        },
         "fera_product_reviews_kMn8BG": {
           "type": "shopify://apps/fera/blocks/product_reviews/2fbfcfa7-8a04-479f-89a8-0621fa099c51",
+          "disabled": true,
           "settings": {
             "heading": "Product Reviews",
             "layout": "masonry",
@@ -462,6 +468,7 @@
         }
       },
       "block_order": [
+        "judge_me_reviews_review_widget_LiWftn",
         "fera_product_reviews_kMn8BG"
       ],
       "settings": {
