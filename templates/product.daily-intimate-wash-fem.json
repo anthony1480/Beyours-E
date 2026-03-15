@@ -375,7 +375,6 @@
         "button_MHXKam"
       ],
       "settings": {
-        "image": "shopify://shop_images/C0D7ED98-2610-450D-A12F-D1C66342EEDE.jpg",
         "image_2": "shopify://shop_images/feminine-hygiene-duo-daily-intimate-wash-bikini-perfume-new-packaging-9279244.png",
         "image_3": "shopify://shop_images/peach-polish-intimate-mist-bikini-perfume-3682209.jpg",
         "image_4": "shopify://shop_images/peach-polish-intimate-mist-bikini-perfume-9546892.png",
@@ -503,8 +502,18 @@
     "1717958248b0b4020b": {
       "type": "apps",
       "blocks": {
+        "judge_me_reviews_review_widget_nedADD": {
+          "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "review_data": "sample_data",
+            "max_width": 1200,
+            "show_shop_reviews": false,
+            "empty_state": "other_products_reviews"
+          }
+        },
         "fera_product_reviews_kMn8BG": {
           "type": "shopify://apps/fera/blocks/product_reviews/2fbfcfa7-8a04-479f-89a8-0621fa099c51",
+          "disabled": true,
           "settings": {
             "heading": "Product Reviews",
             "layout": "masonry",
@@ -514,6 +523,7 @@
         }
       },
       "block_order": [
+        "judge_me_reviews_review_widget_nedADD",
         "fera_product_reviews_kMn8BG"
       ],
       "settings": {
