@@ -163,6 +163,67 @@
         "padding_bottom": 20
       }
     },
+    "image_with_text_zhXFNE": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_WMd386": {
+          "type": "heading",
+          "settings": {
+            "heading": "Answering your frequently asked questions...",
+            "heading_size": "h2",
+            "heading_tag": "h2"
+          }
+        },
+        "text_j8Thqh": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Is the fragrance safe for intimate use?</strong><br/>Yes. It’s alcohol-free, non-irritating, and formulated with low sensitization potential.</p><p><strong>Do I need an intimate mist?</strong><br/>If you want all-day freshness and a light scent made specifically for the external intimate area, yes. Prefer simple? You can use the wash on its own.</p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "button_McDU4f": {
+          "type": "button",
+          "settings": {
+            "button_label": "Buy Intimate Mist",
+            "button_link": "shopify://products/intimate-mist",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_WMd386",
+        "text_j8Thqh",
+        "button_McDU4f"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/Intimate_Hygiene_Ad_6.png",
+        "image_position": "center center",
+        "layout": "text_first",
+        "text_box_position": "middle",
+        "text_alignment": "left",
+        "image_ratio": "650px",
+        "enlarge_content": false,
+        "full_width": false,
+        "show_divider": false,
+        "image_behavior": "none",
+        "image_mobile": "shopify://shop_images/Intimate_Hygiene_Ad_6.png",
+        "mobile_layout": "image_first",
+        "mobile_text_alignment": "left",
+        "mobile_image_ratio": "auto",
+        "enable_video_looping": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "guarantees": {
       "type": "guarantees",
       "blocks": {
@@ -244,8 +305,18 @@
     "1717958248b0b4020b": {
       "type": "apps",
       "blocks": {
+        "judge_me_reviews_review_widget_k6xRJa": {
+          "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "review_data": "sample_data",
+            "max_width": 1200,
+            "show_shop_reviews": false,
+            "empty_state": "empty_widget"
+          }
+        },
         "fera_product_reviews_kMn8BG": {
           "type": "shopify://apps/fera/blocks/product_reviews/2fbfcfa7-8a04-479f-89a8-0621fa099c51",
+          "disabled": true,
           "settings": {
             "heading": "Product Reviews",
             "layout": "masonry",
@@ -255,6 +326,7 @@
         }
       },
       "block_order": [
+        "judge_me_reviews_review_widget_k6xRJa",
         "fera_product_reviews_kMn8BG"
       ],
       "settings": {
@@ -349,6 +421,7 @@
   "order": [
     "empty-space",
     "main",
+    "image_with_text_zhXFNE",
     "guarantees",
     "1717958248b0b4020b",
     "collapsible-content",
