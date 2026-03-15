@@ -325,7 +325,7 @@
             "icon": "none",
             "icon_size": "medium",
             "custom_icon": "",
-            "text": "Yumm",
+            "text": "YUMMM",
             "text_size": 16,
             "link": ""
           }
@@ -343,7 +343,7 @@
         "speed": 1.6,
         "show_divider": false,
         "use_custom_colors": true,
-        "colors_icon": "#8b424e",
+        "colors_icon": "#a94759",
         "colors_text": "#ffffff",
         "colors_background": "#8b424e",
         "gradient_background": "",
@@ -479,8 +479,18 @@
     "1717958248b0b4020b": {
       "type": "apps",
       "blocks": {
+        "judge_me_reviews_review_widget_4hb7KQ": {
+          "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "review_data": "sample_data",
+            "max_width": 1200,
+            "show_shop_reviews": false,
+            "empty_state": "other_products_reviews"
+          }
+        },
         "fera_product_reviews_kMn8BG": {
           "type": "shopify://apps/fera/blocks/product_reviews/2fbfcfa7-8a04-479f-89a8-0621fa099c51",
+          "disabled": true,
           "settings": {
             "heading": "Product Reviews",
             "layout": "masonry",
@@ -490,6 +500,7 @@
         }
       },
       "block_order": [
+        "judge_me_reviews_review_widget_4hb7KQ",
         "fera_product_reviews_kMn8BG"
       ],
       "settings": {
@@ -556,7 +567,6 @@
     },
     "product-recommendations": {
       "type": "product-recommendations",
-      "disabled": true,
       "settings": {
         "product_list_limit": 4,
         "show_divider": false,
@@ -587,9 +597,9 @@
     "scrolling-promotion",
     "image_with_text_beiAjz",
     "images_with_text_t3GnhX",
-    "scrolling_promotion_UiKVGc",
     "guarantees",
     "testimonials_zBJVKg",
+    "scrolling_promotion_UiKVGc",
     "1717958248b0b4020b",
     "collapsible-content",
     "product-recommendations"
