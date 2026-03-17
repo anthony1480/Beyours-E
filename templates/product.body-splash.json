@@ -172,7 +172,7 @@
             "icon": "none",
             "icon_size": "medium",
             "custom_icon": "",
-            "text": "The most refreshing Scents you need",
+            "text": "Long-lasting scent for up to 16 hours",
             "text_size": 20,
             "link": ""
           }
@@ -203,7 +203,7 @@
         "use_custom_colors": true,
         "colors_icon": "#a94759",
         "colors_text": "#ffffff",
-        "colors_background": "#a94759",
+        "colors_background": "#9fded2",
         "gradient_background": "",
         "padding_top": 20,
         "padding_bottom": 20
@@ -309,7 +309,7 @@
         "text_pMEzbX": {
           "type": "text",
           "settings": {
-            "text": "<p>More than <strong>700 </strong>costumers have \"<strong>complained\"</strong> of hearing this phrase too much, that's why they<strong> love us</strong>.</p>",
+            "text": "<p>So many customers have “complained” about hearing this phrase too often—that’s exactly why they love us.</p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -345,7 +345,7 @@
             "icon": "none",
             "icon_size": "medium",
             "custom_icon": "",
-            "text": "OVER 7000+ HAPPY CUSTOMERS",
+            "text": "OVER 15,000+ HAPPY CUSTOMERS",
             "text_size": 16,
             "link": ""
           }
@@ -364,7 +364,7 @@
         "use_custom_colors": true,
         "colors_icon": "#a94759",
         "colors_text": "#ffffff",
-        "colors_background": "#a94759",
+        "colors_background": "#9fded2",
         "gradient_background": "",
         "padding_top": 20,
         "padding_bottom": 20
@@ -440,7 +440,7 @@
         "columns_mobile": "2",
         "swipe_on_mobile": false,
         "use_custom_colors": true,
-        "colors_icon": "#a94759",
+        "colors_icon": "#9fded2",
         "colors_text": "#1a1b18",
         "colors_background": "#fdfdfd",
         "gradient_background": "",
@@ -481,7 +481,6 @@
         "testimonial_3PXdex",
         "testimonial_bfidJz"
       ],
-      "disabled": true,
       "settings": {
         "autorotate": true,
         "autorotate_speed": 5,
@@ -586,7 +585,6 @@
     },
     "product-recommendations": {
       "type": "product-recommendations",
-      "disabled": true,
       "settings": {
         "product_list_limit": 4,
         "show_divider": false,
@@ -618,9 +616,9 @@
     "image_with_text_beiAjz",
     "image_banner_XAz9Uz",
     "images_with_text_t3GnhX",
-    "scrolling_promotion_UiKVGc",
     "guarantees",
     "testimonials_zBJVKg",
+    "scrolling_promotion_UiKVGc",
     "1717958248b0b4020b",
     "collapsible-content",
     "product-recommendations"
