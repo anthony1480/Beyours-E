@@ -276,7 +276,7 @@
         "use_custom_colors": true,
         "colors_icon": "#a94759",
         "colors_text": "#ffffff",
-        "colors_background": "#7dcfc0",
+        "colors_background": "#9fded2",
         "gradient_background": "",
         "padding_top": 20,
         "padding_bottom": 20
@@ -364,7 +364,7 @@
             "icon": "check_mark",
             "icon_size": "medium",
             "custom_icon": "",
-            "title": "Tested & Approved By Doctors",
+            "title": "pH-Balanced. No Irritation",
             "title_size": "h4",
             "text": ""
           }
@@ -386,7 +386,7 @@
             "icon": "heart",
             "icon_size": "medium",
             "custom_icon": "",
-            "title": "Made For Everyone",
+            "title": "Safe for Daily Use",
             "title_size": "h4",
             "text": ""
           }
@@ -448,7 +448,7 @@
         "use_custom_colors": true,
         "colors_icon": "#a94759",
         "colors_text": "#ffffff",
-        "colors_background": "#7dcfc0",
+        "colors_background": "#9fded2",
         "gradient_background": "",
         "padding_top": 20,
         "padding_bottom": 20
