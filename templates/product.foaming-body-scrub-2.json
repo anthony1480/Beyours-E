@@ -49,7 +49,7 @@
         "custom_liquid_8fkWzA": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<b><p>🌟 Shea Butter + Vitamin E for Intense Hydration</p>\n<p>🧼&nbsp;Dreamy&nbsp;Foaming&nbsp;Texture </p>\n<p> 🍧 Ice Cream Fragrance</p></b>"
+            "custom_liquid": "<b><p>✔ Shea Butter + Vitamin E for Intense Hydration</p>\n<p>✔ &nbsp;Dreamy&nbsp;Foaming&nbsp;Texture </p>\n<p>✔ Soft Skin after the 1st use</p></b>"
           }
         },
         "variant_picker_UUBJzi": {
@@ -264,47 +264,6 @@
         "padding_bottom": 36
       }
     },
-    "images_with_text_t3GnhX": {
-      "type": "images-with-text",
-      "blocks": {
-        "heading_gyHQzi": {
-          "type": "heading",
-          "settings": {
-            "heading": "For the love of a good skin",
-            "heading_size": "h1",
-            "heading_tag": "h2"
-          }
-        },
-        "text_pMEzbX": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Our 3 signature-scented body scrubs keep your skin nourished, fresh, and glowing, leaving a long-lasting scent that turns heads wherever you go.<br/><br/></p>",
-            "text_size": "typeset2",
-            "secondary_color": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_gyHQzi",
-        "text_pMEzbX"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/foaming-body-scrub-200g-6550934.png",
-        "image_2": "shopify://shop_images/foaming-body-scrub-200g-6080439.png",
-        "image_3": "shopify://shop_images/foaming-body-scrub-200g-8606413.png",
-        "image_4": "shopify://shop_images/silky-smooth-shaving-kit-for-all-body-parts-legs-arms-back-and-underarms-6118128.png",
-        "image_ratio": "portrait",
-        "image_position": "center center",
-        "layout": "image_first",
-        "text_box_position": "middle",
-        "text_alignment": "left",
-        "mobile_text_alignment": "left",
-        "full_width": false,
-        "show_divider": false,
-        "padding_top": 32,
-        "padding_bottom": 36
-      }
-    },
     "scrolling_promotion_UiKVGc": {
       "type": "scrolling-promotion",
       "blocks": {
@@ -345,10 +304,51 @@
         "use_custom_colors": true,
         "colors_icon": "#a94759",
         "colors_text": "#ffffff",
-        "colors_background": "#8b424e",
+        "colors_background": "#9fded2",
         "gradient_background": "",
         "padding_top": 20,
         "padding_bottom": 20
+      }
+    },
+    "images_with_text_t3GnhX": {
+      "type": "images-with-text",
+      "blocks": {
+        "heading_gyHQzi": {
+          "type": "heading",
+          "settings": {
+            "heading": "For the love of a good skin",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "text_pMEzbX": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our 3 signature-scented body scrubs keep your skin nourished, fresh, and glowing, leaving a long-lasting scent that turns heads wherever you go.<br/><br/></p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_gyHQzi",
+        "text_pMEzbX"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/foaming-body-scrub-200g-6550934.png",
+        "image_2": "shopify://shop_images/foaming-body-scrub-200g-6080439.png",
+        "image_3": "shopify://shop_images/foaming-body-scrub-200g-8606413.png",
+        "image_4": "shopify://shop_images/silky-smooth-shaving-kit-for-all-body-parts-legs-arms-back-and-underarms-6118128.png",
+        "image_ratio": "portrait",
+        "image_position": "center center",
+        "layout": "image_first",
+        "text_box_position": "middle",
+        "text_alignment": "left",
+        "mobile_text_alignment": "left",
+        "full_width": false,
+        "show_divider": false,
+        "padding_top": 32,
+        "padding_bottom": 36
       }
     },
     "guarantees": {
@@ -421,7 +421,7 @@
         "columns_mobile": "2",
         "swipe_on_mobile": false,
         "use_custom_colors": true,
-        "colors_icon": "#8b424e",
+        "colors_icon": "#9fded2",
         "colors_text": "#1a1b18",
         "colors_background": "#fdfdfd",
         "gradient_background": "",
@@ -596,10 +596,10 @@
     "main",
     "scrolling-promotion",
     "image_with_text_beiAjz",
+    "scrolling_promotion_UiKVGc",
     "images_with_text_t3GnhX",
     "guarantees",
     "testimonials_zBJVKg",
-    "scrolling_promotion_UiKVGc",
     "1717958248b0b4020b",
     "collapsible-content",
     "product-recommendations"
