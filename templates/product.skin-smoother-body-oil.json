@@ -9,6 +9,38 @@
  */
 {
   "sections": {
+    "scrolling_promotion_iDrfU6": {
+      "type": "scrolling-promotion",
+      "blocks": {
+        "announcement_FqYQ3V": {
+          "type": "announcement",
+          "settings": {
+            "icon": "none",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "text": "Feel Better in Your Skin",
+            "text_size": 20,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "announcement_FqYQ3V"
+      ],
+      "name": "t:sections.scrolling-promotion.presets.name",
+      "settings": {
+        "direction": "left",
+        "speed": 1.6,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_icon": "#ffffff",
+        "colors_text": "#1a1b18",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "empty-space": {
       "type": "empty-space",
       "settings": {
@@ -38,14 +70,6 @@
             "hide_when_no_reviews": true
           }
         },
-        "price": {
-          "type": "price",
-          "settings": {
-            "price_size": "medium",
-            "show_badges": true,
-            "sale_badge_basis": "auto"
-          }
-        },
         "variant_picker_iMhrVY": {
           "type": "variant_picker",
           "settings": {
@@ -59,18 +83,69 @@
             "size_chart": ""
           }
         },
+        "custom_liquid_8fkWzA": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<b><p>✔ &nbsp;Rich in Jojoba and avocado oils</p>\n<p>✔ &nbsp;Anti Scars, Cellulites & Stretchmarks </p>\n<p>🤰🏻&nbsp;Suitable for pregnant women</p></b>"
+          }
+        },
+        "judge_me_reviews_testimonials_carousel_EmBwB6": {
+          "type": "shopify://apps/judge-me-reviews/blocks/testimonials_carousel/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "show_sample_reviews": true,
+            "reviews_selection": "all",
+            "products": [
+              "smoothskin-duo-anti-cellulites-stretchmarks-kit-1"
+            ],
+            "star_rating": "all",
+            "max_reviews": 20,
+            "quote_marks_size": "small",
+            "product_name_text_size": "small",
+            "verified_badge_style": "icon",
+            "card_height": "medium",
+            "text_size": "small",
+            "stars_size": "medium",
+            "arrows_position": "bottom",
+            "max_width": 1100,
+            "corner_styling": "soft",
+            "quote_marks_style": "serif",
+            "card_color": "#F9F9F9",
+            "stars_and_quote_marks_color": "#ffb503",
+            "text_color": "#000000",
+            "arrows_color": "#000000",
+            "show_border": false,
+            "border_color": "#108474",
+            "show_drop_shadow": false,
+            "transition_speed": 5,
+            "header_text": "Customers are saying",
+            "show_average_rating": true
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "price_size": "medium",
+            "show_badges": true,
+            "sale_badge_basis": "auto"
+          }
+        },
+        "fera_product_reviews_summary_KE6kYJ": {
+          "type": "shopify://apps/fera/blocks/product_reviews_summary/2fbfcfa7-8a04-479f-89a8-0621fa099c51",
+          "settings": {
+            "star_color": "#ffb503",
+            "size": 16,
+            "show_count": true,
+            "show_avg_rating": false,
+            "alignment": "left",
+            "hide_when_no_reviews": true
+          }
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
             "show_quantity_selector": false,
             "show_dynamic_checkout": true,
             "show_gift_card_recipient": false
-          }
-        },
-        "custom_liquid_8fkWzA": {
-          "type": "custom_liquid",
-          "settings": {
-            "custom_liquid": "<b><p>🌟&nbsp;Rich in Jojoba and avocado oils</p>\n<p>😚&nbsp;Anti Scars, Cellulites & Stretchmarks </p>\n<p>🤰🏻&nbsp;Suitable for pregnant women</p></b>"
           }
         },
         "collapsible_tab_bwCPcR": {
@@ -113,10 +188,12 @@
       "block_order": [
         "title",
         "fera_product_reviews_summary_GjwhcP",
-        "price",
         "variant_picker_iMhrVY",
-        "buy_buttons",
         "custom_liquid_8fkWzA",
+        "judge_me_reviews_testimonials_carousel_EmBwB6",
+        "price",
+        "fera_product_reviews_summary_KE6kYJ",
+        "buy_buttons",
         "collapsible_tab_bwCPcR",
         "collapsible_tab_KrCzMe",
         "inventory_status",
@@ -151,26 +228,14 @@
             "icon": "none",
             "icon_size": "medium",
             "custom_icon": "",
-            "text": "💧 Suitable for All Skin Types",
+            "text": "Targets Stretch Marks &amp; Scars",
             "text_size": 20,
-            "link": ""
-          }
-        },
-        "announcement-1": {
-          "type": "announcement",
-          "settings": {
-            "icon": "none",
-            "icon_size": "medium",
-            "custom_icon": "",
-            "text": "🌿 Vegan, Natural and Cruelty-Free",
-            "text_size": 16,
             "link": ""
           }
         }
       },
       "block_order": [
-        "announcement_z8QCYA",
-        "announcement-1"
+        "announcement_z8QCYA"
       ],
       "custom_css": [
         ".promotion__text {font-weight: 900;}"
@@ -182,7 +247,7 @@
         "use_custom_colors": true,
         "colors_icon": "#a94759",
         "colors_text": "#ffffff",
-        "colors_background": "#a94759",
+        "colors_background": "#9fded2",
         "gradient_background": "",
         "padding_top": 20,
         "padding_bottom": 20
@@ -285,40 +350,6 @@
         "padding_bottom": 36
       }
     },
-    "scrolling_promotion_UiKVGc": {
-      "type": "scrolling-promotion",
-      "blocks": {
-        "announcement_UQ6ENY": {
-          "type": "announcement",
-          "settings": {
-            "icon": "none",
-            "icon_size": "medium",
-            "custom_icon": "",
-            "text": "OVER 7000 HAPPY CUSTOMERS",
-            "text_size": 16,
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "announcement_UQ6ENY"
-      ],
-      "custom_css": [
-        ".promotion__text {font-weight: 900;}"
-      ],
-      "settings": {
-        "direction": "left",
-        "speed": 1.6,
-        "show_divider": false,
-        "use_custom_colors": true,
-        "colors_icon": "#a94759",
-        "colors_text": "#ffffff",
-        "colors_background": "#a94759",
-        "gradient_background": "",
-        "padding_top": 20,
-        "padding_bottom": 20
-      }
-    },
     "guarantees": {
       "type": "guarantees",
       "blocks": {
@@ -389,12 +420,46 @@
         "columns_mobile": "2",
         "swipe_on_mobile": false,
         "use_custom_colors": true,
-        "colors_icon": "#a94759",
+        "colors_icon": "#9fded2",
         "colors_text": "#1a1b18",
-        "colors_background": "#fdfdfd",
+        "colors_background": "#ffffff",
         "gradient_background": "",
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "scrolling_promotion_UiKVGc": {
+      "type": "scrolling-promotion",
+      "blocks": {
+        "announcement_UQ6ENY": {
+          "type": "announcement",
+          "settings": {
+            "icon": "none",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "text": "OVER 15,000 HAPPY CUSTOMERS",
+            "text_size": 16,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "announcement_UQ6ENY"
+      ],
+      "custom_css": [
+        ".promotion__text {font-weight: 900;}"
+      ],
+      "settings": {
+        "direction": "left",
+        "speed": 1.6,
+        "show_divider": false,
+        "use_custom_colors": true,
+        "colors_icon": "#a94759",
+        "colors_text": "#ffffff",
+        "colors_background": "#9fded2",
+        "gradient_background": "",
+        "padding_top": 20,
+        "padding_bottom": 20
       }
     },
     "testimonials_zBJVKg": {
@@ -561,13 +626,14 @@
     }
   },
   "order": [
+    "scrolling_promotion_iDrfU6",
     "empty-space",
     "main",
     "scrolling-promotion",
     "image_with_text_beiAjz",
     "images_with_text_t3GnhX",
-    "scrolling_promotion_UiKVGc",
     "guarantees",
+    "scrolling_promotion_UiKVGc",
     "testimonials_zBJVKg",
     "1717958248b0b4020b",
     "collapsible-content",
