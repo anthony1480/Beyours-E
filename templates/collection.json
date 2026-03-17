@@ -299,12 +299,12 @@
             "text": "<p><strong>99% of Our Happy Customers Say They’ve Never Tried Just One Product—They Always Choose to BUNDLE UP!</strong><br/><br/>Experience the full benefits by bundling your favorites and enjoy ultimate results, savings, and satisfaction.<br/><br/></p>",
             "text_size": "typeset2",
             "secondary_color": false,
-            "button_label": "Bundle Up",
+            "button_label": "BUNDLE & SAVE",
             "button_link": "shopify://collections/bundle-save",
             "button_size": "medium",
             "button_style_secondary": false,
             "colors_button_label": "#ffffff",
-            "colors_button_background": "#8b424e",
+            "colors_button_background": "#7dcfc0",
             "colors_text": "#212326",
             "colors_background": "#f3f3f3",
             "gradient_background": ""
@@ -331,6 +331,47 @@
         "colors_text": "#ffffff",
         "colors_overlay": "#7dcfc0",
         "colors_overlay_opacity": 20,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "177375749604a82c5d": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_reviews_grid_widget_TLWciz": {
+          "type": "shopify://apps/judge-me-reviews/blocks/reviews_grid_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "show_sample_reviews": false,
+            "review_selection": "all",
+            "products": [],
+            "show_media_only": false,
+            "display_order": "media_first",
+            "columns_desktop": 3,
+            "rows_desktop": 3,
+            "columns_mobile": "2",
+            "rows_mobile": 6,
+            "show_stars": true,
+            "show_reviewer_name": true,
+            "show_review_title_on_hover_desktop": true,
+            "max_width": 1100,
+            "corner_styling": "soft",
+            "card_spacing": "medium",
+            "header_text_color": "#62baab",
+            "star_and_reviewer_name_color": "#F9F9F9",
+            "drop_shadow_color": "#62baab",
+            "overlay_and_background_color": "#7dcfc0",
+            "content_color": "#F9F9F9",
+            "header_text": "From our customers",
+            "show_average_rating": true
+          }
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_reviews_grid_widget_TLWciz"
+      ],
+      "settings": {
+        "include_margins": true,
+        "show_divider": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -368,6 +409,7 @@
         "quote_44ykKC",
         "quote_hH6kxQ"
       ],
+      "disabled": true,
       "settings": {
         "show_divider": false,
         "heading": "Hear from our Costumers",
@@ -386,6 +428,7 @@
     "scrolling_promotion_39UjHm",
     "sliding_images_LJAiWi",
     "reveal_banner_B3renb",
+    "177375749604a82c5d",
     "quotes_nYeJfT"
   ]
 }
