@@ -49,7 +49,7 @@
         "custom_liquid_8fkWzA": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<b><p>🌟 Shea Butter + Vitamin E for Intense Hydration\n<p>🦋 Effective against stretch marks, cellulites &amp; skin discoloration<p>\n☕&nbsp;Foaming&nbsp;Texture with fresh ground coffee beans</p>"
+            "custom_liquid": "<b><p>✔ Shea Butter + Vitamin E for Intense Hydration\n<p>✔ Effective against stretch marks, cellulites &amp; skin discoloration<p>\n✔&nbsp;Foaming&nbsp;Texture with fresh ground coffee beans</p>"
           }
         },
         "buy_buttons": {
@@ -159,7 +159,7 @@
         "use_custom_colors": true,
         "colors_icon": "#ffffff",
         "colors_text": "#ffffff",
-        "colors_background": "#a94759",
+        "colors_background": "#9fded2",
         "gradient_background": "",
         "padding_top": 20,
         "padding_bottom": 20
