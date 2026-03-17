@@ -158,31 +158,19 @@
     "scrolling-promotion": {
       "type": "scrolling-promotion",
       "blocks": {
-        "announcement_4FJEnw": {
-          "type": "announcement",
-          "settings": {
-            "icon": "none",
-            "icon_size": "medium",
-            "custom_icon": "",
-            "text": "Now it's time to make the jaws drop",
-            "text_size": 20,
-            "link": ""
-          }
-        },
         "announcement-1": {
           "type": "announcement",
           "settings": {
             "icon": "none",
             "icon_size": "medium",
             "custom_icon": "",
-            "text": "Wow, so irresistable",
+            "text": "For the IT GIRL who's serious about turning heads",
             "text_size": 16,
             "link": ""
           }
         }
       },
       "block_order": [
-        "announcement_4FJEnw",
         "announcement-1"
       ],
       "custom_css": [
@@ -195,7 +183,7 @@
         "use_custom_colors": true,
         "colors_icon": "#a94759",
         "colors_text": "#ffffff",
-        "colors_background": "#a94759",
+        "colors_background": "#9fded2",
         "gradient_background": "",
         "padding_top": 20,
         "padding_bottom": 20
@@ -341,7 +329,7 @@
         "use_custom_colors": true,
         "colors_icon": "#f4a6a0",
         "colors_text": "#ffffff",
-        "colors_background": "#a94759",
+        "colors_background": "#9fded2",
         "gradient_background": "",
         "padding_top": 20,
         "padding_bottom": 20
@@ -417,7 +405,7 @@
         "columns_mobile": "2",
         "swipe_on_mobile": false,
         "use_custom_colors": true,
-        "colors_icon": "#a94759",
+        "colors_icon": "#9fded2",
         "colors_text": "#1a1b18",
         "colors_background": "#fdfdfd",
         "gradient_background": "",
