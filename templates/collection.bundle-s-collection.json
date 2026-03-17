@@ -77,40 +77,40 @@
         "product_Q7VrEt": {
           "type": "product",
           "settings": {
-            "product": "limited-edition-holiday-body-splash-bundle-buy-2-get-1-free-🎁✨",
+            "product": "blossom-fruity-body-splash",
             "image_ratio": "adapt",
             "show_vendor": false,
             "show_quick_buy": false,
             "enable_quick_view": true,
             "color": "#000000",
-            "horizontal": 30,
-            "vertical": 51
+            "horizontal": 25,
+            "vertical": 32
           }
         },
         "product_zeQ6An": {
           "type": "product",
           "settings": {
-            "product": "body-butters-limited-edition-holiday-bundle-buy-2-get-1-free-🎁✨",
+            "product": "pink-coco-foaming-body-scrub",
             "image_ratio": "adapt",
             "show_vendor": false,
             "show_quick_buy": false,
             "enable_quick_view": true,
             "color": "#000000",
-            "horizontal": 47,
-            "vertical": 57
+            "horizontal": 42,
+            "vertical": 66
           }
         },
         "product_gLzHdy": {
           "type": "product",
           "settings": {
-            "product": "hair-perfume-limited-edition-holiday-bundle-buy-2-get-1-free-🎁✨-copy",
+            "product": "copy-of-peach-polish-shaving-gel-booty-bikini-body",
             "image_ratio": "adapt",
             "show_vendor": false,
             "show_quick_buy": false,
             "enable_quick_view": true,
             "color": "#000000",
-            "horizontal": 82,
-            "vertical": 55
+            "horizontal": 49,
+            "vertical": 37
           }
         }
       },
@@ -119,18 +119,17 @@
         "product_zeQ6An",
         "product_gLzHdy"
       ],
-      "disabled": true,
       "settings": {
-        "image": "shopify://shop_images/80.png",
+        "image": "shopify://shop_images/glow-getter-trio-7478898.png",
         "layout": "image_first",
         "text_box_position": "top",
         "text_alignment": "left",
         "mobile_text_alignment": "left",
-        "full_width": false,
+        "full_width": true,
         "show_divider": false,
         "subheading": "Why have one?",
-        "subheading_size": "h5",
-        "heading": "When you can have them all for less",
+        "subheading_size": "h4",
+        "heading": "When you can have them ALL for less",
         "heading_size": "h1",
         "heading_tag": "h2",
         "padding_top": 36,
