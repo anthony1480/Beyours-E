@@ -62,7 +62,7 @@
         "custom_liquid_8fkWzA": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<b><p>💅🏻 Zero Mess. Twist & Go </p>\n<p>💪🏼 Stronger Nails. Fast\n </p>\n<p>🌟 Cuticles Instantly Look Softer</p></b>"
+            "custom_liquid": "<b><p>✔ Zero Mess. Twist & Go </p>\n<p>✔ Stronger Nails. Fast\n </p>\n<p>✔ Cuticles Instantly Look Softer</p></b>"
           }
         },
         "buy_buttons": {
@@ -183,7 +183,7 @@
             "icon": "none",
             "icon_size": "medium",
             "custom_icon": "",
-            "text": "The only skin care you need",
+            "text": "Clean Girls have Clean Nails",
             "text_size": 16,
             "link": ""
           }
@@ -200,9 +200,9 @@
         "speed": 1.6,
         "show_divider": false,
         "use_custom_colors": true,
-        "colors_icon": "#a94759",
+        "colors_icon": "#9fded2",
         "colors_text": "#ffffff",
-        "colors_background": "#a94759",
+        "colors_background": "#9fded2",
         "gradient_background": "",
         "padding_top": 20,
         "padding_bottom": 20
@@ -269,6 +269,7 @@
     },
     "image_banner_iKrdae": {
       "type": "image-banner",
+      "disabled": true,
       "custom_css": [
         "@media screen and (min-width: 768px) {div {display: none; }}"
       ],
@@ -296,6 +297,7 @@
     },
     "image_banner_XAz9Uz": {
       "type": "image-banner",
+      "disabled": true,
       "custom_css": [
         "@media screen and (max-width: 768px) {div {display: none; }}"
       ],
@@ -345,6 +347,7 @@
         "heading_gyHQzi",
         "text_pMEzbX"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/ezgif.com-optimize.gif",
         "image_3": "shopify://shop_images/611A4167.jpg",
@@ -378,6 +381,7 @@
       "block_order": [
         "announcement_UQ6ENY"
       ],
+      "disabled": true,
       "custom_css": [
         ".promotion__text {font-weight: 900;}"
       ],
@@ -461,7 +465,7 @@
         "columns_mobile": "2",
         "swipe_on_mobile": false,
         "use_custom_colors": true,
-        "colors_icon": "#a94759",
+        "colors_icon": "#9fded2",
         "colors_text": "#1a1b18",
         "colors_background": "#fdfdfd",
         "gradient_background": "",
@@ -530,10 +534,10 @@
     }
   },
   "order": [
+    "scrolling-promotion",
     "empty-space",
     "main",
     "image_banner_jy3yGP",
-    "scrolling-promotion",
     "image_with_text_beiAjz",
     "image_banner_iKrdae",
     "image_banner_XAz9Uz",
