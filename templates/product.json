@@ -455,7 +455,7 @@
             "icon": "none",
             "icon_size": "medium",
             "custom_icon": "",
-            "text": "OVER 7000 HAPPY CUSTOMERS",
+            "text": "OVER 15,000 HAPPY CUSTOMERS",
             "text_size": 16,
             "link": ""
           }
@@ -474,7 +474,7 @@
         "use_custom_colors": true,
         "colors_icon": "#f4a6a0",
         "colors_text": "#ffffff",
-        "colors_background": "#a94759",
+        "colors_background": "#7dcfc0",
         "gradient_background": "",
         "padding_top": 20,
         "padding_bottom": 20
@@ -550,7 +550,7 @@
         "columns_mobile": "2",
         "swipe_on_mobile": false,
         "use_custom_colors": true,
-        "colors_icon": "#a94759",
+        "colors_icon": "#7dcfc0",
         "colors_text": "#1a1b18",
         "colors_background": "#fdfdfd",
         "gradient_background": "",
