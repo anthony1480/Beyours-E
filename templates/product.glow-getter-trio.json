@@ -9,6 +9,38 @@
  */
 {
   "sections": {
+    "scrolling_promotion_bQ7yha": {
+      "type": "scrolling-promotion",
+      "blocks": {
+        "announcement_tkbGnx": {
+          "type": "announcement",
+          "settings": {
+            "icon": "none",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "text": "Simple, effective routine for smooth and glowing skin",
+            "text_size": 20,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "announcement_tkbGnx"
+      ],
+      "name": "t:sections.scrolling-promotion.presets.name",
+      "settings": {
+        "direction": "left",
+        "speed": 1.6,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_icon": "#ffffff",
+        "colors_text": "#1a1b18",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "empty-space": {
       "type": "empty-space",
       "settings": {
@@ -38,12 +70,10 @@
             "hide_when_no_reviews": true
           }
         },
-        "price": {
-          "type": "price",
+        "custom_liquid_8fkWzA": {
+          "type": "custom_liquid",
           "settings": {
-            "price_size": "medium",
-            "show_badges": true,
-            "sale_badge_basis": "auto"
+            "custom_liquid": "<b><p>✔️ Soft Skin. Instant Glow. Scent that lasts +16 hours.</p>\n<p>✔️ Full Routine, Perfect for daily self-care or as a thoughtful gift</p>\n<p>✔️ Generous sizes for long-lasting self-care.</p></b>"
           }
         },
         "variant_picker_TB8w77": {
@@ -59,10 +89,23 @@
             "size_chart": ""
           }
         },
-        "custom_liquid_8fkWzA": {
-          "type": "custom_liquid",
+        "price": {
+          "type": "price",
           "settings": {
-            "custom_liquid": "<b><p>✔️ Soft Skin. Instant Glow. Scent that lasts +16 hours.</p>\n<p>✔️ Full Routine, Perfect for daily self-care or as a thoughtful gift</p>\n<p>✔️ Generous sizes for long-lasting self-care.</p></b>"
+            "price_size": "medium",
+            "show_badges": true,
+            "sale_badge_basis": "auto"
+          }
+        },
+        "fera_product_reviews_summary_Geix4g": {
+          "type": "shopify://apps/fera/blocks/product_reviews_summary/2fbfcfa7-8a04-479f-89a8-0621fa099c51",
+          "settings": {
+            "star_color": "#ffb503",
+            "size": 16,
+            "show_count": true,
+            "show_avg_rating": false,
+            "alignment": "left",
+            "hide_when_no_reviews": true
           }
         },
         "buy_buttons": {
@@ -132,9 +175,10 @@
       "block_order": [
         "title",
         "fera_product_reviews_summary_GjwhcP",
-        "price",
-        "variant_picker_TB8w77",
         "custom_liquid_8fkWzA",
+        "variant_picker_TB8w77",
+        "price",
+        "fera_product_reviews_summary_Geix4g",
         "buy_buttons",
         "collapsible_description_HNMJB4",
         "inventory_status",
@@ -218,7 +262,7 @@
         "use_custom_colors": true,
         "colors_icon": "#a94759",
         "colors_text": "#ffffff",
-        "colors_background": "#a94759",
+        "colors_background": "#9fded2",
         "gradient_background": "",
         "padding_top": 20,
         "padding_bottom": 20
@@ -406,7 +450,7 @@
         "use_custom_colors": true,
         "colors_icon": "#f4a6a0",
         "colors_text": "#ffffff",
-        "colors_background": "#a94759",
+        "colors_background": "#9fded2",
         "gradient_background": "",
         "padding_top": 20,
         "padding_bottom": 20
@@ -482,7 +526,7 @@
         "columns_mobile": "2",
         "swipe_on_mobile": false,
         "use_custom_colors": true,
-        "colors_icon": "#a94759",
+        "colors_icon": "#9fded2",
         "colors_text": "#1a1b18",
         "colors_background": "#fdfdfd",
         "gradient_background": "",
@@ -653,6 +697,7 @@
     }
   },
   "order": [
+    "scrolling_promotion_bQ7yha",
     "empty-space",
     "main",
     "image_banner_jy3yGP",
