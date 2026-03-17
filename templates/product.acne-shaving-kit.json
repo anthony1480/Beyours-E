@@ -38,14 +38,6 @@
             "hide_when_no_reviews": true
           }
         },
-        "price": {
-          "type": "price",
-          "settings": {
-            "price_size": "medium",
-            "show_badges": true,
-            "sale_badge_basis": "auto"
-          }
-        },
         "variant_picker_RiRatz": {
           "type": "variant_picker",
           "settings": {
@@ -63,6 +55,73 @@
           "type": "custom_liquid",
           "settings": {
             "custom_liquid": "<b><p>✅ Bye Bye Acne & Skin Irritation </p>\n<p>🌸 Suitable for all skin types</p>\n<p>🕝 See Fast Results</p></b>"
+          }
+        },
+        "judge_me_reviews_testimonials_carousel_9Gy6k3": {
+          "type": "shopify://apps/judge-me-reviews/blocks/testimonials_carousel/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "show_sample_reviews": false,
+            "reviews_selection": "product_reviews",
+            "products": [
+              "booty-acne-shaving-kit"
+            ],
+            "star_rating": "all",
+            "max_reviews": 20,
+            "quote_marks_size": "small",
+            "product_name_text_size": "small",
+            "verified_badge_style": "icon",
+            "card_height": "medium",
+            "text_size": "small",
+            "stars_size": "medium",
+            "arrows_position": "bottom",
+            "max_width": 1100,
+            "corner_styling": "soft",
+            "quote_marks_style": "serif",
+            "card_color": "#F9F9F9",
+            "stars_and_quote_marks_color": "#ffb503",
+            "text_color": "#000000",
+            "arrows_color": "#000000",
+            "show_border": false,
+            "border_color": "#108474",
+            "show_drop_shadow": false,
+            "transition_speed": 5,
+            "header_text": "Customers are saying",
+            "show_average_rating": true
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "price_size": "medium",
+            "show_badges": true,
+            "sale_badge_basis": "auto"
+          }
+        },
+        "fera_product_reviews_summary_km4LAr": {
+          "type": "shopify://apps/fera/blocks/product_reviews_summary/2fbfcfa7-8a04-479f-89a8-0621fa099c51",
+          "settings": {
+            "star_color": "#ffb503",
+            "size": 16,
+            "show_count": true,
+            "show_avg_rating": false,
+            "alignment": "left",
+            "hide_when_no_reviews": true
+          }
+        },
+        "text_8mMicY": {
+          "type": "text",
+          "settings": {
+            "icon": "none",
+            "text": "You hate shaving right? That's because you haven't been following the correct routine.",
+            "text_style": "body"
+          }
+        },
+        "text_Uhxbz6": {
+          "type": "text",
+          "settings": {
+            "icon": "check_mark",
+            "text": "Get this routine is shaving gives you acne and nighmares!",
+            "text_style": "body"
           }
         },
         "buy_buttons": {
@@ -139,9 +198,13 @@
       "block_order": [
         "title",
         "fera_product_reviews_summary_GjwhcP",
-        "price",
         "variant_picker_RiRatz",
         "custom_liquid_8fkWzA",
+        "judge_me_reviews_testimonials_carousel_9Gy6k3",
+        "price",
+        "fera_product_reviews_summary_km4LAr",
+        "text_8mMicY",
+        "text_Uhxbz6",
         "buy_buttons",
         "description_YT8gfF",
         "collapsible_tab_fUXbjW",
@@ -409,7 +472,7 @@
         "columns_mobile": "2",
         "swipe_on_mobile": false,
         "use_custom_colors": true,
-        "colors_icon": "#a94759",
+        "colors_icon": "#9fded2",
         "colors_text": "#1a1b18",
         "colors_background": "#fdfdfd",
         "gradient_background": "",
