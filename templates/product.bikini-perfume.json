@@ -9,6 +9,38 @@
  */
 {
   "sections": {
+    "scrolling_promotion_Vd7xJh": {
+      "type": "scrolling-promotion",
+      "blocks": {
+        "announcement_nnzJK3": {
+          "type": "announcement",
+          "settings": {
+            "icon": "none",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "text": "Science-backed Formula",
+            "text_size": 20,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "announcement_nnzJK3"
+      ],
+      "name": "t:sections.scrolling-promotion.presets.name",
+      "settings": {
+        "direction": "left",
+        "speed": 1.6,
+        "show_divider": false,
+        "use_custom_colors": true,
+        "colors_icon": "#ffffff",
+        "colors_text": "#ffffff",
+        "colors_background": "#9fded2",
+        "gradient_background": "",
+        "padding_top": 24,
+        "padding_bottom": 24
+      }
+    },
     "empty-space": {
       "type": "empty-space",
       "settings": {
@@ -571,6 +603,7 @@
     }
   },
   "order": [
+    "scrolling_promotion_Vd7xJh",
     "empty-space",
     "main",
     "scrolling_promotion_FgCQQN",
