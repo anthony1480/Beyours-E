@@ -125,12 +125,31 @@
             "sale_badge_basis": "auto"
           }
         },
+        "fera_product_reviews_summary_m9MtCi": {
+          "type": "shopify://apps/fera/blocks/product_reviews_summary/2fbfcfa7-8a04-479f-89a8-0621fa099c51",
+          "settings": {
+            "star_color": "#ffb503",
+            "size": 24,
+            "show_count": true,
+            "show_avg_rating": false,
+            "alignment": "left",
+            "hide_when_no_reviews": true
+          }
+        },
+        "text_d9nCzT": {
+          "type": "text",
+          "settings": {
+            "icon": "none",
+            "text": "Why does it work? Because it was designed to target body NOT face acne like other products you may have tried.",
+            "text_style": "body"
+          }
+        },
         "text_yq6dDj": {
           "type": "text",
           "settings": {
             "icon": "none",
             "text": "Get Smooth Skin Now – FREE Delivery",
-            "text_style": "body"
+            "text_style": "subtitle"
           }
         },
         "buy_buttons": {
@@ -189,6 +208,8 @@
         "custom_liquid_8fkWzA",
         "judge_me_reviews_testimonials_carousel_AhqYez",
         "price",
+        "fera_product_reviews_summary_m9MtCi",
+        "text_d9nCzT",
         "text_yq6dDj",
         "buy_buttons",
         "description_3pXtKE",

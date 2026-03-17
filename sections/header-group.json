@@ -61,6 +61,7 @@
       "blocks": {
         "ai_gen_block_3f8b1ec_z3wRW8": {
           "type": "ai_gen_block_3f8b1ec",
+          "disabled": true,
           "settings": {
             "heading_text": "Essentials by Jay",
             "heading_tag": "h2",
