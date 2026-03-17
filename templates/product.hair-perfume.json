@@ -9,6 +9,50 @@
  */
 {
   "sections": {
+    "scrolling_promotion_y7pe3M": {
+      "type": "scrolling-promotion",
+      "blocks": {
+        "announcement_akMLTf": {
+          "type": "announcement",
+          "settings": {
+            "icon": "none",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "text": "Alcohol-Free",
+            "text_size": 20,
+            "link": ""
+          }
+        },
+        "announcement_jtPr8j": {
+          "type": "announcement",
+          "settings": {
+            "icon": "none",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "text": "Light-weight Fromula",
+            "text_size": 20,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "announcement_akMLTf",
+        "announcement_jtPr8j"
+      ],
+      "name": "t:sections.scrolling-promotion.presets.name",
+      "settings": {
+        "direction": "left",
+        "speed": 1.6,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_icon": "#ffffff",
+        "colors_text": "#1a1b18",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "empty-space": {
       "type": "empty-space",
       "settings": {
@@ -182,7 +226,7 @@
         "use_custom_colors": true,
         "colors_icon": "#a94759",
         "colors_text": "#ffffff",
-        "colors_background": "#a94759",
+        "colors_background": "#9fded2",
         "gradient_background": "",
         "padding_top": 20,
         "padding_bottom": 20
@@ -294,32 +338,32 @@
         "question-0": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "What are the hair sprays?",
-            "row_content": "<p>They are the best spray that u can toss on your hair and instantly get a fresh hair smell</p>",
+            "heading": "Why do I need a hair perfume?",
+            "row_content": "<p>Unlike regular body perfumes, hair perfume is specially formulated to be alcohol-free and lightweight, making it safe to use on your hair. Traditional perfumes can dry out your strands and cause damage, while a hair perfume simply adds a fresh, long-lasting scent without affecting your hair’s health. It keeps your hair smelling clean and refreshed throughout the day without making it oily or heavy.</p>",
             "page": ""
           }
         },
         "question-1": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "How much do they last?",
-            "row_content": "<p>One spray could last up to 5 hours of fresh smell</p>",
+            "heading": "Will this hair perfume make my hair dry or oily?",
+            "row_content": "<p>No. Thanks to its lightweight, alcohol-free formula, this hair perfume will not dry out your hair or make it oily. It’s designed to gently refresh your hair, leaving it smelling amazing while maintaining a clean, natural look. You can use it daily or after your shower for hair that looks and smells fresh all day.</p>",
             "page": ""
           }
         },
         "question-2": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Are your products organic?",
-            "row_content": "<p>Yes, our products are 100% Organic and cruelty free.</p>",
+            "heading": "How long does hair perfume last on the hair?",
+            "row_content": "<p>Hair perfume is designed to provide a long-lasting scent that stays with you throughout the day. While longevity can vary depending on your hair type and environment, most users notice a subtle, fresh fragrance that lingers for hours without being overpowering.</p>",
             "page": ""
           }
         },
         "question-3": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "How many days does the delivery need?",
-            "row_content": "<p>Our delivery service needs anywhere from 2-5 Days all around Lebanon</p>",
+            "heading": "Can I use hair perfume every day?",
+            "row_content": "<p>Yes, you can safely use hair perfume every day. Its gentle, lightweight formula makes it perfect for daily use without causing buildup, dryness, or damage. It’s ideal for refreshing your hair between washes or adding a final touch to your routine.</p>",
             "page": ""
           }
         }
@@ -515,6 +559,7 @@
     }
   },
   "order": [
+    "scrolling_promotion_y7pe3M",
     "empty-space",
     "main",
     "scrolling-promotion",
