@@ -395,7 +395,7 @@
             "icon": "none",
             "icon_size": "medium",
             "custom_icon": "",
-            "text": "Our costumers complain from Over Complement syndrome",
+            "text": "Our costumers are getting tired from hearing compliments all day",
             "text_size": 16,
             "link": ""
           }
@@ -414,7 +414,7 @@
         "use_custom_colors": true,
         "colors_icon": "#8b424e",
         "colors_text": "#ffffff",
-        "colors_background": "#8b424e",
+        "colors_background": "#9fded2",
         "gradient_background": "",
         "padding_top": 20,
         "padding_bottom": 20
@@ -490,7 +490,7 @@
         "columns_mobile": "2",
         "swipe_on_mobile": false,
         "use_custom_colors": true,
-        "colors_icon": "#8b424e",
+        "colors_icon": "#9fded2",
         "colors_text": "#1a1b18",
         "colors_background": "#fdfdfd",
         "gradient_background": "",
@@ -566,8 +566,8 @@
     "image_with_text_beiAjz",
     "images_with_text_t3GnhX",
     "collapsible-content",
-    "scrolling_promotion_UiKVGc",
     "guarantees",
+    "scrolling_promotion_UiKVGc",
     "1717958248b0b4020b",
     "product-recommendations"
   ]
