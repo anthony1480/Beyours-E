@@ -278,7 +278,7 @@
             "icon": "none",
             "icon_size": "medium",
             "custom_icon": "",
-            "text": "+5,000 Customers use this Intimate Wash Daily",
+            "text": "+7,000 Customers use this Intimate Wash Daily",
             "text_size": 16,
             "link": ""
           }
@@ -495,7 +495,7 @@
             "icon": "none",
             "icon_size": "medium",
             "custom_icon": "",
-            "text": "OVER 15,000 HAPPY CUSTOMERS",
+            "text": "UPGRADE YOUR INTIMATE HYGIENE",
             "text_size": 16,
             "link": ""
           }
@@ -587,9 +587,9 @@
         "columns_mobile": "2",
         "swipe_on_mobile": false,
         "use_custom_colors": true,
-        "colors_icon": "#a94759",
-        "colors_text": "#1a1b18",
-        "colors_background": "#fdfdfd",
+        "colors_icon": "#9fded2",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
         "gradient_background": "",
         "padding_top": 36,
         "padding_bottom": 36
