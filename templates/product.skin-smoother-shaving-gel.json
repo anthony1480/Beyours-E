@@ -425,40 +425,6 @@
         "padding_bottom": 36
       }
     },
-    "scrolling_promotion_UiKVGc": {
-      "type": "scrolling-promotion",
-      "blocks": {
-        "announcement_UQ6ENY": {
-          "type": "announcement",
-          "settings": {
-            "icon": "none",
-            "icon_size": "medium",
-            "custom_icon": "",
-            "text": "OVER 7000 HAPPY CUSTOMERS",
-            "text_size": 16,
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "announcement_UQ6ENY"
-      ],
-      "custom_css": [
-        ".promotion__text {font-weight: 900;}"
-      ],
-      "settings": {
-        "direction": "left",
-        "speed": 1.6,
-        "show_divider": false,
-        "use_custom_colors": true,
-        "colors_icon": "#f4a6a0",
-        "colors_text": "#ffffff",
-        "colors_background": "#9fded2",
-        "gradient_background": "",
-        "padding_top": 20,
-        "padding_bottom": 20
-      }
-    },
     "guarantees": {
       "type": "guarantees",
       "blocks": {
@@ -534,6 +500,40 @@
         "padding_bottom": 36
       }
     },
+    "scrolling_promotion_UiKVGc": {
+      "type": "scrolling-promotion",
+      "blocks": {
+        "announcement_UQ6ENY": {
+          "type": "announcement",
+          "settings": {
+            "icon": "none",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "text": "OVER1 5,000 HAPPY CUSTOMERS",
+            "text_size": 16,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "announcement_UQ6ENY"
+      ],
+      "custom_css": [
+        ".promotion__text {font-weight: 900;}"
+      ],
+      "settings": {
+        "direction": "left",
+        "speed": 1.6,
+        "show_divider": false,
+        "use_custom_colors": true,
+        "colors_icon": "#f4a6a0",
+        "colors_text": "#ffffff",
+        "colors_background": "#9fded2",
+        "gradient_background": "",
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
     "1717958248b0b4020b": {
       "type": "apps",
       "blocks": {
@@ -604,8 +604,8 @@
     "image_banner_iKrdae",
     "image_banner_XAz9Uz",
     "images_with_text_t3GnhX",
-    "scrolling_promotion_UiKVGc",
     "guarantees",
+    "scrolling_promotion_UiKVGc",
     "1717958248b0b4020b",
     "product-recommendations"
   ]
