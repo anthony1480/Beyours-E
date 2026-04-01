@@ -160,6 +160,19 @@
             "text_style": "body"
           }
         },
+        "variant_picker_4KYeEY": {
+          "type": "variant_picker",
+          "settings": {
+            "show_variant_labels": true,
+            "picker_type": "button",
+            "enable_color_swatches": true,
+            "swatches_source": "file",
+            "swatch_type": "round",
+            "enable_swatch_cross": true,
+            "enable_swatch_unavailable_click": false,
+            "size_chart": ""
+          }
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -224,6 +237,7 @@
         "text_NQbYen",
         "popup_eiPziC",
         "text_Dmaznj",
+        "variant_picker_4KYeEY",
         "buy_buttons",
         "collapsible_description_B7k8ct",
         "collapsible_tab_xYaMD3",
