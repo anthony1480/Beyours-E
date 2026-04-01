@@ -396,6 +396,29 @@
         "padding_bottom": 20
       }
     },
+    "17750565761498245b": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_review_widget_tUYHam": {
+          "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "review_data": "sample_data",
+            "max_width": 1200,
+            "show_shop_reviews": false,
+            "empty_state": "empty_widget"
+          }
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_review_widget_tUYHam"
+      ],
+      "settings": {
+        "include_margins": true,
+        "show_divider": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "guarantees": {
       "type": "guarantees",
       "blocks": {
@@ -479,7 +502,7 @@
           "settings": {
             "data_source": "real",
             "theme": "expanded",
-            "button_theme_color": "#FFFFFF",
+            "button_theme_color": "#ffffff",
             "button_theme_text_color": "#000000",
             "show_keywords": true,
             "keywords_visibility": "shown",
@@ -489,11 +512,11 @@
             "title_size": "default",
             "text_size": "default",
             "corner_styling": "soft",
-            "widget_color": "#F9F9F9",
+            "widget_color": "#f9f9f9",
             "text_color": "#000000",
             "lighter_text_color": "#787878",
             "button_color": "#108474",
-            "button_text_color": "#FFFFFF",
+            "button_text_color": "#ffffff",
             "show_sentiment_colors": false,
             "max_width": 1100,
             "heading_text": "Customers rate this store",
@@ -559,6 +582,7 @@
     "image_banner_XAz9Uz",
     "images_with_text_t3GnhX",
     "scrolling_promotion_UiKVGc",
+    "17750565761498245b",
     "guarantees",
     "1717958248b0b4020b",
     "product-recommendations"
