@@ -497,7 +497,7 @@
         "announcement_hzFx9q": {
           "type": "announcement",
           "settings": {
-            "icon": "heart",
+            "icon": "none",
             "icon_size": "medium",
             "custom_icon": "",
             "text": "Your Daily Confidence Starts With the Right Care",
