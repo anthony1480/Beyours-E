@@ -1,6 +1,1449 @@
+{% doc %}
+  @prompt
+    A magazine-style editorial layout, make it a small quiz where customers can answer 4 questions to decide which skin concern matters to them and then we automatically suggest products based on their concern , i want to be able to provide the choices for each question 
+{% enddoc %}
+{% assign ai_gen_id = block.id | replace: '_', '' | downcase %}
+
+{% style %}
+  .ai-skin-quiz-{{ ai_gen_id }} {
+    display: block;
+    width: {{ block.settings.desktop_width_percent }}%;
+    max-width: 100%;
+    margin: 0 auto;
+    background-color: {{ block.settings.background_color }};
+    padding: {{ block.settings.padding_vertical }}px {{ block.settings.padding_horizontal }}px;
+    border-radius: {{ block.settings.border_radius }}px;
+  }
+
+  .ai-skin-quiz__header-{{ ai_gen_id }} {
+    text-align: center;
+    margin-bottom: 40px;
+  }
+
+  .ai-skin-quiz__title-{{ ai_gen_id }} {
+    font-size: {{ block.settings.title_size }}px;
+    color: {{ block.settings.text_color }};
+    margin: 0 0 12px;
+    font-weight: 600;
+  }
+
+  .ai-skin-quiz__subtitle-{{ ai_gen_id }} {
+    font-size: {{ block.settings.subtitle_size }}px;
+    color: {{ block.settings.subtitle_color }};
+    margin: 0;
+    line-height: 1.5;
+  }
+
+  .ai-skin-quiz__progress-{{ ai_gen_id }} {
+    width: 100%;
+    height: 6px;
+    background-color: {{ block.settings.progress_bg }};
+    border-radius: 3px;
+    margin-bottom: 30px;
+    overflow: hidden;
+  }
+
+  .ai-skin-quiz__progress-bar-{{ ai_gen_id }} {
+    height: 100%;
+    background-color: {{ block.settings.progress_color }};
+    width: 0%;
+    transition: width 0.3s ease;
+  }
+
+  .ai-skin-quiz__question-{{ ai_gen_id }} {
+    display: none;
+    animation: ai-skin-quiz-fade-in-{{ ai_gen_id }} 0.4s ease;
+  }
+
+  .ai-skin-quiz__question-{{ ai_gen_id }}.active {
+    display: block;
+  }
+
+  @keyframes ai-skin-quiz-fade-in-{{ ai_gen_id }} {
+    from {
+      opacity: 0;
+      transform: translateY(10px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+  .ai-skin-quiz__question-title-{{ ai_gen_id }} {
+    font-size: {{ block.settings.question_size }}px;
+    color: {{ block.settings.text_color }};
+    margin: 0 0 24px;
+    font-weight: 600;
+    text-align: center;
+  }
+
+  .ai-skin-quiz__options-{{ ai_gen_id }} {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 16px;
+    margin-bottom: 30px;
+  }
+
+  .ai-skin-quiz__option-{{ ai_gen_id }} {
+    background-color: {{ block.settings.option_bg }};
+    border: 2px solid {{ block.settings.option_border }};
+    border-radius: {{ block.settings.option_radius }}px;
+    padding: 20px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    text-align: center;
+  }
+
+  .ai-skin-quiz__option-{{ ai_gen_id }}:hover {
+    border-color: {{ block.settings.accent_color }};
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  }
+
+  .ai-skin-quiz__option-{{ ai_gen_id }}.selected {
+    background-color: {{ block.settings.accent_color }};
+    border-color: {{ block.settings.accent_color }};
+    color: {{ block.settings.option_selected_text }};
+  }
+
+  .ai-skin-quiz__option-icon-{{ ai_gen_id }} {
+    font-size: 32px;
+    margin-bottom: 12px;
+  }
+
+  .ai-skin-quiz__option-text-{{ ai_gen_id }} {
+    font-size: {{ block.settings.option_size }}px;
+    font-weight: 500;
+  }
+
+  .ai-skin-quiz__navigation-{{ ai_gen_id }} {
+    display: flex;
+    justify-content: space-between;
+    gap: 16px;
+    margin-top: 30px;
+  }
+
+  .ai-skin-quiz__button-{{ ai_gen_id }} {
+    padding: 14px 32px;
+    border: none;
+    border-radius: {{ block.settings.button_radius }}px;
+    font-size: {{ block.settings.button_size }}px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.3s ease;
+  }
+
+  .ai-skin-quiz__button-{{ ai_gen_id }}:disabled {
+    opacity: 0.4;
+    cursor: not-allowed;
+  }
+
+  .ai-skin-quiz__button-back-{{ ai_gen_id }} {
+    background-color: transparent;
+    color: {{ block.settings.text_color }};
+    border: 2px solid {{ block.settings.option_border }};
+  }
+
+  .ai-skin-quiz__button-back-{{ ai_gen_id }}:hover:not(:disabled) {
+    background-color: {{ block.settings.option_bg }};
+  }
+
+  .ai-skin-quiz__button-next-{{ ai_gen_id }} {
+    background-color: {{ block.settings.accent_color }};
+    color: {{ block.settings.option_selected_text }};
+    flex: 1;
+  }
+
+  .ai-skin-quiz__button-next-{{ ai_gen_id }}:hover:not(:disabled) {
+    opacity: 0.9;
+  }
+
+  .ai-skin-quiz__results-{{ ai_gen_id }} {
+    display: none;
+    text-align: center;
+  }
+
+  .ai-skin-quiz__results-{{ ai_gen_id }}.active {
+    display: block;
+    animation: ai-skin-quiz-fade-in-{{ ai_gen_id }} 0.4s ease;
+  }
+
+  .ai-skin-quiz__results-title-{{ ai_gen_id }} {
+    font-size: {{ block.settings.results_title_size }}px;
+    color: {{ block.settings.text_color }};
+    margin: 0 0 16px;
+    font-weight: 600;
+  }
+
+  .ai-skin-quiz__results-concern-{{ ai_gen_id }} {
+    font-size: {{ block.settings.concern_size }}px;
+    color: {{ block.settings.accent_color }};
+    margin: 0 0 24px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+  }
+
+  .ai-skin-quiz__results-description-{{ ai_gen_id }} {
+    font-size: {{ block.settings.description_size }}px;
+    color: {{ block.settings.subtitle_color }};
+    margin: 0 0 40px;
+    line-height: 1.6;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .ai-skin-quiz__products-{{ ai_gen_id }} {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 24px;
+    margin-bottom: 30px;
+  }
+
+  .ai-skin-quiz__product-{{ ai_gen_id }} {
+    background-color: {{ block.settings.product_bg }};
+    border-radius: {{ block.settings.option_radius }}px;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    color: {{ block.settings.text_color }};
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+
+  .ai-skin-quiz__product-{{ ai_gen_id }}:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+  }
+
+  .ai-skin-quiz__product-image-{{ ai_gen_id }} {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    border-radius: {{ block.settings.option_radius }}px;
+    margin-bottom: 16px;
+  }
+
+  .ai-skin-quiz__product-placeholder-{{ ai_gen_id }} {
+    width: 100%;
+    height: 200px;
+    background-color: {{ block.settings.progress_bg }};
+    border-radius: {{ block.settings.option_radius }}px;
+    margin-bottom: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .ai-skin-quiz__product-placeholder-{{ ai_gen_id }} svg {
+    width: 80px;
+    height: 80px;
+  }
+
+  .ai-skin-quiz__product-title-{{ ai_gen_id }} {
+    font-size: {{ block.settings.product_title_size }}px;
+    font-weight: 600;
+    margin: 0 0 8px;
+  }
+
+  .ai-skin-quiz__product-price-{{ ai_gen_id }} {
+    font-size: {{ block.settings.product_price_size }}px;
+    color: {{ block.settings.accent_color }};
+    font-weight: 600;
+    margin-bottom: 12px;
+  }
+
+  .ai-skin-quiz__product-button-{{ ai_gen_id }} {
+    display: inline-block;
+    padding: 10px 24px;
+    background-color: {{ block.settings.accent_color }};
+    color: {{ block.settings.option_selected_text }};
+    border-radius: {{ block.settings.button_radius }}px;
+    font-size: 14px;
+    font-weight: 600;
+    text-decoration: none;
+    transition: opacity 0.3s ease;
+  }
+
+  .ai-skin-quiz__product-button-{{ ai_gen_id }}:hover {
+    opacity: 0.9;
+  }
+
+  .ai-skin-quiz__restart-{{ ai_gen_id }} {
+    background-color: transparent;
+    color: {{ block.settings.text_color }};
+    border: 2px solid {{ block.settings.option_border }};
+    padding: 12px 32px;
+    border-radius: {{ block.settings.button_radius }}px;
+    font-size: {{ block.settings.button_size }}px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.3s ease;
+  }
+
+  .ai-skin-quiz__restart-{{ ai_gen_id }}:hover {
+    background-color: {{ block.settings.option_bg }};
+  }
+
+  @media screen and (max-width: 749px) {
+    .ai-skin-quiz__title-{{ ai_gen_id }} {
+      font-size: {{ block.settings.title_size | times: 0.8 }}px;
+    }
+
+    .ai-skin-quiz__options-{{ ai_gen_id }} {
+      grid-template-columns: 1fr;
+    }
+
+    .ai-skin-quiz__products-{{ ai_gen_id }} {
+      grid-template-columns: 1fr;
+    }
+  }
+{% endstyle %}
+
+<skin-concern-quiz-{{ ai_gen_id }} class="ai-skin-quiz-{{ ai_gen_id }}" {{ block.shopify_attributes }}>
+  <div class="ai-skin-quiz__header-{{ ai_gen_id }}">
+    <h2 class="ai-skin-quiz__title-{{ ai_gen_id }}">{{ block.settings.quiz_title }}</h2>
+    <p class="ai-skin-quiz__subtitle-{{ ai_gen_id }}">{{ block.settings.quiz_subtitle }}</p>
+  </div>
+
+  <div class="ai-skin-quiz__progress-{{ ai_gen_id }}">
+    <div class="ai-skin-quiz__progress-bar-{{ ai_gen_id }}" data-progress></div>
+  </div>
+
+  <div class="ai-skin-quiz__questions-{{ ai_gen_id }}" data-questions>
+    <div class="ai-skin-quiz__question-{{ ai_gen_id }} active" data-question="1">
+      <h3 class="ai-skin-quiz__question-title-{{ ai_gen_id }}">{{ block.settings.question_1 }}</h3>
+      <div class="ai-skin-quiz__options-{{ ai_gen_id }}">
+        {% if block.settings.q1_option1_text != blank %}
+          <div class="ai-skin-quiz__option-{{ ai_gen_id }}" data-value="{{ block.settings.q1_option1_value }}" data-question="1">
+            <div class="ai-skin-quiz__option-icon-{{ ai_gen_id }}">{{ block.settings.q1_option1_icon }}</div>
+            <div class="ai-skin-quiz__option-text-{{ ai_gen_id }}">{{ block.settings.q1_option1_text }}</div>
+          </div>
+        {% endif %}
+        {% if block.settings.q1_option2_text != blank %}
+          <div class="ai-skin-quiz__option-{{ ai_gen_id }}" data-value="{{ block.settings.q1_option2_value }}" data-question="1">
+            <div class="ai-skin-quiz__option-icon-{{ ai_gen_id }}">{{ block.settings.q1_option2_icon }}</div>
+            <div class="ai-skin-quiz__option-text-{{ ai_gen_id }}">{{ block.settings.q1_option2_text }}</div>
+          </div>
+        {% endif %}
+        {% if block.settings.q1_option3_text != blank %}
+          <div class="ai-skin-quiz__option-{{ ai_gen_id }}" data-value="{{ block.settings.q1_option3_value }}" data-question="1">
+            <div class="ai-skin-quiz__option-icon-{{ ai_gen_id }}">{{ block.settings.q1_option3_icon }}</div>
+            <div class="ai-skin-quiz__option-text-{{ ai_gen_id }}">{{ block.settings.q1_option3_text }}</div>
+          </div>
+        {% endif %}
+        {% if block.settings.q1_option4_text != blank %}
+          <div class="ai-skin-quiz__option-{{ ai_gen_id }}" data-value="{{ block.settings.q1_option4_value }}" data-question="1">
+            <div class="ai-skin-quiz__option-icon-{{ ai_gen_id }}">{{ block.settings.q1_option4_icon }}</div>
+            <div class="ai-skin-quiz__option-text-{{ ai_gen_id }}">{{ block.settings.q1_option4_text }}</div>
+          </div>
+        {% endif %}
+      </div>
+    </div>
+
+    <div class="ai-skin-quiz__question-{{ ai_gen_id }}" data-question="2">
+      <h3 class="ai-skin-quiz__question-title-{{ ai_gen_id }}">{{ block.settings.question_2 }}</h3>
+      <div class="ai-skin-quiz__options-{{ ai_gen_id }}">
+        {% if block.settings.q2_option1_text != blank %}
+          <div class="ai-skin-quiz__option-{{ ai_gen_id }}" data-value="{{ block.settings.q2_option1_value }}" data-question="2">
+            <div class="ai-skin-quiz__option-icon-{{ ai_gen_id }}">{{ block.settings.q2_option1_icon }}</div>
+            <div class="ai-skin-quiz__option-text-{{ ai_gen_id }}">{{ block.settings.q2_option1_text }}</div>
+          </div>
+        {% endif %}
+        {% if block.settings.q2_option2_text != blank %}
+          <div class="ai-skin-quiz__option-{{ ai_gen_id }}" data-value="{{ block.settings.q2_option2_value }}" data-question="2">
+            <div class="ai-skin-quiz__option-icon-{{ ai_gen_id }}">{{ block.settings.q2_option2_icon }}</div>
+            <div class="ai-skin-quiz__option-text-{{ ai_gen_id }}">{{ block.settings.q2_option2_text }}</div>
+          </div>
+        {% endif %}
+        {% if block.settings.q2_option3_text != blank %}
+          <div class="ai-skin-quiz__option-{{ ai_gen_id }}" data-value="{{ block.settings.q2_option3_value }}" data-question="2">
+            <div class="ai-skin-quiz__option-icon-{{ ai_gen_id }}">{{ block.settings.q2_option3_icon }}</div>
+            <div class="ai-skin-quiz__option-text-{{ ai_gen_id }}">{{ block.settings.q2_option3_text }}</div>
+          </div>
+        {% endif %}
+        {% if block.settings.q2_option4_text != blank %}
+          <div class="ai-skin-quiz__option-{{ ai_gen_id }}" data-value="{{ block.settings.q2_option4_value }}" data-question="2">
+            <div class="ai-skin-quiz__option-icon-{{ ai_gen_id }}">{{ block.settings.q2_option4_icon }}</div>
+            <div class="ai-skin-quiz__option-text-{{ ai_gen_id }}">{{ block.settings.q2_option4_text }}</div>
+          </div>
+        {% endif %}
+      </div>
+    </div>
+
+    <div class="ai-skin-quiz__question-{{ ai_gen_id }}" data-question="3">
+      <h3 class="ai-skin-quiz__question-title-{{ ai_gen_id }}">{{ block.settings.question_3 }}</h3>
+      <div class="ai-skin-quiz__options-{{ ai_gen_id }}">
+        {% if block.settings.q3_option1_text != blank %}
+          <div class="ai-skin-quiz__option-{{ ai_gen_id }}" data-value="{{ block.settings.q3_option1_value }}" data-question="3">
+            <div class="ai-skin-quiz__option-icon-{{ ai_gen_id }}">{{ block.settings.q3_option1_icon }}</div>
+            <div class="ai-skin-quiz__option-text-{{ ai_gen_id }}">{{ block.settings.q3_option1_text }}</div>
+          </div>
+        {% endif %}
+        {% if block.settings.q3_option2_text != blank %}
+          <div class="ai-skin-quiz__option-{{ ai_gen_id }}" data-value="{{ block.settings.q3_option2_value }}" data-question="3">
+            <div class="ai-skin-quiz__option-icon-{{ ai_gen_id }}">{{ block.settings.q3_option2_icon }}</div>
+            <div class="ai-skin-quiz__option-text-{{ ai_gen_id }}">{{ block.settings.q3_option2_text }}</div>
+          </div>
+        {% endif %}
+        {% if block.settings.q3_option3_text != blank %}
+          <div class="ai-skin-quiz__option-{{ ai_gen_id }}" data-value="{{ block.settings.q3_option3_value }}" data-question="3">
+            <div class="ai-skin-quiz__option-icon-{{ ai_gen_id }}">{{ block.settings.q3_option3_icon }}</div>
+            <div class="ai-skin-quiz__option-text-{{ ai_gen_id }}">{{ block.settings.q3_option3_text }}</div>
+          </div>
+        {% endif %}
+        {% if block.settings.q3_option4_text != blank %}
+          <div class="ai-skin-quiz__option-{{ ai_gen_id }}" data-value="{{ block.settings.q3_option4_value }}" data-question="3">
+            <div class="ai-skin-quiz__option-icon-{{ ai_gen_id }}">{{ block.settings.q3_option4_icon }}</div>
+            <div class="ai-skin-quiz__option-text-{{ ai_gen_id }}">{{ block.settings.q3_option4_text }}</div>
+          </div>
+        {% endif %}
+      </div>
+    </div>
+
+    <div class="ai-skin-quiz__question-{{ ai_gen_id }}" data-question="4">
+      <h3 class="ai-skin-quiz__question-title-{{ ai_gen_id }}">{{ block.settings.question_4 }}</h3>
+      <div class="ai-skin-quiz__options-{{ ai_gen_id }}">
+        {% if block.settings.q4_option1_text != blank %}
+          <div class="ai-skin-quiz__option-{{ ai_gen_id }}" data-value="{{ block.settings.q4_option1_value }}" data-question="4">
+            <div class="ai-skin-quiz__option-icon-{{ ai_gen_id }}">{{ block.settings.q4_option1_icon }}</div>
+            <div class="ai-skin-quiz__option-text-{{ ai_gen_id }}">{{ block.settings.q4_option1_text }}</div>
+          </div>
+        {% endif %}
+        {% if block.settings.q4_option2_text != blank %}
+          <div class="ai-skin-quiz__option-{{ ai_gen_id }}" data-value="{{ block.settings.q4_option2_value }}" data-question="4">
+            <div class="ai-skin-quiz__option-icon-{{ ai_gen_id }}">{{ block.settings.q4_option2_icon }}</div>
+            <div class="ai-skin-quiz__option-text-{{ ai_gen_id }}">{{ block.settings.q4_option2_text }}</div>
+          </div>
+        {% endif %}
+        {% if block.settings.q4_option3_text != blank %}
+          <div class="ai-skin-quiz__option-{{ ai_gen_id }}" data-value="{{ block.settings.q4_option3_value }}" data-question="4">
+            <div class="ai-skin-quiz__option-icon-{{ ai_gen_id }}">{{ block.settings.q4_option3_icon }}</div>
+            <div class="ai-skin-quiz__option-text-{{ ai_gen_id }}">{{ block.settings.q4_option3_text }}</div>
+          </div>
+        {% endif %}
+        {% if block.settings.q4_option4_text != blank %}
+          <div class="ai-skin-quiz__option-{{ ai_gen_id }}" data-value="{{ block.settings.q4_option4_value }}" data-question="4">
+            <div class="ai-skin-quiz__option-icon-{{ ai_gen_id }}">{{ block.settings.q4_option4_icon }}</div>
+            <div class="ai-skin-quiz__option-text-{{ ai_gen_id }}">{{ block.settings.q4_option4_text }}</div>
+          </div>
+        {% endif %}
+      </div>
+    </div>
+  </div>
+
+  <div class="ai-skin-quiz__navigation-{{ ai_gen_id }}">
+    <button class="ai-skin-quiz__button-{{ ai_gen_id }} ai-skin-quiz__button-back-{{ ai_gen_id }}" data-back disabled>
+      Back
+    </button>
+    <button class="ai-skin-quiz__button-{{ ai_gen_id }} ai-skin-quiz__button-next-{{ ai_gen_id }}" data-next disabled>
+      Next
+    </button>
+  </div>
+
+  <div class="ai-skin-quiz__results-{{ ai_gen_id }}" data-results>
+    <h2 class="ai-skin-quiz__results-title-{{ ai_gen_id }}">{{ block.settings.results_title }}</h2>
+    <p class="ai-skin-quiz__results-concern-{{ ai_gen_id }}" data-concern-name></p>
+    <p class="ai-skin-quiz__results-description-{{ ai_gen_id }}" data-concern-description></p>
+
+    <div class="ai-skin-quiz__products-{{ ai_gen_id }}" data-products></div>
+
+    <button class="ai-skin-quiz__restart-{{ ai_gen_id }}" data-restart>
+      {{ block.settings.restart_text }}
+    </button>
+  </div>
+</skin-concern-quiz-{{ ai_gen_id }}>
+
+<script>
+  (function() {
+    class SkinConcernQuiz{{ ai_gen_id }} extends HTMLElement {
+      constructor() {
+        super();
+        this.currentQuestion = 1;
+        this.totalQuestions = 4;
+        this.answers = {};
+        this.concernMapping = {
+          '{{ block.settings.concern1_value }}': {
+            name: '{{ block.settings.concern1_name }}',
+            description: '{{ block.settings.concern1_description }}',
+            products: {{ block.settings.concern1_products | json }}
+          },
+          '{{ block.settings.concern2_value }}': {
+            name: '{{ block.settings.concern2_name }}',
+            description: '{{ block.settings.concern2_description }}',
+            products: {{ block.settings.concern2_products | json }}
+          },
+          '{{ block.settings.concern3_value }}': {
+            name: '{{ block.settings.concern3_name }}',
+            description: '{{ block.settings.concern3_description }}',
+            products: {{ block.settings.concern3_products | json }}
+          },
+          '{{ block.settings.concern4_value }}': {
+            name: '{{ block.settings.concern4_name }}',
+            description: '{{ block.settings.concern4_description }}',
+            products: {{ block.settings.concern4_products | json }}
+          },
+          '{{ block.settings.concern5_value }}': {
+            name: '{{ block.settings.concern5_name }}',
+            description: '{{ block.settings.concern5_description }}',
+            products: {{ block.settings.concern5_products | json }}
+          }
+        };
+      }
+
+      connectedCallback() {
+        this.progressBar = this.querySelector('[data-progress]');
+        this.backButton = this.querySelector('[data-back]');
+        this.nextButton = this.querySelector('[data-next]');
+        this.resultsSection = this.querySelector('[data-results]');
+        this.questionsSection = this.querySelector('[data-questions]');
+        this.restartButton = this.querySelector('[data-restart]');
+
+        this.setupEventListeners();
+        this.updateProgress();
+      }
+
+      setupEventListeners() {
+        const options = this.querySelectorAll('.ai-skin-quiz__option-{{ ai_gen_id }}');
+        options.forEach(option => {
+          option.addEventListener('click', () => this.selectOption(option));
+        });
+
+        this.backButton.addEventListener('click', () => this.goBack());
+        this.nextButton.addEventListener('click', () => this.goNext());
+        this.restartButton.addEventListener('click', () => this.restart());
+      }
+
+      selectOption(option) {
+        const questionNum = option.dataset.question;
+        const value = option.dataset.value;
+
+        const siblings = this.querySelectorAll(`[data-question="${questionNum}"].ai-skin-quiz__option-{{ ai_gen_id }}`);
+        siblings.forEach(sib => sib.classList.remove('selected'));
+
+        option.classList.add('selected');
+        this.answers[questionNum] = value;
+
+        this.nextButton.disabled = false;
+      }
+
+      goBack() {
+        if (this.currentQuestion > 1) {
+          this.currentQuestion--;
+          this.updateQuestionDisplay();
+          this.updateProgress();
+          this.updateButtons();
+        }
+      }
+
+      goNext() {
+        if (this.currentQuestion < this.totalQuestions) {
+          this.currentQuestion++;
+          this.updateQuestionDisplay();
+          this.updateProgress();
+          this.updateButtons();
+        } else {
+          this.showResults();
+        }
+      }
+
+      updateQuestionDisplay() {
+        const questions = this.querySelectorAll('.ai-skin-quiz__question-{{ ai_gen_id }}');
+        questions.forEach((q, index) => {
+          if (index + 1 === this.currentQuestion) {
+            q.classList.add('active');
+          } else {
+            q.classList.remove('active');
+          }
+        });
+      }
+
+      updateProgress() {
+        const progress = (this.currentQuestion / this.totalQuestions) * 100;
+        this.progressBar.style.width = progress + '%';
+      }
+
+      updateButtons() {
+        this.backButton.disabled = this.currentQuestion === 1;
+
+        const currentAnswer = this.answers[this.currentQuestion];
+        this.nextButton.disabled = !currentAnswer;
+
+        if (this.currentQuestion === this.totalQuestions) {
+          this.nextButton.textContent = 'See Results';
+        } else {
+          this.nextButton.textContent = 'Next';
+        }
+      }
+
+      determineConcern() {
+        const logic = '{{ block.settings.concern_logic }}';
+        
+        if (logic === 'q1') {
+          return this.answers['1'] || '{{ block.settings.concern1_value }}';
+        } else if (logic === 'q2') {
+          return this.answers['2'] || '{{ block.settings.concern1_value }}';
+        } else if (logic === 'q3') {
+          return this.answers['3'] || '{{ block.settings.concern1_value }}';
+        } else if (logic === 'q4') {
+          return this.answers['4'] || '{{ block.settings.concern1_value }}';
+        }
+        
+        return '{{ block.settings.concern1_value }}';
+      }
+
+      showResults() {
+        const concern = this.determineConcern();
+        const concernData = this.concernMapping[concern];
+
+        if (concernData && concernData.name) {
+          this.querySelector('[data-concern-name]').textContent = concernData.name;
+          this.querySelector('[data-concern-description]').textContent = concernData.description;
+          this.renderProducts(concernData.products);
+        } else {
+          this.querySelector('[data-concern-name]').textContent = 'Your Results';
+          this.querySelector('[data-concern-description]').textContent = 'Thank you for completing the quiz!';
+          this.renderProducts([]);
+        }
+
+        this.questionsSection.style.display = 'none';
+        this.querySelector('.ai-skin-quiz__navigation-{{ ai_gen_id }}').style.display = 'none';
+        this.querySelector('.ai-skin-quiz__progress-{{ ai_gen_id }}').style.display = 'none';
+        this.resultsSection.classList.add('active');
+      }
+
+      renderProducts(productHandles) {
+        const productsContainer = this.querySelector('[data-products]');
+        productsContainer.innerHTML = '';
+
+        if (!productHandles || productHandles.length === 0) {
+          productsContainer.innerHTML = '<p style="grid-column: 1/-1; text-align: center;">No products available for this concern yet.</p>';
+          return;
+        }
+
+        productHandles.forEach(handle => {
+          fetch(`/products/${handle}.js`)
+            .then(response => response.json())
+            .then(product => {
+              const productCard = this.createProductCard(product);
+              productsContainer.appendChild(productCard);
+            })
+            .catch(error => {
+              console.error('Error fetching product:', error);
+            });
+        });
+      }
+
+      createProductCard(product) {
+        const card = document.createElement('a');
+        card.href = `/products/${product.handle}`;
+        card.className = 'ai-skin-quiz__product-{{ ai_gen_id }}';
+
+        const imageHtml = product.featured_image
+          ? `<img src="${product.featured_image}" alt="${product.title}" class="ai-skin-quiz__product-image-{{ ai_gen_id }}" loading="lazy">`
+          : `<div class="ai-skin-quiz__product-placeholder-{{ ai_gen_id }}">${'{{ "image" | placeholder_svg_tag }}'}</div>`;
+
+        const price = (product.price / 100).toFixed(2);
+
+        card.innerHTML = `
+          ${imageHtml}
+          <h3 class="ai-skin-quiz__product-title-{{ ai_gen_id }}">${product.title}</h3>
+          <div class="ai-skin-quiz__product-price-{{ ai_gen_id }}">$${price}</div>
+          <span class="ai-skin-quiz__product-button-{{ ai_gen_id }}">View Product</span>
+        `;
+
+        return card;
+      }
+
+      restart() {
+        this.currentQuestion = 1;
+        this.answers = {};
+
+        const options = this.querySelectorAll('.ai-skin-quiz__option-{{ ai_gen_id }}');
+        options.forEach(option => option.classList.remove('selected'));
+
+        this.questionsSection.style.display = 'block';
+        this.querySelector('.ai-skin-quiz__navigation-{{ ai_gen_id }}').style.display = 'flex';
+        this.querySelector('.ai-skin-quiz__progress-{{ ai_gen_id }}').style.display = 'block';
+        this.resultsSection.classList.remove('active');
+
+        this.updateQuestionDisplay();
+        this.updateProgress();
+        this.updateButtons();
+      }
+    }
+
+    customElements.define('skin-concern-quiz-{{ ai_gen_id }}', SkinConcernQuiz{{ ai_gen_id }});
+  })();
+</script>
+
 {% schema %}
- {
-   "name": "AI_Block",
-   "tag": "shopify-ai-generated-block"
- }
+{
+  "name": "Skin concern quiz",
+  "settings": [
+    {
+      "type": "header",
+      "content": "Quiz content"
+    },
+    {
+      "type": "text",
+      "id": "quiz_title",
+      "label": "Title",
+      "default": "Find Your Perfect Routine"
+    },
+    {
+      "type": "text",
+      "id": "quiz_subtitle",
+      "label": "Subtitle",
+      "default": "Answer 4 quick questions to discover products tailored to your skin concerns"
+    },
+    {
+      "type": "header",
+      "content": "Question 1"
+    },
+    {
+      "type": "text",
+      "id": "question_1",
+      "label": "Question text",
+      "default": "What is your primary skin type?"
+    },
+    {
+      "type": "text",
+      "id": "q1_option1_text",
+      "label": "Option 1 text",
+      "default": "Dryness"
+    },
+    {
+      "type": "text",
+      "id": "q1_option1_icon",
+      "label": "Option 1 icon",
+      "default": "💧"
+    },
+    {
+      "type": "text",
+      "id": "q1_option1_value",
+      "label": "Option 1 value",
+      "default": "dryness"
+    },
+    {
+      "type": "text",
+      "id": "q1_option2_text",
+      "label": "Option 2 text",
+      "default": "Oiliness"
+    },
+    {
+      "type": "text",
+      "id": "q1_option2_icon",
+      "label": "Option 2 icon",
+      "default": "✨"
+    },
+    {
+      "type": "text",
+      "id": "q1_option2_value",
+      "label": "Option 2 value",
+      "default": "oiliness"
+    },
+    {
+      "type": "text",
+      "id": "q1_option3_text",
+      "label": "Option 3 text",
+      "default": "Sensitivity"
+    },
+    {
+      "type": "text",
+      "id": "q1_option3_icon",
+      "label": "Option 3 icon",
+      "default": "🌸"
+    },
+    {
+      "type": "text",
+      "id": "q1_option3_value",
+      "label": "Option 3 value",
+      "default": "sensitivity"
+    },
+    {
+      "type": "text",
+      "id": "q1_option4_text",
+      "label": "Option 4 text",
+      "default": "Combination"
+    },
+    {
+      "type": "text",
+      "id": "q1_option4_icon",
+      "label": "Option 4 icon",
+      "default": "🌿"
+    },
+    {
+      "type": "text",
+      "id": "q1_option4_value",
+      "label": "Option 4 value",
+      "default": "combination"
+    },
+    {
+      "type": "header",
+      "content": "Question 2"
+    },
+    {
+      "type": "text",
+      "id": "question_2",
+      "label": "Question text",
+      "default": "What is your main skin concern?"
+    },
+    {
+      "type": "text",
+      "id": "q2_option1_text",
+      "label": "Option 1 text",
+      "default": "Acne & Blemishes"
+    },
+    {
+      "type": "text",
+      "id": "q2_option1_icon",
+      "label": "Option 1 icon",
+      "default": "🎯"
+    },
+    {
+      "type": "text",
+      "id": "q2_option1_value",
+      "label": "Option 1 value",
+      "default": "acne"
+    },
+    {
+      "type": "text",
+      "id": "q2_option2_text",
+      "label": "Option 2 text",
+      "default": "Dark Spots"
+    },
+    {
+      "type": "text",
+      "id": "q2_option2_icon",
+      "label": "Option 2 icon",
+      "default": "☀️"
+    },
+    {
+      "type": "text",
+      "id": "q2_option2_value",
+      "label": "Option 2 value",
+      "default": "dark-spots"
+    },
+    {
+      "type": "text",
+      "id": "q2_option3_text",
+      "label": "Option 3 text",
+      "default": "Uneven Texture"
+    },
+    {
+      "type": "text",
+      "id": "q2_option3_icon",
+      "label": "Option 3 icon",
+      "default": "💎"
+    },
+    {
+      "type": "text",
+      "id": "q2_option3_value",
+      "label": "Option 3 value",
+      "default": "texture"
+    },
+    {
+      "type": "text",
+      "id": "q2_option4_text",
+      "label": "Option 4 text",
+      "default": "None"
+    },
+    {
+      "type": "text",
+      "id": "q2_option4_icon",
+      "label": "Option 4 icon",
+      "default": "✅"
+    },
+    {
+      "type": "text",
+      "id": "q2_option4_value",
+      "label": "Option 4 value",
+      "default": "none"
+    },
+    {
+      "type": "header",
+      "content": "Question 3"
+    },
+    {
+      "type": "text",
+      "id": "question_3",
+      "label": "Question text",
+      "default": "What result are you looking for?"
+    },
+    {
+      "type": "text",
+      "id": "q3_option1_text",
+      "label": "Option 1 text",
+      "default": "Brightening"
+    },
+    {
+      "type": "text",
+      "id": "q3_option1_icon",
+      "label": "Option 1 icon",
+      "default": "🌟"
+    },
+    {
+      "type": "text",
+      "id": "q3_option1_value",
+      "label": "Option 1 value",
+      "default": "brightening"
+    },
+    {
+      "type": "text",
+      "id": "q3_option2_text",
+      "label": "Option 2 text",
+      "default": "Deep Hydration"
+    },
+    {
+      "type": "text",
+      "id": "q3_option2_icon",
+      "label": "Option 2 icon",
+      "default": "💦"
+    },
+    {
+      "type": "text",
+      "id": "q3_option2_value",
+      "label": "Option 2 value",
+      "default": "hydration"
+    },
+    {
+      "type": "text",
+      "id": "q3_option3_text",
+      "label": "Option 3 text",
+      "default": "Smoothing"
+    },
+    {
+      "type": "text",
+      "id": "q3_option3_icon",
+      "label": "Option 3 icon",
+      "default": "🧴"
+    },
+    {
+      "type": "text",
+      "id": "q3_option3_value",
+      "label": "Option 3 value",
+      "default": "smoothing"
+    },
+    {
+      "type": "text",
+      "id": "q3_option4_text",
+      "label": "Option 4 text",
+      "default": "Soothing"
+    },
+    {
+      "type": "text",
+      "id": "q3_option4_icon",
+      "label": "Option 4 icon",
+      "default": "🍃"
+    },
+    {
+      "type": "text",
+      "id": "q3_option4_value",
+      "label": "Option 4 value",
+      "default": "soothing"
+    },
+    {
+      "type": "header",
+      "content": "Question 4"
+    },
+    {
+      "type": "text",
+      "id": "question_4",
+      "label": "Question text",
+      "default": "When do you prefer your skincare routine?"
+    },
+    {
+      "type": "text",
+      "id": "q4_option1_text",
+      "label": "Option 1 text",
+      "default": "Morning"
+    },
+    {
+      "type": "text",
+      "id": "q4_option1_icon",
+      "label": "Option 1 icon",
+      "default": "🌅"
+    },
+    {
+      "type": "text",
+      "id": "q4_option1_value",
+      "label": "Option 1 value",
+      "default": "morning"
+    },
+    {
+      "type": "text",
+      "id": "q4_option2_text",
+      "label": "Option 2 text",
+      "default": "Evening"
+    },
+    {
+      "type": "text",
+      "id": "q4_option2_icon",
+      "label": "Option 2 icon",
+      "default": "🌙"
+    },
+    {
+      "type": "text",
+      "id": "q4_option2_value",
+      "label": "Option 2 value",
+      "default": "evening"
+    },
+    {
+      "type": "text",
+      "id": "q4_option3_text",
+      "label": "Option 3 text",
+      "default": "Both"
+    },
+    {
+      "type": "text",
+      "id": "q4_option3_icon",
+      "label": "Option 3 icon",
+      "default": "⏰"
+    },
+    {
+      "type": "text",
+      "id": "q4_option3_value",
+      "label": "Option 3 value",
+      "default": "both"
+    },
+    {
+      "type": "text",
+      "id": "q4_option4_text",
+      "label": "Option 4 text"
+    },
+    {
+      "type": "text",
+      "id": "q4_option4_icon",
+      "label": "Option 4 icon"
+    },
+    {
+      "type": "text",
+      "id": "q4_option4_value",
+      "label": "Option 4 value"
+    },
+    {
+      "type": "header",
+      "content": "Results logic"
+    },
+    {
+      "type": "select",
+      "id": "concern_logic",
+      "label": "Determine concern based on",
+      "options": [
+        {
+          "value": "q1",
+          "label": "Question 1 answer"
+        },
+        {
+          "value": "q2",
+          "label": "Question 2 answer"
+        },
+        {
+          "value": "q3",
+          "label": "Question 3 answer"
+        },
+        {
+          "value": "q4",
+          "label": "Question 4 answer"
+        }
+      ],
+      "default": "q3"
+    },
+    {
+      "type": "header",
+      "content": "Concern 1"
+    },
+    {
+      "type": "text",
+      "id": "concern1_value",
+      "label": "Value",
+      "default": "brightening"
+    },
+    {
+      "type": "text",
+      "id": "concern1_name",
+      "label": "Name",
+      "default": "Brightening & Radiance"
+    },
+    {
+      "type": "text",
+      "id": "concern1_description",
+      "label": "Description",
+      "default": "Your skin needs products that enhance glow and even out tone for a radiant complexion."
+    },
+    {
+      "type": "product_list",
+      "id": "concern1_products",
+      "label": "Products",
+      "limit": 3
+    },
+    {
+      "type": "header",
+      "content": "Concern 2"
+    },
+    {
+      "type": "text",
+      "id": "concern2_value",
+      "label": "Value",
+      "default": "hydration"
+    },
+    {
+      "type": "text",
+      "id": "concern2_name",
+      "label": "Name",
+      "default": "Deep Hydration"
+    },
+    {
+      "type": "text",
+      "id": "concern2_description",
+      "label": "Description",
+      "default": "Your skin craves moisture. These products will help restore and maintain optimal hydration levels."
+    },
+    {
+      "type": "product_list",
+      "id": "concern2_products",
+      "label": "Products",
+      "limit": 3
+    },
+    {
+      "type": "header",
+      "content": "Concern 3"
+    },
+    {
+      "type": "text",
+      "id": "concern3_value",
+      "label": "Value",
+      "default": "acne"
+    },
+    {
+      "type": "text",
+      "id": "concern3_name",
+      "label": "Name",
+      "default": "Acne & Blemish Control"
+    },
+    {
+      "type": "text",
+      "id": "concern3_description",
+      "label": "Description",
+      "default": "Target breakouts and prevent future blemishes with these specially formulated products."
+    },
+    {
+      "type": "product_list",
+      "id": "concern3_products",
+      "label": "Products",
+      "limit": 3
+    },
+    {
+      "type": "header",
+      "content": "Concern 4"
+    },
+    {
+      "type": "text",
+      "id": "concern4_value",
+      "label": "Value",
+      "default": "sensitivity"
+    },
+    {
+      "type": "text",
+      "id": "concern4_name",
+      "label": "Name",
+      "default": "Sensitive Skin Care"
+    },
+    {
+      "type": "text",
+      "id": "concern4_description",
+      "label": "Description",
+      "default": "Gentle, soothing products designed to calm and protect sensitive skin."
+    },
+    {
+      "type": "product_list",
+      "id": "concern4_products",
+      "label": "Products",
+      "limit": 3
+    },
+    {
+      "type": "header",
+      "content": "Concern 5"
+    },
+    {
+      "type": "text",
+      "id": "concern5_value",
+      "label": "Value",
+      "default": "general"
+    },
+    {
+      "type": "text",
+      "id": "concern5_name",
+      "label": "Name",
+      "default": "Complete Skin Care"
+    },
+    {
+      "type": "text",
+      "id": "concern5_description",
+      "label": "Description",
+      "default": "A balanced routine to maintain healthy, beautiful skin."
+    },
+    {
+      "type": "product_list",
+      "id": "concern5_products",
+      "label": "Products",
+      "limit": 3
+    },
+    {
+      "type": "header",
+      "content": "Results"
+    },
+    {
+      "type": "text",
+      "id": "results_title",
+      "label": "Results title",
+      "default": "Your Personalized Recommendations"
+    },
+    {
+      "type": "text",
+      "id": "restart_text",
+      "label": "Restart button text",
+      "default": "Retake Quiz"
+    },
+    {
+      "type": "header",
+      "content": "Layout"
+    },
+    {
+      "type": "range",
+      "id": "desktop_width_percent",
+      "label": "Desktop width",
+      "min": 50,
+      "max": 100,
+      "step": 5,
+      "unit": "%",
+      "default": 100
+    },
+    {
+      "type": "range",
+      "id": "padding_vertical",
+      "label": "Padding vertical",
+      "min": 20,
+      "max": 100,
+      "step": 10,
+      "unit": "px",
+      "default": 60
+    },
+    {
+      "type": "range",
+      "id": "padding_horizontal",
+      "label": "Padding horizontal",
+      "min": 20,
+      "max": 100,
+      "step": 10,
+      "unit": "px",
+      "default": 40
+    },
+    {
+      "type": "range",
+      "id": "border_radius",
+      "label": "Border radius",
+      "min": 0,
+      "max": 40,
+      "step": 2,
+      "unit": "px",
+      "default": 12
+    },
+    {
+      "type": "range",
+      "id": "option_radius",
+      "label": "Option border radius",
+      "min": 0,
+      "max": 30,
+      "step": 2,
+      "unit": "px",
+      "default": 8
+    },
+    {
+      "type": "range",
+      "id": "button_radius",
+      "label": "Button border radius",
+      "min": 0,
+      "max": 40,
+      "step": 2,
+      "unit": "px",
+      "default": 26
+    },
+    {
+      "type": "header",
+      "content": "Colors"
+    },
+    {
+      "type": "color",
+      "id": "background_color",
+      "label": "Background",
+      "default": "#ffffff"
+    },
+    {
+      "type": "color",
+      "id": "text_color",
+      "label": "Text",
+      "default": "#212326"
+    },
+    {
+      "type": "color",
+      "id": "subtitle_color",
+      "label": "Subtitle",
+      "default": "#666666"
+    },
+    {
+      "type": "color",
+      "id": "accent_color",
+      "label": "Accent",
+      "default": "#62baab"
+    },
+    {
+      "type": "color",
+      "id": "option_bg",
+      "label": "Option background",
+      "default": "#ffffff"
+    },
+    {
+      "type": "color",
+      "id": "option_border",
+      "label": "Option border",
+      "default": "#d2d5d9"
+    },
+    {
+      "type": "color",
+      "id": "option_selected_text",
+      "label": "Selected option text",
+      "default": "#ffffff"
+    },
+    {
+      "type": "color",
+      "id": "product_bg",
+      "label": "Product background",
+      "default": "#f9f9f9"
+    },
+    {
+      "type": "color",
+      "id": "progress_bg",
+      "label": "Progress background",
+      "default": "#f3f3f3"
+    },
+    {
+      "type": "color",
+      "id": "progress_color",
+      "label": "Progress bar",
+      "default": "#62baab"
+    },
+    {
+      "type": "header",
+      "content": "Typography"
+    },
+    {
+      "type": "range",
+      "id": "title_size",
+      "label": "Title size",
+      "min": 20,
+      "max": 50,
+      "step": 2,
+      "unit": "px",
+      "default": 36
+    },
+    {
+      "type": "range",
+      "id": "subtitle_size",
+      "label": "Subtitle size",
+      "min": 12,
+      "max": 20,
+      "step": 1,
+      "unit": "px",
+      "default": 16
+    },
+    {
+      "type": "range",
+      "id": "question_size",
+      "label": "Question size",
+      "min": 16,
+      "max": 32,
+      "step": 2,
+      "unit": "px",
+      "default": 24
+    },
+    {
+      "type": "range",
+      "id": "option_size",
+      "label": "Option size",
+      "min": 12,
+      "max": 20,
+      "step": 1,
+      "unit": "px",
+      "default": 16
+    },
+    {
+      "type": "range",
+      "id": "button_size",
+      "label": "Button size",
+      "min": 12,
+      "max": 20,
+      "step": 1,
+      "unit": "px",
+      "default": 16
+    },
+    {
+      "type": "range",
+      "id": "results_title_size",
+      "label": "Results title size",
+      "min": 20,
+      "max": 44,
+      "step": 2,
+      "unit": "px",
+      "default": 32
+    },
+    {
+      "type": "range",
+      "id": "concern_size",
+      "label": "Concern name size",
+      "min": 14,
+      "max": 24,
+      "step": 1,
+      "unit": "px",
+      "default": 18
+    },
+    {
+      "type": "range",
+      "id": "description_size",
+      "label": "Description size",
+      "min": 12,
+      "max": 20,
+      "step": 1,
+      "unit": "px",
+      "default": 16
+    },
+    {
+      "type": "range",
+      "id": "product_title_size",
+      "label": "Product title size",
+      "min": 14,
+      "max": 22,
+      "step": 1,
+      "unit": "px",
+      "default": 18
+    },
+    {
+      "type": "range",
+      "id": "product_price_size",
+      "label": "Product price size",
+      "min": 14,
+      "max": 22,
+      "step": 1,
+      "unit": "px",
+      "default": 16
+    }
+  ],
+  "presets": [
+    {
+      "name": "Skin concern quiz"
+    }
+  ]
+}
 {% endschema %}
