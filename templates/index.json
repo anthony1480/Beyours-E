@@ -307,6 +307,7 @@
       "blocks": {
         "ai_gen_block_619edda_f4axVA": {
           "type": "ai_gen_block_619edda",
+          "disabled": true,
           "settings": {
             "quiz_title": "Find Your Perfect Routine",
             "quiz_subtitle": "Answer 4 quick questions to discover products tailored to your skin concerns",
