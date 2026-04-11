@@ -840,6 +840,125 @@
         "padding_bottom": 20
       }
     },
+    "collection_list_dqHFLg": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_3kV3ma": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "shaving-101",
+            "image_position": "center center"
+          }
+        },
+        "featured_collection_ANXXz4": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "dry-skin-hydration",
+            "image_position": "center center"
+          }
+        },
+        "featured_collection_mPhC9h": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "strawberry-skin",
+            "image_position": "center center"
+          }
+        },
+        "featured_collection_tg6RV4": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "body-treatments",
+            "image_position": "center center"
+          }
+        },
+        "featured_collection_CxCYzn": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "stretch-marks",
+            "image_position": "center center"
+          }
+        },
+        "featured_collection_WtgQx6": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "body-bikini-perfumes",
+            "image_position": "center center"
+          }
+        },
+        "featured_collection_Ft6qEb": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "body-scrubs",
+            "image_position": "center center"
+          }
+        },
+        "featured_collection_bhUxVp": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "daily-freshness",
+            "image_position": "center center"
+          }
+        },
+        "featured_collection_deh9pW": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "body-butters-hydration",
+            "image_position": "center center"
+          }
+        },
+        "featured_collection_FUJ4tF": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "frontpage",
+            "image_position": "center center"
+          }
+        },
+        "featured_collection_amcdyP": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "feminine-hygiene",
+            "image_position": "center center"
+          }
+        },
+        "featured_collection_MNPNRX": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "modern-man",
+            "image_position": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_3kV3ma",
+        "featured_collection_ANXXz4",
+        "featured_collection_mPhC9h",
+        "featured_collection_tg6RV4",
+        "featured_collection_CxCYzn",
+        "featured_collection_WtgQx6",
+        "featured_collection_Ft6qEb",
+        "featured_collection_bhUxVp",
+        "featured_collection_deh9pW",
+        "featured_collection_FUJ4tF",
+        "featured_collection_amcdyP",
+        "featured_collection_MNPNRX"
+      ],
+      "name": "t:sections.collection-list.presets.name",
+      "settings": {
+        "show_view_all": true,
+        "show_divider": false,
+        "columns_desktop": 2,
+        "heading": "",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "heading_tag": "h2",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "image_ratio": "landscape",
+        "apply_overlay": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "shop_the_look_Fd8hze": {
       "type": "shop-the-look",
       "blocks": {
@@ -950,35 +1069,6 @@
         "mobile_text_alignment": "left",
         "full_width": false,
         "show_divider": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "featured_collection_BeTk79": {
-      "type": "featured-collection",
-      "settings": {
-        "collection": "bundle-save",
-        "products_to_show": 4,
-        "horizontal_scroll": false,
-        "show_view_all": true,
-        "show_divider": false,
-        "heading": "Best Sellers",
-        "heading_size": "h1",
-        "heading_alignment": "left",
-        "heading_tag": "h2",
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "image_ratio": "adapt",
-        "image_position": "center center",
-        "enable_image_fill": true,
-        "show_secondary_image": false,
-        "secondary_image_max": 1,
-        "show_vendor": false,
-        "show_rating": true,
-        "show_quick_buy": true,
-        "enable_quick_view": true,
-        "enable_color_swatches": true,
-        "enable_countdown": true,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -1267,9 +1357,9 @@
     "featured-product",
     "17737597684c62b5c7",
     "scrolling_promotion_VxUAFL",
+    "collection_list_dqHFLg",
     "shop_the_look_Fd8hze",
     "images_with_text_cnmQXW",
-    "featured_collection_BeTk79",
     "scrolling_promotion_k9dVtt",
     "1773607819500f2ca2",
     "faq_8dnhCT",
