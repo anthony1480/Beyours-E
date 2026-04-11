@@ -37,10 +37,10 @@
             "heading_tag": "h2"
           }
         },
-        "text_D3KWxQ": {
+        "text_jzJCTq": {
           "type": "text",
           "settings": {
-            "text": "<p>Discover your favorites in a value pack.<br/><br/></p>",
+            "text": "<p>Discover your favorites in a value pack.<br/></p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -48,7 +48,7 @@
       },
       "block_order": [
         "heading_D9GM9a",
-        "text_D3KWxQ"
+        "text_jzJCTq"
       ],
       "name": "t:sections.image-banner.presets.name",
       "settings": {
