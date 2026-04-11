@@ -109,7 +109,7 @@
         "show_transparent_header_border": false,
         "transparent_text_color": "#212326",
         "enable_highlight": true,
-        "highlight_labels": "Booty Acne\nDaily Freshness",
+        "highlight_labels": "",
         "highlight_style": "marker",
         "mobile_logo_position": "center",
         "colors_text": "#212326",
