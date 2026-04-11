@@ -50,10 +50,9 @@
         "heading_tqqmKx",
         "text_bnk8Dk"
       ],
-      "disabled": true,
       "name": "t:sections.image-banner.presets.name",
       "settings": {
-        "image": "shopify://shop_images/shopify_website_banner_sale_3.png",
+        "image": "shopify://shop_images/Gentle_moment_using_the_intimate_wash.png",
         "image_position": "top center",
         "text_box_position": "top-center",
         "text_alignment": "center",
