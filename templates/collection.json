@@ -46,7 +46,7 @@
       "type": "main-collection-product-grid",
       "settings": {
         "products_per_row": 4,
-        "rows_per_page": 3,
+        "rows_per_page": 20,
         "columns_mobile": "2",
         "pagination": "paginated",
         "enable_sticky_facet": true,
@@ -357,10 +357,10 @@
             "corner_styling": "soft",
             "card_spacing": "medium",
             "header_text_color": "#62baab",
-            "star_and_reviewer_name_color": "#F9F9F9",
+            "star_and_reviewer_name_color": "#f9f9f9",
             "drop_shadow_color": "#62baab",
             "overlay_and_background_color": "#7dcfc0",
-            "content_color": "#F9F9F9",
+            "content_color": "#f9f9f9",
             "header_text": "From our customers",
             "show_average_rating": true
           }
