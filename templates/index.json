@@ -864,10 +864,10 @@
             "image_position": "center center"
           }
         },
-        "featured_collection_tg6RV4": {
+        "featured_collection_amcdyP": {
           "type": "featured_collection",
           "settings": {
-            "collection": "body-treatments",
+            "collection": "feminine-hygiene",
             "image_position": "center center"
           }
         },
@@ -913,13 +913,6 @@
             "image_position": "center center"
           }
         },
-        "featured_collection_amcdyP": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "feminine-hygiene",
-            "image_position": "center center"
-          }
-        },
         "featured_collection_MNPNRX": {
           "type": "featured_collection",
           "settings": {
@@ -932,14 +925,13 @@
         "featured_collection_3kV3ma",
         "featured_collection_ANXXz4",
         "featured_collection_mPhC9h",
-        "featured_collection_tg6RV4",
+        "featured_collection_amcdyP",
         "featured_collection_CxCYzn",
         "featured_collection_WtgQx6",
         "featured_collection_Ft6qEb",
         "featured_collection_bhUxVp",
         "featured_collection_deh9pW",
         "featured_collection_FUJ4tF",
-        "featured_collection_amcdyP",
         "featured_collection_MNPNRX"
       ],
       "name": "t:sections.collection-list.presets.name",
@@ -1322,6 +1314,7 @@
         "featured_collection_jir3Fx",
         "featured_collection_BHqeqF"
       ],
+      "disabled": true,
       "settings": {
         "show_view_all": true,
         "show_divider": false,
@@ -1359,11 +1352,11 @@
     "scrolling_promotion_VxUAFL",
     "collection_list_dqHFLg",
     "shop_the_look_Fd8hze",
+    "guarantees_XCeypM",
     "images_with_text_cnmQXW",
     "scrolling_promotion_k9dVtt",
     "1773607819500f2ca2",
     "faq_8dnhCT",
-    "guarantees_XCeypM",
     "collection_list_XdnJ8d"
   ]
 }
