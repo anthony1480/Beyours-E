@@ -50,6 +50,7 @@
         "heading_tqqmKx",
         "text_bnk8Dk"
       ],
+      "disabled": true,
       "name": "t:sections.image-banner.presets.name",
       "settings": {
         "image": "shopify://shop_images/Gentle_moment_using_the_intimate_wash.png",
