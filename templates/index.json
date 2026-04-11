@@ -843,17 +843,18 @@
     "collection_list_dqHFLg": {
       "type": "collection-list",
       "blocks": {
-        "featured_collection_3kV3ma": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "shaving-101",
-            "image_position": "center center"
-          }
-        },
         "featured_collection_ANXXz4": {
           "type": "featured_collection",
           "settings": {
             "collection": "dry-skin-hydration",
+            "image_position": "center center"
+          }
+        },
+        "featured_collection_VACa6U": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "body-treatments",
+            "image": "shopify://shop_images/Shopify_2.0_4.png",
             "image_position": "center center"
           }
         },
@@ -868,6 +869,13 @@
           "type": "featured_collection",
           "settings": {
             "collection": "feminine-hygiene",
+            "image_position": "center center"
+          }
+        },
+        "featured_collection_3kV3ma": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "shaving-101",
             "image_position": "center center"
           }
         },
@@ -922,10 +930,11 @@
         }
       },
       "block_order": [
-        "featured_collection_3kV3ma",
         "featured_collection_ANXXz4",
+        "featured_collection_VACa6U",
         "featured_collection_mPhC9h",
         "featured_collection_amcdyP",
+        "featured_collection_3kV3ma",
         "featured_collection_CxCYzn",
         "featured_collection_WtgQx6",
         "featured_collection_Ft6qEb",
@@ -1012,6 +1021,85 @@
         "enable_countdown": true,
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "guarantees_XCeypM": {
+      "type": "guarantees",
+      "blocks": {
+        "guarantee_t49Wpd": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "truck",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "title": "Fast Delivery",
+            "title_size": "h3",
+            "text": ""
+          }
+        },
+        "guarantee_BBxQbt": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "check_mark",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "title": "Tested & Approved by Dermatologists",
+            "title_size": "h3",
+            "text": ""
+          }
+        },
+        "guarantee_fgXaRj": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "phone",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "title": "24/7 Customer Support",
+            "title_size": "h3",
+            "text": ""
+          }
+        },
+        "guarantee_wyij4U": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "heart",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "title": "Guaranteed Results",
+            "title_size": "h3",
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "guarantee_t49Wpd",
+        "guarantee_BBxQbt",
+        "guarantee_fgXaRj",
+        "guarantee_wyij4U"
+      ],
+      "custom_css": [
+        "span {color: #ffffff;}",
+        "div {background-color: #fafafa;}"
+      ],
+      "settings": {
+        "layout": "default",
+        "column_alignment": "center",
+        "horizontal_content": false,
+        "full_width": false,
+        "show_divider": false,
+        "columns_desktop": 4,
+        "heading": "Our Guarantees",
+        "heading_size": "h1",
+        "heading_tag": "h2",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "use_custom_colors": true,
+        "colors_icon": "#9fe6d9",
+        "colors_text": "#1a1b18",
+        "colors_background": "#fafafa",
+        "gradient_background": "",
+        "padding_top": 20,
+        "padding_bottom": 32
       }
     },
     "images_with_text_cnmQXW": {
@@ -1181,85 +1269,6 @@
         "padding_bottom": 36
       }
     },
-    "guarantees_XCeypM": {
-      "type": "guarantees",
-      "blocks": {
-        "guarantee_t49Wpd": {
-          "type": "guarantee",
-          "settings": {
-            "icon": "truck",
-            "icon_size": "medium",
-            "custom_icon": "",
-            "title": "Fast Delivery",
-            "title_size": "h3",
-            "text": ""
-          }
-        },
-        "guarantee_BBxQbt": {
-          "type": "guarantee",
-          "settings": {
-            "icon": "check_mark",
-            "icon_size": "medium",
-            "custom_icon": "",
-            "title": "Tested & Approved by Dermatologists",
-            "title_size": "h3",
-            "text": ""
-          }
-        },
-        "guarantee_fgXaRj": {
-          "type": "guarantee",
-          "settings": {
-            "icon": "phone",
-            "icon_size": "medium",
-            "custom_icon": "",
-            "title": "24/7 Customer Support",
-            "title_size": "h3",
-            "text": ""
-          }
-        },
-        "guarantee_wyij4U": {
-          "type": "guarantee",
-          "settings": {
-            "icon": "heart",
-            "icon_size": "medium",
-            "custom_icon": "",
-            "title": "Guaranteed Results",
-            "title_size": "h3",
-            "text": ""
-          }
-        }
-      },
-      "block_order": [
-        "guarantee_t49Wpd",
-        "guarantee_BBxQbt",
-        "guarantee_fgXaRj",
-        "guarantee_wyij4U"
-      ],
-      "custom_css": [
-        "span {color: #ffffff;}",
-        "div {background-color: #fafafa;}"
-      ],
-      "settings": {
-        "layout": "default",
-        "column_alignment": "center",
-        "horizontal_content": false,
-        "full_width": false,
-        "show_divider": false,
-        "columns_desktop": 4,
-        "heading": "Our Guarantees",
-        "heading_size": "h1",
-        "heading_tag": "h2",
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "use_custom_colors": true,
-        "colors_icon": "#9fe6d9",
-        "colors_text": "#1a1b18",
-        "colors_background": "#fafafa",
-        "gradient_background": "",
-        "padding_top": 20,
-        "padding_bottom": 32
-      }
-    },
     "collection_list_XdnJ8d": {
       "type": "collection-list",
       "blocks": {
@@ -1314,7 +1323,6 @@
         "featured_collection_jir3Fx",
         "featured_collection_BHqeqF"
       ],
-      "disabled": true,
       "settings": {
         "show_view_all": true,
         "show_divider": false,
