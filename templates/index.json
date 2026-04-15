@@ -568,7 +568,7 @@
       ],
       "name": "t:sections.image-with-text-overlay.presets.name",
       "settings": {
-        "image": "shopify://shop_images/Gentle_moment_using_the_intimate_wash.png",
+        "image": "shopify://shop_images/the-essentials-kit-booty-bump-free-shaves-and-all-day-freshness-down-there-3012998.png",
         "image_position": "center center",
         "text_box_position": "flex-start",
         "text_alignment": "left",
@@ -576,7 +576,7 @@
         "full_width": true,
         "show_divider": false,
         "image_behavior": "ambient",
-        "image_mobile": "shopify://shop_images/Gentle_moment_using_the_intimate_wash.png",
+        "image_mobile": "shopify://shop_images/the-essentials-kit-booty-bump-free-shaves-and-all-day-freshness-down-there-3012998.png",
         "mobile_text_box_position": "image_first",
         "mobile_text_alignment": "center",
         "mobile_image_ratio": "auto",
@@ -854,7 +854,6 @@
           "type": "featured_collection",
           "settings": {
             "collection": "body-treatments",
-            "image": "shopify://shop_images/Shopify_2.0_4.png",
             "image_position": "center center"
           }
         },
