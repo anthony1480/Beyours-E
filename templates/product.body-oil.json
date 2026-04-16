@@ -78,7 +78,7 @@
           "settings": {
             "icon": "none",
             "heading": "Description",
-            "keep_open": false
+            "keep_open": true
           }
         },
         "collapsible_tab_pn6cca": {
@@ -215,7 +215,7 @@
         "heading_dpeidU": {
           "type": "heading",
           "settings": {
-            "heading": "Special Signature Scents",
+            "heading": "\"IT GIRLS\" Use  a Body Oil",
             "heading_size": "h1",
             "heading_tag": "h2"
           }
@@ -223,7 +223,7 @@
         "subheading_c3XRmH": {
           "type": "subheading",
           "settings": {
-            "subheading": "3 Signature Scent",
+            "subheading": "3 Signature Scents",
             "subheading_size": "h5",
             "secondary_color": false
           }
@@ -231,7 +231,7 @@
         "text_4DQrEY": {
           "type": "text",
           "settings": {
-            "text": "<p>Body Splash is made to give you a signature scent and make you <strong>different</strong> from everyone around. It also has a long lasting scent of up to <strong>16 hours!</strong></p>",
+            "text": "<p><br/>Our Scented Body Oils are the perfect blend of glow, hydration, and long-lasting fragrance. They deeply moisturize the skin while leaving behind a beautiful scent that lingers all day, so you smell as good as you feel. Apply daily for soft, nourished skin, or use before the gym so even through your workout, you still smell fresh and amazing.<br/><br/></p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -243,7 +243,7 @@
         "text_4DQrEY"
       ],
       "settings": {
-        "image": "shopify://shop_images/91.png",
+        "image": "shopify://shop_images/Untitled_design_9.png",
         "image_position": "center center",
         "layout": "text_first",
         "text_box_position": "middle",
@@ -293,81 +293,6 @@
         "colors_overlay_opacity": 0,
         "padding_top": 0,
         "padding_bottom": 0
-      }
-    },
-    "images_with_text_t3GnhX": {
-      "type": "images-with-text",
-      "blocks": {
-        "heading_gyHQzi": {
-          "type": "heading",
-          "settings": {
-            "heading": "\"WOW, you smell so good\"",
-            "heading_size": "h1",
-            "heading_tag": "h2"
-          }
-        },
-        "text_pMEzbX": {
-          "type": "text",
-          "settings": {
-            "text": "<p>So many customers have “complained” about hearing this phrase too often—that’s exactly why they love us.</p>",
-            "text_size": "typeset2",
-            "secondary_color": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_gyHQzi",
-        "text_pMEzbX"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/91.png",
-        "image_2": "shopify://shop_images/body-splash-150ml-6863444.png",
-        "image_3": "shopify://shop_images/body-splash-150ml-4349030.png",
-        "image_4": "shopify://shop_images/body-splash-150ml-9736227.png",
-        "image_ratio": "portrait",
-        "image_position": "center center",
-        "layout": "image_first",
-        "text_box_position": "middle",
-        "text_alignment": "left",
-        "mobile_text_alignment": "left",
-        "full_width": false,
-        "show_divider": false,
-        "padding_top": 32,
-        "padding_bottom": 36
-      }
-    },
-    "scrolling_promotion_UiKVGc": {
-      "type": "scrolling-promotion",
-      "blocks": {
-        "announcement_UQ6ENY": {
-          "type": "announcement",
-          "settings": {
-            "icon": "none",
-            "icon_size": "medium",
-            "custom_icon": "",
-            "text": "OVER 15,000+ HAPPY CUSTOMERS",
-            "text_size": 16,
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "announcement_UQ6ENY"
-      ],
-      "custom_css": [
-        ".promotion__text {font-weight: 900;}"
-      ],
-      "settings": {
-        "direction": "left",
-        "speed": 1.6,
-        "show_divider": false,
-        "use_custom_colors": true,
-        "colors_icon": "#a94759",
-        "colors_text": "#ffffff",
-        "colors_background": "#9fded2",
-        "gradient_background": "",
-        "padding_top": 20,
-        "padding_bottom": 20
       }
     },
     "guarantees": {
@@ -494,6 +419,40 @@
         "padding_bottom": 20
       }
     },
+    "scrolling_promotion_UiKVGc": {
+      "type": "scrolling-promotion",
+      "blocks": {
+        "announcement_UQ6ENY": {
+          "type": "announcement",
+          "settings": {
+            "icon": "none",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "text": "OVER 15,000+ HAPPY CUSTOMERS",
+            "text_size": 16,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "announcement_UQ6ENY"
+      ],
+      "custom_css": [
+        ".promotion__text {font-weight: 900;}"
+      ],
+      "settings": {
+        "direction": "left",
+        "speed": 1.6,
+        "show_divider": false,
+        "use_custom_colors": true,
+        "colors_icon": "#a94759",
+        "colors_text": "#ffffff",
+        "colors_background": "#9fded2",
+        "gradient_background": "",
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
     "1717958248b0b4020b": {
       "type": "apps",
       "blocks": {
@@ -615,7 +574,6 @@
     "scrolling-promotion",
     "image_with_text_beiAjz",
     "image_banner_XAz9Uz",
-    "images_with_text_t3GnhX",
     "guarantees",
     "testimonials_zBJVKg",
     "scrolling_promotion_UiKVGc",
