@@ -38,14 +38,6 @@
             "hide_when_no_reviews": true
           }
         },
-        "price": {
-          "type": "price",
-          "settings": {
-            "price_size": "medium",
-            "show_badges": true,
-            "sale_badge_basis": "auto"
-          }
-        },
         "custom_liquid_8fkWzA": {
           "type": "custom_liquid",
           "settings": {
@@ -65,6 +57,34 @@
             "size_chart": ""
           }
         },
+        "price": {
+          "type": "price",
+          "settings": {
+            "price_size": "medium",
+            "show_badges": true,
+            "sale_badge_basis": "auto"
+          }
+        },
+        "rating_QPWfAC": {
+          "type": "rating",
+          "settings": {}
+        },
+        "text_7AgJGe": {
+          "type": "text",
+          "settings": {
+            "icon": "heart",
+            "text": "Are you ready to turn heads?",
+            "text_style": "body"
+          }
+        },
+        "text_xXh6K3": {
+          "type": "text",
+          "settings": {
+            "icon": "none",
+            "text": "Shop the duo that will keep you smelling good all day",
+            "text_style": "subtitle"
+          }
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -76,8 +96,8 @@
         "collapsible_tab_mJNkMU": {
           "type": "collapsible_tab",
           "settings": {
-            "icon": "none",
-            "heading": "Description:",
+            "icon": "question_mark",
+            "heading": "What's Included",
             "content": "<p>Say hello to your next obsession. The <strong>Make a Statement Duo</strong> has everything you need to turn heads: a <strong>Body Splash (150ml)</strong> and a <strong>Hair Perfume (50ml)</strong>. Both products come in stunning, <strong>Instagram-worthy packaging!</strong></p>",
             "page": "",
             "custom_liquid": "",
@@ -87,8 +107,8 @@
         "collapsible_tab_iNRBzU": {
           "type": "collapsible_tab",
           "settings": {
-            "icon": "none",
-            "heading": "Choose your vibe",
+            "icon": "heart",
+            "heading": "Choose your signature scent",
             "content": "<p><strong>🥥🌴Coco Sunset: </strong>A warm blend of creamy coconut and rich vanilla, for that \"vacay in a bottle\" feel.</p><p><strong>🍓🍒After Dark: </strong>Sweet red berries with a touch of mystery designed for unforgettable nights.</p><p><strong>🌙💙Under the Moonlight:</strong> A soft, timeless white musk that’s effortlessly elegant.</p>",
             "page": "",
             "custom_liquid": "",
@@ -125,9 +145,12 @@
       "block_order": [
         "title",
         "fera_product_reviews_summary_GjwhcP",
-        "price",
         "custom_liquid_8fkWzA",
         "variant_picker_nGMbhe",
+        "price",
+        "rating_QPWfAC",
+        "text_7AgJGe",
+        "text_xXh6K3",
         "buy_buttons",
         "collapsible_tab_mJNkMU",
         "collapsible_tab_iNRBzU",
