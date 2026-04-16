@@ -11,9 +11,42 @@
   "sections": {
     "empty-space": {
       "type": "empty-space",
+      "disabled": true,
       "settings": {
         "desktop_height": 36,
         "mobile_height": 16
+      }
+    },
+    "scrolling_promotion_FDe7Cf": {
+      "type": "scrolling-promotion",
+      "blocks": {
+        "announcement_diLhT3": {
+          "type": "announcement",
+          "settings": {
+            "icon": "none",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "text": "Get the full EBJ experience",
+            "text_size": 20,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "announcement_diLhT3"
+      ],
+      "name": "t:sections.scrolling-promotion.presets.name",
+      "settings": {
+        "direction": "left",
+        "speed": 1.6,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_icon": "#ffffff",
+        "colors_text": "#ffffff",
+        "colors_background": "#62baab",
+        "gradient_background": "",
+        "padding_top": 20,
+        "padding_bottom": 20
       }
     },
     "main": {
@@ -757,6 +790,7 @@
   },
   "order": [
     "empty-space",
+    "scrolling_promotion_FDe7Cf",
     "main",
     "image_banner_jy3yGP",
     "scrolling-promotion",
