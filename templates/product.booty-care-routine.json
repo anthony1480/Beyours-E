@@ -261,13 +261,21 @@
         "direction": "left",
         "speed": 1.6,
         "show_divider": false,
-        "use_custom_colors": false,
+        "use_custom_colors": true,
         "colors_icon": "#ffffff",
         "colors_text": "#ffffff",
-        "colors_background": "#62baab",
+        "colors_background": "#7dcfc0",
         "gradient_background": "",
         "padding_top": 20,
         "padding_bottom": 20
+      }
+    },
+    "empty_space_iL9C9H": {
+      "type": "empty-space",
+      "name": "t:sections.empty-space.presets.name",
+      "settings": {
+        "desktop_height": 40,
+        "mobile_height": 28
       }
     },
     "1771081364ad78bc64": {
@@ -299,6 +307,14 @@
         "ai_gen_block_acc883f_KCF4hk"
       ],
       "settings": {}
+    },
+    "empty_space_MNhnVf": {
+      "type": "empty-space",
+      "name": "t:sections.empty-space.presets.name",
+      "settings": {
+        "desktop_height": 40,
+        "mobile_height": 28
+      }
     },
     "scrolling_promotion_UiKVGc": {
       "type": "scrolling-promotion",
@@ -334,53 +350,26 @@
         "padding_bottom": 20
       }
     },
+    "video_KEPUhk": {
+      "type": "video",
+      "name": "t:sections.video.presets.name",
+      "settings": {
+        "enable_video_looping": false,
+        "video": "shopify://files/videos/booty care routine - product video 2 .MOV",
+        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "description": "",
+        "full_width": false,
+        "show_divider": false,
+        "heading": "Fun. Simple. Effective",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "heading_tag": "h2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "17763563799a42008c": {
       "type": "_blocks",
-      "blocks": {
-        "ai_gen_block_a41000c_GyHeJb": {
-          "type": "ai_gen_block_a41000c",
-          "settings": {
-            "video": "shopify://files/videos/booty care routine - product video 2 .MOV",
-            "video_width": 70,
-            "video_border_radius": 14,
-            "autoplay": true,
-            "loop": true,
-            "muted": true,
-            "controls": false,
-            "heading": "Fun. Simple. Effective",
-            "text": "<p>Apply Peach Polish Booty Scrub + Bye Bye Acne Booty Mask 3 times per week. <br/>Use the Skin Perfecting Serum once daily on non-scrub days. </p>",
-            "button_label": "Learn more",
-            "button_link": "",
-            "page_width": 1600,
-            "gap": 60,
-            "content_gap": 20,
-            "padding_top": 60,
-            "padding_bottom": 60,
-            "padding_horizontal": 20,
-            "mobile_padding_top": 40,
-            "mobile_padding_bottom": 40,
-            "mobile_padding_horizontal": 20,
-            "background_color": "#ffffff",
-            "heading_color": "#212326",
-            "text_color": "#212326",
-            "heading_size": 36,
-            "text_size": 16,
-            "mobile_heading_size": 28,
-            "mobile_text_size": 14,
-            "button_background": "#62baab",
-            "button_hover_background": "#4da89a",
-            "button_text_color": "#ffffff",
-            "button_text_size": 14,
-            "button_padding_vertical": 12,
-            "button_padding_horizontal": 24,
-            "button_border_radius": 26
-          },
-          "blocks": {}
-        }
-      },
-      "block_order": [
-        "ai_gen_block_a41000c_GyHeJb"
-      ],
       "settings": {}
     },
     "image_with_text_beiAjz": {
@@ -885,8 +874,11 @@
     "scrolling_promotion_4f37UP",
     "main",
     "scrolling_promotion_dFUpib",
+    "empty_space_iL9C9H",
     "1771081364ad78bc64",
+    "empty_space_MNhnVf",
     "scrolling_promotion_UiKVGc",
+    "video_KEPUhk",
     "17763563799a42008c",
     "image_with_text_beiAjz",
     "scrolling-promotion",
