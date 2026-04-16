@@ -417,7 +417,7 @@
         "show_divider": false,
         "image_behavior": "none",
         "image_mobile": "shopify://shop_images/booty-care-routine-acne-hyperpigmentation-treatment-5141869.png",
-        "mobile_layout": "image_first",
+        "mobile_layout": "text_first",
         "mobile_text_alignment": "left",
         "mobile_image_ratio": "adapt",
         "enable_video_looping": false,
