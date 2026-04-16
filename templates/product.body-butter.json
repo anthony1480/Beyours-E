@@ -374,7 +374,7 @@
         "text_4DQrEY"
       ],
       "settings": {
-        "image": "shopify://shop_images/body-butter-whipped-scented-moisturizer-200ml-7392057.png",
+        "image": "shopify://shop_images/body_butter_-_gif.gif",
         "image_position": "center center",
         "layout": "text_first",
         "text_box_position": "middle",
@@ -384,6 +384,7 @@
         "full_width": false,
         "show_divider": false,
         "image_behavior": "none",
+        "image_mobile": "shopify://shop_images/body_butter_-_gif.gif",
         "mobile_layout": "image_first",
         "mobile_text_alignment": "left",
         "mobile_image_ratio": "adapt",
