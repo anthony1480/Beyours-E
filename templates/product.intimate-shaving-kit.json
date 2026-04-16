@@ -42,7 +42,7 @@
           "type": "text",
           "settings": {
             "icon": "none",
-            "text": "Get your Essentials by Jay favorites now in one bundle!",
+            "text": "Is shaving causing you trauma?",
             "text_style": "body"
           }
         },
@@ -50,7 +50,7 @@
           "type": "text",
           "settings": {
             "icon": "none",
-            "text": "This set includes 7 full-sized products: Daily Intimate Wash, Bikini Perfume, Peach Polish Booty Scrub, Bye Bye Acne Booty Mask, Peach Polish Skin Perfecting Serum, Silky Smooth Shaving Gel and the Silky Smooth Aftershave Oil.",
+            "text": "If you haven’t been following a shaving routine, you know the struggle is real. Irritation, bumps, razor burn, and a shave that never feels smooth enough. The Intimate Shaving Kit was created to change that with a simple routine designed to give you a closer, smoother shave with less irritation and skin discomfort.",
             "text_style": "subtitle"
           }
         },
@@ -98,7 +98,7 @@
           "type": "text",
           "settings": {
             "icon": "check_mark",
-            "text": "Get the full EBJ experience",
+            "text": "Get a smooth shave. No more Irritation",
             "text_style": "body"
           }
         },
@@ -110,18 +110,6 @@
             "show_gift_card_recipient": false
           }
         },
-        "collapsible_tab_CdRjGG": {
-          "type": "collapsible_tab",
-          "disabled": true,
-          "settings": {
-            "icon": "none",
-            "heading": "Usage Instructions",
-            "content": "<p>On dry to damp skin, rub on to desired area in circular motions until smooth. Rinse or wipe off. Use 2 to 3 times per week and follow with Bye Bye Acne Booty Mask for best results. For external use only. <br/></p>",
-            "page": "",
-            "custom_liquid": "",
-            "keep_open": false
-          }
-        },
         "collapsible_description_BTC9yk": {
           "type": "collapsible_description",
           "settings": {
@@ -130,13 +118,34 @@
             "keep_open": true
           }
         },
+        "collapsible_tab_CdRjGG": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "question_mark",
+            "heading": "Usage Instructions",
+            "content": "<p>Step 1: Apply the <strong>scrub</strong> on dry skin, massage gently, then rinse and pat dry.<br/>Step 2: On damp skin, apply a generous layer of the <strong>shaving gel</strong> and shave using a clean, sharp razor. Rinse thoroughly.<br/>Step 3: On clean, dry skin, apply the <strong>aftershave oil</strong> and allow it to fully absorb.</p><p>Use during every shaving session for best results.</p>",
+            "page": "",
+            "custom_liquid": "",
+            "keep_open": false
+          }
+        },
         "collapsible_tab_LNMEj6": {
           "type": "collapsible_tab",
-          "disabled": true,
           "settings": {
             "icon": "none",
-            "heading": "Ingredients",
-            "content": "<p>Sucrose, Aqua, Sodium Chloride, Glycerine,Cocamidopropyl Betaine, Propylene Glycol, Titanium Dioxide, Glyceryl Stearate, Cetyl Alcohol, Stearic Acid, Butyrospermum Parkii, Cocos Nucifera (Coconut) Oil, Vitis Vinifera Seed Oil, Linum Usitatissimum Seed Oil, Phenoxyethanol (and) Caprylyl Glycol, Parfum.</p>",
+            "heading": "What's Included",
+            "content": "<p><strong>Prep – Peach Polish Booty Scrub</strong><br/>Exfoliates and clears pores for a smoother, closer shave. Use before every shave to buff away dead skin and reduce the chance of ingrowns.</p><p><strong>Protect – Skin Smoother Shaving Gel</strong><br/>A translucent, cushiony gel that allows you to see what you're doing while shaving. It creates a silky barrier to help prevent cuts, razor burn, and irritation.</p><p><strong>Restore – Aftershave Oil</strong><br/>Calms and moisturizes the skin post-shave while helping prevent redness and ingrown hairs. Absorbs quickly and leaves skin feeling soft, not greasy.</p>",
+            "page": "",
+            "custom_liquid": "",
+            "keep_open": false
+          }
+        },
+        "collapsible_tab_p9YYL3": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "heart",
+            "heading": "FAQs",
+            "content": "<p><strong>Is this kit suitable for sensitive skin?</strong><br/>Yes—each product is formulated with gentle, nourishing ingredients, making it safe for even the most sensitive areas.</p><p><strong>How does this kit help prevent shave bumps and ingrown hairs?</strong><br/>The scrub clears buildup and unclogs pores, the gel cushions the skin to prevent irritation, and the aftershave oil soothes and hydrates to reduce inflammation and ingrowns.</p><p><strong>How often should I use the products?</strong><br/>Use the full 3-step routine every time you shave. For smoother skin long-term, exfoliate 2–3 times a week and apply the oil daily—even on non-shaving days.</p><p><strong>Any special tips?</strong><br/>Consistency is key. Stick to the routine, and always shave with a clean, sharp razor. Your skin will thank you.</p>",
             "page": "",
             "custom_liquid": "",
             "keep_open": false
@@ -161,9 +170,10 @@
         "inventory_status",
         "text_aBejke",
         "buy_buttons",
-        "collapsible_tab_CdRjGG",
         "collapsible_description_BTC9yk",
+        "collapsible_tab_CdRjGG",
         "collapsible_tab_LNMEj6",
+        "collapsible_tab_p9YYL3",
         "sticky_cart"
       ],
       "custom_css": [
@@ -299,6 +309,7 @@
         "text_bLHQf9"
       ],
       "settings": {
+        "image": "shopify://shop_images/shaving_gel_ad_-_story_2.png",
         "image_position": "center center",
         "layout": "text_first",
         "text_box_position": "middle",
@@ -323,117 +334,22 @@
         "padding_bottom": 36
       }
     },
-    "image_with_text_beiAjz": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_dpeidU": {
-          "type": "heading",
-          "settings": {
-            "heading": "Why You'll Love this Kit",
-            "heading_size": "h1",
-            "heading_tag": "h2"
-          }
-        },
-        "subheading_c3XRmH": {
-          "type": "subheading",
-          "settings": {
-            "subheading": "Specifically Curated for Clear, Smooth Skin",
-            "subheading_size": "h5",
-            "secondary_color": false
-          }
-        },
-        "text_4DQrEY": {
-          "type": "text",
-          "settings": {
-            "text": "<p><br/>Our Essentials Kit delivers complete, targeted care for your most sensitive areas. Combining the Booty Care Routine, feminine hygiene essentials, and an intimate shaving kit, it helps prevent body acne, ingrown hairs, irritation, and dryness while keeping skin smooth, comfortable, and balanced. Thoughtfully formulated for all skin types and tested for visible, reliable results.<br/><br/></p>",
-            "text_size": "typeset2",
-            "secondary_color": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_dpeidU",
-        "subheading_c3XRmH",
-        "text_4DQrEY"
-      ],
+    "video_Wr8Cmk": {
+      "type": "video",
+      "name": "t:sections.video.presets.name",
       "settings": {
-        "image": "shopify://shop_images/the-essentials-kit-booty-bump-free-shaves-and-all-day-freshness-down-there-3394702.png",
-        "image_position": "center center",
-        "layout": "text_first",
-        "text_box_position": "middle",
-        "text_alignment": "left",
-        "image_ratio": "adapt",
-        "enlarge_content": false,
+        "enable_video_looping": false,
+        "video": "shopify://files/videos/intimate shaving kit - product video 1 .MOV",
+        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "description": "",
         "full_width": false,
         "show_divider": false,
-        "image_behavior": "none",
-        "mobile_layout": "image_first",
-        "mobile_text_alignment": "left",
-        "mobile_image_ratio": "adapt",
-        "enable_video_looping": false,
-        "video_url": "",
-        "use_custom_colors": false,
-        "colors_button_label": "#ffffff",
-        "colors_button_background": "#1a1b18",
-        "colors_text": "#212326",
-        "colors_background": "#ffffff",
-        "gradient_background": "",
+        "heading": "Fun. Simple. Effective",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "heading_tag": "h2",
         "padding_top": 36,
         "padding_bottom": 36
-      }
-    },
-    "image_banner_iKrdae": {
-      "type": "image-banner",
-      "custom_css": [
-        "@media screen and (min-width: 768px) {div {display: none; }}"
-      ],
-      "settings": {
-        "image_position": "center center",
-        "text_box_position": "middle-center",
-        "text_alignment": "center",
-        "image_ratio": "650px",
-        "show_text_box": false,
-        "full_width": true,
-        "show_divider": false,
-        "image_behavior": "none",
-        "mobile_text_alignment": "center",
-        "mobile_image_ratio": "adapt",
-        "stack_images_on_mobile": true,
-        "show_text_below": true,
-        "colors_button_label": "#1a1b18",
-        "colors_button_background": "#ffffff",
-        "colors_text": "#ffffff",
-        "colors_overlay": "#000000",
-        "colors_overlay_opacity": 28,
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "image_banner_XAz9Uz": {
-      "type": "image-banner",
-      "custom_css": [
-        "@media screen and (max-width: 768px) {div {display: none; }}"
-      ],
-      "settings": {
-        "image_position": "center center",
-        "text_box_position": "middle-center",
-        "text_alignment": "center",
-        "image_ratio": "adapt",
-        "show_text_box": false,
-        "full_width": true,
-        "show_divider": false,
-        "image_behavior": "none",
-        "mobile_text_alignment": "center",
-        "mobile_image_ratio": "adapt",
-        "stack_images_on_mobile": true,
-        "show_text_below": true,
-        "colors_button_label": "#1a1b18",
-        "colors_button_background": "#ffffff",
-        "colors_text": "#ffffff",
-        "colors_overlay": "#000000",
-        "colors_overlay_opacity": 0,
-        "padding_top": 0,
-        "padding_bottom": 0
       }
     },
     "images_with_text_t3GnhX": {
@@ -442,7 +358,7 @@
         "heading_gyHQzi": {
           "type": "heading",
           "settings": {
-            "heading": "All your Skincare Essentials in one bundle",
+            "heading": "Shaving isn’t the problem — the way we shave is.",
             "heading_size": "h2",
             "heading_tag": "h2"
           }
@@ -450,7 +366,7 @@
         "text_pMEzbX": {
           "type": "text",
           "settings": {
-            "text": "<p>Our Essentials Kit combines the Booty Care Routine, feminine hygiene products, and an intimate shaving kit for complete body care. Designed for all skin types, it targets body acne, ingrown hairs, irritation, and dryness while supporting daily hygiene and skin comfort. Dermatologically tested for effective, reliable results.<br/><br/></p>",
+            "text": "<p>When you shave on dry, unprepared skin, you create unnecessary friction that can stress the skin and lead to irritation, bumps, and ingrown hairs. That’s why the Intimate Shaving Kit follows a complete routine: prep with exfoliation for a cleaner, closer shave, protect the skin with our shaving gel for a smooth razor glide, then finish with our aftershave oil to soothe, restore hydration, and help prevent ingrown hairs. Because great results come from the right routine, not just the razor.</p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -461,10 +377,10 @@
         "text_pMEzbX"
       ],
       "settings": {
-        "image": "shopify://shop_images/the-essentials-kit-booty-bump-free-shaves-and-all-day-freshness-down-there-3394702.png",
-        "image_2": "shopify://shop_images/feminine-hygiene-duo-daily-intimate-wash-bikini-perfume-new-packaging-1039160.jpg",
-        "image_3": "shopify://shop_images/611A4167.jpg",
-        "image_4": "shopify://shop_images/intimate-shaving-kit-for-sensitive-areas-bikini-underarms-and-booty-8784264.png",
+        "image": "shopify://shop_images/intimate-shaving-kit-for-sensitive-areas-bikini-underarms-and-booty-6692807.png",
+        "image_2": "shopify://shop_images/silky-smooth-shaving-kit-for-all-body-parts-legs-arms-back-and-underarms-3114029.png",
+        "image_3": "shopify://shop_images/3_133758c7-8c57-4ee8-94d5-628f8f59bb8b.png",
+        "image_4": "shopify://shop_images/skin-smoother-aftershave-oil-4723559.png",
         "image_ratio": "portrait",
         "image_position": "center center",
         "layout": "image_first",
@@ -758,9 +674,7 @@
     "image_banner_jy3yGP",
     "scrolling-promotion",
     "image_with_text_Vq4ebP",
-    "image_with_text_beiAjz",
-    "image_banner_iKrdae",
-    "image_banner_XAz9Uz",
+    "video_Wr8Cmk",
     "images_with_text_t3GnhX",
     "scrolling_promotion_UiKVGc",
     "guarantees",
