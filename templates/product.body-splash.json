@@ -215,7 +215,7 @@
         "heading_dpeidU": {
           "type": "heading",
           "settings": {
-            "heading": "Special Signature Scents",
+            "heading": "\"Clean Girl\" Vibe",
             "heading_size": "h1",
             "heading_tag": "h2"
           }
@@ -223,7 +223,7 @@
         "subheading_c3XRmH": {
           "type": "subheading",
           "settings": {
-            "subheading": "3 Signature Scent",
+            "subheading": "3 Signature Scents",
             "subheading_size": "h5",
             "secondary_color": false
           }
@@ -231,7 +231,7 @@
         "text_4DQrEY": {
           "type": "text",
           "settings": {
-            "text": "<p>Body Splash is made to give you a signature scent and make you <strong>different</strong> from everyone around. It also has a long lasting scent of up to <strong>16 hours!</strong></p>",
+            "text": "<p>Our Body Splash is made to give you a signature scent that sets you apart from everyone around you. With a long-lasting fragrance that stays for up to 16 hours, it keeps you smelling unforgettable all day.<br/><br/></p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -295,6 +295,24 @@
         "padding_bottom": 0
       }
     },
+    "video_wPXhxC": {
+      "type": "video",
+      "name": "t:sections.video.presets.name",
+      "settings": {
+        "enable_video_looping": false,
+        "video": "shopify://files/videos/body splash - product video .MOV",
+        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "description": "",
+        "full_width": false,
+        "show_divider": false,
+        "heading": "Long-lasting Fragrance",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "heading_tag": "h2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "images_with_text_t3GnhX": {
       "type": "images-with-text",
       "blocks": {
@@ -326,7 +344,7 @@
         "image_4": "shopify://shop_images/body-splash-150ml-9736227.png",
         "image_ratio": "portrait",
         "image_position": "center center",
-        "layout": "image_first",
+        "layout": "text_first",
         "text_box_position": "middle",
         "text_alignment": "left",
         "mobile_text_alignment": "left",
@@ -334,40 +352,6 @@
         "show_divider": false,
         "padding_top": 32,
         "padding_bottom": 36
-      }
-    },
-    "scrolling_promotion_UiKVGc": {
-      "type": "scrolling-promotion",
-      "blocks": {
-        "announcement_UQ6ENY": {
-          "type": "announcement",
-          "settings": {
-            "icon": "none",
-            "icon_size": "medium",
-            "custom_icon": "",
-            "text": "OVER 15,000+ HAPPY CUSTOMERS",
-            "text_size": 16,
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "announcement_UQ6ENY"
-      ],
-      "custom_css": [
-        ".promotion__text {font-weight: 900;}"
-      ],
-      "settings": {
-        "direction": "left",
-        "speed": 1.6,
-        "show_divider": false,
-        "use_custom_colors": true,
-        "colors_icon": "#a94759",
-        "colors_text": "#ffffff",
-        "colors_background": "#9fded2",
-        "gradient_background": "",
-        "padding_top": 20,
-        "padding_bottom": 20
       }
     },
     "guarantees": {
@@ -494,6 +478,40 @@
         "padding_bottom": 20
       }
     },
+    "scrolling_promotion_UiKVGc": {
+      "type": "scrolling-promotion",
+      "blocks": {
+        "announcement_UQ6ENY": {
+          "type": "announcement",
+          "settings": {
+            "icon": "none",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "text": "OVER 15,000+ HAPPY CUSTOMERS",
+            "text_size": 16,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "announcement_UQ6ENY"
+      ],
+      "custom_css": [
+        ".promotion__text {font-weight: 900;}"
+      ],
+      "settings": {
+        "direction": "left",
+        "speed": 1.6,
+        "show_divider": false,
+        "use_custom_colors": true,
+        "colors_icon": "#a94759",
+        "colors_text": "#ffffff",
+        "colors_background": "#9fded2",
+        "gradient_background": "",
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
     "1717958248b0b4020b": {
       "type": "apps",
       "blocks": {
@@ -615,6 +633,7 @@
     "scrolling-promotion",
     "image_with_text_beiAjz",
     "image_banner_XAz9Uz",
+    "video_wPXhxC",
     "images_with_text_t3GnhX",
     "guarantees",
     "testimonials_zBJVKg",
