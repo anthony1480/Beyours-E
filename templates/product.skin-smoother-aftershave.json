@@ -54,7 +54,7 @@
         "custom_liquid_8fkWzA": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<b><p>✔ Calms & Soothes Skin</p>\n<p>✔ Moisturizes Deeply</p>\n<p>✔ Prevents Ingrown Hairs</p></b>"
+            "custom_liquid": "<b><p>✔ Calms & Soothes Skin</p>\n<p>✔ Restores Skin's Moisture</p>\n<p>✔ Prevents Ingrown Hairs</p>\n<p>✔ Prevents Razor Irritation </p></b>"
           }
         },
         "judge_me_reviews_testimonials_carousel_R4mMe7": {
@@ -75,7 +75,7 @@
             "max_width": 1100,
             "corner_styling": "soft",
             "quote_marks_style": "serif",
-            "card_color": "#F9F9F9",
+            "card_color": "#f9f9f9",
             "stars_and_quote_marks_color": "#108474",
             "text_color": "#000000",
             "arrows_color": "#000000",
@@ -106,6 +106,22 @@
             "hide_when_no_reviews": true
           }
         },
+        "text_WgmDiY": {
+          "type": "text",
+          "settings": {
+            "icon": "none",
+            "text": "Restore, protect, and soothe your skin with the Aftershave Oil",
+            "text_style": "subtitle"
+          }
+        },
+        "text_HmhLFF": {
+          "type": "text",
+          "settings": {
+            "icon": "heart",
+            "text": "Get Smooth Skin Now",
+            "text_style": "body"
+          }
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -123,7 +139,7 @@
           "settings": {
             "icon": "question_mark",
             "heading": "Usage Instructions",
-            "content": "<ul><li>Apply a few drops to freshly shaved or waxed skin.</li><li>Gently massage until absorbed.<br/><br/>✨ Helps <strong>calm irritation</strong>, <strong>prevent ingrown hairs</strong>, and <strong>keep skin soft and hydrated</strong>.<br/><br/>✨ Safe for <strong>all body areas</strong>, including external intimate skin.</li></ul>",
+            "content": "<ul><li>Apply a few drops to freshly shaved or waxed skin.</li><li>Gently massage until absorbed.<br/><br/>✨ Helps <strong>calm irritation</strong>, <strong>prevent ingrown hairs</strong>, and <strong>keep skin soft and hydrated</strong>.<br/><br/>✨ Safe for <strong>all body areas</strong>, including external intimate skin.<br/><strong>Usage Instructions:</strong></li></ul>",
             "page": "",
             "custom_liquid": "",
             "keep_open": false
@@ -163,6 +179,8 @@
         "judge_me_reviews_testimonials_carousel_R4mMe7",
         "price",
         "fera_product_reviews_summary_Fc63Gc",
+        "text_WgmDiY",
+        "text_HmhLFF",
         "buy_buttons",
         "description_DM7CCf",
         "collapsible_tab_Lde4RM",
