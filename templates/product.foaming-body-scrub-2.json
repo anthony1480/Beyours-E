@@ -199,7 +199,7 @@
         "use_custom_colors": true,
         "colors_icon": "#8b424e",
         "colors_text": "#ffffff",
-        "colors_background": "#8b424e",
+        "colors_background": "#9fded2",
         "gradient_background": "",
         "padding_top": 20,
         "padding_bottom": 20
@@ -239,7 +239,7 @@
         "text_4DQrEY"
       ],
       "settings": {
-        "image": "shopify://shop_images/ezgif.com-optimize.gif",
+        "image": "shopify://shop_images/body_scrub_-_gif.gif",
         "image_position": "center center",
         "layout": "text_first",
         "text_box_position": "middle",
