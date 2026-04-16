@@ -291,6 +291,58 @@
         "padding_bottom": 36
       }
     },
+    "video_FCFx6G": {
+      "type": "video",
+      "name": "t:sections.video.presets.name",
+      "settings": {
+        "enable_video_looping": false,
+        "video": "shopify://files/videos/hair perfume - product video 2.MOV",
+        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "description": "",
+        "full_width": false,
+        "show_divider": false,
+        "heading": "Safe for all hair types - CGM Approved",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "heading_tag": "h2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "scrolling_promotion_jr98zd": {
+      "type": "scrolling-promotion",
+      "blocks": {
+        "announcement_YqwJMk": {
+          "type": "announcement",
+          "settings": {
+            "icon": "none",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "text": "Alcohol-free &amp; won't damage your hair",
+            "text_size": 16,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "announcement_YqwJMk"
+      ],
+      "custom_css": [
+        ".promotion__text {font-weight: 900;}"
+      ],
+      "settings": {
+        "direction": "left",
+        "speed": 1.6,
+        "show_divider": false,
+        "use_custom_colors": true,
+        "colors_icon": "#a94759",
+        "colors_text": "#ffffff",
+        "colors_background": "#9fded2",
+        "gradient_background": "",
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
     "images_with_text_t3GnhX": {
       "type": "images-with-text",
       "blocks": {
@@ -564,6 +616,8 @@
     "main",
     "scrolling-promotion",
     "image_with_text_beiAjz",
+    "video_FCFx6G",
+    "scrolling_promotion_jr98zd",
     "images_with_text_t3GnhX",
     "collapsible-content",
     "guarantees",
