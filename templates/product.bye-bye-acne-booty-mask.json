@@ -51,6 +51,10 @@
     "main": {
       "type": "main-product",
       "blocks": {
+        "upsell_com_ex_reconvert_bundle_Eib8KJ": {
+          "type": "shopify://apps/upsell-com-ex-reconvert/blocks/bundle/72c64c30-2f7c-4a71-ae4c-efd1d5d1d2e2",
+          "settings": {}
+        },
         "title": {
           "type": "title",
           "settings": {
@@ -206,6 +210,7 @@
         }
       },
       "block_order": [
+        "upsell_com_ex_reconvert_bundle_Eib8KJ",
         "title",
         "fera_product_reviews_summary_GjwhcP",
         "variant_picker_TB8w77",
