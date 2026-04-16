@@ -290,7 +290,7 @@
         "text_4DQrEY": {
           "type": "text",
           "settings": {
-            "text": "<p>First impressions are everything, and your scent says it all. Our Glow Getter Trio—body scrub, body butter, and body splash—turns you into the Cinderella of every room, leaving everyone turning heads to find out who’s behind that irresistible glow.</p><p></p>",
+            "text": "<p>First impressions matter — and your scent says everything before you do. Our Glow Getter Trio, featuring a body scrub, body butter, and body splash, is your recipe for main character energy. Soft skin, an irresistible glow, and a scent that turns heads the second you walk in. Everyone will notice… and everyone will want to know who it is.<br/><br/></p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -302,7 +302,7 @@
         "text_4DQrEY"
       ],
       "settings": {
-        "image": "shopify://shop_images/ezgif.com-optimize.gif",
+        "image": "shopify://shop_images/glow_getter_trio_-gif.gif",
         "image_position": "center center",
         "layout": "text_first",
         "text_box_position": "middle",
@@ -312,6 +312,7 @@
         "full_width": false,
         "show_divider": false,
         "image_behavior": "none",
+        "image_mobile": "shopify://shop_images/glow_getter_trio_-gif.gif",
         "mobile_layout": "image_first",
         "mobile_text_alignment": "left",
         "mobile_image_ratio": "adapt",
