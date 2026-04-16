@@ -38,6 +38,22 @@
             "hide_when_no_reviews": true
           }
         },
+        "text_K8DKQn": {
+          "type": "text",
+          "settings": {
+            "icon": "none",
+            "text": "Get your Essentials by Jay favorites now in one bundle!",
+            "text_style": "body"
+          }
+        },
+        "text_8FBe7Q": {
+          "type": "text",
+          "settings": {
+            "icon": "none",
+            "text": "This set includes 7 full-sized products: Daily Intimate Wash, Bikini Perfume, Peach Polish Booty Scrub, Bye Bye Acne Booty Mask, Peach Polish Skin Perfecting Serum, Silky Smooth Shaving Gel and the Silky Smooth Aftershave Oil.",
+            "text_style": "subtitle"
+          }
+        },
         "price": {
           "type": "price",
           "settings": {
@@ -45,6 +61,10 @@
             "show_badges": true,
             "sale_badge_basis": "auto"
           }
+        },
+        "rating_KD3xLx": {
+          "type": "rating",
+          "settings": {}
         },
         "variant_picker_TB8w77": {
           "type": "variant_picker",
@@ -72,6 +92,14 @@
             "inventory_threshold": 20,
             "show_inventory_transfer": false,
             "color_scheme": "accent-3"
+          }
+        },
+        "text_aBejke": {
+          "type": "text",
+          "settings": {
+            "icon": "check_mark",
+            "text": "Get the full EBJ experience",
+            "text_style": "body"
           }
         },
         "buy_buttons": {
@@ -124,10 +152,14 @@
       "block_order": [
         "title",
         "fera_product_reviews_summary_GjwhcP",
+        "text_K8DKQn",
+        "text_8FBe7Q",
         "price",
+        "rating_KD3xLx",
         "variant_picker_TB8w77",
         "custom_liquid_E6jUAq",
         "inventory_status",
+        "text_aBejke",
         "buy_buttons",
         "collapsible_tab_CdRjGG",
         "collapsible_description_BTC9yk",
@@ -267,7 +299,6 @@
         "text_bLHQf9"
       ],
       "settings": {
-        "image": "shopify://shop_images/bikini_line_ingrown_hairs.png",
         "image_position": "center center",
         "layout": "text_first",
         "text_box_position": "middle",
