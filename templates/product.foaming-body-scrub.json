@@ -165,6 +165,56 @@
         "padding_bottom": 20
       }
     },
+    "image_with_text_8aBGg9": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_JLjQxK": {
+          "type": "heading",
+          "settings": {
+            "heading": "Wake Up Your Skin, Smooth Every Inch",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "text_UpTzeY": {
+          "type": "text",
+          "settings": {
+            "text": "<p><br/>Our Coffee Body Scrub is designed to energize your skin while delivering visible results. It helps stimulate blood circulation, smooth and refine skin texture, and reduce the appearance of cellulite over time. The result is skin that feels firmer, softer, and visibly more even with every use.<br/><br/></p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_JLjQxK",
+        "text_UpTzeY"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/skin-smoother-body-oil-anti-scars-stretch-marks-100ml-2798993.png",
+        "image_position": "center center",
+        "layout": "image_first",
+        "text_box_position": "middle",
+        "text_alignment": "left",
+        "image_ratio": "650px",
+        "enlarge_content": false,
+        "full_width": false,
+        "show_divider": false,
+        "image_behavior": "none",
+        "mobile_layout": "image_first",
+        "mobile_text_alignment": "left",
+        "mobile_image_ratio": "auto",
+        "enable_video_looping": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "1717958248b0b4020b": {
       "type": "apps",
       "blocks": {
@@ -309,6 +359,7 @@
     "empty-space",
     "main",
     "scrolling_promotion_h3K8Fw",
+    "image_with_text_8aBGg9",
     "1717958248b0b4020b",
     "collapsible-content",
     "product-recommendations",
