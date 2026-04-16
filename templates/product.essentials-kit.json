@@ -110,24 +110,23 @@
             "show_gift_card_recipient": false
           }
         },
-        "collapsible_tab_CdRjGG": {
-          "type": "collapsible_tab",
-          "disabled": true,
-          "settings": {
-            "icon": "none",
-            "heading": "Usage Instructions",
-            "content": "<p>On dry to damp skin, rub on to desired area in circular motions until smooth. Rinse or wipe off. Use 2 to 3 times per week and follow with Bye Bye Acne Booty Mask for best results. For external use only. <br/></p>",
-            "page": "",
-            "custom_liquid": "",
-            "keep_open": false
-          }
-        },
         "collapsible_description_BTC9yk": {
           "type": "collapsible_description",
           "settings": {
             "icon": "question_mark",
             "heading": "Description & Information:",
             "keep_open": true
+          }
+        },
+        "collapsible_tab_CdRjGG": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "box",
+            "heading": "What's Included",
+            "content": "<ol><li><strong>Peach Polish Booty Scrub</strong> – A gentle scrub made for your booty and bikini area. Smooths texture and softens rough patches without irritation.</li><li><strong>Bye Bye Acne Booty Mask</strong> – A detoxifying powder mask powered by charcoal and clays to dry out breakouts and clear clogged pores.</li><li><strong>Peach Polish Skin Perfecting Serum</strong> – Powered by glycolic and salicylic acids, this formula helps unclog pores, fade bumps, and treat strawberry skin.</li><li><strong>Skin Smoother Shaving Gel</strong> – A rich, clear gel that cushions your shave for a razor-glide finish. Helps prevent nicks, burns, and bumps.</li><li><strong>Skin Smoother Aftershave Oil</strong> – Lightweight and soothing, this oil calms redness, moisturizes, and prevents the appearance of ingrowns. </li><li><strong>Intimate Wash</strong> – A gentle daily cleanser for the intimate area. Balances pH, removes odor, and supports a healthy microbiome.</li><li><strong> Bikini Perfume</strong> – A soft mist designed for your bikini area.  <strong>Strawberry Candy</strong> scented for all-day freshness.</li></ol>",
+            "page": "",
+            "custom_liquid": "",
+            "keep_open": false
           }
         },
         "collapsible_tab_LNMEj6": {
@@ -161,8 +160,8 @@
         "inventory_status",
         "text_aBejke",
         "buy_buttons",
-        "collapsible_tab_CdRjGG",
         "collapsible_description_BTC9yk",
+        "collapsible_tab_CdRjGG",
         "collapsible_tab_LNMEj6",
         "sticky_cart"
       ],
@@ -253,7 +252,7 @@
         "heading_MVhBdy": {
           "type": "heading",
           "settings": {
-            "heading": "Shaving isn’t the problem — shaving without protection is.",
+            "heading": "All your \"Clean Girl\" Essentials",
             "heading_size": "h2",
             "heading_tag": "h2"
           }
@@ -261,7 +260,7 @@
         "text_7kNMbR": {
           "type": "text",
           "settings": {
-            "text": "<p>That’s why we created a proven 3-step shaving routine designed for the most delicate areas: bikini, booty, underarms — and safe for the entire body.<br/></p>",
+            "text": "<p><br/>We created this kit with the clean girl in mind: the one who loves feeling fresh, put-together, and effortlessly confident from morning to night. <br/></p>",
             "text_size": "typeset",
             "secondary_color": false
           }
@@ -269,15 +268,16 @@
         "heading_PQYhQK": {
           "type": "heading",
           "settings": {
-            "heading": "How it works:",
+            "heading": "All-in-one bundle",
             "heading_size": "h2",
             "heading_tag": "h2"
           }
         },
         "subheading_HcGeGt": {
           "type": "subheading",
+          "disabled": true,
           "settings": {
-            "subheading": "This routine doesn’t just improve shaving — it changes it.",
+            "subheading": "",
             "subheading_size": "h5",
             "secondary_color": false
           }
@@ -285,7 +285,7 @@
         "text_bLHQf9": {
           "type": "text",
           "settings": {
-            "text": "<p><br/>Exfoliate first to clear buildup, smooth rough skin, and release trapped hairs.<br/><br/>Shave with our protective gel that creates a barrier between your skin and the razor, minimizing irritation, nicks, and cuts.<br/><br/>Finish with the aftershave oil to soothe, deeply moisturize, and help prevent ingrown hairs, itching, and bumps.<br/><br/></p>",
+            "text": "<p>Instead of guessing what you need, you get everything in one curated set that works in harmony to keep your skin smooth, balanced, and refreshed. It’s your full-body self-care routine, elevated — simple steps, visible results, and a feeling you don’t want to skip.</p><p>And because it’s a bundle, you’re not just upgrading your routine — you’re saving while trying the essentials that define the Essentials by Jay experience.</p>",
             "text_size": "typeset",
             "secondary_color": false
           }
@@ -299,6 +299,7 @@
         "text_bLHQf9"
       ],
       "settings": {
+        "image": "shopify://shop_images/BCR_before_after.png",
         "image_position": "center center",
         "layout": "text_first",
         "text_box_position": "middle",
@@ -345,7 +346,7 @@
         "text_4DQrEY": {
           "type": "text",
           "settings": {
-            "text": "<p><br/>Our Essentials Kit delivers complete, targeted care for your most sensitive areas. Combining the Booty Care Routine, feminine hygiene essentials, and an intimate shaving kit, it helps prevent body acne, ingrown hairs, irritation, and dryness while keeping skin smooth, comfortable, and balanced. Thoughtfully formulated for all skin types and tested for visible, reliable results.<br/><br/></p>",
+            "text": "<p>This all-in-one bundle brings together our most-loved body care rituals: the Booty Care Routine, shaving essentials, and the feminine hygiene duo.<br/><br/></p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -357,9 +358,9 @@
         "text_4DQrEY"
       ],
       "settings": {
-        "image": "shopify://shop_images/the-essentials-kit-booty-bump-free-shaves-and-all-day-freshness-down-there-3394702.png",
+        "image": "shopify://shop_images/the-essentials-kit-booty-bump-free-shaves-and-all-day-freshness-down-there-3012998.png",
         "image_position": "center center",
-        "layout": "text_first",
+        "layout": "image_first",
         "text_box_position": "middle",
         "text_alignment": "left",
         "image_ratio": "adapt",
@@ -367,6 +368,7 @@
         "full_width": false,
         "show_divider": false,
         "image_behavior": "none",
+        "image_mobile": "shopify://shop_images/BCR_before_after.png",
         "mobile_layout": "image_first",
         "mobile_text_alignment": "left",
         "mobile_image_ratio": "adapt",
@@ -460,6 +462,7 @@
         "heading_gyHQzi",
         "text_pMEzbX"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/the-essentials-kit-booty-bump-free-shaves-and-all-day-freshness-down-there-3394702.png",
         "image_2": "shopify://shop_images/feminine-hygiene-duo-daily-intimate-wash-bikini-perfume-new-packaging-1039160.jpg",
