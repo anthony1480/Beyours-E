@@ -260,7 +260,7 @@
         "text_7kNMbR": {
           "type": "text",
           "settings": {
-            "text": "<p><br/>We created this kit with the clean girl in mind: the one who loves feeling fresh, put-together, and effortlessly confident from morning to night. <br/></p>",
+            "text": "<p>We created this kit with the clean girl in mind: the one who loves feeling fresh, put-together, and effortlessly confident from morning to night. </p><p><br/></p>",
             "text_size": "typeset",
             "secondary_color": false
           }
