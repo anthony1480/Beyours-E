@@ -42,7 +42,7 @@
           "type": "text",
           "settings": {
             "icon": "none",
-            "text": "Get your Essentials by Jay favorites now in one bundle!",
+            "text": "Bronze skin without the sun damage!",
             "text_style": "body"
           }
         },
@@ -50,7 +50,7 @@
           "type": "text",
           "settings": {
             "icon": "none",
-            "text": "This set includes 7 full-sized products: Daily Intimate Wash, Bikini Perfume, Peach Polish Booty Scrub, Bye Bye Acne Booty Mask, Peach Polish Skin Perfecting Serum, Silky Smooth Shaving Gel and the Silky Smooth Aftershave Oil.",
+            "text": "Meet Tan Absolute — your shortcut to a deep, bronzed glow without compromising your skin. Made with 100% natural oils and wrapped in an indulgent chocolate scent, it enhances your tan while keeping your skin nourished and protected. Designed to help you achieve a radiant bronze look safely, whether under the sun or at the solarium, so you glow beautifully without the burn.",
             "text_style": "subtitle"
           }
         },
@@ -98,7 +98,7 @@
           "type": "text",
           "settings": {
             "icon": "check_mark",
-            "text": "Get the full EBJ experience",
+            "text": "Tan like an EBJ girl this summer",
             "text_style": "body"
           }
         },
@@ -130,13 +130,23 @@
             "keep_open": true
           }
         },
+        "collapsible_tab_KPTGTi": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "heart",
+            "heading": "Key Features",
+            "content": "<p><strong>🌟</strong> Natural Oils + Vitamin E for Intense Hydration✨ Long Lasting Dark Tan and Deep glow 💚 Suitable for All Skin Types<br/>☀️ Suitable for Indoor and Outdoor Tanning (Solarium) 🍫 Smells Like Chocolate <br/>🌿 Vegan, Natural and Cruelty-Free</p>",
+            "page": "",
+            "custom_liquid": "",
+            "keep_open": false
+          }
+        },
         "collapsible_tab_LNMEj6": {
           "type": "collapsible_tab",
-          "disabled": true,
           "settings": {
-            "icon": "none",
+            "icon": "plant",
             "heading": "Ingredients",
-            "content": "<p>Sucrose, Aqua, Sodium Chloride, Glycerine,Cocamidopropyl Betaine, Propylene Glycol, Titanium Dioxide, Glyceryl Stearate, Cetyl Alcohol, Stearic Acid, Butyrospermum Parkii, Cocos Nucifera (Coconut) Oil, Vitis Vinifera Seed Oil, Linum Usitatissimum Seed Oil, Phenoxyethanol (and) Caprylyl Glycol, Parfum.</p>",
+            "content": "<p>Helianthus Annuus (Sunflower) Seed Oil,  Daucus Carota Sativa (Carrot) Seed Oil, Persea Gratissima (Avocado) Oil, Sesamum Indicum (Sesame) Seed Oil, Triticum Vulgare (Wheat) Germ Oil, Beta-Carotene, Parfum, Tocopherol (Vitamin E).<br/></p>",
             "page": "",
             "custom_liquid": "",
             "keep_open": false
@@ -163,6 +173,7 @@
         "buy_buttons",
         "collapsible_tab_CdRjGG",
         "collapsible_description_BTC9yk",
+        "collapsible_tab_KPTGTi",
         "collapsible_tab_LNMEj6",
         "sticky_cart"
       ],
@@ -222,7 +233,7 @@
             "icon": "none",
             "icon_size": "medium",
             "custom_icon": "",
-            "text": "The only skin care you need",
+            "text": "Let's Talk Bronze Skin!",
             "text_size": 16,
             "link": ""
           }
@@ -247,137 +258,20 @@
         "padding_bottom": 20
       }
     },
-    "image_with_text_Vq4ebP": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_MVhBdy": {
-          "type": "heading",
-          "settings": {
-            "heading": "Shaving isn’t the problem — shaving without protection is.",
-            "heading_size": "h2",
-            "heading_tag": "h2"
-          }
-        },
-        "text_7kNMbR": {
-          "type": "text",
-          "settings": {
-            "text": "<p>That’s why we created a proven 3-step shaving routine designed for the most delicate areas: bikini, booty, underarms — and safe for the entire body.<br/></p>",
-            "text_size": "typeset",
-            "secondary_color": false
-          }
-        },
-        "heading_PQYhQK": {
-          "type": "heading",
-          "settings": {
-            "heading": "How it works:",
-            "heading_size": "h2",
-            "heading_tag": "h2"
-          }
-        },
-        "subheading_HcGeGt": {
-          "type": "subheading",
-          "settings": {
-            "subheading": "This routine doesn’t just improve shaving — it changes it.",
-            "subheading_size": "h5",
-            "secondary_color": false
-          }
-        },
-        "text_bLHQf9": {
-          "type": "text",
-          "settings": {
-            "text": "<p><br/>Exfoliate first to clear buildup, smooth rough skin, and release trapped hairs.<br/><br/>Shave with our protective gel that creates a barrier between your skin and the razor, minimizing irritation, nicks, and cuts.<br/><br/>Finish with the aftershave oil to soothe, deeply moisturize, and help prevent ingrown hairs, itching, and bumps.<br/><br/></p>",
-            "text_size": "typeset",
-            "secondary_color": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_MVhBdy",
-        "text_7kNMbR",
-        "heading_PQYhQK",
-        "subheading_HcGeGt",
-        "text_bLHQf9"
-      ],
+    "video_dFrzAD": {
+      "type": "video",
+      "name": "t:sections.video.presets.name",
       "settings": {
-        "image_position": "center center",
-        "layout": "text_first",
-        "text_box_position": "middle",
-        "text_alignment": "left",
-        "image_ratio": "adapt",
-        "enlarge_content": false,
+        "enable_video_looping": false,
+        "video": "shopify://files/videos/Tan Absolute - Product Video.MOV",
+        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "description": "",
         "full_width": false,
         "show_divider": false,
-        "image_behavior": "none",
-        "mobile_layout": "image_first",
-        "mobile_text_alignment": "left",
-        "mobile_image_ratio": "adapt",
-        "enable_video_looping": false,
-        "video_url": "",
-        "use_custom_colors": false,
-        "colors_button_label": "#ffffff",
-        "colors_button_background": "#1a1b18",
-        "colors_text": "#212326",
-        "colors_background": "#ffffff",
-        "gradient_background": "",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "image_with_text_beiAjz": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_dpeidU": {
-          "type": "heading",
-          "settings": {
-            "heading": "Why You'll Love this Kit",
-            "heading_size": "h1",
-            "heading_tag": "h2"
-          }
-        },
-        "subheading_c3XRmH": {
-          "type": "subheading",
-          "settings": {
-            "subheading": "Specifically Curated for Clear, Smooth Skin",
-            "subheading_size": "h5",
-            "secondary_color": false
-          }
-        },
-        "text_4DQrEY": {
-          "type": "text",
-          "settings": {
-            "text": "<p><br/>Our Essentials Kit delivers complete, targeted care for your most sensitive areas. Combining the Booty Care Routine, feminine hygiene essentials, and an intimate shaving kit, it helps prevent body acne, ingrown hairs, irritation, and dryness while keeping skin smooth, comfortable, and balanced. Thoughtfully formulated for all skin types and tested for visible, reliable results.<br/><br/></p>",
-            "text_size": "typeset2",
-            "secondary_color": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_dpeidU",
-        "subheading_c3XRmH",
-        "text_4DQrEY"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/the-essentials-kit-booty-bump-free-shaves-and-all-day-freshness-down-there-3394702.png",
-        "image_position": "center center",
-        "layout": "text_first",
-        "text_box_position": "middle",
-        "text_alignment": "left",
-        "image_ratio": "adapt",
-        "enlarge_content": false,
-        "full_width": false,
-        "show_divider": false,
-        "image_behavior": "none",
-        "mobile_layout": "image_first",
-        "mobile_text_alignment": "left",
-        "mobile_image_ratio": "adapt",
-        "enable_video_looping": false,
-        "video_url": "",
-        "use_custom_colors": false,
-        "colors_button_label": "#ffffff",
-        "colors_button_background": "#1a1b18",
-        "colors_text": "#212326",
-        "colors_background": "#ffffff",
-        "gradient_background": "",
+        "heading": "Get the bronze, skip the burn.",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "heading_tag": "h2",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -436,44 +330,115 @@
         "padding_bottom": 0
       }
     },
-    "images_with_text_t3GnhX": {
-      "type": "images-with-text",
+    "scrolling_promotion_6Wfakk": {
+      "type": "scrolling-promotion",
       "blocks": {
-        "heading_gyHQzi": {
-          "type": "heading",
+        "announcement_mmAmPU": {
+          "type": "announcement",
           "settings": {
-            "heading": "All your Skincare Essentials in one bundle",
-            "heading_size": "h2",
-            "heading_tag": "h2"
-          }
-        },
-        "text_pMEzbX": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Our Essentials Kit combines the Booty Care Routine, feminine hygiene products, and an intimate shaving kit for complete body care. Designed for all skin types, it targets body acne, ingrown hairs, irritation, and dryness while supporting daily hygiene and skin comfort. Dermatologically tested for effective, reliable results.<br/><br/></p>",
-            "text_size": "typeset2",
-            "secondary_color": false
+            "icon": "none",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "text": "Prep it. Glow it. Lock it in.",
+            "text_size": 16,
+            "link": ""
           }
         }
       },
       "block_order": [
-        "heading_gyHQzi",
-        "text_pMEzbX"
+        "announcement_mmAmPU"
+      ],
+      "custom_css": [
+        ".promotion__text {font-weight: 900;}"
       ],
       "settings": {
-        "image": "shopify://shop_images/the-essentials-kit-booty-bump-free-shaves-and-all-day-freshness-down-there-3394702.png",
-        "image_2": "shopify://shop_images/feminine-hygiene-duo-daily-intimate-wash-bikini-perfume-new-packaging-1039160.jpg",
-        "image_3": "shopify://shop_images/611A4167.jpg",
-        "image_4": "shopify://shop_images/intimate-shaving-kit-for-sensitive-areas-bikini-underarms-and-booty-8784264.png",
-        "image_ratio": "portrait",
+        "direction": "left",
+        "speed": 1.6,
+        "show_divider": false,
+        "use_custom_colors": true,
+        "colors_icon": "#a94759",
+        "colors_text": "#ffffff",
+        "colors_background": "#7dcfc0",
+        "gradient_background": "",
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
+    "image_with_text_zitfCj": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_wVzKWt": {
+          "type": "heading",
+          "settings": {
+            "heading": "Your glow doesn’t start at the beach — it starts before and after.",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "text_RCkiKh": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The Glow Getter Trio is your complete tanning ritual, designed to prepare, enhance, and maintain your sun-kissed glow. It all begins with exfoliation to smooth the skin and create an even base for a flawless tan. Then comes deep nourishment to keep your skin soft, hydrated, and glowing under the sun. And after tanning, rich hydration helps restore and protect your skin, locking in your glow while preventing dryness and damage.</p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "subheading_xLkXxm": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "How to get the perfect tan?",
+            "subheading_size": "h5",
+            "secondary_color": false
+          }
+        },
+        "text_pHGFAk": {
+          "type": "text",
+          "settings": {
+            "text": "<p>It isn’t just about the sun — it’s about how you take care of your skin before and after it.</p>",
+            "text_size": "typeset",
+            "secondary_color": false
+          }
+        },
+        "button_WQFTVM": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop the glow",
+            "button_link": "shopify://products/glow-go-trio",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_wVzKWt",
+        "text_RCkiKh",
+        "subheading_xLkXxm",
+        "text_pHGFAk",
+        "button_WQFTVM"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/glow-getter-trio-7478898.png",
         "image_position": "center center",
-        "layout": "image_first",
+        "layout": "text_first",
         "text_box_position": "middle",
         "text_alignment": "left",
-        "mobile_text_alignment": "left",
+        "image_ratio": "650px",
+        "enlarge_content": false,
         "full_width": false,
         "show_divider": false,
-        "padding_top": 32,
+        "image_behavior": "none",
+        "mobile_layout": "image_first",
+        "mobile_text_alignment": "left",
+        "mobile_image_ratio": "auto",
+        "enable_video_looping": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
         "padding_bottom": 36
       }
     },
@@ -757,11 +722,11 @@
     "main",
     "image_banner_jy3yGP",
     "scrolling-promotion",
-    "image_with_text_Vq4ebP",
-    "image_with_text_beiAjz",
+    "video_dFrzAD",
     "image_banner_iKrdae",
     "image_banner_XAz9Uz",
-    "images_with_text_t3GnhX",
+    "scrolling_promotion_6Wfakk",
+    "image_with_text_zitfCj",
     "scrolling_promotion_UiKVGc",
     "guarantees",
     "testimonials_zBJVKg",
