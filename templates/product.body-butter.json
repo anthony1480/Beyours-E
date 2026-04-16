@@ -346,7 +346,7 @@
         "heading_dpeidU": {
           "type": "heading",
           "settings": {
-            "heading": "Want a buttery skin?",
+            "heading": "Want a glowing skin?",
             "heading_size": "h1",
             "heading_tag": "h2"
           }
@@ -362,7 +362,7 @@
         "text_4DQrEY": {
           "type": "text",
           "settings": {
-            "text": "<p>Our body butter makes your skin silk and soft with a super delightful taste of <strong>coco sunset</strong>, <strong>juicy berries</strong> or <strong>white musk</strong> making you irresistible to <strong>compliments</strong> and skyrocketing your <strong>confidence</strong></p>",
+            "text": "<p>Our Body Butter leaves your skin silky-soft, deeply nourished, and wrapped in the irresistible scent of Coco Sunset, Juicy Red Berries, or White Musk — made to turn heads, attract compliments, and boost your confidence.<br/></p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -413,7 +413,7 @@
         "text_pMEzbX": {
           "type": "text",
           "settings": {
-            "text": "<p>You have no idea of the buttery feeling and the heavenly scent that you will feel after trying out one of these three yummy creams, the only bad review we got was that they cannot be eaten :)</p>",
+            "text": "<p>You haven’t experienced softness until you’ve tried the rich buttery feel and dreamy scent of these three delicious creams. The only bad review we’ve ever gotten? That they’re not edible :)<br/></p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
