@@ -123,6 +123,10 @@
             "sale_badge_basis": "auto"
           }
         },
+        "rating_gCYGQQ": {
+          "type": "rating",
+          "settings": {}
+        },
         "text_yq6dDj": {
           "type": "text",
           "settings": {
@@ -143,23 +147,23 @@
           "type": "description",
           "settings": {}
         },
-        "collapsible_tab_T3Cxc7": {
-          "type": "collapsible_tab",
-          "settings": {
-            "icon": "heart",
-            "heading": "Why You'll love it",
-            "content": "<ul><li>Smooth, bump-free skin every shave<br/></li><li>Soothes, hydrates, and locks in glow<br/></li><li>All-in-one kit for effortless, flawless results<br/><br/></li></ul>",
-            "page": "",
-            "custom_liquid": "",
-            "keep_open": false
-          }
-        },
         "collapsible_tab_GPn4gb": {
           "type": "collapsible_tab",
           "settings": {
             "icon": "question_mark",
             "heading": "Usage Instructions:",
-            "content": "<p><strong>Step 1: Exfoliate</strong><br/><br/>Use the body scrub on wet skin to remove dead skin and prep for shaving.<br/><br/><em>Tip:</em> You can use the scrub 2–3 times a week, even when not shaving.</p><p><strong>Step 2: Apply Skin Smoother Shaving Gel</strong><br/><br/>Spread the shaving gel on wet skin. Use a clean, new razor to shave. The gel protects your skin and helps the razor glide smoothly.</p><p><strong>Step 3: Soothe with Aftershave Oil</strong><br/><br/>After shaving, pat your skin dry and massage the aftershave oil into your skin. Wait 1–2 minutes for it to absorb.</p><p><strong>Step 4: Lock in Moisture with Body Butter</strong><br/><br/>Apply the body butter on top of the oil to lock in hydration and give your skin an extra glow.<br/><br/><em>Tip:</em> The body butter can also be used as your daily moisturizer.<br/></p>",
+            "content": "<h4><strong>Step 1: After Dark Body Scrub</strong></h4><p>Start with this gentle exfoliator to prep your skin for a smoother shave. It clears out dead skin and unclogs pores, leaving your skin soft and ready.<br/><strong>How to use:</strong> In the shower, massage onto dry or damp skin. Rinse it all off. Repeat 1-3 times per week.</p><h4><strong>Step 2: Silky Smooth Shaving Gel</strong></h4><p>This is your must-have for a perfect glide. It softens the skin, protects from razor burns, and helps prevent those annoying bumps and ingrown hairs.<br/><strong>How to use:</strong> Apply generously to wet skin and shave with a clean razor.</p><h4><strong>Step 3: Silky Smooth Aftershave Oil</strong></h4><p>The post-shave hero! It soothes irritated skin, hydrates deeply, and minimizes the look of pores and redness.<br/><strong>How to use:</strong> Massage 3-4 pumps into freshly shaved skin.</p><h4><strong>Step 4: After Dark Body Butter</strong></h4><p>Seal the deal with this rich body butter that keeps your skin hydrated and baby-soft all day long.<br/><strong>How to use:</strong> Apply all over your body, daily after showering or shaving for the ultimate finish.</p>",
+            "page": "",
+            "custom_liquid": "",
+            "keep_open": false
+          }
+        },
+        "collapsible_tab_T3Cxc7": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "heart",
+            "heading": "Why You'll love it",
+            "content": "<ul><li><strong>Tackles Strawberry Skin:</strong> Smoothes out bumps and helps minimize pores for even-textured skin.</li><li><strong>No More Razor Burns: </strong>Protects and conditions your skin while you shave.</li><li><strong>Works for Everyone: </strong>Suitable for all skin types, including sensitive skin.</li><li><strong>Clean & Kind:</strong> Vegan, cruelty-free, and made with natural ingredients.</li></ul>",
             "page": "",
             "custom_liquid": "",
             "keep_open": false
@@ -187,11 +191,12 @@
         "custom_liquid_8fkWzA",
         "judge_me_reviews_testimonials_carousel_AhqYez",
         "price",
+        "rating_gCYGQQ",
         "text_yq6dDj",
         "buy_buttons",
         "description_3pXtKE",
-        "collapsible_tab_T3Cxc7",
         "collapsible_tab_GPn4gb",
+        "collapsible_tab_T3Cxc7",
         "inventory_status",
         "sticky_cart"
       ],
