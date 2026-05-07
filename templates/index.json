@@ -457,6 +457,77 @@
         "padding_bottom": 20
       }
     },
+    "collection_list_XdnJ8d": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_K84b8k": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "frontpage",
+            "image_position": "center center"
+          }
+        },
+        "featured_collection_pg3DYL": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "feminine-hygiene",
+            "image_position": "center center"
+          }
+        },
+        "featured_collection_YN8NMi": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "shaving-101",
+            "image": "shopify://shop_images/skin-smoother-shaving-gel-all-body-parte-300ml-7469382.png",
+            "image_position": "center center"
+          }
+        },
+        "featured_collection_JytVQa": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "strawberry-skin",
+            "image_position": "center center"
+          }
+        },
+        "featured_collection_RPciwg": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "stretch-marks",
+            "image_position": "center center"
+          }
+        },
+        "featured_collection_FJKE6W": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "body-personal-care",
+            "image_position": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_K84b8k",
+        "featured_collection_pg3DYL",
+        "featured_collection_YN8NMi",
+        "featured_collection_JytVQa",
+        "featured_collection_RPciwg",
+        "featured_collection_FJKE6W"
+      ],
+      "settings": {
+        "show_view_all": true,
+        "show_divider": false,
+        "columns_desktop": 3,
+        "heading": "Collections",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "heading_tag": "h2",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "image_ratio": "square",
+        "apply_overlay": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "scrolling_promotion_VN6K3k": {
       "type": "scrolling-promotion",
       "blocks": {
@@ -588,77 +659,6 @@
         "gradient_background": "",
         "padding_top": 20,
         "padding_bottom": 20
-      }
-    },
-    "collection_list_XdnJ8d": {
-      "type": "collection-list",
-      "blocks": {
-        "featured_collection_K84b8k": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "frontpage",
-            "image_position": "center center"
-          }
-        },
-        "featured_collection_pg3DYL": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "feminine-hygiene",
-            "image_position": "center center"
-          }
-        },
-        "featured_collection_YN8NMi": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "shaving-101",
-            "image": "shopify://shop_images/skin-smoother-shaving-gel-all-body-parte-300ml-7469382.png",
-            "image_position": "center center"
-          }
-        },
-        "featured_collection_JytVQa": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "strawberry-skin",
-            "image_position": "center center"
-          }
-        },
-        "featured_collection_RPciwg": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "stretch-marks",
-            "image_position": "center center"
-          }
-        },
-        "featured_collection_FJKE6W": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "body-personal-care",
-            "image_position": "center center"
-          }
-        }
-      },
-      "block_order": [
-        "featured_collection_K84b8k",
-        "featured_collection_pg3DYL",
-        "featured_collection_YN8NMi",
-        "featured_collection_JytVQa",
-        "featured_collection_RPciwg",
-        "featured_collection_FJKE6W"
-      ],
-      "settings": {
-        "show_view_all": true,
-        "show_divider": false,
-        "columns_desktop": 3,
-        "heading": "Collections",
-        "heading_size": "h1",
-        "heading_alignment": "left",
-        "heading_tag": "h2",
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "image_ratio": "square",
-        "apply_overlay": true,
-        "padding_top": 36,
-        "padding_bottom": 36
       }
     },
     "17719503537217fcc8": {
@@ -1352,10 +1352,10 @@
     "featured_collection_ry8P3e",
     "1775647746f84d10b8",
     "slideshow",
-    "scrolling_promotion_VN6K3k",
-    "image_with_text_overlay_dCjCxA",
     "rich-text-0",
     "collection_list_XdnJ8d",
+    "scrolling_promotion_VN6K3k",
+    "image_with_text_overlay_dCjCxA",
     "17719503537217fcc8",
     "scrolling_promotion_dRQJEk",
     "featured-product",
