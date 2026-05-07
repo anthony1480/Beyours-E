@@ -193,6 +193,49 @@
         "mobile_height": 28
       }
     },
+    "rich_text_9UhUaw": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_QHY7Pc": {
+          "type": "heading",
+          "settings": {
+            "heading": "Our Products are Designed to Make You Feel Beautiful.",
+            "heading_size": "h2",
+            "heading_tag": "div"
+          }
+        },
+        "text_c7miKr": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Discover our Intimate Hygiene, Acne Solutions, Shaving Kits and Body Care Collections.<br/></p>",
+            "text_size": "typeset3",
+            "secondary_color": false,
+            "highlight_phrases": "Intimate Hygiene\nAcne Solutions\nShaving Kits\nBody Care",
+            "highlight_style": "underline"
+          }
+        }
+      },
+      "block_order": [
+        "heading_QHY7Pc",
+        "text_c7miKr"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": true,
+        "show_divider": false,
+        "use_custom_colors": true,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "colors_highlight": "#a94759",
+        "gradient_background": "",
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
     "video_hero_LjKpxA": {
       "type": "video-hero",
       "settings": {
@@ -241,49 +284,6 @@
       "block_order": [
         "heading",
         "text"
-      ],
-      "settings": {
-        "text_alignment": "center",
-        "mobile_text_alignment": "center",
-        "horizontal_content": false,
-        "narrow": true,
-        "show_divider": false,
-        "use_custom_colors": true,
-        "colors_button_label": "#ffffff",
-        "colors_button_background": "#1a1b18",
-        "colors_text": "#212326",
-        "colors_background": "#ffffff",
-        "colors_highlight": "#a94759",
-        "gradient_background": "",
-        "padding_top": 20,
-        "padding_bottom": 20
-      }
-    },
-    "rich_text_9UhUaw": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_QHY7Pc": {
-          "type": "heading",
-          "settings": {
-            "heading": "Our Products are Designed to Make You Feel Beautiful.",
-            "heading_size": "h2",
-            "heading_tag": "div"
-          }
-        },
-        "text_c7miKr": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Discover our Intimate Hygiene, Acne Solutions, Shaving Kits and Body Care Collections.<br/></p>",
-            "text_size": "typeset3",
-            "secondary_color": false,
-            "highlight_phrases": "Intimate Hygiene\nAcne Solutions\nShaving Kits\nBody Care",
-            "highlight_style": "underline"
-          }
-        }
-      },
-      "block_order": [
-        "heading_QHY7Pc",
-        "text_c7miKr"
       ],
       "settings": {
         "text_alignment": "center",
@@ -590,6 +590,76 @@
         "padding_bottom": 36
       }
     },
+    "collection_list_XdnJ8d": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_Ewm6bf": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bundle-save",
+            "image_position": "center center"
+          }
+        },
+        "featured_collection_hiCTFX": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "best-sellers",
+            "image_position": "center center"
+          }
+        },
+        "featured_collection_JKcHHE": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "body-personal-care",
+            "image_position": "center center"
+          }
+        },
+        "featured_collection_gRHgXR": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "feminine-hygiene",
+            "image_position": "center center"
+          }
+        },
+        "featured_collection_jir3Fx": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "dry-skin-hydration",
+            "image_position": "center center"
+          }
+        },
+        "featured_collection_BHqeqF": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "glow-scent-essentials",
+            "image_position": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_Ewm6bf",
+        "featured_collection_hiCTFX",
+        "featured_collection_JKcHHE",
+        "featured_collection_gRHgXR",
+        "featured_collection_jir3Fx",
+        "featured_collection_BHqeqF"
+      ],
+      "settings": {
+        "show_view_all": true,
+        "show_divider": false,
+        "columns_desktop": 3,
+        "heading": "Collections",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "heading_tag": "h2",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "image_ratio": "square",
+        "apply_overlay": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "17719503537217fcc8": {
       "type": "apps",
       "blocks": {
@@ -801,6 +871,7 @@
       "block_order": [
         "judge_me_reviews_store_summary_TdWPEG"
       ],
+      "disabled": true,
       "settings": {
         "include_margins": true,
         "show_divider": false,
@@ -838,6 +909,315 @@
         "gradient_background": "",
         "padding_top": 20,
         "padding_bottom": 20
+      }
+    },
+    "shop_the_look_Fd8hze": {
+      "type": "shop-the-look",
+      "blocks": {
+        "product_yrXUzf": {
+          "type": "product",
+          "settings": {
+            "product": "peach-polish-shaving-gel-booty-body",
+            "color": "#62baab",
+            "horizontal": 30,
+            "vertical": 40
+          }
+        },
+        "product_6KmnGy": {
+          "type": "product",
+          "settings": {
+            "product": "peach-polish-aftershave-oil",
+            "color": "#62baab",
+            "horizontal": 78,
+            "vertical": 27
+          }
+        },
+        "product_t83DUT": {
+          "type": "product",
+          "settings": {
+            "product": "peach-polish-booty-scrub",
+            "color": "#62baab",
+            "horizontal": 58,
+            "vertical": 55
+          }
+        }
+      },
+      "block_order": [
+        "product_yrXUzf",
+        "product_6KmnGy",
+        "product_t83DUT"
+      ],
+      "name": "t:sections.shop-the-look.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/intimate-shaving-kit-for-sensitive-areas-bikini-underarms-and-booty-8784264.png",
+        "layout": "image_first",
+        "text_box_position": "top",
+        "text_alignment": "left",
+        "mobile_text_alignment": "left",
+        "full_width": false,
+        "show_divider": false,
+        "heading": "Ingrown Hairs & Shaving Irritations? The Intimate Shaving Kit is a Game-Changer!",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "heading_tag": "h2",
+        "image_ratio": "adapt",
+        "image_position": "center center",
+        "enable_image_fill": true,
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": true,
+        "show_quick_buy": true,
+        "enable_quick_view": true,
+        "enable_color_swatches": true,
+        "enable_countdown": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "scrolling_promotion_k9dVtt": {
+      "type": "scrolling-promotion",
+      "blocks": {
+        "announcement_DjFHdx": {
+          "type": "announcement",
+          "settings": {
+            "icon": "none",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "text": "Fun. Simple. Effective",
+            "text_size": 20,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "announcement_DjFHdx"
+      ],
+      "custom_css": [
+        ".promotion__text {font-weight: 900;}"
+      ],
+      "settings": {
+        "direction": "left",
+        "speed": 1.6,
+        "show_divider": false,
+        "use_custom_colors": true,
+        "colors_icon": "#ffffff",
+        "colors_text": "#ffffff",
+        "colors_background": "#7dcfc0",
+        "gradient_background": "",
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
+    "images_with_text_cnmQXW": {
+      "type": "images-with-text",
+      "blocks": {
+        "heading_PBHfNc": {
+          "type": "heading",
+          "settings": {
+            "heading": "Start taking real care of yourself",
+            "heading_size": "h2",
+            "heading_tag": "h2"
+          }
+        },
+        "text_6GwMQm": {
+          "type": "text",
+          "settings": {
+            "text": "<p>A small daily habit can make all the difference. Reveal your smoothest, most radiant skin with our expert-formulated body care, and leave a lasting impression with the irresistible scents of our signature perfumes.<br/><strong>Confidence starts here.</strong></p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "button_84eahN": {
+          "type": "button",
+          "settings": {
+            "button_label": "Try it now",
+            "button_link": "shopify://collections/all",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_PBHfNc",
+        "text_6GwMQm",
+        "button_84eahN"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/ezgif.com-optimize.gif",
+        "image_2": "shopify://shop_images/hair-perfume-50ml-1291839.png",
+        "image_3": "shopify://shop_images/glow-getter-trio-4940635.png",
+        "image_4": "shopify://shop_images/body-butter-whipped-scented-moisturizer-200ml-4847053.jpg",
+        "image_ratio": "square",
+        "image_position": "center center",
+        "layout": "text_first",
+        "text_box_position": "middle",
+        "text_alignment": "left",
+        "mobile_text_alignment": "left",
+        "full_width": false,
+        "show_divider": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "guarantees_XCeypM": {
+      "type": "guarantees",
+      "blocks": {
+        "guarantee_t49Wpd": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "truck",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "title": "Fast Delivery",
+            "title_size": "h3",
+            "text": ""
+          }
+        },
+        "guarantee_BBxQbt": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "check_mark",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "title": "Tested & Approved by Dermatologists",
+            "title_size": "h3",
+            "text": ""
+          }
+        },
+        "guarantee_fgXaRj": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "phone",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "title": "24/7 Customer Support",
+            "title_size": "h3",
+            "text": ""
+          }
+        },
+        "guarantee_wyij4U": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "heart",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "title": "Guaranteed Results",
+            "title_size": "h3",
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "guarantee_t49Wpd",
+        "guarantee_BBxQbt",
+        "guarantee_fgXaRj",
+        "guarantee_wyij4U"
+      ],
+      "custom_css": [
+        "span {color: #ffffff;}",
+        "div {background-color: #fafafa;}"
+      ],
+      "settings": {
+        "layout": "default",
+        "column_alignment": "center",
+        "horizontal_content": false,
+        "full_width": false,
+        "show_divider": false,
+        "columns_desktop": 4,
+        "heading": "Our Guarantees",
+        "heading_size": "h1",
+        "heading_tag": "h2",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "use_custom_colors": true,
+        "colors_icon": "#9fe6d9",
+        "colors_text": "#1a1b18",
+        "colors_background": "#fafafa",
+        "gradient_background": "",
+        "padding_top": 20,
+        "padding_bottom": 32
+      }
+    },
+    "1773607819500f2ca2": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_all_reviews_page_hJk3L9": {
+          "type": "shopify://apps/judge-me-reviews/blocks/all_reviews_page/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "max_width": 1200,
+            "review_source": "all",
+            "show_all_reviews_in_same_tab": false,
+            "show_first": "product",
+            "empty_state": "empty_widget"
+          }
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_all_reviews_page_hJk3L9"
+      ],
+      "settings": {
+        "include_margins": true,
+        "show_divider": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "faq_8dnhCT": {
+      "type": "faq",
+      "blocks": {
+        "question_Xgtj77": {
+          "type": "question",
+          "settings": {
+            "title": "How many days does it need to remove my butt Acne?",
+            "text": "<p>Our products generally start giving results as soon as 14 days after use. Expect visible results in less than a month.</p>"
+          }
+        },
+        "question_abK3Ap": {
+          "type": "question",
+          "settings": {
+            "title": "Where are Essentials by Jay Products Made?",
+            "text": "<p>All our products are proudly made in Lebanon with global ingredients</p>"
+          }
+        },
+        "question_Wxiyx9": {
+          "type": "question",
+          "settings": {
+            "title": "Are your products vegan & cruelty-free?",
+            "text": "<p>Yes, absolutely! We test on our bodies not on innocent animals</p>"
+          }
+        },
+        "question_cUwfdF": {
+          "type": "question",
+          "settings": {
+            "title": "Is it safe to use fragrances on the intimate area?",
+            "text": "<p>Yes, because the fragrances that we use are alcohol-free, non-irritating and have low sensitization potential.</p>"
+          }
+        },
+        "question_bCdkFL": {
+          "type": "question",
+          "settings": {
+            "title": "Do the products have side effects?",
+            "text": "<p>The products are designed to use against the skin. They are tested and perfectly safe. However, Before you add any new skin care product to your routine, dermatologists recommend doing a patch test to check for potential reactions.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "question_Xgtj77",
+        "question_abK3Ap",
+        "question_Wxiyx9",
+        "question_cUwfdF",
+        "question_bCdkFL"
+      ],
+      "settings": {
+        "narrow": false,
+        "secondary_background": false,
+        "show_divider": false,
+        "heading": "Answer to your questions",
+        "heading_size": "h2",
+        "heading_alignment": "left",
+        "heading_tag": "h2",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "collection_list_dqHFLg": {
@@ -942,6 +1322,7 @@
         "featured_collection_FUJ4tF",
         "featured_collection_MNPNRX"
       ],
+      "disabled": true,
       "name": "t:sections.collection-list.presets.name",
       "settings": {
         "show_view_all": true,
@@ -954,385 +1335,6 @@
         "columns_mobile": "2",
         "swipe_on_mobile": true,
         "image_ratio": "landscape",
-        "apply_overlay": true,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "shop_the_look_Fd8hze": {
-      "type": "shop-the-look",
-      "blocks": {
-        "product_yrXUzf": {
-          "type": "product",
-          "settings": {
-            "product": "peach-polish-shaving-gel-booty-body",
-            "color": "#62baab",
-            "horizontal": 30,
-            "vertical": 40
-          }
-        },
-        "product_6KmnGy": {
-          "type": "product",
-          "settings": {
-            "product": "peach-polish-aftershave-oil",
-            "color": "#62baab",
-            "horizontal": 78,
-            "vertical": 27
-          }
-        },
-        "product_t83DUT": {
-          "type": "product",
-          "settings": {
-            "product": "peach-polish-booty-scrub",
-            "color": "#62baab",
-            "horizontal": 58,
-            "vertical": 55
-          }
-        }
-      },
-      "block_order": [
-        "product_yrXUzf",
-        "product_6KmnGy",
-        "product_t83DUT"
-      ],
-      "name": "t:sections.shop-the-look.presets.name",
-      "settings": {
-        "image": "shopify://shop_images/intimate-shaving-kit-for-sensitive-areas-bikini-underarms-and-booty-8784264.png",
-        "layout": "image_first",
-        "text_box_position": "top",
-        "text_alignment": "left",
-        "mobile_text_alignment": "left",
-        "full_width": false,
-        "show_divider": false,
-        "heading": "Ingrown Hairs & Shaving Irritations? The Intimate Shaving Kit is a Game-Changer!",
-        "heading_size": "h1",
-        "heading_alignment": "center",
-        "heading_tag": "h2",
-        "image_ratio": "adapt",
-        "image_position": "center center",
-        "enable_image_fill": true,
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": true,
-        "show_quick_buy": true,
-        "enable_quick_view": true,
-        "enable_color_swatches": true,
-        "enable_countdown": true,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "guarantees_XCeypM": {
-      "type": "guarantees",
-      "blocks": {
-        "guarantee_t49Wpd": {
-          "type": "guarantee",
-          "settings": {
-            "icon": "truck",
-            "icon_size": "medium",
-            "custom_icon": "",
-            "title": "Fast Delivery",
-            "title_size": "h3",
-            "text": ""
-          }
-        },
-        "guarantee_BBxQbt": {
-          "type": "guarantee",
-          "settings": {
-            "icon": "check_mark",
-            "icon_size": "medium",
-            "custom_icon": "",
-            "title": "Tested & Approved by Dermatologists",
-            "title_size": "h3",
-            "text": ""
-          }
-        },
-        "guarantee_fgXaRj": {
-          "type": "guarantee",
-          "settings": {
-            "icon": "phone",
-            "icon_size": "medium",
-            "custom_icon": "",
-            "title": "24/7 Customer Support",
-            "title_size": "h3",
-            "text": ""
-          }
-        },
-        "guarantee_wyij4U": {
-          "type": "guarantee",
-          "settings": {
-            "icon": "heart",
-            "icon_size": "medium",
-            "custom_icon": "",
-            "title": "Guaranteed Results",
-            "title_size": "h3",
-            "text": ""
-          }
-        }
-      },
-      "block_order": [
-        "guarantee_t49Wpd",
-        "guarantee_BBxQbt",
-        "guarantee_fgXaRj",
-        "guarantee_wyij4U"
-      ],
-      "custom_css": [
-        "span {color: #ffffff;}",
-        "div {background-color: #fafafa;}"
-      ],
-      "settings": {
-        "layout": "default",
-        "column_alignment": "center",
-        "horizontal_content": false,
-        "full_width": false,
-        "show_divider": false,
-        "columns_desktop": 4,
-        "heading": "Our Guarantees",
-        "heading_size": "h1",
-        "heading_tag": "h2",
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "use_custom_colors": true,
-        "colors_icon": "#9fe6d9",
-        "colors_text": "#1a1b18",
-        "colors_background": "#fafafa",
-        "gradient_background": "",
-        "padding_top": 20,
-        "padding_bottom": 32
-      }
-    },
-    "scrolling_promotion_k9dVtt": {
-      "type": "scrolling-promotion",
-      "blocks": {
-        "announcement_DjFHdx": {
-          "type": "announcement",
-          "settings": {
-            "icon": "none",
-            "icon_size": "medium",
-            "custom_icon": "",
-            "text": "Fun. Simple. Effective",
-            "text_size": 20,
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "announcement_DjFHdx"
-      ],
-      "custom_css": [
-        ".promotion__text {font-weight: 900;}"
-      ],
-      "settings": {
-        "direction": "left",
-        "speed": 1.6,
-        "show_divider": false,
-        "use_custom_colors": true,
-        "colors_icon": "#ffffff",
-        "colors_text": "#ffffff",
-        "colors_background": "#7dcfc0",
-        "gradient_background": "",
-        "padding_top": 20,
-        "padding_bottom": 20
-      }
-    },
-    "images_with_text_cnmQXW": {
-      "type": "images-with-text",
-      "blocks": {
-        "heading_PBHfNc": {
-          "type": "heading",
-          "settings": {
-            "heading": "Start taking real care of yourself",
-            "heading_size": "h2",
-            "heading_tag": "h2"
-          }
-        },
-        "text_6GwMQm": {
-          "type": "text",
-          "settings": {
-            "text": "<p>A small daily habit can make all the difference. Reveal your smoothest, most radiant skin with our expert-formulated body care, and leave a lasting impression with the irresistible scents of our signature perfumes.<br/><strong>Confidence starts here.</strong></p>",
-            "text_size": "typeset2",
-            "secondary_color": false
-          }
-        },
-        "button_84eahN": {
-          "type": "button",
-          "settings": {
-            "button_label": "Try it now",
-            "button_link": "shopify://collections/all",
-            "button_size": "medium",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_PBHfNc",
-        "text_6GwMQm",
-        "button_84eahN"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/ezgif.com-optimize.gif",
-        "image_2": "shopify://shop_images/hair-perfume-50ml-1291839.png",
-        "image_3": "shopify://shop_images/glow-getter-trio-4940635.png",
-        "image_4": "shopify://shop_images/body-butter-whipped-scented-moisturizer-200ml-4847053.jpg",
-        "image_ratio": "square",
-        "image_position": "center center",
-        "layout": "text_first",
-        "text_box_position": "middle",
-        "text_alignment": "left",
-        "mobile_text_alignment": "left",
-        "full_width": false,
-        "show_divider": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "1773607819500f2ca2": {
-      "type": "apps",
-      "blocks": {
-        "judge_me_reviews_all_reviews_page_hJk3L9": {
-          "type": "shopify://apps/judge-me-reviews/blocks/all_reviews_page/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-            "max_width": 1200,
-            "review_source": "all",
-            "show_all_reviews_in_same_tab": false,
-            "show_first": "product",
-            "empty_state": "empty_widget"
-          }
-        }
-      },
-      "block_order": [
-        "judge_me_reviews_all_reviews_page_hJk3L9"
-      ],
-      "settings": {
-        "include_margins": true,
-        "show_divider": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "faq_8dnhCT": {
-      "type": "faq",
-      "blocks": {
-        "question_Xgtj77": {
-          "type": "question",
-          "settings": {
-            "title": "How many days does it need to remove my butt Acne?",
-            "text": "<p>Our products generally start giving results as soon as 14 days after use. Expect visible results in less than a month.</p>"
-          }
-        },
-        "question_abK3Ap": {
-          "type": "question",
-          "settings": {
-            "title": "Where are Essentials by Jay Products Made?",
-            "text": "<p>All our products are proudly made in Lebanon with global ingredients</p>"
-          }
-        },
-        "question_Wxiyx9": {
-          "type": "question",
-          "settings": {
-            "title": "Are your products vegan & cruelty-free?",
-            "text": "<p>Yes, absolutely! We test on our bodies not on innocent animals</p>"
-          }
-        },
-        "question_cUwfdF": {
-          "type": "question",
-          "settings": {
-            "title": "Is it safe to use fragrances on the intimate area?",
-            "text": "<p>Yes, because the fragrances that we use are alcohol-free, non-irritating and have low sensitization potential.</p>"
-          }
-        },
-        "question_bCdkFL": {
-          "type": "question",
-          "settings": {
-            "title": "Do the products have side effects?",
-            "text": "<p>The products are designed to use against the skin. They are tested and perfectly safe. However, Before you add any new skin care product to your routine, dermatologists recommend doing a patch test to check for potential reactions.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "question_Xgtj77",
-        "question_abK3Ap",
-        "question_Wxiyx9",
-        "question_cUwfdF",
-        "question_bCdkFL"
-      ],
-      "settings": {
-        "narrow": false,
-        "secondary_background": false,
-        "show_divider": false,
-        "heading": "Answer to your questions",
-        "heading_size": "h2",
-        "heading_alignment": "left",
-        "heading_tag": "h2",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "collection_list_XdnJ8d": {
-      "type": "collection-list",
-      "blocks": {
-        "featured_collection_Ewm6bf": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "bundle-save",
-            "image_position": "center center"
-          }
-        },
-        "featured_collection_hiCTFX": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "best-sellers",
-            "image_position": "center center"
-          }
-        },
-        "featured_collection_JKcHHE": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "body-personal-care",
-            "image_position": "center center"
-          }
-        },
-        "featured_collection_gRHgXR": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "feminine-hygiene",
-            "image_position": "center center"
-          }
-        },
-        "featured_collection_jir3Fx": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "dry-skin-hydration",
-            "image_position": "center center"
-          }
-        },
-        "featured_collection_BHqeqF": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "glow-scent-essentials",
-            "image_position": "center center"
-          }
-        }
-      },
-      "block_order": [
-        "featured_collection_Ewm6bf",
-        "featured_collection_hiCTFX",
-        "featured_collection_JKcHHE",
-        "featured_collection_gRHgXR",
-        "featured_collection_jir3Fx",
-        "featured_collection_BHqeqF"
-      ],
-      "settings": {
-        "show_view_all": true,
-        "show_divider": false,
-        "columns_desktop": 3,
-        "heading": "Collections",
-        "heading_size": "h1",
-        "heading_alignment": "left",
-        "heading_tag": "h2",
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "image_ratio": "square",
         "apply_overlay": true,
         "padding_top": 36,
         "padding_bottom": 36
@@ -1352,18 +1354,18 @@
     "slideshow",
     "scrolling_promotion_VN6K3k",
     "image_with_text_overlay_dCjCxA",
+    "collection_list_XdnJ8d",
     "17719503537217fcc8",
-    "collection_list_dqHFLg",
     "scrolling_promotion_dRQJEk",
     "featured-product",
     "17737597684c62b5c7",
     "scrolling_promotion_VxUAFL",
     "shop_the_look_Fd8hze",
-    "guarantees_XCeypM",
     "scrolling_promotion_k9dVtt",
     "images_with_text_cnmQXW",
+    "guarantees_XCeypM",
     "1773607819500f2ca2",
     "faq_8dnhCT",
-    "collection_list_XdnJ8d"
+    "collection_list_dqHFLg"
   ]
 }
