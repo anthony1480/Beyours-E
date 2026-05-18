@@ -265,6 +265,14 @@
         "padding_bottom": 20
       }
     },
+    "empty_space_FdGKhA": {
+      "type": "empty-space",
+      "name": "t:sections.empty-space.presets.name",
+      "settings": {
+        "desktop_height": 40,
+        "mobile_height": 28
+      }
+    },
     "scrolling_promotion_Kceyqp": {
       "type": "scrolling-promotion",
       "blocks": {
@@ -424,6 +432,7 @@
         "testimonial_6qEFNc",
         "testimonial_9XAeW9"
       ],
+      "disabled": true,
       "name": "t:sections.testimonials.presets.name",
       "settings": {
         "autorotate": false,
@@ -490,6 +499,14 @@
         "padding_bottom": 36
       }
     },
+    "empty_space_UNKhdw": {
+      "type": "empty-space",
+      "name": "t:sections.empty-space.presets.name",
+      "settings": {
+        "desktop_height": 40,
+        "mobile_height": 28
+      }
+    },
     "scrolling_promotion_erpzW6": {
       "type": "scrolling-promotion",
       "blocks": {
@@ -548,7 +565,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/IMG-6678.jpg",
+        "image": "shopify://shop_images/2_b2f3867a-6788-49ef-8b56-3bb233378b04.png",
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",
@@ -558,7 +575,7 @@
         "full_width": false,
         "show_divider": false,
         "image_behavior": "none",
-        "image_mobile": "shopify://shop_images/IMG-6678.jpg",
+        "image_mobile": "shopify://shop_images/2_b2f3867a-6788-49ef-8b56-3bb233378b04.png",
         "mobile_layout": "image_first",
         "mobile_text_alignment": "left",
         "mobile_image_ratio": "auto",
@@ -771,10 +788,12 @@
     "scrolling_promotion_HiHhFg",
     "empty-space",
     "main",
+    "empty_space_FdGKhA",
     "scrolling_promotion_Kceyqp",
     "image_with_text_jah6fq",
     "testimonials_txwjJ3",
     "image_with_text_zaWGhV",
+    "empty_space_UNKhdw",
     "scrolling_promotion_erpzW6",
     "image_with_text_GFA3jk",
     "guarantees",
