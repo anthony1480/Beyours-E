@@ -258,6 +258,14 @@
         "padding_bottom": 20
       }
     },
+    "empty_space_bPUTWn": {
+      "type": "empty-space",
+      "name": "t:sections.empty-space.presets.name",
+      "settings": {
+        "desktop_height": 40,
+        "mobile_height": 28
+      }
+    },
     "scrolling_promotion_FgCQQN": {
       "type": "scrolling-promotion",
       "blocks": {
@@ -403,14 +411,6 @@
         "padding_bottom": 36
       }
     },
-    "empty_space_bPUTWn": {
-      "type": "empty-space",
-      "name": "t:sections.empty-space.presets.name",
-      "settings": {
-        "desktop_height": 40,
-        "mobile_height": 28
-      }
-    },
     "image_with_text_GydYkH": {
       "type": "image-with-text",
       "blocks": {
@@ -437,7 +437,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/4_03481889-4380-4492-b285-b4da40875797.png",
+        "image": "shopify://shop_images/feminine-hygiene-duo-daily-intimate-wash-bikini-perfume-8348706.png",
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",
@@ -447,7 +447,7 @@
         "full_width": false,
         "show_divider": false,
         "image_behavior": "none",
-        "image_mobile": "shopify://shop_images/4_03481889-4380-4492-b285-b4da40875797.png",
+        "image_mobile": "shopify://shop_images/feminine-hygiene-duo-daily-intimate-wash-bikini-perfume-8348706.png",
         "mobile_layout": "text_first",
         "mobile_text_alignment": "left",
         "mobile_image_ratio": "auto",
