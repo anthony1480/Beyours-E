@@ -109,7 +109,7 @@
             "max_width": 1100,
             "corner_styling": "soft",
             "quote_marks_style": "serif",
-            "card_color": "#F9F9F9",
+            "card_color": "#f9f9f9",
             "stars_and_quote_marks_color": "#ffb503",
             "text_color": "#000000",
             "arrows_color": "#000000",
@@ -118,7 +118,8 @@
             "show_drop_shadow": false,
             "transition_speed": 5,
             "header_text": "Customers are saying",
-            "show_average_rating": true
+            "show_average_rating": true,
+            "rating_display": "default"
           }
         },
         "price": {
@@ -184,7 +185,7 @@
           "settings": {
             "icon": "leaf",
             "heading": "Ingredients",
-            "content": "<p>Aqua, Rosa Damascena Flower Water, Decyl Glucoside, Cocamidopropyl Betaine, Glycerin, Camellia Sinensis Leaf Extract, Parfum, Xanthan Gum, Diazolidinyl Urea (and) Iodopropynyl Butylcarbamate (and) Propylene, Citric acid.<br/>PH 5 - 5.5</p>",
+            "content": "<p>Aqua, Rosa Damascena Flower Water, Decyl Glucoside, Cocamidopropyl Betaine, Glycerin, Camellia Sinensis Leaf Extract, Parfum, Xanthan Gum, Diazolidinyl Urea (and) Iodopropynyl Butylcarbamate (and) Propylene, Citric acid.<br/>PH 4 - 4.5</p>",
             "page": "",
             "custom_liquid": "",
             "keep_open": false
