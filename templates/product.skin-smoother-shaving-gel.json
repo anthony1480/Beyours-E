@@ -86,7 +86,8 @@
             "show_drop_shadow": false,
             "transition_speed": 5,
             "header_text": "Customers are saying",
-            "show_average_rating": true
+            "show_average_rating": true,
+            "rating_display": "default"
           }
         },
         "price": {
@@ -262,21 +263,11 @@
             "text_size": "typeset2",
             "secondary_color": false
           }
-        },
-        "button_qqPt7i": {
-          "type": "button",
-          "settings": {
-            "button_label": "Love your skin",
-            "button_link": "shopify://products/peach-polish-shaving-gel-booty-body",
-            "button_size": "medium",
-            "button_style_secondary": true
-          }
         }
       },
       "block_order": [
         "heading_AaUpYD",
-        "text_H4jBtX",
-        "button_qqPt7i"
+        "text_H4jBtX"
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
@@ -295,6 +286,7 @@
         "mobile_text_alignment": "left",
         "mobile_image_ratio": "auto",
         "enable_video_looping": false,
+        "video_url": "",
         "use_custom_colors": false,
         "colors_button_label": "#ffffff",
         "colors_button_background": "#1a1b18",
@@ -388,16 +380,26 @@
         "text_4DQrEY": {
           "type": "text",
           "settings": {
-            "text": "<p>Our Intimate Shaving Kit is formulated for intimate areas and all skin types. It preps the skin, protects it during shaving, and soothes and hydrates post-shave while helping reduce ingrown hairs and irritation.</p><p><strong>Tested for effective, reliable results.</strong><br/><br/><br/><br/></p>",
+            "text": "<p>We created this routine, with sensitive skin in mind, to make shaving feel smoother, safer, and more comfortable on the skin.</p><p>It works in 3 simple steps to prep, protect, and soothe the skin throughout the process, helping reduce irritation, redness, micro-cuts, and ingrown hairs while supporting skin recovery from start to finish.</p>",
             "text_size": "typeset2",
             "secondary_color": false
+          }
+        },
+        "button_638CeY": {
+          "type": "button",
+          "settings": {
+            "button_label": "Prep, Protect, Repair!",
+            "button_link": "shopify://products/intimate-shaving-kit-for-the-booty-bikini",
+            "button_size": "medium",
+            "button_style_secondary": true
           }
         }
       },
       "block_order": [
         "heading_dpeidU",
         "subheading_c3XRmH",
-        "text_4DQrEY"
+        "text_4DQrEY",
+        "button_638CeY"
       ],
       "settings": {
         "image": "shopify://shop_images/intimate-shaving-kit-for-sensitive-areas-bikini-underarms-and-booty-8784264.png",
@@ -485,7 +487,7 @@
         "heading_gyHQzi": {
           "type": "heading",
           "settings": {
-            "heading": "Start Shaving Right!",
+            "heading": "Shaving done right!",
             "heading_size": "h2",
             "heading_tag": "h2"
           }
@@ -493,15 +495,25 @@
         "text_pMEzbX": {
           "type": "text",
           "settings": {
-            "text": "<p>100% natural. The Intimate Shaving Kit is specifically designed to  minimize ingrown hairs, irritation, and other shaving-related concerns while supporting skin comfort and recovery. <br/><br/><br/></p>",
+            "text": "<p><strong>Step 1: Pre-Shave Scrub</strong></p><p>Gently exfoliates to smooth the skin and help lift away dead skin buildup, preparing the area for a closer, more even shave.</p><p></p><p><strong>Step 2: Shaving Gel</strong><br/>Creates a protective barrier for the skin, allowing a better razor glide while helping reduce friction, razor burn, irritation, and micro-cuts.</p><p></p><p><strong>Step 3: Aftershave Oil</strong><br/>Soothes the skin and restores moisture after shaving, helping support the skin barrier and reduce the appearance of ingrown hairs, dryness, and itchiness.</p>",
             "text_size": "typeset2",
             "secondary_color": false
+          }
+        },
+        "button_j9hJBA": {
+          "type": "button",
+          "settings": {
+            "button_label": "Start Shaving Right",
+            "button_link": "shopify://products/intimate-shaving-kit-for-the-booty-bikini",
+            "button_size": "medium",
+            "button_style_secondary": false
           }
         }
       },
       "block_order": [
         "heading_gyHQzi",
-        "text_pMEzbX"
+        "text_pMEzbX",
+        "button_j9hJBA"
       ],
       "settings": {
         "image": "shopify://shop_images/intimate-shaving-kit-for-sensitive-areas-bikini-underarms-and-booty-8784264.png",
@@ -701,8 +713,8 @@
     "image_banner_iKrdae",
     "image_banner_XAz9Uz",
     "images_with_text_t3GnhX",
-    "guarantees",
     "scrolling_promotion_UiKVGc",
+    "guarantees",
     "1717958248b0b4020b",
     "product-recommendations"
   ]
