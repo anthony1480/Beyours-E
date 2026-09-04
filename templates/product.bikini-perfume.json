@@ -488,7 +488,7 @@
           "type": "button",
           "settings": {
             "button_label": "COMPLETE THE ROUTINE",
-            "button_link": "shopify://products/feminine-hygiene-dup",
+            "button_link": "shopify://products/feminine-hygiene-duo",
             "button_size": "medium",
             "button_style_secondary": false
           }
