@@ -291,121 +291,6 @@
     },
     "1775647746f84d10b8": {
       "type": "_blocks",
-      "blocks": {
-        "ai_gen_block_619edda_f4axVA": {
-          "type": "ai_gen_block_619edda",
-          "disabled": true,
-          "settings": {
-            "quiz_title": "Find Your Perfect Routine",
-            "quiz_subtitle": "Answer 4 quick questions to discover products tailored to your skin concerns",
-            "question_1": "What’s your main body concern right now?",
-            "q1_option1_text": "Breakouts on my butt or thighs",
-            "q1_option1_icon": "💧",
-            "q1_option1_value": "dryness",
-            "q1_option2_text": "Pimples after shaving (bikini, legs, underarms…)",
-            "q1_option2_icon": "✨",
-            "q1_option2_value": "oiliness",
-            "q1_option3_text": "I want to take better care of my intimate area",
-            "q1_option3_icon": "🌸",
-            "q1_option3_value": "sensitivity",
-            "q1_option4_text": "Rough “strawberry skin” / tiny dots on my skin",
-            "q1_option4_icon": "🌿",
-            "q1_option4_value": "combination",
-            "question_2": "Where do you experience this the most?",
-            "q2_option1_text": "Butt & thighs",
-            "q2_option1_icon": "🎯",
-            "q2_option1_value": "",
-            "q2_option2_text": "Bikini area / underarms / legs (after shaving)",
-            "q2_option2_icon": "☀️",
-            "q2_option2_value": "",
-            "q2_option3_text": "Intimate area only",
-            "q2_option3_icon": "💎",
-            "q2_option3_value": "texture",
-            "q2_option4_text": "Legs / arms (strawberry skin texture)",
-            "q2_option4_icon": "✅",
-            "q2_option4_value": "none",
-            "question_3": "What does your skin usually feel/look like?",
-            "q3_option1_text": "Inflamed pimples / body acne",
-            "q3_option1_icon": "🌟",
-            "q3_option1_value": "brightening",
-            "q3_option2_text": "Small red bumps after shaving",
-            "q3_option2_icon": "💦",
-            "q3_option2_value": "hydration",
-            "q3_option3_text": "Sensitive / easily irritated / needs freshness",
-            "q3_option3_icon": "🧴",
-            "q3_option3_value": "smoothing",
-            "q3_option4_text": "Rough texture with visible dots (like strawberry skin)",
-            "q3_option4_icon": "🍃",
-            "q3_option4_value": "soothing",
-            "question_4": "What’s your goal?",
-            "q4_option1_text": "Clear body acne and smooth my skin",
-            "q4_option1_icon": "🌅",
-            "q4_option1_value": "morning",
-            "q4_option2_text": "Stop breakouts after shaving",
-            "q4_option2_icon": "🌙",
-            "q4_option2_value": "evening",
-            "q4_option3_text": "Feel clean, fresh & confident down there",
-            "q4_option3_icon": "⏰",
-            "q4_option3_value": "both",
-            "q4_option4_text": "Get smooth, even-looking skin",
-            "q4_option4_icon": "",
-            "q4_option4_value": "",
-            "concern_logic": "q3",
-            "concern1_value": "brightening",
-            "concern1_name": "Brightening & Radiance",
-            "concern1_description": "Your skin needs products that enhance glow and even out tone for a radiant complexion.",
-            "concern1_products": [],
-            "concern2_value": "hydration",
-            "concern2_name": "Deep Hydration",
-            "concern2_description": "Your skin craves moisture. These products will help restore and maintain optimal hydration levels.",
-            "concern2_products": [],
-            "concern3_value": "acne",
-            "concern3_name": "Acne & Blemish Control",
-            "concern3_description": "Target breakouts and prevent future blemishes with these specially formulated products.",
-            "concern3_products": [],
-            "concern4_value": "sensitivity",
-            "concern4_name": "Sensitive Skin Care",
-            "concern4_description": "Gentle, soothing products designed to calm and protect sensitive skin.",
-            "concern4_products": [],
-            "concern5_value": "general",
-            "concern5_name": "Complete Skin Care",
-            "concern5_description": "A balanced routine to maintain healthy, beautiful skin.",
-            "concern5_products": [],
-            "results_title": "Your Personalized Recommendations",
-            "restart_text": "Retake Quiz",
-            "desktop_width_percent": 100,
-            "padding_vertical": 60,
-            "padding_horizontal": 40,
-            "border_radius": 12,
-            "option_radius": 8,
-            "button_radius": 26,
-            "background_color": "#ffffff",
-            "text_color": "#212326",
-            "subtitle_color": "#666666",
-            "accent_color": "#62baab",
-            "option_bg": "#ffffff",
-            "option_border": "#d2d5d9",
-            "option_selected_text": "#ffffff",
-            "product_bg": "#f9f9f9",
-            "progress_bg": "#f3f3f3",
-            "progress_color": "#62baab",
-            "title_size": 36,
-            "subtitle_size": 16,
-            "question_size": 24,
-            "option_size": 16,
-            "button_size": 16,
-            "results_title_size": 32,
-            "concern_size": 18,
-            "description_size": 16,
-            "product_title_size": 18,
-            "product_price_size": 16
-          },
-          "blocks": {}
-        }
-      },
-      "block_order": [
-        "ai_gen_block_619edda_f4axVA"
-      ],
       "settings": {}
     },
     "slideshow": {
@@ -454,6 +339,49 @@
         "colors_navigation_text": "#ffffff",
         "colors_navigation_background": "#1a1b18",
         "padding_top": 0,
+        "padding_bottom": 20
+      }
+    },
+    "rich-text-0": {
+      "type": "rich-text",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Unleash your inner confidence",
+            "heading_size": "h2",
+            "heading_tag": "h2"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Meet the brand that has changed the life of 15,000+ People</p>",
+            "text_size": "typeset3",
+            "secondary_color": false,
+            "highlight_phrases": "brand\n15,000+ People",
+            "highlight_style": "underline"
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": true,
+        "show_divider": false,
+        "use_custom_colors": true,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "colors_highlight": "#a94759",
+        "gradient_background": "",
+        "padding_top": 20,
         "padding_bottom": 20
       }
     },
@@ -618,49 +546,6 @@
         "padding_bottom": 36
       }
     },
-    "rich-text-0": {
-      "type": "rich-text",
-      "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "Unleash your inner confidence",
-            "heading_size": "h2",
-            "heading_tag": "h2"
-          }
-        },
-        "text": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Meet the brand that has changed the life of 15,000+ People</p>",
-            "text_size": "typeset3",
-            "secondary_color": false,
-            "highlight_phrases": "brand\n15,000+ People",
-            "highlight_style": "underline"
-          }
-        }
-      },
-      "block_order": [
-        "heading",
-        "text"
-      ],
-      "settings": {
-        "text_alignment": "center",
-        "mobile_text_alignment": "center",
-        "horizontal_content": false,
-        "narrow": true,
-        "show_divider": false,
-        "use_custom_colors": true,
-        "colors_button_label": "#ffffff",
-        "colors_button_background": "#1a1b18",
-        "colors_text": "#212326",
-        "colors_background": "#ffffff",
-        "colors_highlight": "#a94759",
-        "gradient_background": "",
-        "padding_top": 20,
-        "padding_bottom": 20
-      }
-    },
     "17719503537217fcc8": {
       "type": "apps",
       "blocks": {
@@ -670,6 +555,9 @@
             "show_sample_reviews": true,
             "reviews_selection": "all",
             "products": [],
+            "filter_pinned": false,
+            "filter_featured": false,
+            "filter_custom_tags": "",
             "star_rating": "all",
             "show_review_media": true,
             "display_order": "most_recent",
@@ -692,7 +580,8 @@
             "arrows_color": "#000000",
             "transition_speed": 5,
             "header_text": "Real Skin, Real Talk",
-            "show_average_rating": true
+            "show_average_rating": true,
+            "rating_display": "default"
           }
         }
       },
