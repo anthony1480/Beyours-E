@@ -84,6 +84,9 @@
             "products": [
               "intimate-mist"
             ],
+            "filter_pinned": false,
+            "filter_featured": false,
+            "filter_custom_tags": "",
             "star_rating": "all",
             "max_reviews": 20,
             "quote_marks_size": "small",
@@ -105,7 +108,8 @@
             "show_drop_shadow": false,
             "transition_speed": 5,
             "header_text": "Customers are saying",
-            "show_average_rating": true
+            "show_average_rating": true,
+            "rating_display": "default"
           }
         },
         "price": {
@@ -326,7 +330,7 @@
       "type": "image-banner",
       "name": "t:sections.image-banner.presets.name",
       "settings": {
-        "image": "shopify://shop_images/Feel_Fresh._Feel_Confident..png",
+        "image": "shopify://shop_images/Feel_Fresh._Feel_Confident._1.png",
         "image_position": "center center",
         "text_box_position": "middle-center",
         "text_alignment": "center",
@@ -335,7 +339,7 @@
         "full_width": true,
         "show_divider": false,
         "image_behavior": "none",
-        "mobile_image": "shopify://shop_images/Feel_Fresh._Feel_Confident..png",
+        "mobile_image": "shopify://shop_images/Feel_Fresh._Feel_Confident._1.png",
         "mobile_text_alignment": "center",
         "mobile_image_ratio": "adapt",
         "stack_images_on_mobile": true,
@@ -385,7 +389,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/Intimate_Hygiene_Ad_13.png",
+        "image": "shopify://shop_images/Intimate_Hygiene_Ad_17.png",
         "image_position": "center center",
         "layout": "text_first",
         "text_box_position": "middle",
@@ -395,7 +399,7 @@
         "full_width": false,
         "show_divider": false,
         "image_behavior": "none",
-        "image_mobile": "shopify://shop_images/Intimate_Hygiene_Ad_13.png",
+        "image_mobile": "shopify://shop_images/Intimate_Hygiene_Ad_17.png",
         "mobile_layout": "text_first",
         "mobile_text_alignment": "left",
         "mobile_image_ratio": "auto",
@@ -429,15 +433,25 @@
             "text_size": "typeset2",
             "secondary_color": false
           }
+        },
+        "button_Ec9xeP": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop the Feminine Hygiene Duo",
+            "button_link": "",
+            "button_size": "small",
+            "button_style_secondary": false
+          }
         }
       },
       "block_order": [
         "heading_bnegMD",
-        "text_YghWDy"
+        "text_YghWDy",
+        "button_Ec9xeP"
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/feminine-hygiene-duo-daily-intimate-wash-bikini-perfume-8348706.png",
+        "image": "shopify://shop_images/feminine-hygiene-duo-daily-intimate-wash-bikini-perfume-new-packaging-9616965.png",
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",
@@ -447,7 +461,7 @@
         "full_width": false,
         "show_divider": false,
         "image_behavior": "none",
-        "image_mobile": "shopify://shop_images/feminine-hygiene-duo-daily-intimate-wash-bikini-perfume-8348706.png",
+        "image_mobile": "shopify://shop_images/feminine-hygiene-duo-daily-intimate-wash-bikini-perfume-new-packaging-9616965.png",
         "mobile_layout": "text_first",
         "mobile_text_alignment": "left",
         "mobile_image_ratio": "auto",
