@@ -63,6 +63,9 @@
             "show_sample_reviews": false,
             "reviews_selection": "current_product",
             "products": [],
+            "filter_pinned": false,
+            "filter_featured": false,
+            "filter_custom_tags": "",
             "star_rating": "all",
             "max_reviews": 20,
             "quote_marks_size": "small",
@@ -304,7 +307,7 @@
         "text_4DQrEY"
       ],
       "settings": {
-        "image": "shopify://shop_images/silky-smooth-shaving-kit-for-all-body-parts-legs-arms-back-and-underarms-9368208.png",
+        "image": "shopify://shop_images/intimate-shaving-kit-for-body-sensitive-areas-4627765.jpg",
         "image_position": "center center",
         "layout": "text_first",
         "text_box_position": "middle",
@@ -408,10 +411,10 @@
         "text_pMEzbX"
       ],
       "settings": {
-        "image": "shopify://shop_images/ezgif.com-optimize.gif",
-        "image_2": "shopify://shop_images/silky-smooth-shaving-kit-for-all-body-parts-legs-arms-back-and-underarms-3114029.png",
-        "image_3": "shopify://shop_images/silky-smooth-shaving-kit-for-all-body-parts-legs-arms-back-and-underarms-9368208.png",
-        "image_4": "shopify://shop_images/silky-smooth-shaving-kit-for-all-body-parts-legs-arms-back-and-underarms-1827472.png",
+        "image": "shopify://shop_images/intimate-shaving-kit-for-body-sensitive-areas-4627765.jpg",
+        "image_2": "shopify://shop_images/peach-polish-booty-scrub-200g-9485907.jpg",
+        "image_3": "shopify://shop_images/skin-smoother-shaving-gel-all-body-parts-300ml-7361539.jpg",
+        "image_4": "shopify://shop_images/intimate-shaving-kit-for-body-sensitive-areas-1665399.jpg",
         "image_ratio": "portrait",
         "image_position": "center center",
         "layout": "image_first",
