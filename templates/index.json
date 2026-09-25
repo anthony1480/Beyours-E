@@ -84,7 +84,7 @@
         "heading_pimmY6": {
           "type": "heading",
           "settings": {
-            "heading": "BLACK FRIDAY SALE",
+            "heading": "END OF SUMMER SALE",
             "heading_size": "h0",
             "heading_tag": "h2"
           }
@@ -92,7 +92,7 @@
         "text_XCTVHb": {
           "type": "text",
           "settings": {
-            "text": "<p>BUY 2 GET 2 FREE </p>",
+            "text": "<p>BUY 2 GET 15% OFF</p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -100,7 +100,7 @@
         "text_hgdMa8": {
           "type": "text",
           "settings": {
-            "text": "<p>On selected products and bundle</p>",
+            "text": "<p>CODE: SUMMER15&nbsp;</p>",
             "text_size": "typeset",
             "secondary_color": false
           }
@@ -121,10 +121,9 @@
         "text_hgdMa8",
         "button_Udtwdk"
       ],
-      "disabled": true,
       "name": "t:sections.image-banner.presets.name",
       "settings": {
-        "image": "shopify://shop_images/IMG_3137.jpg",
+        "image": "shopify://shop_images/shopify_website_banner_sale_15.png",
         "image_position": "center center",
         "text_box_position": "middle-right",
         "text_alignment": "center",
@@ -238,6 +237,7 @@
     },
     "video_hero_LjKpxA": {
       "type": "video-hero",
+      "disabled": true,
       "settings": {
         "video": "shopify://files/videos/fem hygiene duo - video website .MOV",
         "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
