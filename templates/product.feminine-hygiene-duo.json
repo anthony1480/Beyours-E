@@ -92,6 +92,9 @@
             "products": [
               "feminine-hygiene-duo"
             ],
+            "filter_pinned": false,
+            "filter_featured": false,
+            "filter_custom_tags": "",
             "star_rating": "all",
             "max_reviews": 20,
             "quote_marks_size": "small",
@@ -342,7 +345,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/Intimate_Hygiene_Ad_11.png",
+        "image": "shopify://shop_images/Intimate_Hygiene_Ad_16.png",
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",
@@ -352,6 +355,7 @@
         "full_width": false,
         "show_divider": false,
         "image_behavior": "none",
+        "image_mobile": "shopify://shop_images/Intimate_Hygiene_Ad_16.png",
         "mobile_layout": "image_first",
         "mobile_text_alignment": "left",
         "mobile_image_ratio": "auto",
@@ -474,7 +478,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/Intimate_Hygiene_Ad_13.png",
+        "image": "shopify://shop_images/Intimate_Hygiene_Ad_15.png",
         "image_position": "center center",
         "layout": "text_first",
         "text_box_position": "middle",
@@ -484,7 +488,7 @@
         "full_width": false,
         "show_divider": false,
         "image_behavior": "none",
-        "image_mobile": "shopify://shop_images/Intimate_Hygiene_Ad_13.png",
+        "image_mobile": "shopify://shop_images/Intimate_Hygiene_Ad_15.png",
         "mobile_layout": "image_first",
         "mobile_text_alignment": "left",
         "mobile_image_ratio": "auto",
@@ -566,7 +570,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/feminine-hygiene-duo-daily-intimate-wash-bikini-perfume-8348706.png",
+        "image": "shopify://shop_images/feminine-hygiene-duo-daily-intimate-wash-bikini-perfume-new-packaging-9616965.png",
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",
