@@ -476,7 +476,7 @@
       ],
       "name": "t:sections.image-with-text-overlay.presets.name",
       "settings": {
-        "image": "shopify://shop_images/the-essentials-kit-booty-bump-free-shaves-and-all-day-freshness-down-there-3012998.png",
+        "image": "shopify://shop_images/daily-intimate-wash-feminine-wash-300ml-3483198.png",
         "image_position": "center center",
         "text_box_position": "flex-start",
         "text_alignment": "left",
@@ -484,7 +484,7 @@
         "full_width": true,
         "show_divider": false,
         "image_behavior": "ambient",
-        "image_mobile": "shopify://shop_images/the-essentials-kit-booty-bump-free-shaves-and-all-day-freshness-down-there-3012998.png",
+        "image_mobile": "shopify://shop_images/daily-intimate-wash-feminine-wash-300ml-3483198.png",
         "mobile_text_box_position": "image_first",
         "mobile_text_alignment": "center",
         "mobile_image_ratio": "auto",
