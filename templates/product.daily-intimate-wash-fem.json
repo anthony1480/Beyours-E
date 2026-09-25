@@ -426,7 +426,7 @@
       "name": "t:sections.video.presets.name",
       "settings": {
         "enable_video_looping": true,
-        "video": "shopify://files/videos/Intimate wash usage.MOV",
+        "video": "shopify://files/videos/IMG_0112.MOV",
         "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "description": "Women using the daily intimate wash for cleanliness and freshness",
         "full_width": false,
