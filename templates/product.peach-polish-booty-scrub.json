@@ -63,6 +63,9 @@
             "show_sample_reviews": true,
             "reviews_selection": "current_product",
             "products": [],
+            "filter_pinned": false,
+            "filter_featured": false,
+            "filter_custom_tags": "",
             "star_rating": "all",
             "max_reviews": 20,
             "quote_marks_size": "small",
@@ -84,7 +87,8 @@
             "show_drop_shadow": false,
             "transition_speed": 5,
             "header_text": "Customers are saying",
-            "show_average_rating": true
+            "show_average_rating": true,
+            "rating_display": "default"
           }
         },
         "price": {
@@ -275,7 +279,7 @@
         "heading_dpeidU": {
           "type": "heading",
           "settings": {
-            "heading": "Tackle Acne & Shaving Issues in One Simple Routine",
+            "heading": "Imagine not feeling insecure about your booty... Bye Bye Bumps!",
             "heading_size": "h1",
             "heading_tag": "h2"
           }
@@ -291,7 +295,7 @@
         "text_4DQrEY": {
           "type": "text",
           "settings": {
-            "text": "<p><br/>Our products are designed for all skin types, providing hydration while targeting acne and shaving-related concerns.<strong> 100% tested and approved for guaranteed results.</strong> Pamper yourself with your kit today.<br/><br/></p>",
+            "text": "<p><br/>Our products are designed for all skin types. <strong>100% tested and approved for guaranteed results.</strong> Pamper yourself with Peach Polish Booty Scrub!<br/><br/></p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -303,7 +307,7 @@
         "text_4DQrEY"
       ],
       "settings": {
-        "image": "shopify://shop_images/acne-shaving-kit-for-the-booty-and-bikini-9453526.png",
+        "image": "shopify://shop_images/Untitled_design_10.png",
         "image_position": "center center",
         "layout": "text_first",
         "text_box_position": "middle",
