@@ -65,6 +65,9 @@
             "products": [
               "skin-smoother-shaving-gel"
             ],
+            "filter_pinned": false,
+            "filter_featured": false,
+            "filter_custom_tags": "",
             "star_rating": "all",
             "max_reviews": 20,
             "quote_marks_size": "small",
@@ -271,7 +274,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/Shopify_2.0_6.png",
+        "image": "shopify://shop_images/Shopify_2.0_8.png",
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",
@@ -281,7 +284,7 @@
         "full_width": false,
         "show_divider": false,
         "image_behavior": "none",
-        "image_mobile": "shopify://shop_images/Shopify_2.0_6.png",
+        "image_mobile": "shopify://shop_images/Shopify_2.0_8.png",
         "mobile_layout": "image_first",
         "mobile_text_alignment": "left",
         "mobile_image_ratio": "auto",
@@ -402,7 +405,7 @@
         "button_638CeY"
       ],
       "settings": {
-        "image": "shopify://shop_images/intimate-shaving-kit-for-sensitive-areas-bikini-underarms-and-booty-8784264.png",
+        "image": "shopify://shop_images/intimate-shaving-kit-for-body-sensitive-areas-4627765.jpg",
         "image_position": "center center",
         "layout": "text_first",
         "text_box_position": "middle",
@@ -412,6 +415,7 @@
         "full_width": false,
         "show_divider": false,
         "image_behavior": "none",
+        "image_mobile": "shopify://shop_images/intimate-shaving-kit-for-body-sensitive-areas-4627765.jpg",
         "mobile_layout": "image_first",
         "mobile_text_alignment": "left",
         "mobile_image_ratio": "adapt",
@@ -516,10 +520,10 @@
         "button_j9hJBA"
       ],
       "settings": {
-        "image": "shopify://shop_images/intimate-shaving-kit-for-sensitive-areas-bikini-underarms-and-booty-8784264.png",
-        "image_2": "shopify://shop_images/intimate-shaving-kit-for-sensitive-areas-bikini-underarms-and-booty-5138909.png",
-        "image_3": "shopify://shop_images/silky-smooth-shaving-kit-for-all-body-parts-legs-arms-back-and-underarms-3114029.png",
-        "image_4": "shopify://shop_images/silky-smooth-shaving-kit-for-all-body-parts-legs-arms-back-and-underarms-1265411.jpg",
+        "image": "shopify://shop_images/intimate-shaving-kit-for-body-sensitive-areas-4627765.jpg",
+        "image_2": "shopify://shop_images/peach-polish-booty-scrub-200g-9485907.jpg",
+        "image_3": "shopify://shop_images/skin-smoother-shaving-gel-all-body-parts-300ml-4082547.jpg",
+        "image_4": "shopify://shop_images/skin-smoother-aftershave-oil-7602419.jpg",
         "image_ratio": "portrait",
         "image_position": "center center",
         "layout": "image_first",
@@ -530,6 +534,40 @@
         "show_divider": false,
         "padding_top": 32,
         "padding_bottom": 36
+      }
+    },
+    "scrolling_promotion_UiKVGc": {
+      "type": "scrolling-promotion",
+      "blocks": {
+        "announcement_UQ6ENY": {
+          "type": "announcement",
+          "settings": {
+            "icon": "none",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "text": "OVER 15,000 HAPPY CUSTOMERS",
+            "text_size": 16,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "announcement_UQ6ENY"
+      ],
+      "custom_css": [
+        ".promotion__text {font-weight: 900;}"
+      ],
+      "settings": {
+        "direction": "left",
+        "speed": 1.6,
+        "show_divider": false,
+        "use_custom_colors": true,
+        "colors_icon": "#f4a6a0",
+        "colors_text": "#ffffff",
+        "colors_background": "#9fded2",
+        "gradient_background": "",
+        "padding_top": 20,
+        "padding_bottom": 20
       }
     },
     "guarantees": {
@@ -605,40 +643,6 @@
         "gradient_background": "",
         "padding_top": 36,
         "padding_bottom": 36
-      }
-    },
-    "scrolling_promotion_UiKVGc": {
-      "type": "scrolling-promotion",
-      "blocks": {
-        "announcement_UQ6ENY": {
-          "type": "announcement",
-          "settings": {
-            "icon": "none",
-            "icon_size": "medium",
-            "custom_icon": "",
-            "text": "OVER 15,000 HAPPY CUSTOMERS",
-            "text_size": 16,
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "announcement_UQ6ENY"
-      ],
-      "custom_css": [
-        ".promotion__text {font-weight: 900;}"
-      ],
-      "settings": {
-        "direction": "left",
-        "speed": 1.6,
-        "show_divider": false,
-        "use_custom_colors": true,
-        "colors_icon": "#f4a6a0",
-        "colors_text": "#ffffff",
-        "colors_background": "#9fded2",
-        "gradient_background": "",
-        "padding_top": 20,
-        "padding_bottom": 20
       }
     },
     "1717958248b0b4020b": {
