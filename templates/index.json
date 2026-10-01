@@ -84,13 +84,14 @@
         "heading_pimmY6": {
           "type": "heading",
           "settings": {
-            "heading": "END OF SUMMER SALE",
-            "heading_size": "h0",
+            "heading": "be bold. be you",
+            "heading_size": "h1",
             "heading_tag": "h2"
           }
         },
         "text_XCTVHb": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<p>BUY 2 GET 15% OFF</p>",
             "text_size": "typeset2",
@@ -99,6 +100,7 @@
         },
         "text_hgdMa8": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<p>CODE: SUMMER15&nbsp;</p>",
             "text_size": "typeset",
@@ -108,8 +110,8 @@
         "button_Udtwdk": {
           "type": "button",
           "settings": {
-            "button_label": "SHOP THE SALE",
-            "button_link": "https://www.essentialsbyjay.com/collections/black-friday-sale",
+            "button_label": "SHOP THE COLLECTION",
+            "button_link": "shopify://collections/all",
             "button_size": "large",
             "button_style_secondary": false
           }
