@@ -16,6 +16,7 @@
       "blocks": {
         "announcement_eGirXX": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "END OF SUMMER SALE 15% OFF - CODE SUMMER15",
             "text_on_mobile": "",
