@@ -140,6 +140,17 @@
             "keep_open": false
           }
         },
+        "collapsible_tab_zwUWz9": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "leaf",
+            "heading": "Ingredients",
+            "content": "<p>Peach Polish Booty Scrub: Sucrose, Aqua, Sodium Chloride, Glycerine, Cocamidopropyl Betaine, Propylene Glycol, Titanium Dioxide, Glyceryl Stearate, Cetyl Alcohol, Stearic Acid, Butyrospermum Parkii, Cocos Nucifera (Coconut) Oil, Vitis Vinifera Seed Oil, Linum Usitatissimum Seed Oil, Phenoxyethanol (and) Caprylyl Glycol, Parfum.<br/><br/>Skin Smoother Shaving Gel:&nbsp;<br/>Aqua, Glycerin, Hydroxyethylcellulose, Carbomer, Panthenol, Phenoxyethanol, Caprylyl Glycol, Allantoin,<br/>Polyquaternium-10, Disodium EDTA.&nbsp;<br/><br/>Skin Smoother Recovery Aftershave Oil: Vitis vinifera (Grape) Seed Oil, Helianthus Annuus (Sunflower) Seed Oil, Simmondsia Chinensis (Jojoba) Seed Oil, &nbsp;Oenothera biennis Oil, Linum Usitatissimum Seed Oil, Rosa Canina Fruit Oil, Melaleuca Alternifolia Leaf Oil (Tea Tree oil), Tocopherol (Vitamin E).&nbsp;</p>",
+            "page": "",
+            "custom_liquid": "",
+            "keep_open": false
+          }
+        },
         "collapsible_tab_p9YYL3": {
           "type": "collapsible_tab",
           "settings": {
@@ -173,6 +184,7 @@
         "collapsible_description_BTC9yk",
         "collapsible_tab_CdRjGG",
         "collapsible_tab_LNMEj6",
+        "collapsible_tab_zwUWz9",
         "collapsible_tab_p9YYL3",
         "sticky_cart"
       ],
