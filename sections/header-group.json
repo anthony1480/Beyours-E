@@ -33,11 +33,20 @@
             "link": "shopify://collections/all"
           }
         },
+        "announcement_hWzWCB": {
+          "type": "announcement",
+          "settings": {
+            "text": "Welcome to our store",
+            "text_on_mobile": "",
+            "text_size": 13,
+            "link": ""
+          }
+        },
         "announcement_taefNz": {
           "type": "announcement",
           "settings": {
-            "text": "CASH ON DELIVERY",
-            "text_on_mobile": "CASH ON DELIVERY",
+            "text": "CASH ON DELIVERY IN LEBANON",
+            "text_on_mobile": "CASH ON DELIVERY I N LEBANON",
             "text_size": 16,
             "link": "shopify://collections/all"
           }
@@ -46,6 +55,7 @@
       "block_order": [
         "announcement_eGirXX",
         "announcement-bar-0",
+        "announcement_hWzWCB",
         "announcement_taefNz"
       ],
       "custom_css": [
