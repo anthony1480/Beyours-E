@@ -35,6 +35,7 @@
         },
         "announcement_hWzWCB": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "Welcome to our store",
             "text_on_mobile": "",
@@ -46,7 +47,7 @@
           "type": "announcement",
           "settings": {
             "text": "CASH ON DELIVERY IN LEBANON",
-            "text_on_mobile": "CASH ON DELIVERY I N LEBANON",
+            "text_on_mobile": "CASH ON DELIVERY IN LEBANON",
             "text_size": 16,
             "link": "shopify://collections/all"
           }
