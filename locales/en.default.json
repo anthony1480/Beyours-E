@@ -537,5 +537,12 @@
       "send_on": "YYYY-MM-DD",
       "send_on_label": "Send on (optional)"
     }
+  },
+  "shopify": {
+    "checkout": {
+      "marketing": {
+        "accept_whatsapp_marketing_checkbox_label": "I want Whatsapp updates for new launches and sales announcements."
+      }
+    }
   }
 }
