@@ -371,7 +371,7 @@
         "heading_gyHQzi": {
           "type": "heading",
           "settings": {
-            "heading": "Shaving isn’t the problem — the way we shave is.",
+            "heading": "Shaving should not be traumatizing.",
             "heading_size": "h2",
             "heading_tag": "h2"
           }
@@ -383,11 +383,21 @@
             "text_size": "typeset2",
             "secondary_color": false
           }
+        },
+        "button_jjL3CF": {
+          "type": "button",
+          "settings": {
+            "button_label": "Add to Cart",
+            "button_link": "shopify://products/intimate-shaving-kit-for-the-booty-bikini",
+            "button_size": "small",
+            "button_style_secondary": false
+          }
         }
       },
       "block_order": [
         "heading_gyHQzi",
-        "text_pMEzbX"
+        "text_pMEzbX",
+        "button_jjL3CF"
       ],
       "settings": {
         "image": "shopify://shop_images/intimate-shaving-kit-for-sensitive-areas-bikini-underarms-and-booty-6692807.png",
