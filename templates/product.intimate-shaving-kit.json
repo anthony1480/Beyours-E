@@ -321,7 +321,7 @@
         "text_bLHQf9"
       ],
       "settings": {
-        "image": "shopify://shop_images/shaving_gel_ad_-_story_2.png",
+        "image": "shopify://shop_images/Shopify_2.0_8.png",
         "image_position": "center center",
         "layout": "text_first",
         "text_box_position": "middle",
@@ -331,6 +331,7 @@
         "full_width": false,
         "show_divider": false,
         "image_behavior": "none",
+        "image_mobile": "shopify://shop_images/Shopify_2.0_8.png",
         "mobile_layout": "image_first",
         "mobile_text_alignment": "left",
         "mobile_image_ratio": "adapt",
@@ -390,9 +391,9 @@
       ],
       "settings": {
         "image": "shopify://shop_images/intimate-shaving-kit-for-sensitive-areas-bikini-underarms-and-booty-6692807.png",
-        "image_2": "shopify://shop_images/silky-smooth-shaving-kit-for-all-body-parts-legs-arms-back-and-underarms-3114029.png",
-        "image_3": "shopify://shop_images/3_133758c7-8c57-4ee8-94d5-628f8f59bb8b.png",
-        "image_4": "shopify://shop_images/skin-smoother-aftershave-oil-4723559.png",
+        "image_2": "shopify://shop_images/skin-smoother-shaving-gel-all-body-parts-300ml-4082547.jpg",
+        "image_3": "shopify://shop_images/peach-polish-booty-scrub-200g-6883031.jpg",
+        "image_4": "shopify://shop_images/intimate-shaving-kit-for-body-sensitive-areas-1665399.jpg",
         "image_ratio": "portrait",
         "image_position": "center center",
         "layout": "image_first",
