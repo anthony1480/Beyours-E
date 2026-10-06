@@ -184,7 +184,7 @@
             "content": "<p>Hold the bottle 10-15 centimeters from the intimate area and spray lightly. Shake and spray onto skin, panty-liners and lingerie.</p><p></p>",
             "page": "",
             "custom_liquid": "",
-            "keep_open": true
+            "keep_open": false
           }
         },
         "collapsible_tab_AWgMnK": {
@@ -195,7 +195,7 @@
             "content": "<p>Aqua, Propanediol, PEG 40 hydrogenated castor oil, Fragrance, Panthenol, Phenoxyethanol caprylyl glycol, Allantoin, EDTA. pH 4-4.5</p>",
             "page": "",
             "custom_liquid": "",
-            "keep_open": true
+            "keep_open": false
           }
         },
         "collapsible_tab_GPn4gb": {
@@ -206,7 +206,7 @@
             "content": "<p><strong>1. Is the Intimate Mist suitable for sensitive skin?</strong><br/><br/>Yes. Our Intimate Mist is gentle, hypoallergenic, and pH-balanced — making it safe for even the most sensitive skin.</p><p><strong>2. Does the Intimate Mist cause dryness, itchiness, or irritation?</strong><br/><br/>No. The mist is formulated to be extra gentle and non-irritating. It won’t cause dryness, itchiness, or discomfort when used as directed.</p><p><strong>3. Can I use the Intimate Mist every day?</strong><br/><br/>Absolutely. It’s designed for daily use and is gentle enough for repeated application.</p><p><strong>4. Are the fragrances safe for the intimate area?</strong><br/><br/>Yes. Our fragrance blends are alcohol-free, non-irritating, and have low sensitization potential — safe for the delicate intimate zone.</p><p><strong>5. Do I really need an intimate mist?</strong><br/><br/>If you want extra freshness, confidence, and a pleasant scent throughout the day, the Intimate Mist is a great addition to your routine. It’s made for external use only. If you prefer not to use a mist, you can always use the Intimate Wash on its own.</p>",
             "page": "",
             "custom_liquid": "",
-            "keep_open": true
+            "keep_open": false
           }
         },
         "inventory_status": {
@@ -330,7 +330,7 @@
       "type": "image-banner",
       "name": "t:sections.image-banner.presets.name",
       "settings": {
-        "image": "shopify://shop_images/Feel_Fresh._Feel_Confident._1.png",
+        "image": "shopify://shop_images/Feel_Fresh._Feel_Confident._2.png",
         "image_position": "center center",
         "text_box_position": "middle-center",
         "text_alignment": "center",
@@ -339,7 +339,7 @@
         "full_width": true,
         "show_divider": false,
         "image_behavior": "none",
-        "mobile_image": "shopify://shop_images/Feel_Fresh._Feel_Confident._1.png",
+        "mobile_image": "shopify://shop_images/Feel_Fresh._Feel_Confident._2.png",
         "mobile_text_alignment": "center",
         "mobile_image_ratio": "adapt",
         "stack_images_on_mobile": true,
