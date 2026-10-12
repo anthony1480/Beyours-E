@@ -143,7 +143,7 @@
           "type": "text",
           "settings": {
             "icon": "none",
-            "text": "If you’re tired of discomfort, fading freshness, or feeling self-conscious during the day — this duo was made for you.",
+            "text": "Ready to upgrade your bikini-care routine? Get all three essentials in one kit. Shop The Bikini Club Kit now.",
             "text_style": "subtitle"
           }
         },
@@ -160,7 +160,7 @@
           "type": "text",
           "settings": {
             "icon": "check_mark",
-            "text": "Stay Fresh & Confident Today 👇",
+            "text": "Join the club today 👇",
             "text_style": "body"
           }
         },
@@ -220,7 +220,7 @@
           "settings": {
             "icon": "question_mark",
             "heading": "FAQs",
-            "content": "<p><strong>1-</strong> <strong>Are these products&nbsp;suitable for sensitive skin?</strong></p><p>Yes, the products are formulated to be gentle and suitable for sensitive skin. Hypo-allergenic and pH-Balanced.</p><p><strong>2- What ingredients are used in the Feminine Hygiene Duo?</strong></p><p>The duo is made with vegan, pH-balanced, and hypoallergenic ingredients designed to be gentle on sensitive skin. Our formulas are natural and free from harsh chemicals.</p><p><strong>3- How do I use the wash and mist?</strong></p><p>The wash is used for cleansing, while the mist can be applied for freshness throughout the day.</p><p><strong>4- Can I use these products every day?&nbsp;</strong></p><p>Yes, both the wash and mist are designed for daily use.</p><p><strong>5- Are the fragrances tested to make sure they are safe for the intimate area?&nbsp;</strong></p><p>The fragrances that we use are alcohol-free, non-irritating and have low sensitization potential.</p><p><strong>6- Do I really need an intimate mist?&nbsp;</strong></p><p>Consider adding this mist to your daily routine if you desire extra freshness and a pleasant scent in your intimate area. It's specifically designed for external use. If you prefer not to use the mist, you have the option to purchase the intimate wash separately.</p>",
+            "content": "<p><strong>1. How do I use the three products?</strong></p><p>Use the Booty Scrub to exfoliate your booty and bikini line,<br/>including before shaving. Follow with the Intimate Wash for daily cleansing of<br/>the external intimate area. Finish with the Bikini Perfume for a little extra<br/>scent whenever you feel like it. The mist is for external use only.</p><p><strong>2. What ingredients are used in The Bikini Club Kit?</strong></p><p>Each product has its own formula and purpose. Our Intimate<br/>Wash is pH-balanced and soap-free, while the Booty Scrub helps exfoliate the<br/>skin, and the Bikini Perfume adds a pleasant scent. Check each product's<br/>individual details for its full ingredient list.</p><p><strong>3. Can I use these products every day?</strong></p><p>The Intimate Wash and Bikini Perfume are suitable for daily<br/>use as directed. The Booty Scrub should be used <strong>2–3 times per week</strong>,<br/>rather than every day, to avoid over-exfoliating your skin.</p><p><strong>4. Is the Bikini Perfume safe to use on the intimate area?</strong></p><p>The Bikini Perfume can be used on your bikini line and the external intimate area. Avoid spraying inside the vagina. You can also spray it on your underwear or pantyliners for an extra touch of scent.</p>",
             "page": "",
             "custom_liquid": "",
             "keep_open": false
@@ -484,6 +484,58 @@
         "padding_bottom": 36
       }
     },
+    "image_with_text_zaWGhV": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_FpC6fd": {
+          "type": "heading",
+          "settings": {
+            "heading": "Answering your frequently asked questions...",
+            "heading_size": "h2",
+            "heading_tag": "h2"
+          }
+        },
+        "text_THKjL4": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Is the fragrance safe for intimate use?</strong><br/>Yes. It’s alcohol-free, non-irritating, and formulated with low sensitization potential.</p><p><strong>Do I need an intimate mist?</strong><br/>If you want all-day freshness and a light scent made specifically for the external intimate area, yes. Prefer simple? You can use the wash on its own.</p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_FpC6fd",
+        "text_THKjL4"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/Intimate_Hygiene_Ad_17.png",
+        "image_position": "center center",
+        "layout": "text_first",
+        "text_box_position": "middle",
+        "text_alignment": "left",
+        "image_ratio": "650px",
+        "enlarge_content": false,
+        "full_width": false,
+        "show_divider": false,
+        "image_behavior": "none",
+        "image_mobile": "shopify://shop_images/Intimate_Hygiene_Ad_17.png",
+        "mobile_layout": "image_first",
+        "mobile_text_alignment": "left",
+        "mobile_image_ratio": "auto",
+        "enable_video_looping": false,
+        "video_url": "",
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "image_with_text_jah6fq": {
       "type": "image-with-text",
       "blocks": {
@@ -623,58 +675,6 @@
         "heading_size": "h1",
         "heading_alignment": "center",
         "heading_tag": "h2",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "image_with_text_zaWGhV": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_FpC6fd": {
-          "type": "heading",
-          "settings": {
-            "heading": "Answering your frequently asked questions...",
-            "heading_size": "h2",
-            "heading_tag": "h2"
-          }
-        },
-        "text_THKjL4": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>Is the fragrance safe for intimate use?</strong><br/>Yes. It’s alcohol-free, non-irritating, and formulated with low sensitization potential.</p><p><strong>Do I need an intimate mist?</strong><br/>If you want all-day freshness and a light scent made specifically for the external intimate area, yes. Prefer simple? You can use the wash on its own.</p>",
-            "text_size": "typeset2",
-            "secondary_color": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_FpC6fd",
-        "text_THKjL4"
-      ],
-      "name": "t:sections.image-with-text.presets.name",
-      "settings": {
-        "image": "shopify://shop_images/Intimate_Hygiene_Ad_17.png",
-        "image_position": "center center",
-        "layout": "text_first",
-        "text_box_position": "middle",
-        "text_alignment": "left",
-        "image_ratio": "650px",
-        "enlarge_content": false,
-        "full_width": false,
-        "show_divider": false,
-        "image_behavior": "none",
-        "image_mobile": "shopify://shop_images/Intimate_Hygiene_Ad_17.png",
-        "mobile_layout": "image_first",
-        "mobile_text_alignment": "left",
-        "mobile_image_ratio": "auto",
-        "enable_video_looping": false,
-        "video_url": "",
-        "use_custom_colors": false,
-        "colors_button_label": "#ffffff",
-        "colors_button_background": "#1a1b18",
-        "colors_text": "#212326",
-        "colors_background": "#ffffff",
-        "gradient_background": "",
         "padding_top": 36,
         "padding_bottom": 36
       }
