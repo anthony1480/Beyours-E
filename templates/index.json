@@ -15,23 +15,15 @@
         "heading_6VBxhi": {
           "type": "heading",
           "settings": {
-            "heading": "CHRISTMAS SALE",
-            "heading_size": "h0",
+            "heading": "Welcome to the bikini club",
+            "heading_size": "h1",
             "heading_tag": "h2"
           }
         },
         "text_cEQjQK": {
           "type": "text",
           "settings": {
-            "text": "<p>ON ALL GIFT SETS</p>",
-            "text_size": "typeset2",
-            "secondary_color": false
-          }
-        },
-        "text_nWp8Wn": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>No Code Needed</strong></p>",
+            "text": "<p>Three products. One kit. Your new bikini care lineup.<br/></p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -39,8 +31,8 @@
         "button_HxgktN": {
           "type": "button",
           "settings": {
-            "button_label": "SHOP THE SALE",
-            "button_link": "shopify://collections/christmas-gift-guide-1",
+            "button_label": "SHOP THE KIT",
+            "button_link": "shopify://products/the-bikini-club-kit",
             "button_size": "large",
             "button_style_secondary": false
           }
@@ -49,13 +41,11 @@
       "block_order": [
         "heading_6VBxhi",
         "text_cEQjQK",
-        "text_nWp8Wn",
         "button_HxgktN"
       ],
-      "disabled": true,
       "name": "t:sections.image-banner.presets.name",
       "settings": {
-        "image": "shopify://shop_images/shopify_website_banner_sale_2.png",
+        "image": "shopify://shop_images/IMG-0549.jpg",
         "image_position": "center center",
         "text_box_position": "middle-left",
         "text_alignment": "center",
@@ -64,7 +54,7 @@
         "full_width": true,
         "show_divider": false,
         "image_behavior": "none",
-        "mobile_image": "shopify://shop_images/shopify_website_banner_sale_2.png",
+        "mobile_image": "shopify://shop_images/IMG-0549.jpg",
         "mobile_text_alignment": "center",
         "mobile_image_ratio": "auto",
         "stack_images_on_mobile": true,
@@ -174,6 +164,7 @@
         "text_hgdMa8",
         "button_Udtwdk"
       ],
+      "disabled": true,
       "name": "t:sections.image-banner.presets.name",
       "settings": {
         "image": "shopify://shop_images/shopify_website_banner_sale_15.png",
@@ -185,8 +176,6 @@
         "full_width": true,
         "show_divider": false,
         "image_behavior": "none",
-        "mobile_image": "shopify://shop_images/Untitled_design_10.png",
-        "mobile_image_2": "shopify://shop_images/Untitled_design_10.png",
         "mobile_text_alignment": "center",
         "mobile_image_ratio": "auto",
         "stack_images_on_mobile": true,
