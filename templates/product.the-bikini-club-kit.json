@@ -570,7 +570,7 @@
         "text_LgHzUH": {
           "type": "text",
           "settings": {
-            "text": "<p>You shouldn’t have to question how you feel throughout the day.</p><p>No more discomfort and No worrying about freshness.</p><p>This duo offers clean, pH-balanced care that works with your body, not against it.</p><p>The Feminine Hygiene Duo gently cleanses and refreshes, so you feel confident from morning to night.</p>",
+            "text": "<p>Your bikini care routine deserves the full lineup.</p><p>From cleansing with our Intimate Wash to exfoliating with our Booty Scrub and finishing with your favorite Bikini Perfume, The Bikini Club Kit brings your three essentials together in one routine.</p><p>Three products. One very good reason to join the club.</p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -582,7 +582,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/feminine-hygiene-duo-daily-intimate-wash-bikini-perfume-new-packaging-9616965.png",
+        "image": "shopify://shop_images/IMG-0542.png",
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",
