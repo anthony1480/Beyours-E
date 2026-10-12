@@ -81,7 +81,7 @@
         "custom_liquid_8fkWzA": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<b><p>✔ No dryness, no irritation\n<p>✔ 24 hours of Freshness </p> <p>✔ Designed to support your natural balance</p>\n<p>✔ \nSafe for sensitive skin & daily use</p>\n<p>✔ Gentle, pH-balanced formula</p>\n<p>✔ Formulated by dermatologists </p>\n</b>"
+            "custom_liquid": "<b><p>✔ 3 essentials for your bikini-care routine\n<p>✔ Exfoliate for smoother-feeling skin </p> <p>✔ Gentle, pH-balanced intimate wash</p>\n<p>✔ \n4 Alcohol-free bikini perfumes to choose from</p>\n<p>✔ Scrub 2–3 times a week, wash & mist daily</p>\n<p>✔ Formulated by dermatologists </p>\n<p>✔Better value when you shop the full kit</p></b>"
           }
         },
         "judge_me_reviews_testimonials_carousel_6zF63e": {
@@ -335,7 +335,7 @@
         "text_FxQ6Gm": {
           "type": "text",
           "settings": {
-            "text": "<p>Three products for every step of your bikini-care routine, all in one kit at better value than buying them separately.</p>",
+            "text": "<p>Three products for every step of your bikini care routine, all in one kit at better value than buying them separately.</p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
