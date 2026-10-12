@@ -1,0 +1,821 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "scrolling_promotion_HiHhFg": {
+      "type": "scrolling-promotion",
+      "blocks": {
+        "announcement_XVN3hA": {
+          "type": "announcement",
+          "settings": {
+            "icon": "none",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "text": "Gentle Intimate Care You Can Trust",
+            "text_size": 20,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "announcement_XVN3hA"
+      ],
+      "name": "t:sections.scrolling-promotion.presets.name",
+      "settings": {
+        "direction": "left",
+        "speed": 1.6,
+        "show_divider": false,
+        "use_custom_colors": true,
+        "colors_icon": "#ffffff",
+        "colors_text": "#ffffff",
+        "colors_background": "#9fded2",
+        "gradient_background": "",
+        "padding_top": 24,
+        "padding_bottom": 24
+      }
+    },
+    "empty-space": {
+      "type": "empty-space",
+      "settings": {
+        "desktop_height": 36,
+        "mobile_height": 16
+      }
+    },
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+            "title_size": "h2",
+            "show_price": false,
+            "price_size": "medium"
+          }
+        },
+        "text_WJnh3B": {
+          "type": "text",
+          "settings": {
+            "icon": "none",
+            "text": "Daily Intimate Wash to cleanse and refresh + gently bikini perfume to add a pleasant scent.",
+            "text_style": "body"
+          }
+        },
+        "fera_product_reviews_summary_GjwhcP": {
+          "type": "shopify://apps/fera/blocks/product_reviews_summary/2fbfcfa7-8a04-479f-89a8-0621fa099c51",
+          "settings": {
+            "star_color": "#ffb503",
+            "size": 16,
+            "show_count": true,
+            "show_avg_rating": false,
+            "alignment": "left",
+            "hide_when_no_reviews": true
+          }
+        },
+        "custom_liquid_8fkWzA": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<b><p>✔ No dryness, no irritation\n<p>✔ 24 hours of Freshness </p> <p>✔ Designed to support your natural balance</p>\n<p>✔ \nSafe for sensitive skin & daily use</p>\n<p>✔ Gentle, pH-balanced formula</p>\n<p>✔ Formulated by dermatologists </p>\n</b>"
+          }
+        },
+        "judge_me_reviews_testimonials_carousel_6zF63e": {
+          "type": "shopify://apps/judge-me-reviews/blocks/testimonials_carousel/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "show_sample_reviews": true,
+            "reviews_selection": "product_reviews",
+            "products": [
+              "feminine-hygiene-duo"
+            ],
+            "filter_pinned": false,
+            "filter_featured": false,
+            "filter_custom_tags": "",
+            "star_rating": "all",
+            "max_reviews": 20,
+            "quote_marks_size": "small",
+            "product_name_text_size": "small",
+            "verified_badge_style": "icon",
+            "card_height": "medium",
+            "text_size": "small",
+            "stars_size": "medium",
+            "arrows_position": "bottom",
+            "max_width": 1100,
+            "corner_styling": "soft",
+            "quote_marks_style": "serif",
+            "card_color": "#f9f9f9",
+            "stars_and_quote_marks_color": "#ffb503",
+            "text_color": "#000000",
+            "arrows_color": "#000000",
+            "show_border": false,
+            "border_color": "#108474",
+            "show_drop_shadow": false,
+            "transition_speed": 5,
+            "header_text": "What Our Customers Think 👇",
+            "show_average_rating": true,
+            "rating_display": "default"
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "price_size": "medium",
+            "show_badges": true,
+            "sale_badge_basis": "auto"
+          }
+        },
+        "fera_product_reviews_summary_EGGERJ": {
+          "type": "shopify://apps/fera/blocks/product_reviews_summary/2fbfcfa7-8a04-479f-89a8-0621fa099c51",
+          "settings": {
+            "star_color": "#ffb503",
+            "size": 16,
+            "show_count": true,
+            "show_avg_rating": false,
+            "alignment": "left",
+            "hide_when_no_reviews": true
+          }
+        },
+        "text_NQbYen": {
+          "type": "text",
+          "settings": {
+            "icon": "none",
+            "text": "If you’re tired of discomfort, fading freshness, or feeling self-conscious during the day — this duo was made for you.",
+            "text_style": "subtitle"
+          }
+        },
+        "popup_eiPziC": {
+          "type": "popup",
+          "disabled": true,
+          "settings": {
+            "icon": "none",
+            "link_label": "Stay Fresh & Confident Today",
+            "page": ""
+          }
+        },
+        "text_Dmaznj": {
+          "type": "text",
+          "settings": {
+            "icon": "check_mark",
+            "text": "Stay Fresh & Confident Today 👇",
+            "text_style": "body"
+          }
+        },
+        "variant_picker_4KYeEY": {
+          "type": "variant_picker",
+          "settings": {
+            "show_variant_labels": true,
+            "picker_type": "button",
+            "enable_color_swatches": true,
+            "swatches_source": "file",
+            "swatch_type": "round",
+            "enable_swatch_cross": true,
+            "enable_swatch_unavailable_click": false,
+            "size_chart": ""
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_quantity_selector": false,
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": false
+          }
+        },
+        "collapsible_description_B7k8ct": {
+          "type": "collapsible_description",
+          "settings": {
+            "icon": "heart",
+            "heading": "Description",
+            "keep_open": true
+          }
+        },
+        "collapsible_tab_xYaMD3": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "box",
+            "heading": "What's Included",
+            "content": "<p>This bundle includes 2 full-sized products: </p><p><strong>Daily Intimate Wash (300ml)</strong>: A gentle pH-balanced cleanser that removes odor and soothes the intimate area, without removing natural oils or moisture from the skin.</p><p><strong>Peach Polish Intimate Mist (50ml)</strong>: A refreshing bikini perfume that keeps you smelling amazing all day long. Five signature scents to choose from.</p>",
+            "page": "",
+            "custom_liquid": "",
+            "keep_open": false
+          }
+        },
+        "collapsible_tab_XGdGFa": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "leaf",
+            "heading": "Ingredients",
+            "content": "<p>Intimate Wash: Aqua, sodium lauroyl sarcosinate, Betaine, Propylene glycol, Glycerin, D-panthenol, Phenoxyethanol caprylyl glycol, Tea tree extract, fragrance. &nbsp;pH 4-4.5<br/><br/>Intimate Mist: Aqua, Propanediol, PEG 40 hydrogenated castor oil, Fragrance, Panthenol, Phenoxyethanol caprylyl glycol, Allantoin, EDTA. pH 4-4.5</p>",
+            "page": "",
+            "custom_liquid": "",
+            "keep_open": false
+          }
+        },
+        "collapsible_tab_GPn4gb": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "question_mark",
+            "heading": "FAQs",
+            "content": "<p><strong>1-</strong> <strong>Are these products&nbsp;suitable for sensitive skin?</strong></p><p>Yes, the products are formulated to be gentle and suitable for sensitive skin. Hypo-allergenic and pH-Balanced.</p><p><strong>2- What ingredients are used in the Feminine Hygiene Duo?</strong></p><p>The duo is made with vegan, pH-balanced, and hypoallergenic ingredients designed to be gentle on sensitive skin. Our formulas are natural and free from harsh chemicals.</p><p><strong>3- How do I use the wash and mist?</strong></p><p>The wash is used for cleansing, while the mist can be applied for freshness throughout the day.</p><p><strong>4- Can I use these products every day?&nbsp;</strong></p><p>Yes, both the wash and mist are designed for daily use.</p><p><strong>5- Are the fragrances tested to make sure they are safe for the intimate area?&nbsp;</strong></p><p>The fragrances that we use are alcohol-free, non-irritating and have low sensitization potential.</p><p><strong>6- Do I really need an intimate mist?&nbsp;</strong></p><p>Consider adding this mist to your daily routine if you desire extra freshness and a pleasant scent in your intimate area. It's specifically designed for external use. If you prefer not to use the mist, you have the option to purchase the intimate wash separately.</p>",
+            "page": "",
+            "custom_liquid": "",
+            "keep_open": false
+          }
+        },
+        "inventory_status": {
+          "type": "inventory_status",
+          "settings": {
+            "inventory_threshold": 20,
+            "show_inventory_transfer": true,
+            "color_scheme": "accent-3"
+          }
+        },
+        "sticky_cart": {
+          "type": "sticky_cart",
+          "settings": {
+            "show_quantity_selector": false
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "text_WJnh3B",
+        "fera_product_reviews_summary_GjwhcP",
+        "custom_liquid_8fkWzA",
+        "judge_me_reviews_testimonials_carousel_6zF63e",
+        "price",
+        "fera_product_reviews_summary_EGGERJ",
+        "text_NQbYen",
+        "popup_eiPziC",
+        "text_Dmaznj",
+        "variant_picker_4KYeEY",
+        "buy_buttons",
+        "collapsible_description_B7k8ct",
+        "collapsible_tab_xYaMD3",
+        "collapsible_tab_XGdGFa",
+        "collapsible_tab_GPn4gb",
+        "inventory_status",
+        "sticky_cart"
+      ],
+      "custom_css": [
+        ".badge {background-color: #d72c0d; border-color: #d72c0d; color: #ffffff; border-radius: 10px;}"
+      ],
+      "settings": {
+        "enable_sticky_info": true,
+        "media_position": "left",
+        "media_size": "small",
+        "gallery_layout": "stacked",
+        "image_ratio": "adapt",
+        "show_featured_media": false,
+        "show_thumbnails": true,
+        "hide_variants": false,
+        "enable_image_zoom": false,
+        "enable_video_looping": false,
+        "mobile_image_ratio": "adapt_first",
+        "show_mobile_thumbnails": true,
+        "padding_top": 0,
+        "padding_bottom": 20
+      }
+    },
+    "empty_space_FdGKhA": {
+      "type": "empty-space",
+      "name": "t:sections.empty-space.presets.name",
+      "settings": {
+        "desktop_height": 40,
+        "mobile_height": 28
+      }
+    },
+    "scrolling_promotion_Kceyqp": {
+      "type": "scrolling-promotion",
+      "blocks": {
+        "announcement_TgdEGr": {
+          "type": "announcement",
+          "settings": {
+            "icon": "none",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "text": "Trusted by +7,000 Women",
+            "text_size": 20,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "announcement_TgdEGr"
+      ],
+      "name": "t:sections.scrolling-promotion.presets.name",
+      "settings": {
+        "direction": "left",
+        "speed": 1.6,
+        "show_divider": false,
+        "use_custom_colors": true,
+        "colors_icon": "#a94759",
+        "colors_text": "#ffffff",
+        "colors_background": "#9fded2",
+        "gradient_background": "",
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
+    "image_with_text_jah6fq": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_dJXKF8": {
+          "type": "heading",
+          "settings": {
+            "heading": "Answering your frequently asked questions...",
+            "heading_size": "h2",
+            "heading_tag": "h2"
+          }
+        },
+        "text_KUFYWe": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Is it safe for sensitive skin?</strong><br/>Yes. The formulas are pH-balanced, hypoallergenic, and made to be gentle on delicate, sensitive skin.<br/><strong><br/>How do I use it?</strong><br/>Use the wash to cleanse externally in the shower. Apply the mist anytime during the day for extra freshness.</p><p><strong>Can I use it daily?</strong><br/>Yes. Both products are designed for everyday use.</p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "button_RLPYFf": {
+          "type": "button",
+          "settings": {
+            "button_label": "Learn More",
+            "button_link": "shopify://blogs/beauty-tips/why-you-should-never-use-regular-shower-gel-as-an-intimate-wash",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_dJXKF8",
+        "text_KUFYWe",
+        "button_RLPYFf"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/Intimate_Hygiene_Ad_18.png",
+        "image_position": "center center",
+        "layout": "image_first",
+        "text_box_position": "middle",
+        "text_alignment": "left",
+        "image_ratio": "650px",
+        "enlarge_content": false,
+        "full_width": false,
+        "show_divider": false,
+        "image_behavior": "none",
+        "image_mobile": "shopify://shop_images/Intimate_Hygiene_Ad_18.png",
+        "mobile_layout": "image_first",
+        "mobile_text_alignment": "left",
+        "mobile_image_ratio": "auto",
+        "enable_video_looping": false,
+        "video_url": "",
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "testimonials_txwjJ3": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_RR7Gic": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p>YUMMY THE SMELL IS AMAING!</p>",
+            "image": "shopify://shop_images/Intimate_Hygiene_Ad_8.png",
+            "author": "Rana A."
+          }
+        },
+        "testimonial_8mMkHi": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p>I started using them 2 years ago and I will never change.</p>",
+            "image": "shopify://shop_images/Intimate_Hygiene_Ad_8.png",
+            "author": "Christelle J."
+          }
+        },
+        "testimonial_6WYUMV": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p>I was worried that I won't like them, but I LOVED THEM. 100% Exceeded my expectations</p>",
+            "image": "shopify://shop_images/Intimate_Hygiene_Ad_8.png",
+            "author": "Linda K."
+          }
+        },
+        "testimonial_B8TBQz": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p>I feel fresh and clean all day and the mist makes me smell so nice!</p>",
+            "image": "shopify://shop_images/Intimate_Hygiene_Ad_8.png",
+            "author": "Zeinab D."
+          }
+        },
+        "testimonial_6qEFNc": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p>I rate it 100/10, the freshness and cleanliness feel amazing. Thanks Jay for restoring my confidence.</p>",
+            "image": "shopify://shop_images/Intimate_Hygiene_Ad_8.png",
+            "author": "Layal B."
+          }
+        },
+        "testimonial_9XAeW9": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p>My go-to brand for intimate hygiene because you have the best quality</p>",
+            "image": "shopify://shop_images/Intimate_Hygiene_Ad_8.png",
+            "author": "Jana L."
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_RR7Gic",
+        "testimonial_8mMkHi",
+        "testimonial_6WYUMV",
+        "testimonial_B8TBQz",
+        "testimonial_6qEFNc",
+        "testimonial_9XAeW9"
+      ],
+      "disabled": true,
+      "name": "t:sections.testimonials.presets.name",
+      "settings": {
+        "autorotate": false,
+        "autorotate_speed": 5,
+        "hide_images": false,
+        "show_divider": false,
+        "heading": "Testimonials",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "heading_tag": "h2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_zaWGhV": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_FpC6fd": {
+          "type": "heading",
+          "settings": {
+            "heading": "Answering your frequently asked questions...",
+            "heading_size": "h2",
+            "heading_tag": "h2"
+          }
+        },
+        "text_THKjL4": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Is the fragrance safe for intimate use?</strong><br/>Yes. It’s alcohol-free, non-irritating, and formulated with low sensitization potential.</p><p><strong>Do I need an intimate mist?</strong><br/>If you want all-day freshness and a light scent made specifically for the external intimate area, yes. Prefer simple? You can use the wash on its own.</p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_FpC6fd",
+        "text_THKjL4"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/Intimate_Hygiene_Ad_17.png",
+        "image_position": "center center",
+        "layout": "text_first",
+        "text_box_position": "middle",
+        "text_alignment": "left",
+        "image_ratio": "650px",
+        "enlarge_content": false,
+        "full_width": false,
+        "show_divider": false,
+        "image_behavior": "none",
+        "image_mobile": "shopify://shop_images/Intimate_Hygiene_Ad_17.png",
+        "mobile_layout": "image_first",
+        "mobile_text_alignment": "left",
+        "mobile_image_ratio": "auto",
+        "enable_video_looping": false,
+        "video_url": "",
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "empty_space_UNKhdw": {
+      "type": "empty-space",
+      "name": "t:sections.empty-space.presets.name",
+      "settings": {
+        "desktop_height": 40,
+        "mobile_height": 28
+      }
+    },
+    "scrolling_promotion_erpzW6": {
+      "type": "scrolling-promotion",
+      "blocks": {
+        "announcement_hzFx9q": {
+          "type": "announcement",
+          "settings": {
+            "icon": "none",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "text": "Your Daily Confidence Starts With the Right Care",
+            "text_size": 20,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "announcement_hzFx9q"
+      ],
+      "name": "t:sections.scrolling-promotion.presets.name",
+      "settings": {
+        "direction": "left",
+        "speed": 1.6,
+        "show_divider": false,
+        "use_custom_colors": true,
+        "colors_icon": "#a94759",
+        "colors_text": "#ffffff",
+        "colors_background": "#9fded2",
+        "gradient_background": "",
+        "padding_top": 8,
+        "padding_bottom": 12
+      }
+    },
+    "image_with_text_GFA3jk": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_6xBajc": {
+          "type": "heading",
+          "settings": {
+            "heading": "Because Feeling Comfortable Changes Everything",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "text_LgHzUH": {
+          "type": "text",
+          "settings": {
+            "text": "<p>You shouldn’t have to question how you feel throughout the day.</p><p>No more discomfort and No worrying about freshness.</p><p>This duo offers clean, pH-balanced care that works with your body, not against it.</p><p>The Feminine Hygiene Duo gently cleanses and refreshes, so you feel confident from morning to night.</p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_6xBajc",
+        "text_LgHzUH"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/feminine-hygiene-duo-daily-intimate-wash-bikini-perfume-new-packaging-9616965.png",
+        "image_position": "center center",
+        "layout": "image_first",
+        "text_box_position": "middle",
+        "text_alignment": "left",
+        "image_ratio": "650px",
+        "enlarge_content": false,
+        "full_width": false,
+        "show_divider": false,
+        "image_behavior": "none",
+        "image_mobile": "shopify://shop_images/feminine-hygiene-duo-daily-intimate-wash-bikini-perfume-new-packaging-9616965.png",
+        "mobile_layout": "image_first",
+        "mobile_text_alignment": "left",
+        "mobile_image_ratio": "auto",
+        "enable_video_looping": false,
+        "video_url": "",
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "guarantees": {
+      "type": "guarantees",
+      "blocks": {
+        "guarantee-0": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "truck",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "title": "Express Delivery In Lebanon",
+            "title_size": "h4",
+            "text": ""
+          }
+        },
+        "guarantee-1": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "check_mark",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "title": "Removes Bad Odors",
+            "title_size": "h4",
+            "text": ""
+          }
+        },
+        "guarantee-2": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "phone",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "title": "24/7 Customer Support",
+            "title_size": "h4",
+            "text": ""
+          }
+        },
+        "guarantee-3": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "heart",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "title": "Safe for Daily Use",
+            "title_size": "h4",
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "guarantee-0",
+        "guarantee-1",
+        "guarantee-2",
+        "guarantee-3"
+      ],
+      "custom_css": [
+        "span {color: #ffffff;}"
+      ],
+      "settings": {
+        "layout": "default",
+        "column_alignment": "center",
+        "horizontal_content": false,
+        "full_width": true,
+        "show_divider": false,
+        "columns_desktop": 4,
+        "heading": "Our Guarantees",
+        "heading_size": "h1",
+        "heading_tag": "h2",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "use_custom_colors": true,
+        "colors_icon": "#9fded2",
+        "colors_text": "#1a1b18",
+        "colors_background": "#fdfdfd",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1717958248b0b4020b": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_review_widget_cLzD7R": {
+          "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "review_data": "sample_data",
+            "max_width": 1200,
+            "show_shop_reviews": false,
+            "empty_state": "other_products_reviews"
+          }
+        },
+        "fera_product_reviews_kMn8BG": {
+          "type": "shopify://apps/fera/blocks/product_reviews/2fbfcfa7-8a04-479f-89a8-0621fa099c51",
+          "disabled": true,
+          "settings": {
+            "heading": "Product Reviews",
+            "layout": "masonry",
+            "star_color": "#ffb503",
+            "when_no_reviews": "show_from_related"
+          }
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_review_widget_cLzD7R",
+        "fera_product_reviews_kMn8BG"
+      ],
+      "settings": {
+        "include_margins": true,
+        "show_divider": false,
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
+    "collapsible-content": {
+      "type": "collapsible-content",
+      "blocks": {
+        "question-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "row_content": "<p>Use collapsible tabs for more detailed information that will help customers make a purchasing decision.</p><p>Ex: Shipping and return policies, size guides, and other common questions.</p>",
+            "page": ""
+          }
+        },
+        "question-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "row_content": "<p>Use collapsible tabs for more detailed information that will help customers make a purchasing decision.</p><p>Ex: Shipping and return policies, size guides, and other common questions.</p>",
+            "page": ""
+          }
+        },
+        "question-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "row_content": "<p>Use collapsible tabs for more detailed information that will help customers make a purchasing decision.</p><p>Ex: Shipping and return policies, size guides, and other common questions.</p>",
+            "page": ""
+          }
+        },
+        "question-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "row_content": "<p>Use collapsible tabs for more detailed information that will help customers make a purchasing decision.</p><p>Ex: Shipping and return policies, size guides, and other common questions.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "question-0",
+        "question-1",
+        "question-2",
+        "question-3"
+      ],
+      "disabled": true,
+      "settings": {
+        "open_first_collapsible_row": false,
+        "narrow": true,
+        "show_divider": false,
+        "heading": "FAQs",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "heading_tag": "h2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "product_list_limit": 4,
+        "show_divider": false,
+        "heading": "You May Also Like",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "heading_tag": "h2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "image_ratio": "portrait",
+        "image_position": "center center",
+        "enable_image_fill": true,
+        "show_secondary_image": true,
+        "show_vendor": true,
+        "show_rating": true,
+        "show_quick_buy": true,
+        "enable_quick_view": true,
+        "enable_color_swatches": true,
+        "enable_countdown": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "scrolling_promotion_HiHhFg",
+    "empty-space",
+    "main",
+    "empty_space_FdGKhA",
+    "scrolling_promotion_Kceyqp",
+    "image_with_text_jah6fq",
+    "testimonials_txwjJ3",
+    "image_with_text_zaWGhV",
+    "empty_space_UNKhdw",
+    "scrolling_promotion_erpzW6",
+    "image_with_text_GFA3jk",
+    "guarantees",
+    "1717958248b0b4020b",
+    "collapsible-content",
+    "product-recommendations"
+  ]
+}
