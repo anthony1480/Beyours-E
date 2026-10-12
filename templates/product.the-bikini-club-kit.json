@@ -321,58 +321,6 @@
         "padding_bottom": 20
       }
     },
-    "image_with_text_eEfGEK": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_P46t3g": {
-          "type": "heading",
-          "settings": {
-            "heading": "Your bikini area deserves more than a quick wash.",
-            "heading_size": "h2",
-            "heading_tag": "h2"
-          }
-        },
-        "text_HJYYkU": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Exfoliate with our Booty Scrub to help smooth and soften rough skin, then reach for our pH-balanced Intimate Wash for gentle daily cleansing of your external intimate area.</p><p>Finish with your favorite Bikini Perfume when you're in the mood to smell delicious, whether it's just another day or a special occasion.</p>",
-            "text_size": "typeset2",
-            "secondary_color": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_P46t3g",
-        "text_HJYYkU"
-      ],
-      "name": "t:sections.image-with-text.presets.name",
-      "settings": {
-        "image": "shopify://shop_images/IMG-0544.gif",
-        "image_position": "center center",
-        "layout": "text_first",
-        "text_box_position": "middle",
-        "text_alignment": "left",
-        "image_ratio": "650px",
-        "enlarge_content": false,
-        "full_width": false,
-        "show_divider": false,
-        "image_behavior": "none",
-        "image_mobile": "shopify://shop_images/Intimate_Hygiene_Ad_17.png",
-        "mobile_layout": "image_first",
-        "mobile_text_alignment": "left",
-        "mobile_image_ratio": "auto",
-        "enable_video_looping": false,
-        "video_url": "",
-        "use_custom_colors": false,
-        "colors_button_label": "#ffffff",
-        "colors_button_background": "#1a1b18",
-        "colors_text": "#212326",
-        "colors_background": "#ffffff",
-        "gradient_background": "",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "image_banner_CznAQg": {
       "type": "image-banner",
       "blocks": {
@@ -428,6 +376,58 @@
         "colors_text": "#ffffff",
         "colors_overlay": "#000000",
         "colors_overlay_opacity": 28,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_eEfGEK": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_P46t3g": {
+          "type": "heading",
+          "settings": {
+            "heading": "Your bikini area deserves more than a quick wash.",
+            "heading_size": "h2",
+            "heading_tag": "h2"
+          }
+        },
+        "text_HJYYkU": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Exfoliate with our Booty Scrub to help smooth and soften rough skin, then reach for our pH-balanced Intimate Wash for gentle daily cleansing of your external intimate area.</p><p>Finish with your favorite Bikini Perfume when you're in the mood to smell delicious, whether it's just another day or a special occasion.</p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_P46t3g",
+        "text_HJYYkU"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/IMG-0544.gif",
+        "image_position": "center center",
+        "layout": "text_first",
+        "text_box_position": "middle",
+        "text_alignment": "left",
+        "image_ratio": "650px",
+        "enlarge_content": false,
+        "full_width": false,
+        "show_divider": false,
+        "image_behavior": "none",
+        "image_mobile": "shopify://shop_images/Intimate_Hygiene_Ad_17.png",
+        "mobile_layout": "image_first",
+        "mobile_text_alignment": "left",
+        "mobile_image_ratio": "auto",
+        "enable_video_looping": false,
+        "video_url": "",
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -644,7 +644,7 @@
             "icon": "none",
             "icon_size": "medium",
             "custom_icon": "",
-            "text": "Your Daily Confidence Starts With the Right Care",
+            "text": "Your routine. Your rules. Welcome to The Bikini Club.",
             "text_size": 20,
             "link": ""
           }
@@ -918,8 +918,8 @@
     "main",
     "empty_space_FdGKhA",
     "scrolling_promotion_Kceyqp",
-    "image_with_text_eEfGEK",
     "image_banner_CznAQg",
+    "image_with_text_eEfGEK",
     "image_with_text_jah6fq",
     "testimonials_txwjJ3",
     "image_with_text_zaWGhV",
