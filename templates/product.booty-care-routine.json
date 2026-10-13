@@ -93,6 +93,9 @@
             "products": [
               "the-booty-care-routine"
             ],
+            "filter_pinned": false,
+            "filter_featured": false,
+            "filter_custom_tags": "",
             "star_rating": "5_star",
             "max_reviews": 30,
             "quote_marks_size": "small",
@@ -114,7 +117,8 @@
             "show_drop_shadow": false,
             "transition_speed": 5,
             "header_text": "What Our Customers Think 👇",
-            "show_average_rating": true
+            "show_average_rating": true,
+            "rating_display": "default"
           }
         },
         "price": {
@@ -472,7 +476,7 @@
         "heading_gyHQzi": {
           "type": "heading",
           "settings": {
-            "heading": "Forget the Fakes—This Is the Real Deal for Acne & Hyperpigmentation!",
+            "heading": "Forget the Fakes! This Is the Real Deal for Acne & Hyperpigmentation!",
             "heading_size": "h2",
             "heading_tag": "h2"
           }
@@ -491,9 +495,9 @@
         "text_pMEzbX"
       ],
       "settings": {
-        "image": "shopify://shop_images/booty-care-routine-acne-hyperpigmentation-treatment-5261004.png",
-        "image_2": "shopify://shop_images/the-essentials-kit-booty-bump-free-shaves-and-all-day-freshness-down-there-6672505.png",
-        "image_3": "shopify://shop_images/peach-polish-skin-perfecting-serum-body-acne-strawberry-skin-whitening-6412185.png",
+        "image": "shopify://shop_images/Peach_Polish_Booty_Scrub.png",
+        "image_2": "shopify://shop_images/peach-polish-booty-scrub-200g-9485907.jpg",
+        "image_3": "shopify://shop_images/WhatsApp_Image_2026-10-13_at_2.54.00_PM_1.jpg",
         "image_4": "shopify://shop_images/the-essentials-kit-booty-bump-free-shaves-and-all-day-freshness-down-there-7150264.png",
         "image_ratio": "portrait",
         "image_position": "center center",
