@@ -95,6 +95,9 @@
             "show_sample_reviews": true,
             "reviews_selection": "current_product",
             "products": [],
+            "filter_pinned": false,
+            "filter_featured": false,
+            "filter_custom_tags": "",
             "star_rating": "all",
             "max_reviews": 20,
             "quote_marks_size": "small",
@@ -116,7 +119,8 @@
             "show_drop_shadow": false,
             "transition_speed": 5,
             "header_text": "Customers are saying",
-            "show_average_rating": true
+            "show_average_rating": true,
+            "rating_display": "default"
           }
         },
         "price": {
@@ -150,7 +154,7 @@
           "type": "text",
           "settings": {
             "icon": "none",
-            "text": "Made for the body note the Face. Use it where you have acne, ingrown hairs, strawberry skin or discoloration",
+            "text": "Made for the body. Use it where you have acne, ingrown hairs, strawberry skin or discoloration",
             "text_style": "subtitle"
           }
         },
@@ -307,7 +311,7 @@
         "heading_dpeidU": {
           "type": "heading",
           "settings": {
-            "heading": "Gentle formula with Niacinamide, Glycolic & Salicylic Acids",
+            "heading": "Gentle formula with Salicylic Acid & Panthenol",
             "heading_size": "h1",
             "heading_tag": "h2"
           }
@@ -323,7 +327,7 @@
         "text_4DQrEY": {
           "type": "text",
           "settings": {
-            "text": "<p>Peach Polish serum is formulated to target ingrown hairs, bumps, and strawberry skin. Powered by a gentle yet effective blend of salicylic acid, glycolic acid, and niacinamide for smoother, clearer-looking skin.<br/><br/></p>",
+            "text": "<p>A targeted exfoliating body serum formulated with 2% salicylic acid to help unclog pores, reduce the appearance of body blemishes, and smooth rough, bumpy skin. Enriched with panthenol to help condition the skin and glycerin to maintain hydration, leaving skin feeling softer and looking smoother.</p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -335,7 +339,7 @@
         "text_4DQrEY"
       ],
       "settings": {
-        "image": "shopify://shop_images/peach-polish-skin-perfecting-serum-body-acne-strawberry-skin-whitening-6412185.png",
+        "image": "shopify://shop_images/WhatsApp_Image_2026-10-13_at_3.17.37_PM.jpg",
         "image_position": "center center",
         "layout": "text_first",
         "text_box_position": "middle",
@@ -345,7 +349,7 @@
         "full_width": false,
         "show_divider": false,
         "image_behavior": "none",
-        "image_mobile": "shopify://shop_images/peach-polish-skin-perfecting-serum-body-acne-strawberry-skin-whitening-6412185.png",
+        "image_mobile": "shopify://shop_images/WhatsApp_Image_2026-10-13_at_3.17.37_PM.jpg",
         "mobile_layout": "image_first",
         "mobile_text_alignment": "left",
         "mobile_image_ratio": "adapt",
@@ -421,7 +425,7 @@
         "heading_gyHQzi": {
           "type": "heading",
           "settings": {
-            "heading": "Strawberry Skin Who?",
+            "heading": "Bye Bye Acne & Bumps",
             "heading_size": "h2",
             "heading_tag": "h2"
           }
@@ -429,7 +433,7 @@
         "text_pMEzbX": {
           "type": "text",
           "settings": {
-            "text": "<p><br/>A clinically formulated serum designed to reduce ingrown hairs, follicular bumps, and the appearance of strawberry skin. Combines salicylic acid and glycolic acid for targeted exfoliation with niacinamide to support skin barrier function and calm irritation.<br/><br/></p>",
+            "text": "<p>Formulated for the areas that need a little extra attention.<br/><strong>Booty & body acne:</strong> Helps unclog pores and reduce the appearance of acne and bumps.</p><p><strong>Bikini line & underarms:</strong> Helps exfoliate dead skin cell buildup around hair follicles in areas prone to ingrown hairs.</p><p><strong>Thighs & strawberry skin:</strong> Helps smooth the look of rough, uneven texture for softer-looking skin.</p><p><strong>Panthenol-powered care:</strong> Helps condition the skin, while glycerin helps maintain moisture.</p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -440,10 +444,10 @@
         "text_pMEzbX"
       ],
       "settings": {
-        "image": "shopify://shop_images/Shopify_2.0_7.png",
+        "image": "shopify://shop_images/WhatsApp_Image_2026-10-13_at_3.17.37_PM.jpg",
         "image_2": "shopify://shop_images/skin-smoother-shaving-gel-all-body-parte-200ml-7339906.png",
         "image_3": "shopify://shop_images/silky-smooth-shaving-kit-for-all-body-parts-legs-arms-back-and-underarms-9291831.png",
-        "image_4": "shopify://shop_images/peach-polish-skin-perfecting-serum-body-acne-strawberry-skin-whitening-6412185.png",
+        "image_4": "shopify://shop_images/WhatsApp_Image_2026-10-13_at_2.54.00_PM.jpg",
         "image_ratio": "portrait",
         "image_position": "center center",
         "layout": "image_first",
