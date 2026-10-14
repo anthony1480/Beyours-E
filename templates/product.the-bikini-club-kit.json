@@ -458,7 +458,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/IMG-0542.png",
+        "image": "shopify://shop_images/bikini-club-kit-intimate-care-kit-7157217.png",
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",
@@ -468,7 +468,7 @@
         "full_width": false,
         "show_divider": false,
         "image_behavior": "none",
-        "image_mobile": "shopify://shop_images/IMG-0542.png",
+        "image_mobile": "shopify://shop_images/bikini-club-kit-intimate-care-kit-7157217.png",
         "mobile_layout": "image_first",
         "mobile_text_alignment": "left",
         "mobile_image_ratio": "auto",
