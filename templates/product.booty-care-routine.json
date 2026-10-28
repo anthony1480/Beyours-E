@@ -359,7 +359,7 @@
       "name": "t:sections.video.presets.name",
       "settings": {
         "enable_video_looping": false,
-        "video": "shopify://files/videos/booty care routine - product video 2 .MOV",
+        "video": "shopify://files/videos/Video.mp4",
         "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "description": "",
         "full_width": false,
@@ -495,9 +495,9 @@
         "text_pMEzbX"
       ],
       "settings": {
-        "image": "shopify://shop_images/Peach_Polish_Booty_Scrub.png",
+        "image": "shopify://shop_images/B8790AAA-B25A-4CF6-926F-AC38F6F1F6D9.png",
         "image_2": "shopify://shop_images/peach-polish-booty-scrub-200g-9485907.jpg",
-        "image_3": "shopify://shop_images/WhatsApp_Image_2026-10-13_at_2.54.00_PM_1.jpg",
+        "image_3": "shopify://shop_images/peach-polish-skin-perfecting-serum-body-acne-strawberry-skin-brightening-60ml-1677024.jpg",
         "image_4": "shopify://shop_images/the-essentials-kit-booty-bump-free-shaves-and-all-day-freshness-down-there-7150264.png",
         "image_ratio": "portrait",
         "image_position": "center center",
