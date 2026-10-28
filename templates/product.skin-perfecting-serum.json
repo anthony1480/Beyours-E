@@ -280,7 +280,7 @@
             "icon": "none",
             "icon_size": "medium",
             "custom_icon": "",
-            "text": "This serum will Transform your skin",
+            "text": "This serum will transform your skin",
             "text_size": 16,
             "link": ""
           }
@@ -447,7 +447,6 @@
         "image": "shopify://shop_images/WhatsApp_Image_2026-10-13_at_3.17.37_PM.jpg",
         "image_2": "shopify://shop_images/skin-smoother-shaving-gel-all-body-parte-200ml-7339906.png",
         "image_3": "shopify://shop_images/silky-smooth-shaving-kit-for-all-body-parts-legs-arms-back-and-underarms-9291831.png",
-        "image_4": "shopify://shop_images/WhatsApp_Image_2026-10-13_at_2.54.00_PM.jpg",
         "image_ratio": "portrait",
         "image_position": "center center",
         "layout": "image_first",
