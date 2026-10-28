@@ -295,7 +295,7 @@
         "text_4DQrEY": {
           "type": "text",
           "settings": {
-            "text": "<p><br/>Our products are designed for all skin types. <strong>100% tested and approved for guaranteed results.</strong> Pamper yourself with Peach Polish Booty Scrub!<br/><br/></p>",
+            "text": "<p><br/>Our products are designed for all skin types. <strong>Tested and approved for guaranteed results.</strong> Pamper yourself with Peach Polish Booty Scrub!<br/><br/></p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -412,10 +412,10 @@
         "text_pMEzbX"
       ],
       "settings": {
-        "image": "shopify://shop_images/booty-care-routine-acne-hyperpigmentation-treatment-5261004.png",
-        "image_2": "shopify://shop_images/the-essentials-kit-booty-bump-free-shaves-and-all-day-freshness-down-there-7150264.png",
-        "image_3": "shopify://shop_images/intimate-shaving-kit-for-sensitive-areas-bikini-underarms-and-booty-5138909.png",
-        "image_4": "shopify://shop_images/peach-polish-skin-perfecting-serum-body-acne-strawberry-skin-whitening-6412185.png",
+        "image": "shopify://shop_images/WhatsApp_Image_2026-10-13_at_3.17.37_PM.jpg",
+        "image_2": "shopify://shop_images/peach-polish-booty-scrub-200g-9485907.jpg",
+        "image_3": "shopify://shop_images/B8790AAA-B25A-4CF6-926F-AC38F6F1F6D9.png",
+        "image_4": "shopify://shop_images/WhatsApp_Image_2026-10-13_at_3.17.37_PM.jpg",
         "image_ratio": "portrait",
         "image_position": "center center",
         "layout": "image_first",
