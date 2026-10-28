@@ -318,7 +318,7 @@
         "heading_dpeidU": {
           "type": "heading",
           "settings": {
-            "heading": "Tackle Acne & Shaving Issues in One Simple Routine",
+            "heading": "How Does It Fit Into Your Routine?",
             "heading_size": "h1",
             "heading_tag": "h2"
           }
@@ -334,7 +334,7 @@
         "text_4DQrEY": {
           "type": "text",
           "settings": {
-            "text": "<p><br/>Our products are designed for all skin types, providing hydration while targeting acne and shaving-related concerns.<strong> 100% tested and approved for guaranteed results.</strong> Pamper yourself with your kit today.<br/><br/></p>",
+            "text": "<p><strong>Dealing with existing breakouts?</strong> Use 2–3 times per week, depending on your skin's tolerance, as part of your Booty Care Routine.</p><p><strong>Want to care for acne-prone skin?</strong> Use once a week to help manage excess oil and keep skin feeling clean.</p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -346,7 +346,7 @@
         "text_4DQrEY"
       ],
       "settings": {
-        "image": "shopify://shop_images/booty-care-routine-acne-hyperpigmentation-treatment-5261004.png",
+        "image": "shopify://shop_images/6229B56C-F0CE-41C4-AA62-5255A6E646D9.jpg",
         "image_position": "center center",
         "layout": "text_first",
         "text_box_position": "middle",
@@ -356,6 +356,7 @@
         "full_width": false,
         "show_divider": false,
         "image_behavior": "none",
+        "image_mobile": "shopify://shop_images/6229B56C-F0CE-41C4-AA62-5255A6E646D9.jpg",
         "mobile_layout": "image_first",
         "mobile_text_alignment": "left",
         "mobile_image_ratio": "adapt",
@@ -431,7 +432,7 @@
         "heading_gyHQzi": {
           "type": "heading",
           "settings": {
-            "heading": "The Only Skincare Essentials You'll Ever Need",
+            "heading": "Stubborn Butt Acne? Make It a Routine, Not Just a Mask.",
             "heading_size": "h2",
             "heading_tag": "h2"
           }
@@ -439,7 +440,7 @@
         "text_pMEzbX": {
           "type": "text",
           "settings": {
-            "text": "<p>100% natural. Specifically designed to hydrate your skin and eliminate acne—no matter what type. Perfected for real results.<br/><br/></p>",
+            "text": "<p>When breakouts keep coming back, give your skin a routine designed to target buildup, excess oil, and clogged pores.</p><p><strong>1. Peach Polish Booty Scrub</strong><br/>Exfoliates the skin, removes dead skin cell buildup, and helps deeply cleanse pores for smoother-feeling skin.</p><p><strong>2. Bye Bye Acne Booty Mask</strong><br/>Powered by activated charcoal and mineral clay to absorb excess oil and impurities, leaving skin feeling deeply cleansed.</p><p><strong>3. Peach Polish Salicylic Acid Serum</strong><br/>Formulated with salicylic acid to exfoliate inside the pores, helping clear buildup and improve the appearance of blemish-prone skin.</p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -450,10 +451,10 @@
         "text_pMEzbX"
       ],
       "settings": {
-        "image": "shopify://shop_images/booty-care-routine-acne-hyperpigmentation-treatment-5261004.png",
-        "image_2": "shopify://shop_images/intimate-shaving-kit-for-sensitive-areas-bikini-underarms-and-booty-5138909.png",
-        "image_3": "shopify://shop_images/the-essentials-kit-booty-bump-free-shaves-and-all-day-freshness-down-there-7150264.png",
-        "image_4": "shopify://shop_images/peach-polish-skin-perfecting-serum-body-acne-strawberry-skin-whitening-6412185.png",
+        "image": "shopify://shop_images/B8790AAA-B25A-4CF6-926F-AC38F6F1F6D9.png",
+        "image_2": "shopify://shop_images/IMG-0852.png",
+        "image_3": "shopify://shop_images/peach-polish-skin-perfecting-serum-body-acne-strawberry-skin-brightening-60ml-2036469.jpg",
+        "image_4": "shopify://shop_images/6911A1F2-D012-42E4-BAB2-1DEA2629A813.png",
         "image_ratio": "portrait",
         "image_position": "center center",
         "layout": "image_first",
