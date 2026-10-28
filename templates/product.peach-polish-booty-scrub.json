@@ -393,7 +393,7 @@
         "heading_gyHQzi": {
           "type": "heading",
           "settings": {
-            "heading": "The Only Body Acne Essentials You'll Ever Need",
+            "heading": "Stubborn Booty Acne? Consider the Booty Care Routine",
             "heading_size": "h2",
             "heading_tag": "h2"
           }
@@ -401,15 +401,25 @@
         "text_pMEzbX": {
           "type": "text",
           "settings": {
-            "text": "<p>Specifically designed to hydrate your skin and eliminate acne. Free from harsh chemicals.</p><p>Formulated for acne-prone and sensitive skin.<br/><br/></p>",
+            "text": "<p><strong>Three targeted steps. One booty care routine.</strong></p><p>Give your skin a more complete approach to managing breakouts and maintaining smoother-looking skin.</p>",
             "text_size": "typeset2",
             "secondary_color": false
+          }
+        },
+        "button_Gx4ekJ": {
+          "type": "button",
+          "settings": {
+            "button_label": "Check out the Booty Care Routine",
+            "button_link": "shopify://products/the-booty-care-routine",
+            "button_size": "medium",
+            "button_style_secondary": false
           }
         }
       },
       "block_order": [
         "heading_gyHQzi",
-        "text_pMEzbX"
+        "text_pMEzbX",
+        "button_Gx4ekJ"
       ],
       "settings": {
         "image": "shopify://shop_images/B8790AAA-B25A-4CF6-926F-AC38F6F1F6D9.png",
