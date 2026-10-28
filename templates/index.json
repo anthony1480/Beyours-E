@@ -335,6 +335,7 @@
           "type": "featured_collection",
           "settings": {
             "collection": "frontpage",
+            "image": "shopify://shop_images/bikini-club-kit-intimate-care-kit-7486301.png",
             "image_position": "center center"
           }
         },
@@ -342,6 +343,7 @@
           "type": "featured_collection",
           "settings": {
             "collection": "feminine-hygiene",
+            "image": "shopify://shop_images/bikini-club-kit-intimate-care-kit-3443468.png",
             "image_position": "center center"
           }
         },
@@ -349,7 +351,7 @@
           "type": "featured_collection",
           "settings": {
             "collection": "shaving-101",
-            "image": "shopify://shop_images/skin-smoother-shaving-gel-all-body-parte-300ml-7469382.png",
+            "image": "shopify://shop_images/skin-smoother-shaving-gel-all-body-parts-300ml-7361539.jpg",
             "image_position": "center center"
           }
         },
