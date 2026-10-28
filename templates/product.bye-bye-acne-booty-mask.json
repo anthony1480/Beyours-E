@@ -444,11 +444,21 @@
             "text_size": "typeset2",
             "secondary_color": false
           }
+        },
+        "button_mwgpba": {
+          "type": "button",
+          "settings": {
+            "button_label": "SHOP THE BOOTY CARE ROUTINE",
+            "button_link": "shopify://products/the-booty-care-routine",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
         }
       },
       "block_order": [
         "heading_gyHQzi",
-        "text_pMEzbX"
+        "text_pMEzbX",
+        "button_mwgpba"
       ],
       "settings": {
         "image": "shopify://shop_images/B8790AAA-B25A-4CF6-926F-AC38F6F1F6D9.png",
