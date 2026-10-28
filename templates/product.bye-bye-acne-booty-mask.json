@@ -101,6 +101,9 @@
             "products": [
               "bye-bye-acne-booty-mask"
             ],
+            "filter_pinned": false,
+            "filter_featured": false,
+            "filter_custom_tags": "",
             "star_rating": "all",
             "max_reviews": 20,
             "quote_marks_size": "small",
@@ -122,7 +125,8 @@
             "show_drop_shadow": false,
             "transition_speed": 5,
             "header_text": "Customers are saying",
-            "show_average_rating": true
+            "show_average_rating": true,
+            "rating_display": "default"
           }
         },
         "price": {
@@ -177,7 +181,7 @@
           "settings": {
             "icon": "question_mark",
             "heading": "Usage Instructions",
-            "content": "<p>This is a <strong>powder mask</strong> — mix <strong>1 part powder with 2 parts water or rose water</strong> until you get a smooth paste that’s neither too thick nor runny.</p><ol><li>Gently spread the mask evenly over your <strong>booty, bikini area, and hips</strong>, or use as a <strong>spot treatment</strong>.<br/></li><li>Leave on for <strong>10–15 minutes</strong>.<br/></li><li>Moisten slightly and <strong>gently rinse off</strong>.<br/></li><li>Use <strong>2–3 times per week</strong>.<br/></li></ol><p>✨ For <strong>best results</strong>, apply after the <strong>Peach Polish Booty Scrub</strong> to prep and smooth the skin.<br/></p>",
+            "content": "<ol><li><strong>Prepare the mask:</strong> Mix 1 part powder with 1–2 parts water until you achieve a smooth, spreadable consistency that is neither too thick nor too watery.</li><li><strong>Apply to targeted areas:</strong> On clean, dry skin, use clean fingers or a mask brush to apply an even layer to any external body area prone to pimples, breakouts, clogged pores, or excess oil, such as the buttocks, back, chest, and shoulders. Avoid the genital area, mucous membranes, and broken or irritated skin.</li><li><strong>Leave on:</strong> Allow the mask to sit for 10–15 minutes. Do not let it become uncomfortably dry or tight.</li><li><strong>Rinse thoroughly:</strong> Wash off with lukewarm water without scrubbing, then gently pat the skin dry.</li></ol><h3>Recommended Frequency</h3><ul><li><strong>For existing pimples and breakouts:</strong> Use 2–3 times per week, depending on skin tolerance. Best used as part of the Booty Care Routine when targeting breakouts on the buttocks.</li><li><strong>For acne-prone skin:</strong> Use once per week to help absorb excess oil and maintain clearer-looking skin.</li></ul>",
             "page": "",
             "custom_liquid": "",
             "keep_open": false
