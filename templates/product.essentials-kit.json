@@ -156,7 +156,7 @@
           "settings": {
             "icon": "box",
             "heading": "What's Included",
-            "content": "<ol><li><strong>Peach Polish Booty Scrub</strong> – A gentle scrub made for your booty and bikini area. Smooths texture and softens rough patches without irritation.</li><li><strong>Bye Bye Acne Booty Mask</strong> – A detoxifying powder mask powered by charcoal and clays to dry out breakouts and clear clogged pores.</li><li><strong>Peach Polish Skin Perfecting Serum</strong> – Powered by glycolic and salicylic acids, this formula helps unclog pores, fade bumps, and treat strawberry skin.</li><li><strong>Skin Smoother Shaving Gel</strong> – A rich, clear gel that cushions your shave for a razor-glide finish. Helps prevent nicks, burns, and bumps.</li><li><strong>Skin Smoother Aftershave Oil</strong> – Lightweight and soothing, this oil calms redness, moisturizes, and prevents the appearance of ingrowns. </li><li><strong>Intimate Wash</strong> – A gentle daily cleanser for the intimate area. Balances pH, removes odor, and supports a healthy microbiome.</li><li><strong> Bikini Perfume</strong> – A soft mist designed for your bikini area.  <strong>Strawberry Candy</strong> scented for all-day freshness.</li></ol>",
+            "content": "<ol><li><strong>Peach Polish Booty Scrub</strong> – A gentle scrub made for your booty and bikini area. Smooths texture and softens rough patches without irritation.</li><li><strong>Bye Bye Acne Booty Mask</strong> – A detoxifying powder mask powered by charcoal and clays to dry out breakouts and clear clogged pores.</li><li><strong>Peach Polish Skin Perfecting Serum</strong> – Powered by 2% salicylic acid and panthenol, this formula helps unclog pores, fade bumps, and treat strawberry skin.</li><li><strong>Skin Smoother Shaving Gel</strong> – A rich, clear gel that cushions your shave for a razor-glide finish. Helps prevent nicks, burns, and bumps.</li><li><strong>Skin Smoother Aftershave Oil</strong> – Lightweight and soothing, this oil calms redness, moisturizes, and prevents the appearance of ingrowns.&nbsp;</li><li><strong>Intimate Wash</strong> – A gentle daily cleanser for the intimate area. Balances pH, removes odor, and supports a healthy microbiome.</li><li><strong>&nbsp;Bikini Perfume</strong> – A soft mist designed for your bikini area.&nbsp;&nbsp;<strong>Strawberry Candy</strong> scented&nbsp;for all-day freshness.</li></ol>",
             "page": "",
             "custom_liquid": "",
             "keep_open": false
@@ -332,7 +332,7 @@
         "text_bLHQf9"
       ],
       "settings": {
-        "image": "shopify://shop_images/BCR_before_after.png",
+        "image": "shopify://shop_images/6229B56C-F0CE-41C4-AA62-5255A6E646D9.jpg",
         "image_position": "center center",
         "layout": "text_first",
         "text_box_position": "middle",
@@ -342,6 +342,7 @@
         "full_width": false,
         "show_divider": false,
         "image_behavior": "none",
+        "image_mobile": "shopify://shop_images/6229B56C-F0CE-41C4-AA62-5255A6E646D9.jpg",
         "mobile_layout": "image_first",
         "mobile_text_alignment": "left",
         "mobile_image_ratio": "adapt",
@@ -391,7 +392,7 @@
         "text_4DQrEY"
       ],
       "settings": {
-        "image": "shopify://shop_images/the-essentials-kit-booty-bump-free-shaves-and-all-day-freshness-down-there-3012998.png",
+        "image": "shopify://shop_images/bikini-club-kit-intimate-care-kit-7157217.png",
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",
@@ -401,7 +402,7 @@
         "full_width": false,
         "show_divider": false,
         "image_behavior": "none",
-        "image_mobile": "shopify://shop_images/the-essentials-kit-booty-bump-free-shaves-and-all-day-freshness-down-there-3012998.png",
+        "image_mobile": "shopify://shop_images/bikini-club-kit-intimate-care-kit-7157217.png",
         "mobile_layout": "image_first",
         "mobile_text_alignment": "left",
         "mobile_image_ratio": "adapt",
