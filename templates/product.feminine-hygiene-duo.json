@@ -490,7 +490,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/Intimate_Hygiene_Ad_17.png",
+        "image": "shopify://shop_images/feminine-hygiene-duo-daily-intimate-wash-bikini-perfume-new-packaging-5914836.png",
         "image_position": "center center",
         "layout": "text_first",
         "text_box_position": "middle",
@@ -500,7 +500,7 @@
         "full_width": false,
         "show_divider": false,
         "image_behavior": "none",
-        "image_mobile": "shopify://shop_images/Intimate_Hygiene_Ad_17.png",
+        "image_mobile": "shopify://shop_images/feminine-hygiene-duo-daily-intimate-wash-bikini-perfume-new-packaging-5914836.png",
         "mobile_layout": "image_first",
         "mobile_text_alignment": "left",
         "mobile_image_ratio": "auto",
