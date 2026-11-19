@@ -537,7 +537,7 @@
         "slide_VTb6wN": {
           "type": "slide",
           "settings": {
-            "video": "shopify://files/videos/Intimate wash usage.MOV",
+            "video": "shopify://files/videos/IMG-0541.MOV",
             "video_url": "",
             "title": "The Best Intimate Hygiene Products",
             "stars_count": 5
@@ -546,7 +546,7 @@
         "slide_xi7mDY": {
           "type": "slide",
           "settings": {
-            "video": "shopify://files/videos/6-intimate wash and spray bubbles.mp4",
+            "video": "shopify://files/videos/Video.mp4",
             "video_url": "",
             "title": "Wow! Best-purchase of 2026",
             "stars_count": 5
@@ -555,7 +555,7 @@
         "slide_qdgyxG": {
           "type": "slide",
           "settings": {
-            "video": "shopify://files/videos/Shopify - (1).mp4",
+            "video": "shopify://files/videos/IMG_0112.MOV",
             "video_url": "",
             "title": "Smells so good!",
             "stars_count": 5
@@ -579,7 +579,7 @@
       ],
       "name": "SS - Video Slider",
       "settings": {
-        "slider_view": 5,
+        "slider_view": 4,
         "slider_view_mobile": 1.5,
         "slider_gap": 10,
         "slider_gap_mobile": 10,
