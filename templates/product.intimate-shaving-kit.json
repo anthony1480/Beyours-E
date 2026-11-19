@@ -352,7 +352,7 @@
       "name": "t:sections.video.presets.name",
       "settings": {
         "enable_video_looping": false,
-        "video": "shopify://files/videos/intimate shaving kit - product video 1 .MOV",
+        "video": "shopify://files/videos/IMG_1238.MOV",
         "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "description": "",
         "full_width": false,
