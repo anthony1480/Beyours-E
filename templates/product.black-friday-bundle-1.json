@@ -38,14 +38,6 @@
             "hide_when_no_reviews": true
           }
         },
-        "price": {
-          "type": "price",
-          "settings": {
-            "price_size": "medium",
-            "show_badges": true,
-            "sale_badge_basis": "auto"
-          }
-        },
         "variant_picker_AwYB6Q": {
           "type": "variant_picker",
           "settings": {
@@ -62,7 +54,23 @@
         "custom_liquid_8fkWzA": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<b><p>✅ Long-lasting fragrances that stay with you all day</p>\n<p>✅ Enjoy multiple signature scents without breaking the bank.</p>\n<p>✅ Long-lasting scents to keep you smelling incredible from morning to night.</p></b>"
+            "custom_liquid": "<b><p>✅ Shaving Gel & Salicylic Acid Body Serum </p>\n<p>✅ Free Full Size Aftershave Oil</p>\n<p>✅ 2 Free minis: Intimate Wash + Bikini Perfume.</p>\n<p>✅1 Free Bedazzling Sheet \n<p>✅Exclusive Black Friday Bundle </p></p></b>"
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "price_size": "medium",
+            "show_badges": true,
+            "sale_badge_basis": "auto"
+          }
+        },
+        "text_3dwkEw": {
+          "type": "text",
+          "settings": {
+            "icon": "heart",
+            "text": "Less shaving drama. Smoother skin. More fun.",
+            "text_style": "body"
           }
         },
         "buy_buttons": {
@@ -132,9 +140,10 @@
       "block_order": [
         "title",
         "fera_product_reviews_summary_GjwhcP",
-        "price",
         "variant_picker_AwYB6Q",
         "custom_liquid_8fkWzA",
+        "price",
+        "text_3dwkEw",
         "buy_buttons",
         "collapsible_description_DzHKfx",
         "collapsible_tab_pn6cca",
@@ -172,7 +181,7 @@
             "icon": "none",
             "icon_size": "medium",
             "custom_icon": "",
-            "text": "Long-lasting scent for up to 16 hours",
+            "text": "extra goodies",
             "text_size": 20,
             "link": ""
           }
@@ -183,7 +192,7 @@
             "icon": "none",
             "icon_size": "medium",
             "custom_icon": "",
-            "text": "Splash That Body!",
+            "text": "exclusive black friday bundle",
             "text_size": 16,
             "link": ""
           }
@@ -215,23 +224,15 @@
         "heading_dpeidU": {
           "type": "heading",
           "settings": {
-            "heading": "\"Clean Girl\" Vibe",
+            "heading": "The 3 B's: Buy, Bonus & Bedazzle! ✨",
             "heading_size": "h1",
             "heading_tag": "h2"
-          }
-        },
-        "subheading_c3XRmH": {
-          "type": "subheading",
-          "settings": {
-            "subheading": "3 Signature Scents",
-            "subheading_size": "h5",
-            "secondary_color": false
           }
         },
         "text_4DQrEY": {
           "type": "text",
           "settings": {
-            "text": "<p>Our Body Splash is made to give you a signature scent that sets you apart from everyone around you. With a long-lasting fragrance that stays for up to 16 hours, it keeps you smelling unforgettable all day.<br/><br/></p>",
+            "text": "<p>Because your Black Friday bundle deserves more than just great skincare.</p><p><strong>1. Buy:</strong> Get your shaving essentials in one bundle, with your full-size Aftershave Oil absolutely FREE.</p><p><strong>2. Bonus:</strong> We're throwing in two FREE minis: Intimate Wash and Bikini Perfume. Small enough to slip into your handbag, take on your next getaway or keep around for whenever you need them. Plus, it's the perfect excuse to try more EBJ favourites!</p><p><strong>3. Bedazzle:</strong> One FREE bedazzling sheet to give your products a little personality. Decorate your bottles, add some sparkle and make your skincare routine a little more fun.</p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -239,11 +240,10 @@
       },
       "block_order": [
         "heading_dpeidU",
-        "subheading_c3XRmH",
         "text_4DQrEY"
       ],
       "settings": {
-        "image": "shopify://shop_images/91.png",
+        "image": "shopify://shop_images/copy_062474D3-18BF-4AC1-9A41-B106038288BE.jpg",
         "image_position": "center center",
         "layout": "text_first",
         "text_box_position": "middle",
@@ -293,65 +293,6 @@
         "colors_overlay_opacity": 0,
         "padding_top": 0,
         "padding_bottom": 0
-      }
-    },
-    "video_wPXhxC": {
-      "type": "video",
-      "name": "t:sections.video.presets.name",
-      "settings": {
-        "enable_video_looping": false,
-        "video": "shopify://files/videos/body splash - product video .MOV",
-        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "description": "",
-        "full_width": false,
-        "show_divider": false,
-        "heading": "Long-lasting Fragrance",
-        "heading_size": "h1",
-        "heading_alignment": "center",
-        "heading_tag": "h2",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "images_with_text_t3GnhX": {
-      "type": "images-with-text",
-      "blocks": {
-        "heading_gyHQzi": {
-          "type": "heading",
-          "settings": {
-            "heading": "\"WOW, you smell so good\"",
-            "heading_size": "h1",
-            "heading_tag": "h2"
-          }
-        },
-        "text_pMEzbX": {
-          "type": "text",
-          "settings": {
-            "text": "<p>So many customers have “complained” about hearing this phrase too often—that’s exactly why they love us.</p>",
-            "text_size": "typeset2",
-            "secondary_color": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_gyHQzi",
-        "text_pMEzbX"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/91.png",
-        "image_2": "shopify://shop_images/body-splash-150ml-6863444.png",
-        "image_3": "shopify://shop_images/body-splash-150ml-4349030.png",
-        "image_4": "shopify://shop_images/body-splash-150ml-9736227.png",
-        "image_ratio": "portrait",
-        "image_position": "center center",
-        "layout": "text_first",
-        "text_box_position": "middle",
-        "text_alignment": "left",
-        "mobile_text_alignment": "left",
-        "full_width": false,
-        "show_divider": false,
-        "padding_top": 32,
-        "padding_bottom": 36
       }
     },
     "testimonials_zBJVKg": {
@@ -633,8 +574,6 @@
     "scrolling-promotion",
     "image_with_text_beiAjz",
     "image_banner_XAz9Uz",
-    "video_wPXhxC",
-    "images_with_text_t3GnhX",
     "testimonials_zBJVKg",
     "guarantees",
     "scrolling_promotion_UiKVGc",
