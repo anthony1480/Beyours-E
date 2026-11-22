@@ -54,7 +54,7 @@
         "custom_liquid_8fkWzA": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<b><p>✅ Shaving Gel & Salicylic Acid Body Serum </p>\n<p>✅ Free Full Size Aftershave Oil</p>\n<p>✅ 2 Free minis: Intimate Wash + Bikini Perfume.</p>\n<p>✅1 Free Bedazzling Sheet \n<p>✅Exclusive Black Friday Bundle </p></p></b>"
+            "custom_liquid": "<b><p>✅ Booty/Bikini Scrub & Bikini Perfume & Salicylic Acid Body Serum </p>\n<p>✅ Free Full Size Intimate Wash</p>\n<p>✅ 2 Free minis: Shaving Gel + Bikini Perfume.</p>\n<p>✅1 Free Bedazzling Sheet \n<p>✅Exclusive Black Friday Bundle </p></p></b>"
           }
         },
         "price": {
@@ -69,7 +69,7 @@
           "type": "text",
           "settings": {
             "icon": "heart",
-            "text": "Less shaving drama. Smoother skin. More fun.",
+            "text": "Smooth skin, fresh feels and more reasons to love your routine.",
             "text_style": "body"
           }
         },
@@ -89,12 +89,12 @@
             "keep_open": false
           }
         },
-        "collapsible_tab_pn6cca": {
+        "collapsible_tab_xMjgHV": {
           "type": "collapsible_tab",
           "settings": {
             "icon": "none",
-            "heading": "Choose your signature scent:",
-            "content": "<p><br/>🌴 <strong>Coco Sunset</strong> – A tropical coconut and vanilla blend that buffs away dryness for irresistibly soft skin.<br/>🍓 <strong>After Dark</strong> – Sweet red berries for a playful scent that turns your shower into a spa-like escape.<br/>🌙 <strong>Under the Moonlight</strong> – Luxurious white musk that polishes your skin to perfection.<br/><br/></p>",
+            "heading": "Wht's Included",
+            "content": "<ul><li>1 × Booty & Bikini Scrub</li><li>1 × Peach Polish Salicylic Acid Body Serum</li><li>1 × Bikini Perfume</li><li>1 × Intimate Wash (<strong>FREE</strong>)</li></ul><p><strong>Black Friday Extras</strong></p><ul><li>1 × Bedazzling Sheet (<strong>FREE</strong>)</li><li>1 × Shaving Gel Mini (<strong>FREE</strong>)</li><li>1 × Bikini Perfume Mini (<strong>FREE</strong>)</li></ul>",
             "page": "",
             "custom_liquid": "",
             "keep_open": false
@@ -105,7 +105,7 @@
           "settings": {
             "icon": "question_mark",
             "heading": "Ingredients",
-            "content": "<p>Aqua, Parfum, Ethyl Alcohol, Peg-40 Hydrogenated Castor Oil, Glycerine Propylene Glycol (and) Diazolidinyl Urea (and) Iodopropynyl Butylcarbamate.</p>",
+            "content": "<p>Intimate Wash: Aqua, sodium lauroyl sarcosinate, Betaine, Propylene glycol, Glycerin, D-panthenol, Phenoxyethanol caprylyl glycol, Tea tree extract, fragrance. &nbsp;pH 4-4.5<br/><br/>Intimate Mist: Aqua, Propanediol, PEG 40 hydrogenated castor oil, Fragrance, Panthenol, Phenoxyethanol caprylyl glycol, Allantoin, EDTA. pH 4-4.5<br/><br/>Peach Polish Booty Scrub: Sucrose, Aqua, Sodium Chloride, Glycerine, Cocamidopropyl Betaine, Propylene Glycol, Titanium Dioxide, Glyceryl Stearate, Cetyl Alcohol, Stearic Acid, Butyrospermum Parkii, Cocos Nucifera (Coconut) Oil, Vitis Vinifera Seed Oil, Linum Usitatissimum Seed Oil, Phenoxyethanol (and) Caprylyl Glycol, Parfum.<br/><br/>Skin Smoother Shaving Gel:&nbsp;<br/>Aqua, Glycerin, Hydroxyethylcellulose, Carbomer, Panthenol, Phenoxyethanol, Caprylyl Glycol, Allantoin,<br/>Polyquaternium-10, Disodium EDTA.&nbsp;<br/><br/>Peach Polish Salicylic Acid Serum: Aqua, Alcohol Denat., Propanediol, Salicylic Acid, Polyacrylate Crosspolymer-6, Panthenol, Glycerin, Phenoxyethanol, Caprylyl Glycol, EDTA.<br/><br/></p>",
             "page": "",
             "custom_liquid": "",
             "keep_open": false
@@ -146,7 +146,7 @@
         "text_3dwkEw",
         "buy_buttons",
         "collapsible_description_DzHKfx",
-        "collapsible_tab_pn6cca",
+        "collapsible_tab_xMjgHV",
         "collapsible_tab_GPn4gb",
         "collapsible_tab_PzUG6M",
         "inventory_status",
@@ -232,7 +232,7 @@
         "text_4DQrEY": {
           "type": "text",
           "settings": {
-            "text": "<p>Because your Black Friday bundle deserves more than just great skincare.</p><p><strong>1. Buy:</strong> Get your shaving essentials in one bundle, with your full-size Aftershave Oil absolutely FREE.</p><p><strong>2. Bonus:</strong> We're throwing in two FREE minis: Intimate Wash and Bikini Perfume. Small enough to slip into your handbag, take on your next getaway or keep around for whenever you need them. Plus, it's the perfect excuse to try more EBJ favourites!</p><p><strong>3. Bedazzle:</strong> One FREE bedazzling sheet to give your products a little personality. Decorate your bottles, add some sparkle and make your skincare routine a little more fun.</p>",
+            "text": "<p>Because your Black Friday bundle deserves more than just great body care.</p><p><strong>1. Buy:</strong> Get your Bikini Care Essentials: Booty & Bikini Scrub, Peach Polish Salicylic Acid Body Serum and Bikini Perfume.</p><p><strong>2. Bonus:</strong> We're adding a FULL-SIZE Intimate Wash absolutely FREE, plus two FREE minis: Shaving Gel and Bikini Perfume. Small enough to slip into your handbag, take on your next getaway or keep around for whenever you need them. It's also your chance to try more EBJ favourites!</p><p><strong>3. Bedazzle:</strong> One FREE bedazzling sheet to give your products a little personality. Decorate your bottles, add some sparkle and make your skincare routine a little more fun.</p><p><strong>More products to love, more goodies to enjoy and more reasons to shop this Black Friday.</strong> 💚</p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -243,7 +243,7 @@
         "text_4DQrEY"
       ],
       "settings": {
-        "image": "shopify://shop_images/copy_062474D3-18BF-4AC1-9A41-B106038288BE.jpg",
+        "image": "shopify://shop_images/copy_F1BF10F6-3DDC-4D2B-A151-D91B9E4D6559.jpg",
         "image_position": "center center",
         "layout": "text_first",
         "text_box_position": "middle",
