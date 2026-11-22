@@ -54,7 +54,7 @@
         "custom_liquid_8fkWzA": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<b><p>✅ Shaving Gel & Salicylic Acid Body Serum </p>\n<p>✅ Free Full Size Aftershave Oil</p>\n<p>✅ 2 Free minis: Intimate Wash + Bikini Perfume.</p>\n<p>✅1 Free Bedazzling Sheet \n<p>✅Exclusive Black Friday Bundle </p></p></b>"
+            "custom_liquid": "<b><p>✅ Body Splash (Coconut Vanilla) & Caramel Vanilla Bikini Perfume </p>\n<p>✅ Free Full Size Hair Perfume (Coconut Vanilla) </p>\n<p>✅ 2 Free minis: Intimate Wash + Bikini Perfume.</p>\n<p>✅1 Free Bedazzling Sheet \n<p>✅Exclusive Black Friday Bundle </p></p></b>"
           }
         },
         "price": {
@@ -69,7 +69,7 @@
           "type": "text",
           "settings": {
             "icon": "heart",
-            "text": "Less shaving drama. Smoother skin. More fun.",
+            "text": "Smell good, and make every day a little sweeter.",
             "text_style": "body"
           }
         },
@@ -93,8 +93,8 @@
           "type": "collapsible_tab",
           "settings": {
             "icon": "none",
-            "heading": "Choose your signature scent:",
-            "content": "<p><br/>🌴 <strong>Coco Sunset</strong> – A tropical coconut and vanilla blend that buffs away dryness for irresistibly soft skin.<br/>🍓 <strong>After Dark</strong> – Sweet red berries for a playful scent that turns your shower into a spa-like escape.<br/>🌙 <strong>Under the Moonlight</strong> – Luxurious white musk that polishes your skin to perfection.<br/><br/></p>",
+            "heading": "What's included",
+            "content": "<p><strong>Full-Size Products</strong></p><ul><li>1 × Coconut Vanilla Body Splash</li><li>1 × Caramel Vanilla Bikini Perfume</li><li>1 × Coconut Vanilla Hair Perfume (<strong>FREE</strong>)</li></ul><p><strong>Black Friday Extras</strong></p><ul><li>1 × Intimate Wash Mini (<strong>FREE</strong>)</li><li>1 × Bikini Perfume Mini (<strong>FREE</strong>)</li><li>1 × Bedazzling Sheet (<strong>FREE</strong>)</li></ul>",
             "page": "",
             "custom_liquid": "",
             "keep_open": false
@@ -232,7 +232,7 @@
         "text_4DQrEY": {
           "type": "text",
           "settings": {
-            "text": "<p>Because your Black Friday bundle deserves more than just great skincare.</p><p><strong>1. Buy:</strong> Get your shaving essentials in one bundle, with your full-size Aftershave Oil absolutely FREE.</p><p><strong>2. Bonus:</strong> We're throwing in two FREE minis: Intimate Wash and Bikini Perfume. Small enough to slip into your handbag, take on your next getaway or keep around for whenever you need them. Plus, it's the perfect excuse to try more EBJ favourites!</p><p><strong>3. Bedazzle:</strong> One FREE bedazzling sheet to give your products a little personality. Decorate your bottles, add some sparkle and make your skincare routine a little more fun.</p>",
+            "text": "<p>Because smelling good is even better when there are extra goodies involved.</p><p><strong>1. Buy:</strong> Get your fragrance favourites: Coconut Vanilla Body Splash and Caramel Vanilla Bikini Perfume.</p><p><strong>2. Bonus:</strong> We're giving you a FULL-SIZE Coconut Vanilla Hair Perfume absolutely FREE! Plus, two FREE minis: Intimate Wash and Bikini Perfume. Small enough to slip into your handbag, take on your next getaway or keep around for whenever you need them. It's also your chance to try more EBJ favourites!</p><p><strong>3. Bedazzle:</strong> One FREE bedazzling sheet to give your products a little personality. Decorate your bottles, add some sparkle and make your fragrance collection a little more fun.</p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -243,7 +243,7 @@
         "text_4DQrEY"
       ],
       "settings": {
-        "image": "shopify://shop_images/copy_062474D3-18BF-4AC1-9A41-B106038288BE.jpg",
+        "image": "shopify://shop_images/copy_5661DC63-07DF-4C6A-A8A2-14944C2770BA.jpg",
         "image_position": "center center",
         "layout": "text_first",
         "text_box_position": "middle",
