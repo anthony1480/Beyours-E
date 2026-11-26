@@ -69,7 +69,7 @@
           "type": "text",
           "settings": {
             "icon": "heart",
-            "text": "Less shaving drama. Smoother skin. More fun.",
+            "text": "More choices to feel fresh & smell good",
             "text_style": "body"
           }
         },
@@ -93,8 +93,8 @@
           "type": "collapsible_tab",
           "settings": {
             "icon": "none",
-            "heading": "Choose your signature scent:",
-            "content": "<p><br/>🌴 <strong>Coco Sunset</strong> – A tropical coconut and vanilla blend that buffs away dryness for irresistibly soft skin.<br/>🍓 <strong>After Dark</strong> – Sweet red berries for a playful scent that turns your shower into a spa-like escape.<br/>🌙 <strong>Under the Moonlight</strong> – Luxurious white musk that polishes your skin to perfection.<br/><br/></p>",
+            "heading": "What's included",
+            "content": "<h3>What's Included</h3><p><strong>Full-Size Products</strong></p><ul><li>1 × White Musk Bikini Perfume</li><li>1 × Fresh Florals Bikini Perfume</li><li>1 × Caramel Vanilla Bikini Perfume</li></ul><p><strong>Black Friday Extras</strong></p><p>1 × Intimate Wash Mini (<strong>FREE</strong>)</p><p>1 × Strawberry Candy Bikini Perfume Mini (<strong>FREE</strong>)</p><p>1 × Bedazzling Sheet (<strong>FREE</strong>)<br/></p>",
             "page": "",
             "custom_liquid": "",
             "keep_open": false
@@ -105,7 +105,7 @@
           "settings": {
             "icon": "question_mark",
             "heading": "Ingredients",
-            "content": "<p>Aqua, Parfum, Ethyl Alcohol, Peg-40 Hydrogenated Castor Oil, Glycerine Propylene Glycol (and) Diazolidinyl Urea (and) Iodopropynyl Butylcarbamate.</p>",
+            "content": "<p>Aqua, Propanediol, PEG 40 hydrogenated castor oil, Fragrance, Panthenol, Phenoxyethanol caprylyl glycol, Allantoin, EDTA. pH 4-4.5</p>",
             "page": "",
             "custom_liquid": "",
             "keep_open": false
@@ -193,7 +193,7 @@
             "icon_size": "medium",
             "custom_icon": "",
             "text": "exclusive black friday bundle",
-            "text_size": 16,
+            "text_size": 18,
             "link": ""
           }
         }
@@ -232,7 +232,7 @@
         "text_4DQrEY": {
           "type": "text",
           "settings": {
-            "text": "<p>Because your Black Friday bundle deserves more than just great skincare.</p><p><strong>1. Buy:</strong> Get your shaving essentials in one bundle, with your full-size Aftershave Oil absolutely FREE.</p><p><strong>2. Bonus:</strong> We're throwing in two FREE minis: Intimate Wash and Bikini Perfume. Small enough to slip into your handbag, take on your next getaway or keep around for whenever you need them. Plus, it's the perfect excuse to try more EBJ favourites!</p><p><strong>3. Bedazzle:</strong> One FREE bedazzling sheet to give your products a little personality. Decorate your bottles, add some sparkle and make your skincare routine a little more fun.</p>",
+            "text": "<p>Because one Bikini Perfume is never enough when you have three scents to choose from.</p><p><strong>1. Buy:</strong> Get three full-size Bikini Perfumes: White Musk, Fresh Florals and Caramel Vanilla. Three different scents to match your mood, your plans and your vibe.</p><p><strong>2. Bonus:</strong> We're adding two FREE minis: Intimate Wash and Strawberry Candy Bikini Perfume. Small enough to slip into your handbag, take on your next getaway or keep around for whenever you need them. Plus, you get to try another EBJ scent!</p><p><strong>3. Bedazzle:</strong> One FREE bedazzling sheet to give your bottles a little personality. Decorate your collection, add some sparkle and make your Bikini Perfumes as fun as they smell.</p><p>Three B's, five products and a little extra sparkle.</p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -243,6 +243,7 @@
         "text_4DQrEY"
       ],
       "settings": {
+        "image": "shopify://shop_images/the-bikini-perfume-bundle-6612638.jpg",
         "image_position": "center center",
         "layout": "text_first",
         "text_box_position": "middle",
@@ -252,6 +253,7 @@
         "full_width": false,
         "show_divider": false,
         "image_behavior": "none",
+        "image_mobile": "shopify://shop_images/the-bikini-perfume-bundle-6612638.jpg",
         "mobile_layout": "image_first",
         "mobile_text_alignment": "left",
         "mobile_image_ratio": "adapt",
