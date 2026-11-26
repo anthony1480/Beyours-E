@@ -243,7 +243,7 @@
         "text_4DQrEY"
       ],
       "settings": {
-        "image": "shopify://shop_images/copy_062474D3-18BF-4AC1-9A41-B106038288BE.jpg",
+        "image": "shopify://shop_images/bye-bye-ingrowns-bundle-1457234.jpg",
         "image_position": "center center",
         "layout": "text_first",
         "text_box_position": "middle",
@@ -253,6 +253,7 @@
         "full_width": false,
         "show_divider": false,
         "image_behavior": "none",
+        "image_mobile": "shopify://shop_images/bye-bye-ingrowns-bundle-1457234.jpg",
         "mobile_layout": "image_first",
         "mobile_text_alignment": "left",
         "mobile_image_ratio": "adapt",
