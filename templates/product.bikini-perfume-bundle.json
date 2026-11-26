@@ -54,7 +54,7 @@
         "custom_liquid_8fkWzA": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<b><p>✅ Shaving Gel & Salicylic Acid Body Serum </p>\n<p>✅ Free Full Size Aftershave Oil</p>\n<p>✅ 2 Free minis: Intimate Wash + Bikini Perfume.</p>\n<p>✅1 Free Bedazzling Sheet \n<p>✅Exclusive Black Friday Bundle </p></p></b>"
+            "custom_liquid": "<b><p>✅ 3 Full size Bikini Perfumes </p>\n<p>✅Caramel Vanilla, White Musk, Fresh Florals</p>\n<p>✅ 2 Free minis: Intimate Wash + Bikini Perfume.</p>\n<p>✅1 Free Bedazzling Sheet \n<p>✅Exclusive Black Friday Bundle </p></p></b>"
           }
         },
         "price": {
@@ -243,7 +243,6 @@
         "text_4DQrEY"
       ],
       "settings": {
-        "image": "shopify://shop_images/copy_062474D3-18BF-4AC1-9A41-B106038288BE.jpg",
         "image_position": "center center",
         "layout": "text_first",
         "text_box_position": "middle",
