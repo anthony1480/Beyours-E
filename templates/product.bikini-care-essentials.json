@@ -243,7 +243,7 @@
         "text_4DQrEY"
       ],
       "settings": {
-        "image": "shopify://shop_images/copy_F1BF10F6-3DDC-4D2B-A151-D91B9E4D6559.jpg",
+        "image": "shopify://shop_images/bikini-care-essentials-3554024.jpg",
         "image_position": "center center",
         "layout": "text_first",
         "text_box_position": "middle",
@@ -253,6 +253,7 @@
         "full_width": false,
         "show_divider": false,
         "image_behavior": "none",
+        "image_mobile": "shopify://shop_images/bikini-care-essentials-3554024.jpg",
         "mobile_layout": "image_first",
         "mobile_text_alignment": "left",
         "mobile_image_ratio": "adapt",
