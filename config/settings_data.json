@@ -61,18 +61,25 @@
     "shipping_calculator_default_country": "Lebanon",
     "disable_view_cart": true,
     "show_free_shipping_message": true,
-    "free_shipping_minimum_amount": "65",
+    "free_shipping_minimum_amount": "75",
     "cart_recommendations_enabled": true,
     "cart_recommendations_heading": "You may also like",
     "cart_recommendations_show_vendor": false,
     "cart_recommendations_products": [
-      "booty-acne-shaving-kit",
-      "copy-of-peach-polish-shaving-gel-booty-bikini-body",
-      "blossom-fruity-body-splash",
-      "the-booty-care-routine",
       "intimate-wash",
       "feminine-hygiene-duo",
-      "pink-coco-foaming-body-scrub"
+      "hair-perfume-50ml",
+      "bye-bye-acne-booty-mask",
+      "peach-polish-skin-perfecting-serum-glycolic-salicylic-acids",
+      "nail-cuticle-pen-5ml",
+      "peach-polish-aftershave-oil",
+      "skin-smoother-shaving-gel",
+      "clean-girl-kit",
+      "peach-polish-booty-scrub"
+    ],
+    "empty_cart_collections": [
+      "black-friday-exclusives",
+      "best-sellers"
     ],
     "predictive_search_show_vendor": true,
     "currency_code_enabled": true,
